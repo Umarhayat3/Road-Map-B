@@ -1,0 +1,11 @@
+Station name not available
+Nov 24, 2015 - 07:00 PM EST / 2015.11.25 0000 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 68 F (20 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: HRIR 250000Z 00000KT 9999 FEW018 20/14 Q1018
+cycle: 0

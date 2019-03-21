@@ -1,0 +1,9 @@
+Caribou Point Meteorological Aeronautical Presentation System , Canada (CWBK) 45-46N 062-41W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (200 degrees) at 5 MPH (4 KT):0
+Temperature: 25.2 F (-3.8 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 20.7 F (-6.3 C)
+Relative Humidity: 82%
+ob: CWBK 140700Z AUTO 20004KT M04/M06 RMK AO1 SOG 37 8010 SLP241 T10381063
+cycle: 7

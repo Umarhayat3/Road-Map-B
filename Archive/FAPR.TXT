@@ -1,0 +1,10 @@
+Pretoria, South Africa (FAPR) 25-44S 028-11E 1300M
+Apr 26, 2018 - 05:11 AM EDT / 2018.04.26 0911 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 46%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: FAPR 260911Z 36004KT CAVOK 22/10 Q1026
+cycle: 9

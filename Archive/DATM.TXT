@@ -1,0 +1,11 @@
+Bordj Mokhtar, Algeria (DATM) 21-22-30N 000-55-26E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 18 MPH (16 KT):0
+Visibility: 2 mile(s):0
+Weather: haze
+Temperature: 69 F (21 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 16%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DATM 140800Z 09016KT 3500 HZ NSC 21/M05 Q1016
+cycle: 8

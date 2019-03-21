@@ -1,0 +1,10 @@
+Station name not available
+Jan 02, 2011 - 12:56 PM EST / 2011.01.02 1756 UTC
+Wind: from the E (080 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41 F (5 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 44%
+ob: KALC 021756Z AUTO 08008KT 10SM CLR 05/M06 P&íÇí5-ÅAO2 SLP2`5 
+cycle: 18

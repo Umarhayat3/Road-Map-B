@@ -1,0 +1,12 @@
+DESERT ROCK AIRPORT, NV, United States (KDRA) 36-38N 116-02W 1006M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the NNE (020 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 37.9 F (3.3 C)
+Dew Point: 15.1 F (-9.4 C)
+Relative Humidity: 38%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KDRA 140856Z AUTO 02013KT 10SM CLR 03/M09 A3022 RMK AO2 SLP224 T00331094 51009 
+cycle: 9

@@ -1,0 +1,13 @@
+Julianehaab, Greenland (BGJH) 60-43N 046-03W 34M
+Feb 01, 2018 - 08:15 AM EST / 2018.02.01 1315 UTC
+Wind: from the WSW (250 degrees) at 16 MPH (14 KT) (direction variable):0
+Visibility: less than 1 mile:0
+Sky conditions: obscured
+Weather: heavy snow
+Temperature: 30 F (-1 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: BGJH 011315Z 25014KT 230V290 0200 +SN VV001 M01/M01 Q0983
+cycle: 13

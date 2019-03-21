@@ -1,0 +1,13 @@
+Station name not available
+Aug 09, 2017 - 08:55 AM EDT / 2017.08.09 1255 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: 0.06 inches
+Temperature: 74.5 F (23.6 C)
+Dew Point: 71.2 F (21.8 C)
+Relative Humidity: 89%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+ob: KCQA 091255Z 04004KT 4SM -RA SCT005 BKN007 OVC009 24/22 A3012 RMK A02A RAB11 SLP199 WND DATA ESTMD SLP ESTMD P0006 T02360218
+cycle: 13

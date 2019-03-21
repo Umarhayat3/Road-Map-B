@@ -1,0 +1,8 @@
+La Pocatiere, Canada (CWST) 47-21N 070-02W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (280 degrees) at 2 MPH (2 KT):0
+Temperature: 31.6 F (-0.2 C)
+Dew Point: 26.8 F (-2.9 C)
+Relative Humidity: 81%
+ob: CWST 140700Z AUTO 28002KT M00/M03 RMK AO1 SOG 54 0001 SLP228 T10021029
+cycle: 7

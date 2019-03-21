@@ -1,0 +1,10 @@
+Station name not available
+Jun 17, 2010 - 08:00 AM EDT / 2010.06.17 1200 UTC
+Wind: from the ESE (110 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 37%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: EBMN 171200Z 11009KT CAVOK 20/05 Q1026
+cycle: 12

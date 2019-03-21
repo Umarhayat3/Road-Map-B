@@ -1,0 +1,8 @@
+Bordeaux, WY, United States (KBRX) 41-56N 104-57W
+Jan 20, 2009 - 12:45 PM EST / 2009.01.20 1745 UTC
+Wind: from the SW (220 degrees) at 37 MPH (32 KT) gusting to 51 MPH (44 KT):0
+Temperature: 50.2 F (10.1 C)
+Dew Point: -0.4 F (-18.0 C)
+Relative Humidity: 12%
+ob: KBRX 201745Z AUTO 22032G44KT 10/M18 RMK AO1 T01011180
+cycle: 18

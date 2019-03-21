@@ -1,0 +1,11 @@
+Station name not available
+May 30, 2016 - 02:00 AM EDT / 2016.05.30 0600 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Heat index: 91.8 F (33.2 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: GAMC 300600Z 18004KT CAVOK 30/22 Q1011
+cycle: 6

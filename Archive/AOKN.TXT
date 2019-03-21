@@ -1,0 +1,12 @@
+Station name not available
+Jun 16, 2011 - 02:50 PM EDT / 2011.06.16 1850 UTC
+Wind: from the SE (130 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: clear
+Weather: blowing
+Temperature: 91 F (33 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 10%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: AOKN 161850Z 13002KT 9999 SKC 33/M02 Q1001 BLU NOSIG RMK A2958 DA6500
+cycle: 19

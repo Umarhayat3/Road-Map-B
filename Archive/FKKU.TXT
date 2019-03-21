@@ -1,0 +1,12 @@
+Station name not available
+Jun 11, 2017 - 10:00 AM EDT / 2017.06.11 1400 UTC
+Wind: Variable at 13 MPH (11 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 69 F (21 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FKKU 111400Z VRB11KT 8000 TS SCT021 FEW033CB BKN100 21/19 Q1016
+cycle: 14

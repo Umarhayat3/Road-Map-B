@@ -1,0 +1,10 @@
+El Borma, Tunisia (DTTR) 31-41N 009-10E 259M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 21%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DTTR 140800Z 08013KT CAVOK 15/M07 Q1022
+cycle: 8

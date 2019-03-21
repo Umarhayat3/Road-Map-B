@@ -1,0 +1,12 @@
+Gdansk-Rebiechowo, Poland (EPGD) 54-23N 018-28E 138M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (240 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 41 F (5 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: EPGD 140800Z 24016KT 9999 FEW005 SCT009TCU BKN011 05/03 Q0994 
+cycle: 8

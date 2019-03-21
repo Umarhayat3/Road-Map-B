@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (030 degrees) at 1 MPH (1 KT):0
+Temperature: 84 F (29 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 39%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FYOO 140800Z AUTO 03001KT //// // ////// 29/14 Q1019
+cycle: 8

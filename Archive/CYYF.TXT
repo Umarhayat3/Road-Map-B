@@ -1,0 +1,11 @@
+Penticton, B. C., Canada (CYYF) 49-28N 119-36W 344M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 24 F (-4 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.38 in. Hg (1028 hPa)
+ob: CYYF 140800Z 00000KT 15SM FEW240 M04/M06 A3038 RMK CI2 SLP307
+cycle: 8

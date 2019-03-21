@@ -1,0 +1,11 @@
+Niamey-Aero, Niger (DRRN) 13-29N 002-10E 227M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (350 degrees) at 2 MPH (2 KT):0
+Visibility: 2 mile(s):0
+Weather: widespread dust
+Temperature: 77 F (25 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 13%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: DRRN 140700Z 35002KT 3500 DU NSC 25/M05 Q1010 TEMPO 2000
+cycle: 7

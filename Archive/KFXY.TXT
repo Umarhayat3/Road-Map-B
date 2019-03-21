@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 05:15 AM EDT / 2019.03.14 0915 UTC
+Wind: from the ESE (120 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+ob: KFXY 140915Z AUTO 12010KT 10SM OVC100 05/05 RMK AO2
+cycle: 9

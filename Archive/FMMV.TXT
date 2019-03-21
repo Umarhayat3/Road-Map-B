@@ -1,0 +1,7 @@
+Morondava, Madagascar (FMMV) 20-17S 044-19E 8M
+Sep 11, 2013 - 02:00 AM EDT / 2013.09.11 0600 UTC
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FMMV 110600Z /////KT CAVOK 26/XX Q1015
+cycle: 6

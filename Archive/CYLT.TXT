@@ -1,0 +1,12 @@
+Alert Airport, Canada (CYLT) 82-31N 062-17W
+Mar 13, 2019 - 04:00 PM EDT / 2019.03.13 2000 UTC
+Wind: from the W (260 degrees) at 9 MPH (8 KT):0
+Visibility: 12 mile(s):0
+Sky conditions: overcast
+Temperature: -11 F (-24 C)
+Windchill: -29 F (-34 C):2
+Dew Point: -16 F (-27 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: CYLT 132000Z 26008KT 12SM OVC050 M24/M27 A2953 RMK SC8 LAST OBS/NEXT 141200 UTC SLP004
+cycle: 20

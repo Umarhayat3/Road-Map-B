@@ -1,0 +1,14 @@
+SIOUX FALLS FOSS FIELD, SD, United States (KFSD) 43-35N 096-45W 434M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the N (010 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: 0.01 inches
+Temperature: 39.0 F (3.9 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.15 in. Hg (987 hPa)
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: KFSD 140856Z AUTO 01013KT 10SM -RA OVC005 04/03 A2915 RMK AO2 RAE13B31 CIG 004V009 SLP880 P0001 60051 T00390033 58001
+cycle: 9

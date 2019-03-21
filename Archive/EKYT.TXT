@@ -1,0 +1,11 @@
+Aalborg, Denmark (EKYT) 57-06N 009-51E 13M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSW (210 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: EKYT 140820Z AUTO 21012KT 9999 BKN030/// BKN080/// 06/05 Q0989
+cycle: 8

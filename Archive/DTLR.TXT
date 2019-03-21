@@ -1,0 +1,9 @@
+Station name not available
+Feb 01, 2019 - 11:00 PM EST / 2019.02.02 0400 UTC
+Wind: from the ESE (120 degrees) at 6 MPH (5 KT):0
+Temperature: 57 F (14 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 54%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: DTLR 020400Z AUTO 12005KT NCD 14/05 Q1002
+cycle: 4

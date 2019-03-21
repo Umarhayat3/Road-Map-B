@@ -1,0 +1,12 @@
+BROOKSVILLE HERNANDO CO AIRPORT , FL, United States (KBKV) 28-28N 82-27W 20M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 64.0 F (17.8 C)
+Dew Point: 60.1 F (15.6 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) lower than three hours ago
+ob: KBKV 140853Z AUTO 10007KT 10SM CLR 18/16 A3010 RMK AO2 SLP191 T01780156 58011
+cycle: 9

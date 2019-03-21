@@ -1,0 +1,12 @@
+Station name not available
+Jun 03, 2011 - 06:00 AM EDT / 2011.06.03 1000 UTC
+Wind: from the WNW (290 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 86 F (30 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: DNKM 031000Z 29006KT 9999 BKN011 30/25 Q1011
+cycle: 10

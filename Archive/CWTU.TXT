@@ -1,0 +1,5 @@
+Tukialik Bay, Nfld., Canada (CWTU) 54-43N 058-21W
+Aug 03, 2018 - 04:00 PM EDT / 2018.08.03 2000 UTC
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+ob: CWTU 032000Z AUTO ///// A2999
+cycle: 20

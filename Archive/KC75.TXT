@@ -1,0 +1,11 @@
+Lacon, Marshall County Airport, IL, United States (KC75) 41-01-09N 089-23-11W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 17 MPH (15 KT) gusting to 23 MPH (20 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 55.4 F (13.0 C)
+Dew Point: 53.6 F (12.0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.46 in. Hg (997 hPa)
+ob: KC75 140855Z AUTO 17015G20KT 10SM BKN011 BKN016 13/12 A2946 RMK AO2 T01300120
+cycle: 9

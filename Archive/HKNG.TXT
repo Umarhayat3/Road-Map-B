@@ -1,0 +1,10 @@
+Station name not available
+Aug 05, 2017 - 10:00 AM EDT / 2017.08.05 1400 UTC
+Wind: from the E (090 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 56%
+ob: HKNG 051400Z 09008KT 9999 SCT023 20/11
+cycle: 14

@@ -1,0 +1,12 @@
+Vilanculos, Mozambique (FQVL) 22-00S 035-19E 21M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 24 MPH (21 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light drizzle
+Temperature: 82 F (28 C)
+Dew Point: 78 F (26 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FQVL 140800Z 16021KT 9000 -DZ SCT015 BKN020 BKN080 28/26 Q1011
+cycle: 8

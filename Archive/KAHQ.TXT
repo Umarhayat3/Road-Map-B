@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (200 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: drizzle
+Temperature: 44.8 F (7.1 C)
+Dew Point: 44.4 F (6.9 C)
+Relative Humidity: 98%
+Pressure (altimeter): 28.99 in. Hg (981 hPa)
+ob: KAHQ 140855Z AUTO 20007KT 10SM DZ BKN015 BKN021 OVC029 07/07 A2899 RMK AO2 T00710069
+cycle: 9

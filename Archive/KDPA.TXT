@@ -1,0 +1,13 @@
+CHICAGO/WEST CH DUPAGE, IL, United States (KDPA) 41-54N 88-15W 230M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: 0.01 inches
+Temperature: 54.0 F (12.2 C)
+Dew Point: 51.1 F (10.6 C)
+Relative Humidity: 89%
+Pressure (altimeter): 29.51 in. Hg (999 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KDPA 140852Z 16010KT 10SM BKN015 BKN026 OVC050 12/11 A2951 RMK AO2 PK WND 18029/0816 RAB0753E52 SLP992 P0001 60001 T01220106 56009
+cycle: 9

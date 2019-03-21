@@ -1,0 +1,9 @@
+Station name not available
+Mar 16, 2010 - 04:26 AM EDT / 2010.03.16 0826 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Temperature: 44 F (7 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 48%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: EQAC 160826Z AUTO VRB02KT //// ////// 07/M03 Q1023
+cycle: 8

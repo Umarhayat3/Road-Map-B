@@ -1,0 +1,8 @@
+Bujumbura, Burundi (HBBA) 03-19S 029-19E 783M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HBBA 140600Z 00000KT 9999 FEW015 BKN10025/21 Q1015 NOSIG
+cycle: 6

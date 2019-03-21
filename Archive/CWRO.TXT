@@ -1,0 +1,10 @@
+Rose Spit Meteorological Aeronautical Presentation System , Canada (CWRO) 54-10N 131-40W
+Feb 26, 2019 - 11:00 AM EST / 2019.02.26 1600 UTC
+Wind: from the NE (050 degrees) at 28 MPH (24 KT):0
+Precipitation last hour: 0.02 inches
+Temperature: 36.9 F (2.7 C)
+Dew Point: 20.5 F (-6.4 C)
+Relative Humidity: 51%
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: CWRO 261600Z AUTO 05024KT 03/M06 RMK AO1 4PAST HR 3002 PK WND 06031/1523 SLP263 P0002 T00271064 50008
+cycle: 16

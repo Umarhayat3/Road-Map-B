@@ -1,0 +1,8 @@
+Sundre, Canada (CWAV) 51-46N 114-41W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 7.3 F (-13.7 C)
+Dew Point: 4.1 F (-15.5 C)
+Relative Humidity: 86%
+ob: CWAV 140700Z AUTO 00000KT M14/M16 RMK AO1 SOG 20 3014 SLP278 T11371155
+cycle: 7

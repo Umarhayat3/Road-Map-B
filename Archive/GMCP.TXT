@@ -1,0 +1,12 @@
+Station name not available
+Feb 20, 2013 - 02:00 PM EST / 2013.02.20 1900 UTC
+Wind: from the W (270 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly clear
+Weather: haze
+Temperature: 87 F (31 C)
+Heat index: 99.7 F (37.6 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 74%
+ob: GMCP 201900Z 27006KT 9000 FEW020 31/26 HZ 
+cycle: 19

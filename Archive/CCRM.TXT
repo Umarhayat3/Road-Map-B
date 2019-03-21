@@ -1,0 +1,12 @@
+Station name not available
+Mar 06, 2012 - 01:00 AM EST / 2012.03.06 0600 UTC
+Wind: from the NNE (030 degrees) at 12 MPH (10 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: mist
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: CCRM 060600Z 03010KT 1200 BR OVC003 03/02 Q0987
+cycle: 6

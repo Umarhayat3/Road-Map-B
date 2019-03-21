@@ -1,0 +1,11 @@
+Scatsa / Shetland Island, United Kingdom (EGPM) 60-26N 001-18W
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: Variable at 1 MPH (1 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 35 F (2 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: EGPM 140750Z VRB01KT 9999 FEW026 02/01 Q0984 NOSIG
+cycle: 8

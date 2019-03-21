@@ -1,0 +1,11 @@
+Denver Nexrad, CO, United States (KFTG) 39-47N 104-33W
+Mar 14, 2019 - 05:12 AM EDT / 2019.03.14 0912 UTC
+Wind: from the NNW (330 degrees) at 18 MPH (16 KT) gusting to 25 MPH (22 KT):0
+Sky conditions: overcast
+Temperature: 28.0 F (-2.2 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 71%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: KFTG 140912Z AUTO 33016G22KT OVC050 M02/M07 A2983 RMK AO2 T10221067 PWINO
+cycle: 9

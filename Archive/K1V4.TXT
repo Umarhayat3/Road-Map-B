@@ -1,0 +1,9 @@
+ST JOHNSBURY FAIRBANKS, VT, United States (K1V4) 44-25N 072-01W 210M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Temperature: 30.0 F (-1.1 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: K1V4 140854Z AUTO M01/M01 A3020 RMK AO1 SLP237 T10111011 56008 
+cycle: 9

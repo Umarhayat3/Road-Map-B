@@ -1,0 +1,12 @@
+Whitehorse, Y. T., Canada (CYXY) 60-43N 135-04W 703M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (180 degrees) at 12 MPH (10 KT) gusting to 17 MPH (15 KT) (direction variable):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 32 F (0 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: CYXY 140800Z 18010G15KT 150V210 15SM FEW050 BKN120 BKN200 M00/M07 A2965 RMK SC1AC4CI2 SLP078
+cycle: 8

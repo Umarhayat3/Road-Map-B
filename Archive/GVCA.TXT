@@ -1,0 +1,10 @@
+Station name not available
+Dec 21, 2015 - 04:00 AM EST / 2015.12.21 0900 UTC
+Wind: from the ENE (070 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: GVCA 210900Z 07010KT CAVOK 22/14 Q1017 NOSIG
+cycle: 9

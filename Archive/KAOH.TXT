@@ -1,0 +1,12 @@
+LIMA ALLEN COUNTY AIRPORT, OH, United States (KAOH) 40-42N 84-01W 296M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 55.9 F (13.3 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 54%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KAOH 140853Z AUTO 18013KT 10SM FEW110 13/04 A2980 RMK AO2 SLP089 T01330044 58015
+cycle: 9

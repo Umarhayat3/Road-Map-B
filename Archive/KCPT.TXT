@@ -1,0 +1,11 @@
+Cleburne, Cleburne Municipal Airport, TX, United States (KCPT) 32-21-13N 097-26-01W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (260 degrees) at 16 MPH (14 KT) gusting to 24 MPH (21 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 64 F (18 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 31%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: KCPT 140855Z AUTO 26014G21KT 7SM FEW029 SCT039 BKN065 18/01 A2977 RMK AO2
+cycle: 9

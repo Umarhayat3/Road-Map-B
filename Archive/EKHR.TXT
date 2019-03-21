@@ -1,0 +1,9 @@
+Station name not available
+Oct 04, 2016 - 12:20 AM EDT / 2016.10.04 0420 UTC
+Wind: from the E (080 degrees) at 2 MPH (2 KT):0
+Temperature: 51 F (11 C)
+Dew Point: -56 F (-49 C)
+Relative Humidity: 0%
+Pressure (altimeter): 30.65 in. Hg (1038 hPa)
+ob: EKHR 040420Z AUTO 08002KT 9999NDV NCD 11/M49 Q1038
+cycle: 4

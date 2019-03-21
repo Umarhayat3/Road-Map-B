@@ -1,0 +1,13 @@
+Station name not available
+Aug 29, 2018 - 11:30 PM EDT / 2018.08.30 0330 UTC
+Wind: from the N (010 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 87 F (31 C)
+Heat index: 105.3 F (40.7 C):1
+Dew Point: 82 F (28 C)
+Relative Humidity: 84%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: BEGT 300330Z 01004KT 5000 BR SCT018 BKN100 31/28 Q1003 NOSIG
+cycle: 3

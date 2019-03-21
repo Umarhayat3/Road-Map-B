@@ -1,0 +1,10 @@
+Duluth, Sky Harbor Airport, MN, United States (KDYT) 46-43-19N 092-02-36W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.38 in. Hg (994 hPa)
+ob: KDYT 140856Z AUTO 7SM OVC001 01/01 A2938 RMK AO2
+cycle: 9

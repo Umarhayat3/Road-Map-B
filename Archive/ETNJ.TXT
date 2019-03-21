@@ -1,0 +1,11 @@
+Jever, Germany (ETNJ) 53-32N 007-53E 21M
+Sep 26, 2013 - 08:05 AM EDT / 2013.09.26 1205 UTC
+Wind: from the NE (050 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 55 F (13 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: ETNJ 261205Z 05007KT 9999 FEW025 BKN030 13/07 Q1018 BLU LAST REPORT OVER AND OUT GOODBYE
+cycle: 12

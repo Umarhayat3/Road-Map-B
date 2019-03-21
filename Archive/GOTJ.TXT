@@ -1,0 +1,11 @@
+Station name not available
+Jan 09, 2011 - 12:00 AM EST / 2011.01.09 0500 UTC
+Wind: from the SE (140 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 52%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GOTJ 090500Z 14004KT 8000 BKN230 20/10 Q1010
+cycle: 5

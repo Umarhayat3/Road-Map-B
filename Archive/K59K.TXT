@@ -1,0 +1,10 @@
+Station name not available
+Feb 14, 2019 - 06:40 PM EST / 2019.02.14 2340 UTC
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 59 F (15 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: K59K 142340Z VRBKT 10SM SCT027BKN038 15/09 A2981 
+cycle: 23

@@ -1,0 +1,9 @@
+Abeche, Chad (FTTC) 13-51N 020-51E 549M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (040 degrees) at 17 MPH (15 KT):0
+Visibility: 1 mile(s):0
+Weather: widespread dust
+Temperature: 80 F (27 C)
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FTTC 140700Z 04015KT 2500 DU NSC 27/// Q1013
+cycle: 7

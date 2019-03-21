@@ -1,0 +1,12 @@
+Northwest Florida Beaches International Airport, FL, United States (KECP) 30-21-13N 085-47-57W
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.0 F (18.9 C)
+Dew Point: 59.0 F (15.0 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: KECP 140853Z AUTO 10007KT 10SM CLR 19/15 A3004 RMK AO2 SLP185 T01890150 58004
+cycle: 9

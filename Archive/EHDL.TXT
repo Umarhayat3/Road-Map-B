@@ -1,0 +1,12 @@
+Deelen, Netherlands (EHDL) 52-04N 005-53E 52M
+Mar 14, 2019 - 03:55 AM EDT / 2019.03.14 0755 UTC
+Wind: from the SW (220 degrees) at 16 MPH (14 KT) (direction variable):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: EHDL 140755Z AUTO 22014KT 150V260 6000 -RADZ FEW006 SCT007 BKN009 06/05 Q1000 GRN
+cycle: 8

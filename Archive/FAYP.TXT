@@ -1,0 +1,9 @@
+Station name not available
+Feb 20, 2018 - 07:00 AM EST / 2018.02.20 1200 UTC
+Wind: from the SSW (200 degrees) at 29 MPH (25 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 71 F (22 C)
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FAYP 201200Z 20025KT 9999 FEW035 22/// Q1015
+cycle: 12

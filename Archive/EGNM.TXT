@@ -1,0 +1,12 @@
+Leeds And Bradford, United Kingdom (EGNM) 53-52N 001-39W
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (280 degrees) at 31 MPH (27 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: light rain
+Temperature: 44 F (7 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: EGNM 140820Z 28027KT 9999 -RA FEW012 SCT017 07/05 Q0993
+cycle: 8

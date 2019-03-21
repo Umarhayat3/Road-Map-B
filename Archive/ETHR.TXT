@@ -1,0 +1,13 @@
+Roth, Germany (ETHR) 49-13N 011-06E 395M
+Dec 05, 2013 - 01:53 AM EST / 2013.12.05 0653 UTC
+Wind: from the WSW (250 degrees) at 5 MPH (4 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: mist
+Temperature: 35 F (2 C)
+Windchill: 30 F (-1 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: ETHR 050653Z 25004KT 1200 BR OVC003 02/02 Q1027 AMB
+cycle: 7

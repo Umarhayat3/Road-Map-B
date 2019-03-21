@@ -1,0 +1,12 @@
+LONE STAR EXECUTIVE AIRPORT, TX, United States (KCXO) 30-21N 95-25W 75M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 14 MPH (12 KT) gusting to 22 MPH (19 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 72.0 F (22.2 C)
+Dew Point: 71.1 F (21.7 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: KCXO 140853Z AUTO 18012G19KT 10SM BKN019 OVC024 22/22 A2972 RMK AO2 SLP063 T02220217 58006
+cycle: 9

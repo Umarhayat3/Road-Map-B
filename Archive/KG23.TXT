@@ -1,0 +1,9 @@
+Station name not available
+Jul 16, 2009 - 05:50 AM EDT / 2009.07.16 0950 UTC
+Wind: Calm:0
+Temperature: 69 F (21 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: KG23 160950Z 00000KT M M 21/21 A3009 
+cycle: 10

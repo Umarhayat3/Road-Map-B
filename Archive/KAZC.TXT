@@ -1,0 +1,12 @@
+Colorado City, Colorado City Municipal Airport, AZ, United States (KAZC) 36-57N 113-00W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 30 F (-1 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: KAZC 140855Z AUTO 32008KT 10SM CLR M01/M05 A3011 RMK AO2
+cycle: 9

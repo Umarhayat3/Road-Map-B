@@ -1,0 +1,11 @@
+Wadesboro, Anson County Airport, NC, United States (KAFP) 35-01-14N 080-04-37W
+Mar 14, 2019 - 04:40 AM EDT / 2019.03.14 0840 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 46.0 F (7.8 C)
+Dew Point: 41.9 F (5.5 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: KAFP 140840Z AUTO 00000KT 10SM CLR 08/06 A3024 RMK AO2 T00780055
+cycle: 8

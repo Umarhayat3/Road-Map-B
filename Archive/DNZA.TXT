@@ -1,0 +1,12 @@
+Zaria, Nigeria (DNZA) 11-08N 007-41E 664M
+Oct 07, 2018 - 04:00 PM EDT / 2018.10.07 2000 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 78 F (26 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: DNZA 072000Z 00000KT 9999 TS FEW012 FEW024CB 26/23 Q1015
+cycle: 20

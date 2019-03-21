@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:47 AM EDT / 2019.03.14 0847 UTC
+Sky conditions: overcast
+Temperature: 0 F (-18 C)
+Dew Point: -11 F (-24 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.67 in. Hg (1004 hPa)
+ob: K0CO 140847Z AUTO OVC005 M18/M24 A2967 RMK AO2 PWINO
+cycle: 9

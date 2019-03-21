@@ -1,0 +1,12 @@
+FRIDAY HARBOR AIRPORT, WA, United States (KFHR) 48-31N 123-02W 32M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39.0 F (3.9 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.41 in. Hg (1029 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) higher than three hours ago
+ob: KFHR 140853Z AUTO 00000KT 10SM BKN048 04/02 A3041 RMK AO2 SLP298 T00390017 53006
+cycle: 9

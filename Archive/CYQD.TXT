@@ -1,0 +1,11 @@
+The Pas, Man., Canada (CYQD) 53-58N 101-06W 271M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (310 degrees) at 3 MPH (3 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.05 in. Hg (1017 hPa)
+ob: CYQD 140800Z AUTO 31003KT 9SM CLR M05/M09 A3005 RMK SLP193
+cycle: 8

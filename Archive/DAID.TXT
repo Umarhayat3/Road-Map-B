@@ -1,0 +1,10 @@
+Station name not available
+Aug 06, 2008 - 02:50 PM EDT / 2008.08.06 1850 UTC
+Wind: from the E (100 degrees) at 23 MPH (20 KT):0
+Temperature: 86 F (30 C)
+Heat index: 91.8 F (33.2 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: DAID 061850Z 10020KT 30/22 Q1000
+cycle: 19

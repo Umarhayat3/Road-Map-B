@@ -1,0 +1,11 @@
+Sydney, N. S., Canada (CYQY) 46-10N 060-03W 62M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (230 degrees) at 3 MPH (3 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 19 F (-7 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: CYQY 140800Z 23003KT 15SM SKC M07/M09 A3024 RMK SLP247
+cycle: 8

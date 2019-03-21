@@ -1,0 +1,11 @@
+Station name not available
+Oct 09, 2014 - 02:00 AM EDT / 2014.10.09 0600 UTC
+Wind: from the E (090 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain; Cumulonimbus clouds observed
+Temperature: 62 F (17 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 100%
+ob: HUIM 090600Z 09002KT 9999 -RA BKN016 FEW018CB OVC100 17/17
+cycle: 6

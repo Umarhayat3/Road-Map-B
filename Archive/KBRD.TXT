@@ -1,0 +1,13 @@
+BRAINERD-CROW WING CO AIRPORT , MN, United States (KBRD) 46-24N 94-08W 372M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NE (040 degrees) at 6 MPH (5 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 37.0 F (2.8 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.31 in. Hg (992 hPa)
+Pressure tendency: 0.05 inches (1.6 hPa) lower than three hours ago
+ob: KBRD 140853Z AUTO 04005KT 1/4SM FG VV003 03/01 A2931 RMK AO2 SLP936 T00280011 56016
+cycle: 9

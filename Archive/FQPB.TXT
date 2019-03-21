@@ -1,0 +1,12 @@
+Pemba, Mozambique (FQPB) 12-59S 040-32E 50M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (010 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Heat index: 99.7 F (37.6 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FQPB 140800Z 01010KT 9999 SCT020 SCT100 BKN/// 31/26 Q1013
+cycle: 8

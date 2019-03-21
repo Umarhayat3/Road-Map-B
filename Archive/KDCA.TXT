@@ -1,0 +1,12 @@
+WASHINGTON NATIONAL AIRPORT , VA, United States (KDCA) 38-51N 077-02W 18M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the S (190 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 46.0 F (7.8 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) lower than three hours ago
+ob: KDCA 140852Z 19007KT 10SM FEW150 BKN250 08/02 A3018 RMK AO2 SLP219 T00780022 58019
+cycle: 9

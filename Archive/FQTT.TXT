@@ -1,0 +1,12 @@
+Tete / Chingozi, Mozambique (FQTT) 16-06S 033-38E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (320 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 87 F (31 C)
+Heat index: 92.3 F (33.5 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 58%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FQTT 140800Z 32003KT 9999 SCT020 SCT/// 31/22 Q1013
+cycle: 8

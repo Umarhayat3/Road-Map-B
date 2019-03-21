@@ -1,0 +1,8 @@
+Torreon, NM, United States (K4SL) 35-48N 107-11W
+Feb 26, 2013 - 10:10 AM EST / 2013.02.26 1510 UTC
+Wind: Calm:0
+Visibility: 20 mile(s):0
+Sky conditions: clear
+Temperature: 21 F (-6 C)
+ob: K4SL 261510Z 00000KT 20SM SKC M06/ RMK 10044 21128
+cycle: 15

@@ -1,0 +1,13 @@
+San Pedro, Cote d'Ivoire (DISP) 04-45N 006-39W 30M
+Nov 23, 2018 - 02:00 AM EST / 2018.11.23 0700 UTC
+Wind: from the NE (050 degrees) at 15 MPH (13 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: shallow
+Temperature: 86 F (30 C)
+Heat index: 95.0 F (35.0 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: DISP 230700Z 02004K0714 GG EGRRYMYX EGBTYMYX 230710 FMMIYPYX ?SA230700Z AUTO 05013KT 020V080 9999 SCT025 BKN030 30/24 Q1015 NOSIG
+cycle: 7

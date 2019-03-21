@@ -1,0 +1,7 @@
+Station name not available
+Nov 30, 2016 - 04:00 PM EST / 2016.11.30 2100 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HERT 302100Z 36004KT CAVOK ///// Q1014
+cycle: 21

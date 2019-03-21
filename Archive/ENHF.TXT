@@ -1,0 +1,13 @@
+Hammerfest, Norway (ENHF) 70-40N 023-40E 81M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSW (200 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: showers in the vicinity
+Temperature: 23 F (-5 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.26 in. Hg (0991 hPa)
+ob: ENHF 140820Z 20008KT 150V240 9999 VCSH FEW022 BKN080 M05/M10 Q0991 RMK WIND 1254FT 19017KT
+cycle: 8

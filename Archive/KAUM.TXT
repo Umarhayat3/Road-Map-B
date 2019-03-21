@@ -1,0 +1,12 @@
+Austin Municipal, MN, United States (KAUM) 43-40N 092-56W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (180 degrees) at 3 MPH (3 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: light rain; Lightning observed
+Temperature: 44 F (7 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.26 in. Hg (990 hPa)
+ob: KAUM 140855Z AUTO 18003KT 1/4SM -RA OVC001 07/04 A2926 RMK AO2 LTG DSNT E
+cycle: 9

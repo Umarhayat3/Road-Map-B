@@ -1,0 +1,11 @@
+Avon Park Gunnery Range, FL, United States (KAGR) 27-39N 081-20W 20M
+Mar 06, 2019 - 01:58 PM EST / 2019.03.06 1858 UTC
+Wind: from the N (360 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 61.7 F (16.5 C)
+Dew Point: 20.8 F (-6.2 C)
+Relative Humidity: 20%
+Pressure (altimeter): 30.29 in. Hg (1025 hPa)
+ob: KAGR 061858Z AUTO 36008KT 10SM CLR 17/M06 A3029 RMK AO2 SLP259 T01651062 
+cycle: 19

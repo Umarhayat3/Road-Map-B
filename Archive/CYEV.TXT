@@ -1,0 +1,12 @@
+Inuvik, N. W. T., Canada (CYEV) 68-18N 133-29W 68M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: -5 F (-21 C)
+Windchill: -18 F (-28 C):2
+Dew Point: -13 F (-25 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: CYEV 140800Z 08006KT 15SM SKC M21/M25 A3015 RMK AURBO SLP220
+cycle: 8

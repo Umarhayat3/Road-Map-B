@@ -1,0 +1,6 @@
+Mendig, Germany (ETHM) 50-22N 007-19E 190M
+Feb 24, 2009 - 07:08 AM EST / 2009.02.24 1208 UTC
+Wind: from the W (270 degrees) at 3 MPH (3 KT):0
+Visibility: 2 mile(s):0
+ob: ETHM 241208Z 27003KT 4000 TEST TEST TEST GRN
+cycle: 12

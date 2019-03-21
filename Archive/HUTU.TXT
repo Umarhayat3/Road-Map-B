@@ -1,0 +1,12 @@
+Station name not available
+Aug 03, 2011 - 06:00 AM EDT / 2011.08.03 1000 UTC
+Wind: from the S (180 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 80 F (27 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: HUTU 031000Z 18014KT 9999 BKN020 FEW027CB BKN130 27/17 Q1017
+cycle: 10

@@ -1,0 +1,12 @@
+Clinton, Clinton Municipal Airport, IA, United States (KCWI) 41-50N 090-20W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (170 degrees) at 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 52.0 F (11.1 C)
+Dew Point: 50.0 F (10.0 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.38 in. Hg (994 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) lower than three hours ago
+ob: KCWI 140856Z AUTO 17017KT 10SM CLR 11/10 A2938 RMK AO2 SLP975 T01110100 58021
+cycle: 9

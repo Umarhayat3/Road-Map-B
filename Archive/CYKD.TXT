@@ -1,0 +1,12 @@
+Aklavik Airport, Canada (CYKD) 68-13N 135-00W
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: -11 F (-24 C)
+Windchill: -25 F (-32 C):2
+Dew Point: -16 F (-27 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: CYKD 140600Z 10005KT 15SM SKC M24/M27 A3017 RMK SLP220
+cycle: 6

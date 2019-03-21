@@ -1,0 +1,13 @@
+Storkmarknes / Skagen, Norway (ENSK) 68-35N 015-01E 3M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: showers in the vicinity
+Temperature: 28 F (-2 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: ENSK 140820Z 05004KT 9999 VCSH FEW012 SCT025 BKN045 M02/M06 Q0987
+cycle: 8

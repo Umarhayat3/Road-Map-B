@@ -1,0 +1,13 @@
+Elsenborn, Belgium (EBLB) 50-28N 006-11E 570M
+Mar 14, 2019 - 03:25 AM EDT / 2019.03.14 0725 UTC
+Wind: from the SW (230 degrees) at 8 MPH (7 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EBLB 140725Z AUTO 23007KT 9000 -RA OVC005/// 02/02 Q1005 YLO
+cycle: 7

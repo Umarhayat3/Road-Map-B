@@ -1,0 +1,9 @@
+Spiritwood West, Sask, Canada (CWSR) 53-22N 107-33W 590M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (260 degrees) at 10 MPH (9 KT):0
+Temperature: 27.5 F (-2.5 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 18.5 F (-7.5 C)
+Relative Humidity: 68%
+ob: CWSR 140700Z AUTO 26009KT M03/M08 RMK AO1 SOG 20 0005 SLP209 T10251075
+cycle: 7

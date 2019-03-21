@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSW (210 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 30 F (-1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: CYRQ 140800Z AUTO 21004KT 3SM BR OVC004 M01/M01 A3022 RMK SLP238
+cycle: 8

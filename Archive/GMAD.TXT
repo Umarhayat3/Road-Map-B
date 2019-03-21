@@ -1,0 +1,12 @@
+Agadir Al Massira, Morocco (GMAD) 30-20N 009-24W 74M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: Calm:0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: mist
+Temperature: 57 F (14 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: GMAD 140830Z 00000KT 1200 BR OVC003 14/14 Q1022 NOSIG
+cycle: 8

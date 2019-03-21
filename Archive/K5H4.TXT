@@ -1,0 +1,13 @@
+Harvey Municipal Airport, ND, United States (K5H4) 47-47-28N 099-55-54W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (350 degrees) at 32 MPH (28 KT) gusting to 39 MPH (34 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 30 F (-1 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: K5H4 140855Z AUTO 35028G34KT 1/2SM -SN OVC003 M01/M01 A2971 RMK AO2
+cycle: 9

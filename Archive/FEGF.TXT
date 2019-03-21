@@ -1,0 +1,10 @@
+Station name not available
+Feb 22, 2017 - 03:00 PM EST / 2017.02.22 2000 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 4 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 58%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: FEGF 222000Z VRB02KT 8000 NSC 30/21 Q1009 NOSIG
+cycle: 20

@@ -1,0 +1,10 @@
+Maradi, Niger (DRRM) 13-28N 007-05E 373M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (080 degrees) at 20 MPH (17 KT):0
+Visibility: 1 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 19%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: DRRM 140700Z 080017KT 3000 BDLU 27/02 Q1012
+cycle: 7

@@ -1,0 +1,13 @@
+Monbaca Benguela , Angola (FNBG) 12-35S 013-25E 4M
+Mar 12, 2019 - 10:00 AM EDT / 2019.03.12 1400 UTC
+Wind: from the WNW (300 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 86 F (30 C)
+Heat index: 95.0 F (35.0 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: FNBG 121400Z 30010KT 9999 BKN015 FEW030CB 30/24 Q1009
+cycle: 14

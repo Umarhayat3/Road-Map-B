@@ -1,0 +1,10 @@
+Bossangoa, Central African Republic (FEFS) 06-29N 017-26E 465M
+Jun 15, 2010 - 01:00 AM EDT / 2010.06.15 0500 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+ob: FEFS 150500Z /////KT 9999 TS SCT040CB OVC150 24/23 Q////
+cycle: 5

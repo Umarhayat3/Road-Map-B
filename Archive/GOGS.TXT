@@ -1,0 +1,10 @@
+Cap-Skirring, Senegal (GOGS) 12-24N 016-45W 13M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (040 degrees) at 9 MPH (8 KT):0
+Visibility: 3 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 43%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GOGS 140800Z 04008KT 6000 NSC 22/09 Q1010
+cycle: 8

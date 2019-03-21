@@ -1,0 +1,12 @@
+Ingenika Point, Canada (CWWU) 56-48N 124-54W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 21 F (-6 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CWWU 140800Z 18004KT 15SM SKC M06/M07 A3019 RMK SLP227
+cycle: 8

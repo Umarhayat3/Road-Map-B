@@ -1,0 +1,14 @@
+Henderson City, KY, United States (KEHR) 37-49N 087-41W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (170 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: rain
+Precipitation last hour: 0.28 inches
+Temperature: 59.0 F (15.0 C)
+Dew Point: 55.9 F (13.3 C)
+Relative Humidity: 89%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) higher than three hours ago
+ob: KEHR 140856Z AUTO 17009KT 10SM RA BKN043 BKN050 OVC060 15/13 A2975 RMK AO2 SLP081 P0028 60072 T01500133 53006
+cycle: 9

@@ -1,0 +1,10 @@
+In Guezzam, Algeria (DATG) 19-34N 005-45E
+Dec 05, 2016 - 05:00 AM EST / 2016.12.05 1000 UTC
+Wind: from the SE (130 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 21%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: DATG 051000Z 13006KT CAVOK 28/04 Q1021
+cycle: 10

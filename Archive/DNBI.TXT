@@ -1,0 +1,10 @@
+Bida, Nigeria (DNBI) 09-06N 006-01E 143M
+Jan 26, 2016 - 12:00 PM EST / 2016.01.26 1700 UTC
+Wind: from the N (360 degrees) at 9 MPH (8 KT):0
+Visibility: 1 mile(s):0
+Weather: haze
+Temperature: 89 F (32 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 13%
+ob: DNBI 261700Z 36008KT 2000 HZ NSC 32/01
+cycle: 17

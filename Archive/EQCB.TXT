@@ -1,0 +1,11 @@
+Station name not available
+Dec 31, 2009 - 04:50 AM EST / 2009.12.31 0950 UTC
+Wind: from the ESE (110 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: clear
+Temperature: 57 F (14 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 44%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: EQCB 310950Z 11005KT 9999 SKC 14/02 Q1019 BLU NOSIG
+cycle: 10

@@ -1,0 +1,5 @@
+Station name not available
+Mar 30, 2015 - 02:00 AM EDT / 2015.03.30 0600 UTC
+Wind: Calm:0
+ob: FDLM 300600Z AUTO 00000KT //// // ////// ///// Q////
+cycle: 6

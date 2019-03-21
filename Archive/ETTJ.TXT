@@ -1,0 +1,10 @@
+Station name not available
+Feb 26, 2018 - 11:30 AM EST / 2018.02.26 1630 UTC
+Wind: from the SSW (200 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 33%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: ETTJ 261630Z 20006KT CAVOK 17/01 Q1006 NOSIG
+cycle: 16

@@ -1,0 +1,10 @@
+Station name not available
+Nov 14, 2018 - 07:00 AM EST / 2018.11.14 1200 UTC
+Wind: from the ENE (070 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 89 F (32 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 49%
+ob: HTKB 141200Z 07010KT 9999 SCT025 32/20
+cycle: 12

@@ -1,0 +1,11 @@
+Station name not available
+Nov 27, 2018 - 07:35 AM EST / 2018.11.27 1235 UTC
+Wind: from the WNW (290 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Temperature: 31.8 F (-0.1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: K6A1 271235Z AUTO 29006KT 10SM 00/M03 A3001 RMK AO2 T10011033
+cycle: 12

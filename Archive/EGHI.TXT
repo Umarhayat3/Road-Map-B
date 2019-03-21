@@ -1,0 +1,12 @@
+Southampton / Weather Centre, United Kingdom (EGHI) 50-54N 001-24W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (250 degrees) at 16 MPH (14 KT) gusting to 35 MPH (30 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 48 F (9 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EGHI 140820Z 25014G30KT 220V280 9999 -RA BKN020 09/07 Q1005 
+cycle: 8

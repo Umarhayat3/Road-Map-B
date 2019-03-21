@@ -1,0 +1,8 @@
+Station name not available
+Sep 12, 2018 - 08:56 AM EDT / 2018.09.12 1256 UTC
+Temperature: 43.5 F (6.4 C)
+Dew Point: 43.2 F (6.2 C)
+Relative Humidity: 98%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: K1LN 121256Z AUTO M M M M 06/06 A2998 RMK AO2 SLPNO T00640062 PWINO 
+cycle: 13

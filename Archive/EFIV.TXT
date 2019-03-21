@@ -1,0 +1,13 @@
+Ivalo, Finland (EFIV) 68-37N 027-25E 148M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (190 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow showers
+Temperature: 19 F (-7 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.44 in. Hg (0997 hPa)
+ob: EFIV 140820Z 19007KT 140V230 9999 -SHSN BKN017 BKN086 M07/M11 Q0997
+cycle: 8

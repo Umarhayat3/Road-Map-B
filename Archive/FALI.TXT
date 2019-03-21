@@ -1,0 +1,9 @@
+Station name not available
+Dec 18, 2008 - 05:00 AM EST / 2008.12.18 1000 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Temperature: 78 F (26 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 39%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FALI 181000Z AUTO 36004KT //// // ////// 26/11 Q1019
+cycle: 10

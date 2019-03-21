@@ -1,0 +1,11 @@
+Station name not available
+Mar 02, 2019 - 04:00 PM EST / 2019.03.02 2100 UTC
+Wind: from the E (090 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 80 F (27 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FQAM 022100Z 09009KT 9999 FEW020 27/25 Q1010 NOSIG
+cycle: 21

@@ -1,0 +1,9 @@
+Station name not available
+Nov 10, 2008 - 05:52 AM EST / 2008.11.10 1052 UTC
+Wind: Calm:0
+Temperature: 37 F (3 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: KCZX 101052Z AUTO 00000KT 03/03 A2991 RMK AO2 SLP119 T0033002ø PWINO TSNO 
+cycle: 11

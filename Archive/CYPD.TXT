@@ -1,0 +1,11 @@
+Port Hawkesbury, Canada (CYPD) 45-40N 061-23W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (040 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 19 F (-7 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.23 in. Hg (1023 hPa)
+ob: CYPD 140800Z AUTO 04003KT 030V110 9SM CLR M07/M09 A3023 RMK SLP245
+cycle: 8

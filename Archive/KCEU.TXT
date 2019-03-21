@@ -1,0 +1,12 @@
+CLEMSON-OCONEE COUNTY AIRPORT , SC, United States (KCEU) 34-40N 082-53W 268M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 53.1 F (11.7 C)
+Dew Point: 44.1 F (6.7 C)
+Relative Humidity: 71%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: KCEU 140854Z AUTO 00000KT 10SM OVC045 12/07 A3021 RMK AO2 SLP226 T01170067 58006
+cycle: 9

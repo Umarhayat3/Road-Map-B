@@ -1,0 +1,9 @@
+St Anicet, Canada (CWBZ) 45-07N 074-17W 49M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 29.1 F (-1.6 C)
+Dew Point: 28.4 F (-2.0 C)
+Relative Humidity: 97%
+Pressure tendency: 0.05 inches (1.6 hPa) lower than three hours ago
+ob: CWBZ 140700Z AUTO 00000KT M02/M02 RMK AO1 SLP215 T10161020 56016
+cycle: 7

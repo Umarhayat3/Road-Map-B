@@ -1,0 +1,10 @@
+Station name not available
+Sep 25, 2008 - 03:00 AM EDT / 2008.09.25 0700 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FMNZ 250700Z 160//KT 9999 SCT02 28/21 Q1017
+cycle: 7

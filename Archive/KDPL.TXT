@@ -1,0 +1,11 @@
+Kenansville, Duplin County Airport, NC, United States (KDPL) 35-00-00N 077-58-54W
+Mar 14, 2019 - 05:00 AM EDT / 2019.03.14 0900 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: KDPL 140900Z AUTO 00000KT 10SM SCT038 05/05 A3027 RMK AO2
+cycle: 9

@@ -1,0 +1,13 @@
+Vaasa, Finland (EFVA) 63-03N 021-46E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 32 F (0 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.29 in. Hg (0992 hPa)
+ob: EFVA 140820Z AUTO 13012KT 9999 -SN OVC009/// 00/M02 Q0992
+cycle: 8

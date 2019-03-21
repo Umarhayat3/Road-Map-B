@@ -1,0 +1,9 @@
+Barkston Heath Royal Air Force Base , United Kingdom (EGYE) 52-58N 000-34W
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (250 degrees) at 26 MPH (23 KT) gusting to 40 MPH (35 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: EGYE 140750Z 25023G35KT 9999 RA BKN010 ///// Q0995 GRN
+cycle: 8

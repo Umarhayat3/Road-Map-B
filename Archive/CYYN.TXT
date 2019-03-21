@@ -1,0 +1,12 @@
+Swift Current, Sask., Canada (CYYN) 50-17N 107-41W 818M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (260 degrees) at 13 MPH (11 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 19 F (-7 C)
+Windchill: 6 F (-14 C):1
+Dew Point: 17 F (-8 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CYYN 140800Z AUTO 26011KT 9SM CLR M07/M08 A3014 RMK SLP249
+cycle: 8

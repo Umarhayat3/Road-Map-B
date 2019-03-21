@@ -1,0 +1,13 @@
+Lycksele, Sweden (ESNL) 64-32-51N 018-43-03E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 12 MPH (10 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: snow grains
+Temperature: 30 F (-1 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 26 F (-3 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: ESNL 140820Z AUTO 13010KT 8000 SG FEW008/// SCT009/// OVC011/// M01/M03 Q0988
+cycle: 8

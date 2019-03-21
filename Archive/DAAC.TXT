@@ -1,0 +1,9 @@
+Station name not available
+Aug 08, 2015 - 07:00 AM EDT / 2015.08.08 1100 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 96 F (36 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 20%
+ob: DAAC 081100Z 00000KT CAVOK 36/10 Q////
+cycle: 11

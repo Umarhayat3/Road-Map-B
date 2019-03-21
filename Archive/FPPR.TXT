@@ -1,0 +1,11 @@
+Principe, Sao Tome and Principe (FPPR) 01-39N 007-25E 5M
+Mar 02, 2019 - 03:00 AM EST / 2019.03.02 0800 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 77 F (25 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 94%
+ob: FPPR 020800Z 00000KT 9999 FEW012CB BKN090 25/24 Q////
+cycle: 8

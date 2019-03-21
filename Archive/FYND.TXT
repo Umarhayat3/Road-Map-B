@@ -1,0 +1,9 @@
+Station name not available
+Aug 08, 2015 - 05:00 AM EDT / 2015.08.08 0900 UTC
+Wind: from the W (270 degrees) at 1 MPH (1 KT):0
+Temperature: 71 F (22 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FYND 080900Z AUTO 27001KT //// // ////// 22/18 Q1021
+cycle: 9

@@ -1,0 +1,13 @@
+ASPEN-PITKIN COUNTY AIRPORT, CO, United States (KASE) 39-14N 106-52W 2354M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (270 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 15.1 F (-9.4 C)
+Dew Point: 10.9 F (-11.7 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) higher than three hours ago
+ob: KASE 140853Z AUTO 27003KT 10SM SCT014 OVC055 M09/M12 A2989 RMK AO2 SNE04 SLP131 P0000 60000 T10941117 51019
+cycle: 9

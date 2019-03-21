@@ -1,0 +1,11 @@
+Station name not available
+Feb 13, 2016 - 12:00 PM EST / 2016.02.13 1700 UTC
+Wind: from the NE (050 degrees) at 25 MPH (22 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GWBA 131700Z 05022KT 9999 BKN015 BKN200 25/18 Q1016 NOSIG
+cycle: 17

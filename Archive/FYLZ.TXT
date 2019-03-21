@@ -1,0 +1,9 @@
+Luderitz / Diaz Point, Namibia (FYLZ) 26-41S 015-15E
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (200 degrees) at 6 MPH (5 KT):0
+Temperature: 64 F (18 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FYLZ 140700Z AUTO 20005KT //// // ////// 18/15 Q1014
+cycle: 7

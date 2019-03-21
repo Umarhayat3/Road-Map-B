@@ -1,0 +1,12 @@
+Moncton, N. B., Canada (CYQM) 46-07N 064-41W 71M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (190 degrees) at 9 MPH (8 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 23 F (-5 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: CYQM 140800Z 19008KT 15SM FEW250 M05/M07 A3020 RMK CI2 SLP234
+cycle: 8

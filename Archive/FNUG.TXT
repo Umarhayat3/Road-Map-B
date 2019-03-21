@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73 F (23 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FNUG 140700Z 12004KT 6000 FEW015 23/22 Q1015
+cycle: 7

@@ -1,0 +1,11 @@
+Station name not available
+Jul 23, 2008 - 03:55 AM EDT / 2008.07.23 0755 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 57 F (14 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+ob: EQYA 230755Z AUTO VRB05KT 9999 FEW005 SCT014 BKN050 14/12 A3026 RMK AO2 SLP252
+cycle: 8

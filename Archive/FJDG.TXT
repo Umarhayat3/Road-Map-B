@@ -1,0 +1,12 @@
+NSF DIEGO GARCIA, IO, British Indian Ocean Territory (FJDG) 7-18S 72-24E 3M
+Mar 14, 2019 - 03:55 AM EDT / 2019.03.14 0755 UTC
+Wind: from the WNW (290 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 88.2 F (31.2 C)
+Heat index: 104.4 F (40.2 C):1
+Dew Point: 79.7 F (26.5 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.88 in. Hg (1011 hPa)
+ob: FJDG 140755Z 29016KT 9999 FEW020 SCT100 BKN230 31/27 A2988 RMK SLP115 T03120265
+cycle: 8

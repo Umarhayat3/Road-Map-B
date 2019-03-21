@@ -1,0 +1,11 @@
+Fort Smith, N. W. T., Canada (CYSM) 60-01N 111-57W 205M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 0 F (-18 C)
+Dew Point: -4 F (-20 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CYSM 140800Z VRB02KT 15SM SKC M18/M20 A3019 RMK FROIN AURBO SLP248
+cycle: 8

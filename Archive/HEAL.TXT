@@ -1,0 +1,10 @@
+Station name not available
+Mar 31, 2018 - 10:00 PM EDT / 2018.04.01 0200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: HEAL 010200Z 00000KT CAVOK 17/07 Q1010 NOSIG
+cycle: 2

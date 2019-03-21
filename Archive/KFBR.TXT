@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the W (270 degrees) at 13 MPH (11 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 23 F (-5 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: KFBR 140856Z AUTO 27011KT 2 1/2SM -SN OVC009 M05/M05 A3004 RMK AO2
+cycle: 9

@@ -1,0 +1,11 @@
+Brevoort Island, Canada (CWOB) 63-20N 064-09W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (360 degrees) at 9 MPH (8 KT):0
+Sky conditions: mostly clear
+Temperature: 5 F (-15 C)
+Windchill: -9 F (-23 C):2
+Dew Point: -14 F (-26 C)
+Relative Humidity: 38%
+Pressure (altimeter): 29.88 in. Hg (1011 hPa)
+ob: CWOB 140700Z AUTO 36008KT ////SM //// FEW055 M15/M26 A2988
+cycle: 7

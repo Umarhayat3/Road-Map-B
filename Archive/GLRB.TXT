@@ -1,0 +1,12 @@
+Grand Bassa, Roberts Field, Liberia (GLRB) 06-15N 010-21W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 3 MPH (3 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 78 F (26 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GLRB 140800Z 34003KT 4000 BR SCT004 BKN012 26/25 Q1010
+cycle: 8

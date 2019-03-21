@@ -1,0 +1,9 @@
+Station name not available
+Jun 01, 2018 - 05:00 AM EDT / 2018.06.01 0900 UTC
+Wind: from the NNW (330 degrees) at 16 MPH (14 KT) gusting to 29 MPH (25 KT):0
+Temperature: 66 F (19 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: FDNH 010900Z AUTO 33014G25KT //// // ////// 19/02 Q0998
+cycle: 9

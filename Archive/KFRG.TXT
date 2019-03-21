@@ -1,0 +1,12 @@
+FARMINGDALE REPUBLIC AIRPORT , NY, United States (KFRG) 40-44N 073-25W 21M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 39.9 F (4.4 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KFRG 140853Z AUTO 18006KT 10SM BKN065 OVC080 04/02 A3026 RMK AO2 SLP247 T00440022 56009
+cycle: 9

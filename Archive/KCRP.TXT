@@ -1,0 +1,12 @@
+CORPUS CHRISTI INTERNATIONAL , TX, United States (KCRP) 27-46N 97-31W 16M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the S (170 degrees) at 14 MPH (12 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 73.0 F (22.8 C)
+Dew Point: 69.1 F (20.6 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) higher than three hours ago
+ob: KCRP 140851Z 17012KT 7SM OVC013 23/21 A2974 RMK AO2 SLP068 T02280206 51012
+cycle: 9

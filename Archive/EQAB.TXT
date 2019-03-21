@@ -1,0 +1,11 @@
+Station name not available
+Aug 20, 2008 - 02:50 AM EDT / 2008.08.20 0650 UTC
+Wind: from the N (350 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 93 F (34 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 18%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: EQAB 200650Z 35007KT 9999 FEW160 34/07 Q1008 BLU/
+cycle: 7

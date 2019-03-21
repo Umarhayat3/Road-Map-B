@@ -1,0 +1,12 @@
+Eldoret, Kenya (HKEL) 00-32N 035-17E 2133M
+Mar 14, 2019 - 03:30 AM EDT / 2019.03.14 0730 UTC
+Wind: from the ENE (070 degrees) at 20 MPH (17 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: HKEL 140730Z 07017KT 9999 FEW021CB 23/07 Q1026
+cycle: 7

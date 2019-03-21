@@ -1,0 +1,9 @@
+Chute Des Passes, Canada (CWDT) 49-54N 071-15W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 27.0 F (-2.8 C)
+Dew Point: 25.7 F (-3.5 C)
+Relative Humidity: 94%
+Pressure tendency: 0.01 inches (0.4 hPa) higher than three hours ago
+ob: CWDT 140700Z AUTO 00000KT M03/M04 RMK AO1 SLP212 T10281035 53004
+cycle: 7

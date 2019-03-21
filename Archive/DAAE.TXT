@@ -1,0 +1,12 @@
+Bejaia, Algeria (DAAE) 36-43N 005-04E 2M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (250 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 55 F (13 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: DAAE 140800Z 25006KT 9999 SCT020 FEW026TCU SCT040 13/10 Q1027
+cycle: 8

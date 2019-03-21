@@ -1,0 +1,6 @@
+Station name not available
+Aug 15, 2018 - 05:00 AM EDT / 2018.08.15 0900 UTC
+Wind: from the N (010 degrees) at 5 MPH (4 KT):0
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FDJR 150900Z AUTO 01004KT //// // ////// ///// Q1023
+cycle: 9

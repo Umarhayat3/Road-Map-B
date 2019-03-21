@@ -1,0 +1,11 @@
+Tenerife Sur, Spain (GCTS) 28-03N 016-34W 77M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the ENE (060 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 64 F (18 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: GCTS 140830Z 06014KT 9999 FEW025 18/12 Q1023 NOSIG
+cycle: 8

@@ -1,0 +1,8 @@
+NSA Souda Bay, Greece (EQYG) 35-32N 024-09E
+Mar 14, 2019 - 03:57 AM EDT / 2019.03.14 0757 UTC
+Wind: from the W (270 degrees) at 15 MPH (13 KT):0
+Sky conditions: mostly cloudy
+Temperature: 60 F (16 C)
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+ob: EQYG 140757Z AUTO 27013KT BKN047 16/ A2997 RMK AO2 SLP144 T0156 
+cycle: 8

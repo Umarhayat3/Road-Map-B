@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (270 degrees) at 25 MPH (22 KT) gusting to 32 MPH (28 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 42 F (6 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.38 in. Hg (994 hPa)
+ob: KEQA 140855Z AUTO 27022G28KT 10SM OVC029 06/00 A2938 RMK AO2
+cycle: 9

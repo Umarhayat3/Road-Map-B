@@ -1,0 +1,13 @@
+Station name not available
+Mar 23, 2009 - 01:56 AM EDT / 2009.03.23 0556 UTC
+Wind: from the WNW (300 degrees) at 17 MPH (15 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 28.0 F (-2.2 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 17.1 F (-8.3 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+Pressure tendency: 0.07 inches (2.4 hPa) higher than three hours ago
+ob: KBJM 230556Z AUTO 30015KT 10SM FEW024 OVC031 M02/M08 A3001 RMK AO2 SLP016 T10221083 10022 21022 51024 
+cycle: 6

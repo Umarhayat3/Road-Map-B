@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (220 degrees) at 14 MPH (12 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: EPLL 140800Z 22012KT 190V250 9999 BKN015 05/02 Q1003 
+cycle: 8

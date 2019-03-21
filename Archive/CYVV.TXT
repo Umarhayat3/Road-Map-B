@@ -1,0 +1,12 @@
+Wiarton, Ont., Canada (CYVV) 44-45N 081-06W 222M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+Pressure tendency: falling rapidly
+ob: CYVV 140800Z 09003KT 10SM SCT025 OVC075 03/02 A2992 RMK SC4AC4 PRESFR SLP143
+cycle: 8

@@ -1,0 +1,11 @@
+Revelstoke, B. C., Canada (CYRV) 50-58N 118-11W 443M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 24 F (-4 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.38 in. Hg (1028 hPa)
+ob: CYRV 140800Z AUTO VRB02KT 9SM CLR M04/M05 A3038 RMK SLP311
+cycle: 8

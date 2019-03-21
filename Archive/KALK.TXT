@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the W (270 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 36.0 F (2.2 C)
+Dew Point: 16.0 F (-8.9 C)
+Relative Humidity: 43%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+Pressure tendency: 0.01 inches (0.2 hPa) higher than three hours ago
+ob: KALK 140856Z AUTO 27011KT 10SM CLR 02/M09 A3009 RMK AO2 SLP146 T00221089 52002 
+cycle: 9

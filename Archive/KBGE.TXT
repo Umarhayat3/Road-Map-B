@@ -1,0 +1,9 @@
+Bainbridge, Decatur County Industrial Air Park Airport, GA, United States (KBGE) 30-58N 084-38W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Visibility: 10 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+ob: KBGE 140855Z 10SM 17/13 A3010 RMK AO2 PWINO
+cycle: 9

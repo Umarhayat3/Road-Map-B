@@ -1,0 +1,12 @@
+Station name not available
+Feb 09, 2016 - 02:00 AM EST / 2016.02.09 0700 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 86 F (30 C)
+Heat index: 99.3 F (37.4 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: FMWP 090700Z 04004KT 9999 FEW020 30/26 Q1005
+cycle: 7

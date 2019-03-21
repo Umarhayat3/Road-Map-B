@@ -1,0 +1,15 @@
+Sault Ste Marie, Chippewa County International Airport, MI, United States (KCIU) 46-15N 084-28W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the E (100 degrees) at 16 MPH (14 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: light rain; fog
+Precipitation last hour: A trace
+Temperature: 34.0 F (1.1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+Pressure tendency: 0.12 inches (4.1 hPa) lower than three hours ago
+ob: KCIU 140856Z AUTO 10014KT 1/4SM -RA FG OVC002 01/01 A2972 RMK AO2 SLP092 P0000 60000 T00110011 58041 FZRANO
+cycle: 9

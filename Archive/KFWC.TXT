@@ -1,0 +1,12 @@
+Fairfield, Fairfield Municipal Airport, IL, United States (KFWC) 38-22-43N 088-24-46W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (150 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: 0.01 inches
+Temperature: 59.9 F (15.5 C)
+Dew Point: 56.8 F (13.8 C)
+Relative Humidity: 89%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: KFWC 140855Z AUTO 15006KT 10SM OVC120 16/14 A2962 RMK AO1 P0001 60007 T01550138
+cycle: 9

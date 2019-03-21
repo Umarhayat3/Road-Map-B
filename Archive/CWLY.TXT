@@ -1,0 +1,11 @@
+Lytton, B. C., Canada (CWLY) 50-14N 121-35W 229M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (200 degrees) at 17 MPH (15 KT) gusting to 26 MPH (23 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.32 in. Hg (1026 hPa)
+ob: CWLY 140700Z AUTO 20015G23KT 9SM BKN140 BKN160 05/M02 A3032 RMK SLP275
+cycle: 7

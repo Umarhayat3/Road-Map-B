@@ -1,0 +1,11 @@
+Hahaya International Airport, Comoros (FMCH) 11-32S 043-16E 29M
+Mar 13, 2019 - 11:00 PM EDT / 2019.03.14 0300 UTC
+Wind: from the ESE (110 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FMCH 140300Z 11006KT 9999 FEW020 24/21 Q1013 NOSIG
+cycle: 3

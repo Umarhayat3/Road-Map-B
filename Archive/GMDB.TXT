@@ -1,0 +1,11 @@
+Station name not available
+Sep 09, 2008 - 11:00 AM EDT / 2008.09.09 1500 UTC
+Wind: from the N (010 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: clear
+Temperature: 93 F (34 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 34%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: GMDB 091500Z 01007KT 330V050 8000 SKC 34/16 Q1005 NOSIG
+cycle: 15

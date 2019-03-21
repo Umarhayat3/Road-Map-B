@@ -1,0 +1,10 @@
+Station name not available
+Mar 26, 2018 - 05:00 AM EDT / 2018.03.26 0900 UTC
+Wind: from the ESE (120 degrees) at 7 MPH (6 KT):0
+Visibility: 3 mile(s):0
+Temperature: 87 F (31 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 27%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DNBA 260900Z 12006KT 6000 NSW NSC 31/10 Q1017 NOSIG
+cycle: 9

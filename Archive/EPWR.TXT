@@ -1,0 +1,12 @@
+Wroclaw Ii, Poland (EPWR) 51-06N 016-53E 121M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (280 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 41 F (5 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EPWR 140800Z 28013KT 9999 FEW004 SCT020CB BKN040 05/03 Q1005 
+cycle: 8

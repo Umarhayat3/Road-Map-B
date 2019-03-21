@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SE (140 degrees) at 8 MPH (7 KT) gusting to 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 55.0 F (12.8 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KAJO 140856Z AUTO 14007G14KT 10SM CLR 13/M02 A3015 RMK AO2 SLP220 6//// T01281022 53009
+cycle: 9

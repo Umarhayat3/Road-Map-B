@@ -1,0 +1,12 @@
+Tuktoyaktuk , Canada (CYUB) 69-27N 133-01W 5M
+Mar 14, 2019 - 01:00 AM EDT / 2019.03.14 0500 UTC
+Wind: from the E (080 degrees) at 13 MPH (11 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: -20 F (-29 C)
+Windchill: -43 F (-42 C):2
+Dew Point: -25 F (-32 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: CYUB 140500Z 08011KT 15SM FEW078 M29/M32 A3024 RMK AC1 AC TR ONE LOOSE LAST STFD OBS/NEXT 141300Z SLP244
+cycle: 5

@@ -1,0 +1,10 @@
+Oujda, Morocco (GMFO) 34-47N 001-56W 470M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 51 F (11 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 71%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: GMFO 140800Z VRB02KT CAVOK 11/06 Q1027 NOSIG
+cycle: 8

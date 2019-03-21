@@ -1,0 +1,10 @@
+Station name not available
+Jun 20, 2017 - 11:00 PM EDT / 2017.06.21 0300 UTC
+Wind: from the E (100 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 32%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: FTWW 210300Z 10006KT CAVOK 13/M03 Q1026
+cycle: 3

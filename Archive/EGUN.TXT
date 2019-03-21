@@ -1,0 +1,10 @@
+Mildenhall Royal Air Force Base, United Kingdom (EGUN) 52-22N 000-29E
+Mar 14, 2019 - 03:56 AM EDT / 2019.03.14 0756 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 49.1 F (9.5 C)
+Dew Point: 49.1 F (9.5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.43 in. Hg (996 hPa)
+ob: EGUN 140756Z AUTO M 9999 BKN019 BKN029 OVC130 10/10 A2943 RMK AO2 PK WND 24032/50 SLPNO T00950095 
+cycle: 8

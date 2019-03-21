@@ -1,0 +1,10 @@
+Belfast / Harbour, United Kingdom (EGAC) 54-36N 005-53W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WNW (290 degrees) at 22 MPH (19 KT) gusting to 33 MPH (29 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 46 F (8 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EGAC 140820Z AUTO 29019G29KT 9999 NCD 08/03 Q0998
+cycle: 8

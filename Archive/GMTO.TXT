@@ -1,0 +1,12 @@
+Station name not available
+Aug 11, 2017 - 02:00 AM EDT / 2017.08.11 0600 UTC
+Wind: from the E (090 degrees) at 10 MPH (9 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 73 F (23 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: GMTO 110600Z 09009KT 5000 -RA BKN006 23/21 Q1017 NOSIG
+cycle: 6

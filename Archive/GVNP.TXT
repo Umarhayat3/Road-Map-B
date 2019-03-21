@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (020 degrees) at 23 MPH (20 KT):0
+Visibility: 3 mile(s):0
+Weather: widespread dust
+Temperature: 69 F (21 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GVNP 140800Z 02020KT 5000 DU NSC 21/15 Q1014 NOSIG
+cycle: 8

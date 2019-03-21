@@ -1,0 +1,10 @@
+Station name not available
+Jul 05, 2010 - 02:00 AM EDT / 2010.07.05 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: FLLL 050600Z 00000KT CAVOK 15/11 Q1026 NOSIG
+cycle: 6

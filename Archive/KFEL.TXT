@@ -1,0 +1,12 @@
+Station name not available
+Sep 11, 2010 - 05:00 AM EDT / 2010.09.11 0900 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.9 F (9.4 C)
+Dew Point: 44.1 F (6.7 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: KFEL 110900Z AUTO 00000KT 10SM CLR 09/07 A2997 RMK AO2 SLP148 6//// T00940067 50000 PNO 
+cycle: 9

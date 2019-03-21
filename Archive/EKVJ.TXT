@@ -1,0 +1,12 @@
+Stauning Lufthavn, Denmark (EKVJ) 56-00N 008-21E 5M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (220 degrees) at 14 MPH (12 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 42 F (6 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.26 in. Hg (0991 hPa)
+ob: EKVJ 140820Z 22012KT 9000 -RADZ BKN008 BKN012 06/06 Q0991
+cycle: 8

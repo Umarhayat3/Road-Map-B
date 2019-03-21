@@ -1,0 +1,9 @@
+Station name not available
+Feb 28, 2010 - 09:50 PM EST / 2010.03.01 0250 UTC
+Wind: from the WSW (240 degrees) at 10 MPH (9 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 53 F (12 C)
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: EQBA 010250Z 24009KT 7000 FEW015 BKN030 12/XX Q1018 WHT
+cycle: 3

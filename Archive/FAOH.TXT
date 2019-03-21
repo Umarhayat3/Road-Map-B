@@ -1,0 +1,9 @@
+Oudtshoorn, South Africa (FAOH) 33-34S 022-13E 0M
+Mar 27, 2018 - 11:18 PM EDT / 2018.03.28 0318 UTC
+Wind: from the N (360 degrees) at 2 MPH (2 KT):0
+Temperature: 60 F (16 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FAOH 280318Z AUTO 36002KT //// // ////// 16/05 Q1010
+cycle: 3

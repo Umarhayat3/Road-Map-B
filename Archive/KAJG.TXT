@@ -1,0 +1,12 @@
+Mount Carmel, Mount Carmel Municipal Airport, IL, United States (KAJG) 38-36-23N 087-43-36W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 15 MPH (13 KT) gusting to 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: rain
+Temperature: 57.7 F (14.3 C)
+Dew Point: 57.2 F (14.0 C)
+Relative Humidity: 98%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: KAJG 140855Z AUTO 16013G17KT 10SM RA SCT070 OVC100 14/14 A2971 RMK AO2 T01430140
+cycle: 9

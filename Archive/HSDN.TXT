@@ -1,0 +1,10 @@
+Dongola, Sudan (HSDN) 19-10N 030-29E 226M
+Mar 09, 2019 - 05:00 AM EST / 2019.03.09 1000 UTC
+Wind: from the NE (040 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 84 F (29 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 13%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: HSDN 091000Z 04012KT CAVOK 29/M02 Q1017
+cycle: 10

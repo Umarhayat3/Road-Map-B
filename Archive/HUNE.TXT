@@ -1,0 +1,12 @@
+Station name not available
+Aug 11, 2011 - 08:00 AM EDT / 2011.08.11 1200 UTC
+Wind: from the ESE (110 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 71 F (22 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: HUNE 111200Z 11006KT 9999 SCT021 FEW023CB BKN150 22/18 Q1017
+cycle: 12

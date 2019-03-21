@@ -1,0 +1,12 @@
+LEHIGH VALLEY INTERNATIONAL  AIRPORT, PA, United States (KABE) 40-39N 075-27W 114M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the ESE (110 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 37.9 F (3.3 C)
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: KABE 140851Z 11004KT 10SM CLR 03/M03 A3021 RMK AO2 SLP233 T00331033 56007
+cycle: 9

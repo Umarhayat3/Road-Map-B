@@ -1,0 +1,10 @@
+Moundou, Chad (FTTD) 08-37N 016-04E 422M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FTTD 140700Z 00000KT CAVOK 26/15 Q1010
+cycle: 7

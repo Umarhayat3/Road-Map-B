@@ -1,0 +1,12 @@
+Corvallis, Corvallis Municipal Airport, OR, United States (KCVO) 44-30N 123-17W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the W (280 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 36.0 F (2.2 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) higher than three hours ago
+ob: KCVO 140856Z AUTO 28003KT 10SM CLR 02/01 A3042 RMK AO2 SLP303 T00220011 51007 FZRANO
+cycle: 9

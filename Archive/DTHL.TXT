@@ -1,0 +1,9 @@
+Station name not available
+Jan 06, 2019 - 05:00 PM EST / 2019.01.06 2200 UTC
+Wind: Calm:0
+Temperature: 53 F (12 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: DTHL 062200Z AUTO 00000KT NCD 12/11 Q1021
+cycle: 22

@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the N (350 degrees) at 25 MPH (22 KT) gusting to 31 MPH (27 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 29.3 F (-1.5 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 24.3 F (-4.3 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+ob: K1JN 140656Z AUTO 35022G27KT 10SM FEW110 BKN140 M01/M04 A2984 RMK AO2 PK WND 35028/17 SLP136 T10151043 
+cycle: 7

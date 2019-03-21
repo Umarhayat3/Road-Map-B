@@ -1,0 +1,10 @@
+Station name not available
+Mar 05, 2019 - 11:00 AM EST / 2019.03.05 1600 UTC
+Wind: from the WSW (240 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 24%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: EDTF 051600Z 24014KT CAVOK 22/01 Q1017 NOSIG
+cycle: 16

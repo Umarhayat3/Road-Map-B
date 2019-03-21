@@ -1,0 +1,11 @@
+Laghouat, Algeria (DAUL) 33-46N 002-56E 765M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 21 MPH (18 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 50 F (10 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 53%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: DAUL 140800Z 36018KT 9999 FEW030 10/01 Q1026
+cycle: 8

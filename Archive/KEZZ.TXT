@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (200 degrees) at 30 MPH (26 KT) gusting to 40 MPH (35 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 53.8 F (12.1 C)
+Dew Point: 40.8 F (4.9 C)
+Relative Humidity: 61%
+Pressure (altimeter): 29.19 in. Hg (988 hPa)
+ob: KEZZ 140855Z AUTO 20026G35KT 10SM SCT043 12/05 A2919 RMK AO2 T01210049
+cycle: 9

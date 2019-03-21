@@ -1,0 +1,11 @@
+Antananarivo / Ivato, Madagascar (FMMI) 18-48S 047-29E 1276M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the SE (130 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 75 F (24 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FMMI 140830Z 13007KT 080V190 9999 BKN020 24/18 Q1021 NOSIG
+cycle: 8

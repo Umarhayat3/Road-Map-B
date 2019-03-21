@@ -1,0 +1,13 @@
+Spangdahlem, Germany (ETAD) 49-59N 006-42E 356M
+Mar 14, 2019 - 03:56 AM EDT / 2019.03.14 0756 UTC
+Wind: from the SW (220 degrees) at 16 MPH (14 KT) gusting to 23 MPH (20 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: 0.02 inches
+Temperature: 38.8 F (3.8 C)
+Dew Point: 38.1 F (3.4 C)
+Relative Humidity: 97%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+ob: ETAD 140756Z AUTO 22014G20KT 9999 -RA OVC008 04/03 A2975 RMK AO2 CIG 007 RWY23 SLPNO P0002 T00380034 
+cycle: 8

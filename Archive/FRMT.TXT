@@ -1,0 +1,11 @@
+Station name not available
+Jul 17, 2012 - 07:00 PM EDT / 2012.07.17 2300 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 62 F (17 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FRMT 172300Z 00000KT 9999 FEW017 17/16 Q1017
+cycle: 23

@@ -1,0 +1,12 @@
+Big Trout Lake, Canada (CYTL) 53-50N 089-52W 224M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (030 degrees) at 8 MPH (7 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 26 F (-3 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: CYTL 140800Z AUTO 03007KT 9SM OVC160 M03/M06 A2982 RMK SLP113
+cycle: 8

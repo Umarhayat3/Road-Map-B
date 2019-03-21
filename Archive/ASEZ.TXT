@@ -1,0 +1,11 @@
+Station name not available
+Jul 04, 2011 - 02:00 AM EDT / 2011.07.04 0600 UTC
+Wind: from the NW (320 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 32 F (0 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: ASEZ 040600Z 32006KT CAVOK 00/M05 Q1025
+cycle: 6

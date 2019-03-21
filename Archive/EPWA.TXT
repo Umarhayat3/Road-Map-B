@@ -1,0 +1,12 @@
+Warszawa-Okecie, Poland (EPWA) 52-10N 020-58E 107M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSW (210 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 42 F (6 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 75%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EPWA 140800Z 21009KT 9999 FEW023CB BKN036 06/02 Q1002 NOSIG
+cycle: 8

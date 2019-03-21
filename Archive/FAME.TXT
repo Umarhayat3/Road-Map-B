@@ -1,0 +1,11 @@
+Marion Island, South Africa (FAME) 46-53S 037-52E 0M
+Apr 15, 2017 - 07:00 AM EDT / 2017.04.15 1100 UTC
+Wind: from the SSE (160 degrees) at 20 MPH (17 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 71 F (22 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 40%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FAME 151100Z 16017KT 120V190 9999 FEW020 22/08 Q1024 NOSIG
+cycle: 11

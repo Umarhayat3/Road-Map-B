@@ -1,0 +1,12 @@
+Odiham, United Kingdom (EGVO) 51-14N 000-57W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (240 degrees) at 26 MPH (23 KT) gusting to 38 MPH (33 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 48 F (9 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: EGVO 140750Z 24023G33KT 9999 -RA SCT012 BKN020 09/08 Q1003 GRN TEMPO FEW012 BKN020 WHT
+cycle: 8

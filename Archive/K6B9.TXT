@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Variable at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 42 F (6 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 56%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: K6B9 140855Z AUTO VRB04KT 10SM OVC034 06/M02 A3009 RMK AO2
+cycle: 9

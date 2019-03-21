@@ -1,0 +1,10 @@
+Station name not available
+Sep 01, 2018 - 04:00 AM EDT / 2018.09.01 0800 UTC
+Wind: from the S (190 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DTPP 010800Z 19004KT 130V230 CAVOK 28/21 Q1017 NOSIG
+cycle: 8

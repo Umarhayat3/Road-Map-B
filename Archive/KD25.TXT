@@ -1,0 +1,12 @@
+Station name not available
+Feb 08, 2019 - 10:55 PM EST / 2019.02.09 0355 UTC
+Wind: from the WSW (240 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: -10.1 F (-23.4 C)
+Windchill: -22 F (-30 C):2
+Dew Point: -14.6 F (-25.9 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.55 in. Hg (1034 hPa)
+ob: KD25 090355Z AUTO 24004KT 10SM CLR M23/M26 A3055 RMK AO2 T12341259
+cycle: 4

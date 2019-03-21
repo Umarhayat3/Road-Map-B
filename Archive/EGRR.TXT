@@ -1,0 +1,12 @@
+Bracknell / Beaufort Park, United Kingdom (EGRR) 51-23N 000-47W 0M
+Nov 07, 2015 - 07:50 AM EST / 2015.11.07 1250 UTC
+Wind: from the WSW (250 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 53%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: EGRR 071250Z 25009KT 9999 FEW060CB 24/14 Q1017 NOSIG
+cycle: 13

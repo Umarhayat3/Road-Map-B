@@ -1,0 +1,11 @@
+Bouake, Cote d'Ivoire (DIBK) 07-44N 005-04W 376M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (240 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DIBK 140800Z 24006KT 9000 BKN010 24/23 Q1013 NOSIG
+cycle: 8

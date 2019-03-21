@@ -1,0 +1,10 @@
+Station name not available
+May 01, 2008 - 06:00 AM EDT / 2008.05.01 1000 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GGVO 011000Z VRB02KT CAVOK 27/21 Q1009 NOSIG
+cycle: 10

@@ -1,0 +1,12 @@
+ST LOUIS DOWNTOWN AIRPORT, IL, United States (KCPS) 38-34N 090-09W 126M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 57.0 F (13.9 C)
+Dew Point: 54.0 F (12.2 C)
+Relative Humidity: 89%
+Pressure (altimeter): 29.54 in. Hg (1000 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KCPS 140853Z AUTO 17010KT 10SM CLR 14/12 A2954 RMK AO2 SLP000 T01390122 58010 
+cycle: 9

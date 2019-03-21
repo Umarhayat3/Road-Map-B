@@ -1,0 +1,11 @@
+Station name not available
+Feb 06, 2014 - 12:00 AM EST / 2014.02.06 0500 UTC
+Wind: from the W (260 degrees) at 6 MPH (5 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 66 F (19 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 93%
+ob: HIKA 060500Z 26005KT 4000 SCT018 FEW019CB 19/18
+cycle: 5

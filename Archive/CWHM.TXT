@@ -1,0 +1,8 @@
+Varennes, Canada (CWHM) 45-43N 073-23W
+Oct 25, 2016 - 10:00 AM EDT / 2016.10.25 1400 UTC
+Wind: from the W (280 degrees) at 12 MPH (10 KT) gusting to 17 MPH (15 KT):0
+Temperature: 39.0 F (3.9 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 66%
+ob: CWHM 251400Z AUTO 28010G15KT 04/M02 RMK AO1 PK WND 28018/1302 T00391017
+cycle: 14

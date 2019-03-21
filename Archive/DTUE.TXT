@@ -1,0 +1,10 @@
+Station name not available
+May 20, 2017 - 11:00 PM EDT / 2017.05.21 0300 UTC
+Wind: from the E (090 degrees) at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: DTUE 210300Z 09006KT 8000 NSC 16/13 Q1020 NOSIG
+cycle: 3

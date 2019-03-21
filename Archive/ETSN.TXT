@@ -1,0 +1,12 @@
+Neuburg / Donau, Germany (ETSN) 48-43N 011-13E 387M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (230 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: ETSN 140820Z 23012KT 9999 -RA FEW016 BKN020 05/02 Q1012 WHT BLU TEMPO GRN
+cycle: 8

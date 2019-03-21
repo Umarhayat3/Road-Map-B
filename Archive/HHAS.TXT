@@ -1,0 +1,10 @@
+Asmara, Ethiopia (HHAS) 15-17N 038-55E 2325M
+Feb 03, 2015 - 12:00 PM EST / 2015.02.03 1700 UTC
+Wind: from the W (270 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: HHAS 031700Z 27004KT CAVOK 15/06 Q1028 NOSIG
+cycle: 17

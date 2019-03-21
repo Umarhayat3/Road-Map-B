@@ -1,0 +1,12 @@
+PORT OF ASTORIA AIRPORT, OR, United States (KAST) 46-09N 123-53W 3M
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 35.1 F (1.7 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.41 in. Hg (1029 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: KAST 140855Z AUTO 00000KT 10SM CLR 02/01 A3041 RMK AO2 SLP296 T00170006 51003
+cycle: 9

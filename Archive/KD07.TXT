@@ -1,0 +1,12 @@
+FAITH, SOUTH DAKOTA, SD, United States (KD07) 45-02N 102-01W 784M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the NNW (340 degrees) at 41 MPH (36 KT) gusting to 54 MPH (47 KT):0
+Precipitation last hour: 0.03 inches
+Temperature: 28.9 F (-1.7 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) higher than three hours ago
+ob: KD07 140856Z AUTO 34036G47KT M02/M02 A2968 RMK AO1 PK WND 34047/0808 SLP083 P0003 60008 T10171017 53012 
+cycle: 9

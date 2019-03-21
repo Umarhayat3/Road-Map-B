@@ -1,0 +1,13 @@
+Sogndal / Haukasen, Norway (ENSG) 61-09N 007-08E 497M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ENE (060 degrees) at 6 MPH (5 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: obscured
+Weather: freezing fog
+Temperature: 28 F (-2 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: ENSG 140820Z 06005KT 0800 FZFG VV003 M02/M02 Q0983 RMK WIND 3806FT VRB02KT
+cycle: 8

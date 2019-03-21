@@ -1,0 +1,8 @@
+Station name not available
+Jun 23, 2014 - 09:00 AM EDT / 2014.06.23 1300 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT):0
+Temperature: 80 F (27 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 21%
+ob: FDLV 231300Z AUTO 05005KT //// // ////// 27/03 Q////
+cycle: 13

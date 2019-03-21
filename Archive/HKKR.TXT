@@ -1,0 +1,9 @@
+Kericho, Kenya (HKKR) 00-22S 035-21E 2184M
+Jun 16, 2015 - 12:00 AM EDT / 2015.06.16 0400 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 93%
+ob: HKKR 160400Z 00000KT CAVOK 13/12
+cycle: 4

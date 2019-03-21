@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 02:32 AM EDT / 2019.03.14 0632 UTC
+Wind: Calm:0
+Visibility: less than 1 mile:0
+Sky conditions: mostly cloudy
+Weather: fog
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: GMSL 140632Z 00000KT 0200 FG BKN006 SCT200 05/05 Q1024 NOSIG
+cycle: 6

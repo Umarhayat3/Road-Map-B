@@ -1,0 +1,12 @@
+Yorkton, Sask., Canada (CYQV) 51-16N 102-28W 498M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (310 degrees) at 12 MPH (10 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 23 F (-5 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 17 F (-8 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: CYQV 140800Z AUTO 31010KT 9SM SCT140 M05/M08 A3001 RMK SLP192
+cycle: 8

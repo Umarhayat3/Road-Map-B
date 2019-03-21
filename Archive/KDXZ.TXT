@@ -1,0 +1,11 @@
+Station name not available
+Dec 14, 2011 - 02:35 PM EST / 2011.12.14 1935 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 42 F (6 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: KDXZ 141935Z 00000KT 10SM CLR 06/01 A3022 RMK AO1
+cycle: 19

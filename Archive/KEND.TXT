@@ -1,0 +1,8 @@
+Vance Air Force Base / Enid, OK, United States (KEND) 36-20N 097-55W
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the W (260 degrees) at 26 MPH (23 KT) gusting to 35 MPH (30 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Pressure (altimeter): 29.47 in. Hg (997 hPa)
+ob: KEND 140656Z AUTO 26023G30KT 10SM OVC130 M A2947 RMK AO2 PK WND 28033/50 SLPNO ALSTG ESTMD 
+cycle: 7

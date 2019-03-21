@@ -1,0 +1,12 @@
+Station name not available
+Feb 22, 2017 - 10:15 AM EST / 2017.02.22 1515 UTC
+Wind: from the S (190 degrees) at 6 MPH (5 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 55 F (13 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+ob: K4I7 221515Z AUTO 19005KT 2 1/2SM BR OVC003 13/13 A2989 RMK AO2
+cycle: 15

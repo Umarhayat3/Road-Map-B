@@ -1,0 +1,11 @@
+Masindi, Uganda (HUMI) 01-41N 031-43E 1147M
+Feb 22, 2016 - 07:00 AM EST / 2016.02.22 1200 UTC
+Wind: from the N (360 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 91 F (33 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 38%
+ob: HUMI 221200Z 36006KT 9999 SCT021 FEW023CB 33/17
+cycle: 12

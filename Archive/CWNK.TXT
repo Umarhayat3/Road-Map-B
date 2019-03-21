@@ -1,0 +1,9 @@
+Carman U Of M, Canada (CWNK) 49-30N 098-02W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (350 degrees) at 17 MPH (15 KT) gusting to 24 MPH (21 KT):0
+Temperature: 33.4 F (0.8 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 24.6 F (-4.1 C)
+Relative Humidity: 69%
+ob: CWNK 140700Z AUTO 35015G21KT 01/M04 RMK AO1 PK WND 34022/0645 T00081041
+cycle: 7

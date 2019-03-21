@@ -1,0 +1,11 @@
+Malmo / Sturup, Sweden (ESMS) 55-33N 013-22E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (260 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: ESMS 140820Z 26014KT 9999 BKN011 05/03 Q0994
+cycle: 8

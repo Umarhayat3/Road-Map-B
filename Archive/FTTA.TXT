@@ -1,0 +1,10 @@
+Sarh, Chad (FTTA) 09-09N 018-23E 365M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 87 F (31 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 22%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FTTA 140700Z 18004KT CAVOK 31/07 Q1010
+cycle: 7

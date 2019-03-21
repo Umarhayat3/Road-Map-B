@@ -1,0 +1,10 @@
+Station name not available
+Jun 01, 2018 - 05:00 AM EDT / 2018.06.01 0900 UTC
+Wind: from the NNE (020 degrees) at 3 MPH (3 KT):0
+Temperature: 100 F (38 C)
+Heat index: 113.5 F (45.3 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 45%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FDVV 010900Z AUTO 02003KT //// // ////// 38/24 Q1016
+cycle: 9

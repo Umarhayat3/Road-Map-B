@@ -1,0 +1,8 @@
+Station name not available
+Apr 29, 2015 - 02:10 AM EDT / 2015.04.29 0610 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: 4 mile(s):0
+Temperature: 68 F (20 C)
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FAML 290610Z VRB03KT 8000 NSC 20/// Q1019
+cycle: 6

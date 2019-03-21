@@ -1,0 +1,9 @@
+Squamish Airport, B. C, Canada (CWSK) 49-47N 123-10W 52M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (050 degrees) at 2 MPH (2 KT):0
+Temperature: 34.2 F (1.2 C)
+Dew Point: 31.8 F (-0.1 C)
+Relative Humidity: 91%
+Pressure tendency: 0.03 inches (1.1 hPa) higher than three hours ago
+ob: CWSK 140700Z AUTO 05002KT 01/M00 RMK AO1 SLP291 T00121001 51011
+cycle: 7

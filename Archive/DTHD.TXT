@@ -1,0 +1,11 @@
+Station name not available
+Jan 25, 2018 - 05:00 AM EST / 2018.01.25 1000 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 53 F (12 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+ob: DTHD 251000Z 00000KT 8000 SCT020 12/11 Q1029
+cycle: 10

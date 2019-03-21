@@ -1,0 +1,13 @@
+Madison, Madison-Lac Qui Parle County Airport, MN, United States (KDXX) 44-59-10N 096-10-40W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NNW (340 degrees) at 9 MPH (8 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: overcast
+Weather: fog
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.26 in. Hg (990 hPa)
+ob: KDXX 140855Z AUTO 34008KT 1/2SM FG OVC001 02/02 A2926 RMK AO2
+cycle: 9

@@ -1,0 +1,12 @@
+LOVELL FIELD, TN, United States (KCHA) 35-02N 085-12W 210M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSW (200 degrees) at 8 MPH (7 KT) gusting to 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 62.1 F (16.7 C)
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: KCHA 140853Z 20007G16KT 10SM OVC028 17/09 A3007 RMK AO2 SLP178 T01670094 58001
+cycle: 9

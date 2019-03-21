@@ -1,0 +1,11 @@
+Tunis-Carthage, Tunisia (DTTA) 36-50N 010-14E 4M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WNW (300 degrees) at 23 MPH (20 KT) gusting to 36 MPH (31 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 59 F (15 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 47%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: DTTA 140800Z 30020G31KT 270V330 9999 SCT023 15/04 Q1021
+cycle: 8

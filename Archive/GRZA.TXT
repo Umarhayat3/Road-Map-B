@@ -1,0 +1,12 @@
+Station name not available
+Aug 29, 2010 - 06:00 AM EDT / 2010.08.29 1000 UTC
+Wind: from the SE (130 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: GRZA 291000Z 13006KT 9999 FEW023CB SCT026 24/15 Q1021 NOSIG
+cycle: 10

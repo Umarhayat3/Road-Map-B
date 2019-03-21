@@ -1,0 +1,11 @@
+Man, Cote d'Ivoire (DIMN) 07-23N 007-31W 340M
+Dec 31, 2017 - 12:00 AM EST / 2017.12.31 0500 UTC
+Wind: Calm:0
+Visibility: 1 mile(s):0
+Weather: haze
+Temperature: 62 F (17 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: DIMN 310500Z 00000KT 3000 HZ NSC 17/13 Q1014 NOSIG
+cycle: 5

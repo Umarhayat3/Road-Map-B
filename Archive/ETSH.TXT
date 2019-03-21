@@ -1,0 +1,12 @@
+Holzdorf, Germany (ETSH) 51-46N 013-11E 83M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (230 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 42 F (6 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: ETSH 140820Z 23013KT 9999 FEW018TCU BKN040 06/03 Q1004 BLU BLU TEMPO WHT
+cycle: 8

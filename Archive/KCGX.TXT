@@ -1,0 +1,11 @@
+Chicago / Meigs, IL, United States (KCGX) 41-52N 087-36W
+Jun 18, 2008 - 01:45 PM EDT / 2008.06.18 1745 UTC
+Wind: from the NW (310 degrees) at 6 MPH (5 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 57 F (14 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+ob: KCGX 181745Z 31005KT 15SM BKN014 OVC030 14/11 A2989
+cycle: 18

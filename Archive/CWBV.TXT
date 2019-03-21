@@ -1,0 +1,10 @@
+Beaven Island, N. S., Canada (CWBV) 44-49N 062-20W 10M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (340 degrees) at 7 MPH (6 KT):0
+Temperature: 28.6 F (-1.9 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 21.0 F (-6.1 C)
+Relative Humidity: 72%
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: CWBV 140700Z AUTO 34006KT M02/M06 RMK AO1 SLP253 T10191061 58001
+cycle: 7

@@ -1,0 +1,9 @@
+DRYDEN-TERRELL COUNTY AIRPORT, TX, United States (K6R6) 30-03N 102-13W 701M
+Mar 14, 2019 - 03:53 AM EDT / 2019.03.14 0753 UTC
+Wind: from the WNW (290 degrees) at 10 MPH (9 KT) gusting to 24 MPH (21 KT):0
+Temperature: 61.0 F (16.1 C)
+Dew Point: 24.1 F (-4.4 C)
+Relative Humidity: 24%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+ob: K6R6 140753Z AUTO 29009G21KT 16/M04 A2985 RMK AO1 SLP078 T01611044 
+cycle: 8

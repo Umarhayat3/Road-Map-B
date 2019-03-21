@@ -1,0 +1,10 @@
+Great Duck Island, Canada (CWNL) 45-38N 082-58W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (100 degrees) at 10 MPH (9 KT):0
+Temperature: 34.9 F (1.6 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 33.8 F (1.0 C)
+Relative Humidity: 95%
+Pressure tendency: 0.07 inches (2.5 hPa) lower than three hours ago
+ob: CWNL 140700Z AUTO 10009KT 02/01 RMK AO1 SLP129 T00160010 56025
+cycle: 7

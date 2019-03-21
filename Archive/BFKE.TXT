@@ -1,0 +1,10 @@
+Station name not available
+Sep 20, 2010 - 05:00 AM EDT / 2010.09.20 0900 UTC
+Wind: from the NNE (030 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 23%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: BFKE 200900Z 03009KT CAVOK 30/07 Q1015
+cycle: 9

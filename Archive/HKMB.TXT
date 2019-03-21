@@ -1,0 +1,10 @@
+Marsabit, Kenya (HKMB) 02-18N 037-54E 1345M
+Jun 13, 2015 - 03:00 AM EDT / 2015.06.13 0700 UTC
+Wind: from the S (180 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 66 F (19 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 82%
+ob: HKMB 130700Z 18015KT 9999 FEW018 19/16
+cycle: 7

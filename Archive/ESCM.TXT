@@ -1,0 +1,12 @@
+Uppsala, Sweden (ESCM) 59-53N 017-36E 41M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (170 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: drizzle
+Temperature: 37 F (3 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: ESCM 140820Z 17008KT 9999 DZ OVC005 03/03 Q0989
+cycle: 8

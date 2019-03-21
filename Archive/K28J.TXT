@@ -1,0 +1,8 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (130 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Pressure (altimeter): 30.13 in. Hg (1020 hPa)
+ob: K28J 140855Z AUTO 13004KT 10SM BKN021 BKN033 OVC041 A3013 RMK AO2 
+cycle: 9

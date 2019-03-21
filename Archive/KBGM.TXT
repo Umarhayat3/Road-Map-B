@@ -1,0 +1,12 @@
+BINGHAMTON REGIONAL AIRPORT, NY, United States (KBGM) 42-12N 75-59W 492M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (130 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 39.0 F (3.9 C)
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) lower than three hours ago
+ob: KBGM 140853Z AUTO 13003KT 10SM OVC040 04/M03 A3011 RMK AO2 SLP207 T00391033 55000
+cycle: 9

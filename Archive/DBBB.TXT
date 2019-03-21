@@ -1,0 +1,11 @@
+Cotonou, Benin (DBBB) 06-21N 002-23E 9M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: from the S (190 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 84 F (29 C)
+Dew Point: 78 F (26 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: DBBB 140600Z 19005KT 150V210 9999 SCT012 29/26 Q1009 NOSIG
+cycle: 6

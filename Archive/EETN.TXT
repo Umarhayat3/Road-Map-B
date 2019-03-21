@@ -1,0 +1,12 @@
+Tallinn, Estonia (EETN) 59-24N 024-49E 34M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: EETN 140820Z 16010KT 130V190 9999 BKN009 02/00 Q0999 R08/250195 NOSIG
+cycle: 8

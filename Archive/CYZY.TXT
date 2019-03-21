@@ -1,0 +1,12 @@
+Mackenzie, B. C., Canada (CYZY) 55-18N 123-08W 690M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SE (140 degrees) at 5 MPH (4 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 28 F (-2 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CYZY 140800Z AUTO 14004KT 9SM BKN120 M02/M05 A3014 RMK SLP244
+cycle: 8

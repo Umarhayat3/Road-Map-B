@@ -1,0 +1,12 @@
+Gillam, Man., Canada (CYGX) 56-21N 094-42W 145M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSW (200 degrees) at 2 MPH (2 KT):0
+Visibility: 12 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 15 F (-9 C)
+Dew Point: 12 F (-11 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: CYGX 140800Z 20002KT 12SM -SN OVC025 M09/M11 A3000 RMK SC8 SLP173
+cycle: 8

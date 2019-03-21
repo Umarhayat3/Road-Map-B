@@ -1,0 +1,13 @@
+Umea Flygplats, Sweden (ESNU) 63-48N 020-17E 14M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (140 degrees) at 14 MPH (12 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 32 F (0 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.26 in. Hg (0991 hPa)
+ob: ESNU 140820Z 14012KT 8000 -SN OVC005 00/M01 Q0991 RESG R14/72//36
+cycle: 8

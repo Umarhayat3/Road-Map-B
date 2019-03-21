@@ -1,0 +1,12 @@
+BARSTOW-DAGGETT AIRPORT, CA, United States (KDAG) 34-51N 116-47W 587M
+Mar 14, 2019 - 04:50 AM EDT / 2019.03.14 0850 UTC
+Wind: Variable at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.0 F (8.9 C)
+Dew Point: 14.0 F (-10.0 C)
+Relative Humidity: 25%
+Pressure (altimeter): 30.23 in. Hg (1023 hPa)
+Pressure tendency: 0.05 inches (1.8 hPa) higher than three hours ago
+ob: KDAG 140850Z AUTO VRB04KT 10SM CLR 09/M10 A3023 RMK AO2 SLP229 T00891100 53018
+cycle: 9

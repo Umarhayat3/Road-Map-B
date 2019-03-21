@@ -1,0 +1,12 @@
+Mosjoen Kjaerstad, Norway (ENMS) 65-48N 013-08E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the N (010 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow
+Temperature: 28 F (-2 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.09 in. Hg (0985 hPa)
+ob: ENMS 140820Z 01003KT 330V060 9999 -SN FEW026 BKN040 M02/M07 Q0985 RMK WIND 412FT 03003KT 320V090
+cycle: 8

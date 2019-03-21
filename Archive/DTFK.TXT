@@ -1,0 +1,9 @@
+Station name not available
+Sep 22, 2017 - 10:00 PM EDT / 2017.09.23 0200 UTC
+Wind: Calm:0
+Temperature: 69 F (21 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: DTFK 230200Z AUTO 00000KT NCD 21/16 Q1019
+cycle: 2

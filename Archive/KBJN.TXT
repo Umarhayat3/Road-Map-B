@@ -1,0 +1,11 @@
+Las Vegas, Tonopah Range #74 Nellis AFB, NV, United States (KBJN) 37-37-02 116-15-51W
+May 02, 2014 - 11:56 AM EDT / 2014.05.02 1556 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 61.0 F (16.1 C)
+Dew Point: 10.9 F (-11.7 C)
+Relative Humidity: 13%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+ob: KBJN 021556Z AUTO 00000KT 10SM CLR 16/M12 A3026 RMK AO2 SLP317 T01611117 
+cycle: 16

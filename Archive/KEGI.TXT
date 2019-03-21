@@ -1,0 +1,11 @@
+Duke Field / Eglin Auxiliary, FL, United States (KEGI) 30-39N 086-31W
+Mar 14, 2019 - 03:08 AM EDT / 2019.03.14 0708 UTC
+Wind: from the SSE (160 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+ob: KEGI 140708Z AUTO 16008KT 10SM SCT025 BKN044 20/15 A3003 RMK AO2 SLP169 
+cycle: 7

@@ -1,0 +1,7 @@
+Lindberg Landing , N. W. T., Canada (CXLL) 61-07N 122-51W
+Feb 22, 2019 - 11:00 PM EST / 2019.02.23 0400 UTC
+Temperature: -10.3 F (-23.5 C)
+Dew Point: -15.2 F (-26.2 C)
+Relative Humidity: 78%
+ob: CXLL 230400Z AUTO M24/M26 RMK AO1 T12351262
+cycle: 4

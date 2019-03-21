@@ -1,0 +1,13 @@
+Sioux Lookout, Ont., Canada (CYXL) 50-07N 091-54W 390M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light rain, snow
+Temperature: 33 F (1 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.57 in. Hg (1001 hPa)
+ob: CYXL 140800Z 05004KT 330V110 2 1/2SM -RASN BKN004 BKN018 OVC021 01/01 A2957 RMK SF5SC2SC1 BR SLP033
+cycle: 8

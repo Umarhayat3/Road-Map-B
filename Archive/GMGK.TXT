@@ -1,0 +1,11 @@
+Station name not available
+Jul 05, 2017 - 03:00 PM EDT / 2017.07.05 1900 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 95 F (35 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 10%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: GMGK 051900Z 16010KT 9999 FEW026 35/00 Q1019 NOSIG
+cycle: 19

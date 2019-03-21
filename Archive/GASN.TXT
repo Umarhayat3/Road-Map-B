@@ -1,0 +1,9 @@
+San, Mali (GASN) 13-20N 004-50W 284M
+Mar 31, 2017 - 02:00 AM EDT / 2017.03.31 0600 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 28%
+ob: GASN 310600Z 00000KT 8000 NSC 27/07 Q////
+cycle: 6

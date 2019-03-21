@@ -1,0 +1,12 @@
+Albuquerque, Double Eagle II Airport, NM, United States (KAEG) 35-08-42N 106-47-42W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the WSW (250 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 32.0 F (0.0 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.9 in. Hg (1012 hPa)
+ob: KAEG 140855Z AUTO 25010KT 10SM OVC048 00/M07 A2990 RMK AO2 T00001067
+cycle: 9

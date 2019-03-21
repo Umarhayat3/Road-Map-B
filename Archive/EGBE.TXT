@@ -1,0 +1,10 @@
+Coventry Airport , United Kingdom (EGBE) 52-22N 001-29W
+Jul 18, 2017 - 09:50 AM EDT / 2017.07.18 1350 UTC
+Wind: from the E (100 degrees) at 16 MPH (14 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 44%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: EGBE 181350Z 10014KT 060V120 CAVOK 27/14 Q1015
+cycle: 14

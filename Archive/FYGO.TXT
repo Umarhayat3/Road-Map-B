@@ -1,0 +1,9 @@
+Station name not available
+Apr 23, 2014 - 03:00 PM EDT / 2014.04.23 1900 UTC
+Wind: from the N (350 degrees) at 1 MPH (1 KT):0
+Temperature: 71 F (22 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 43%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FYGO 231900Z AUTO 35001KT //// // ////// 22/09 Q1015
+cycle: 19

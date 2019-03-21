@@ -1,0 +1,8 @@
+Port Menier, Que., Canada (CWBY) 49-50N 064-18W 53M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSE (150 degrees) at 3 MPH (3 KT):0
+Temperature: 25.5 F (-3.6 C)
+Dew Point: 23.7 F (-4.6 C)
+Relative Humidity: 92%
+ob: CWBY 140700Z AUTO 15003KT M04/M05 RMK AO1 SOG 27 5003 SLP204 T10361046
+cycle: 7

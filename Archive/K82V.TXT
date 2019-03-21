@@ -1,0 +1,8 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Temperature: 24 F (-4 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: K82V 140855Z AUTO M04/M05 A2974 RMK AO2 SKY OBSCURED PWINO
+cycle: 9

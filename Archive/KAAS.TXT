@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 21 MPH (18 KT) gusting to 30 MPH (26 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 62 F (17 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: KAAS 140855Z AUTO 16018G26KT 10SM CLR 17/07 A2991 RMK AO1
+cycle: 9

@@ -1,0 +1,10 @@
+Bloemfontein, Bloemfontein Airport, South Africa (FABL) 29-06S 026-18E 1400M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FABL 140800Z VRB03KT CAVOK 26/17 Q1024 NOSIG
+cycle: 8

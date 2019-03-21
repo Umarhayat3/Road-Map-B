@@ -1,0 +1,9 @@
+Parc Des Laurentid, Canada (CWPD) 47-34N 071-14W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (200 degrees) at 2 MPH (2 KT):0
+Temperature: 19.9 F (-6.7 C)
+Dew Point: 18.7 F (-7.4 C)
+Relative Humidity: 94%
+Pressure tendency: 0.01 inches (0.2 hPa) higher than three hours ago
+ob: CWPD 140700Z AUTO 20002KT M07/M07 RMK AO1 SLP221 T10671074 53002
+cycle: 7

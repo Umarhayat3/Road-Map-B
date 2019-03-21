@@ -1,0 +1,11 @@
+Station name not available
+Sep 30, 2011 - 04:00 AM EDT / 2011.09.30 0800 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: HRYF 300800Z 18004KT 9999 FEW020 BKN090 21/15 Q1022 NOSIG
+cycle: 8

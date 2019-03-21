@@ -1,0 +1,11 @@
+Brady, Curtis Field Airport, TX, United States (KBBD) 31-10-45N 099-19-26W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NW (310 degrees) at 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 59 F (15 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 38%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+ob: KBBD 140855Z AUTO 31016KT 10SM BKN020 BKN027 OVC055 15/01 A2985 RMK AO2
+cycle: 9

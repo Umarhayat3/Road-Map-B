@@ -1,0 +1,6 @@
+Storm Hills , N. W. T., Canada (CWVH) 68-54N 133-56W
+Jun 16, 2018 - 08:00 PM EDT / 2018.06.17 0000 UTC
+Temperature: 39 F (4 C)
+Pressure (altimeter): 29.79 in. Hg (1008 hPa)
+ob: CWVH 170000Z AUTO ///// 04/ A2979 RMK SLP109
+cycle: 0

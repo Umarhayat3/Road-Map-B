@@ -1,0 +1,10 @@
+Station name not available
+Sep 17, 2018 - 11:00 PM EDT / 2018.09.18 0300 UTC
+Wind: from the SSE (150 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: DJTJ 180300Z 15004KT CAVOK 25/20 Q1018 NOSIG
+cycle: 3

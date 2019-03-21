@@ -1,0 +1,9 @@
+Ile Bicquette, Que., Canada (CWQO) 48-24-56N 068-53-36W
+Jan 20, 2019 - 03:00 PM EST / 2019.01.20 2000 UTC
+Wind: from the NNE (020 degrees) at 22 MPH (19 KT) gusting to 30 MPH (26 KT):0
+Temperature: 5.7 F (-14.6 C)
+Windchill: -14 F (-26 C):2
+Dew Point: 4.1 F (-15.5 C)
+Relative Humidity: 92%
+ob: CWQO 202000Z AUTO 02019G26KT M15/M16 RMK AO1 PK WND 04035/1909 T11461155
+cycle: 20

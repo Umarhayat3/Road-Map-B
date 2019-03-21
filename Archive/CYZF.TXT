@@ -1,0 +1,12 @@
+Yellowknife, N. W. T., Canada (CYZF) 62-28N 114-27W 206M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: -2 F (-19 C)
+Windchill: -14 F (-26 C):2
+Dew Point: -5 F (-21 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CYZF 140800Z 08006KT 15SM SKC M19/M21 A3019 RMK SLP250
+cycle: 8

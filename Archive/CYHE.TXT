@@ -1,0 +1,12 @@
+Hope, B. C., Canada (CYHE) 49-22N 121-29W 39M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 32 F (0 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.43 in. Hg (1030 hPa)
+ob: CYHE 140800Z AUTO 12004KT 070V140 9SM CLR 00/M00 A3043 RMK SLP306
+cycle: 8

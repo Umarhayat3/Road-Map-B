@@ -1,0 +1,12 @@
+Nanyuki , Kenya (HKNY) 00-04S 037-02E
+Nov 04, 2016 - 07:00 AM EDT / 2016.11.04 1100 UTC
+Wind: from the NNW (330 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 43%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: HKNY 041100Z 33003KT 9999 FEW022CB BKN024 24/11 Q1024
+cycle: 11

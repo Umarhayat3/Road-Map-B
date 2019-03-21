@@ -1,0 +1,12 @@
+Keflavikurflugvollur, Iceland (BIKF) 63-58N 022-36W 54M
+Mar 14, 2019 - 03:30 AM EDT / 2019.03.14 0730 UTC
+Wind: from the W (280 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: BIKF 140730Z 28006KT 9999 FEW014 SCT019 BKN038 02/00 Q0983 R19/290067
+cycle: 7

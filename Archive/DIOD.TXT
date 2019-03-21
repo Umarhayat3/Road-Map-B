@@ -1,0 +1,11 @@
+Odienne, Cote d'Ivoire (DIOD) 09-30N 007-34W 421M
+Jul 31, 2018 - 10:00 AM EDT / 2018.07.31 1400 UTC
+Wind: from the S (180 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DIOD 311400Z 18002KT 9999 BKN013 27/21 Q1016 NOSIG
+cycle: 14

@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NW (320 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 21 F (-6 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: KEMM 140855Z AUTO 32006KT 10SM CLR M06/M07 A3001 RMK AO2
+cycle: 9

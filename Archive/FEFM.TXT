@@ -1,0 +1,8 @@
+Bambari, Central African Republic (FEFM) 05-51N 020-39E 475M
+Jun 15, 2010 - 01:00 AM EDT / 2010.06.15 0500 UTC
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+ob: FEFM 150500Z /////KT CAVOK 24/23 Q////
+cycle: 5

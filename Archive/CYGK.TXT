@@ -1,0 +1,12 @@
+Kingston, Ont., Canada (CYGK) 44-13N 076-36W 93M
+Mar 13, 2019 - 11:00 PM EDT / 2019.03.14 0300 UTC
+Wind: from the NE (050 degrees) at 8 MPH (7 KT):0
+Visibility: 12 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CYGK 140300Z 05007KT 12SM OVC039 01/M01 A3014 RMK SC8 LAST STFD OBS/NEXT 141000 UTC SLP213
+cycle: 3

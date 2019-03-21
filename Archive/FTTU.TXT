@@ -1,0 +1,9 @@
+Station name not available
+May 03, 2012 - 05:00 AM EDT / 2012.05.03 0900 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 100 F (38 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 8%
+ob: FTTU 030900Z 16010KT CAVOK 38/M01 Q////
+cycle: 9

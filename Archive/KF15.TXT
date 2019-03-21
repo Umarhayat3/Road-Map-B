@@ -1,0 +1,8 @@
+Station name not available
+Sep 08, 2011 - 11:06 AM EDT / 2011.09.08 1506 UTC
+Wind: from the N (010 degrees) at 2 MPH (2 KT):0
+Temperature: 66 F (19 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 82%
+ob: KF15 081506Z 01002KT 19/16 RMK PK WND 05005KT PCPN NONE LAST 24 HRS
+cycle: 15

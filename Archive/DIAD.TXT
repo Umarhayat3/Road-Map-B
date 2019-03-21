@@ -1,0 +1,10 @@
+Adiake, Cote d'Ivoire (DIAD) 05-18N 003-18W 39M
+Dec 31, 2017 - 12:00 AM EST / 2017.12.31 0500 UTC
+Wind: from the W (260 degrees) at 2 MPH (2 KT):0
+Visibility: 3 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: DIAD 310500Z 26002KT 6000 NSC 24/24 Q1010 NOSIG
+cycle: 5

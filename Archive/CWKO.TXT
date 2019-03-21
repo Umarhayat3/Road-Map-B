@@ -1,0 +1,9 @@
+Rockglen, Sask., Canada (CWKO) 49-10N 105-59W 917M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NW (320 degrees) at 13 MPH (11 KT) gusting to 20 MPH (17 KT):0
+Temperature: 23.2 F (-4.9 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 21.2 F (-6.0 C)
+Relative Humidity: 91%
+ob: CWKO 140700Z AUTO 32011G17KT M05/M06 RMK AO1 SOG 33 2011 PK WND 31017/0651 SLP222 T10491060
+cycle: 7

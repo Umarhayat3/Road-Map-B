@@ -1,0 +1,11 @@
+Burlington/Mount Vernon, Skagit Regional Airport, WA, United States (KBVS) 48-28-15N 122-25-15W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.41 in. Hg (1029 hPa)
+ob: KBVS 140855Z AUTO 00000KT 10SM BKN060 OVC110 03/01 A3041 RMK A01
+cycle: 9

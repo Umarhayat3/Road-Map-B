@@ -1,0 +1,10 @@
+Tripoli Inter-National Airport, Libya (HLLT) 32-40N 013-09E 82M
+Jul 13, 2014 - 12:20 AM EDT / 2014.07.13 0420 UTC
+Wind: from the ESE (110 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 57%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HLLT 130420Z 11007KT CAVOK 24/15 Q1015
+cycle: 4

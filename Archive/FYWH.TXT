@@ -1,0 +1,10 @@
+J. G. Strijdom, Namibia (FYWH) 22-29S 017-28E 1700M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (010 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 46%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FYWH 140800Z 01004KT CAVOK 24/12 Q1024 NOSIG
+cycle: 8

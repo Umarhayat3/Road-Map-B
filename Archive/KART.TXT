@@ -1,0 +1,12 @@
+WATERTOWN INTERNATIONAL  AIRPORT, NY, United States (KART) 43-59N 076-02W 100M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37.0 F (2.8 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) lower than three hours ago
+ob: KART 140856Z AUTO 00000KT 10SM OVC041 03/01 A3009 RMK AO2 SLP195 T00280006 55000
+cycle: 9

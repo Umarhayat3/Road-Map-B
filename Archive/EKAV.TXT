@@ -1,0 +1,5 @@
+Avno Danish Air Force Base , Denmark (EKAV) 55-05N 011-47E
+Oct 04, 2016 - 12:20 AM EDT / 2016.10.04 0420 UTC
+Pressure (altimeter): 30.68 in. Hg (1039 hPa)
+ob: EKAV 040420Z AUTO ///// 9999NDV NCD ///// Q1039
+cycle: 4

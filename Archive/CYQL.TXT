@@ -1,0 +1,12 @@
+Lethbridge, Alta., Canada (CYQL) 49-38N 112-48W 929M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (220 degrees) at 12 MPH (10 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 15 F (-9 C)
+Windchill: 1 F (-17 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CYQL 140800Z AUTO 22010KT 9SM CLR M09/M11 A3019 RMK SLP274
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+Apr 14, 2010 - 02:00 AM EDT / 2010.04.14 0600 UTC
+Wind: from the E (100 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FBST 140600Z 10006KT CAVOK 17/14 Q1024
+cycle: 6

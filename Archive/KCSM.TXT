@@ -1,0 +1,12 @@
+CLINTON-SHERMAN AIRPORT, OK, United States (KCSM) 35-21E 99-12W 588M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (270 degrees) at 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41.0 F (5.0 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.69 in. Hg (1005 hPa)
+Pressure tendency: 0.09 inches (3.2 hPa) higher than three hours ago
+ob: KCSM 140853Z AUTO 27016KT 10SM CLR 05/M02 A2969 RMK AO2 PK WND 28026/0841 SLP044 T00501022 53032
+cycle: 9

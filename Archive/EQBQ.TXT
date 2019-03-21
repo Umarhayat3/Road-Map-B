@@ -1,0 +1,11 @@
+Station name not available
+Feb 23, 2010 - 10:00 PM EST / 2010.02.24 0300 UTC
+Wind: from the ENE (060 degrees) at 4 MPH (4 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 48 F (9 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: EQBQ 240300Z 06002MPS 360V080 9000 BKN017 BKN023 09/06 Q1021
+cycle: 3

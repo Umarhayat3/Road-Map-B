@@ -1,0 +1,11 @@
+Hierro / Aeropuerto, Spain (GCHI) 27-49N 017-53W 32M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the NNE (020 degrees) at 16 MPH (14 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: GCHI 140830Z 02014KT 340V050 9999 SCT020 19/15 Q1023
+cycle: 8

@@ -1,0 +1,12 @@
+HOUSTON HOOKS MEMORIAL, TX, United States (KDWH) 30-04N 95-33W 46M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (190 degrees) at 16 MPH (14 KT) gusting to 21 MPH (18 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 73.0 F (22.8 C)
+Dew Point: 69.1 F (20.6 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) lower than three hours ago
+ob: KDWH 140853Z AUTO 19014G18KT 9SM OVC021 23/21 A2972 RMK AO2 SLP064 T02280206 58005
+cycle: 9

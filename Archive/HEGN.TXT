@@ -1,0 +1,11 @@
+Hurguada, Egypt (HEGN) 27-09N 033-43E 14M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NW (320 degrees) at 26 MPH (23 KT):0
+Visibility: less than 1 mile:0
+Weather: sand
+Temperature: 64 F (18 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 29%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HEGN 140700Z 32023KT 1500 R34R/1500 R16L/1500 SA NSC 18/00 Q1015 NOSIG
+cycle: 7

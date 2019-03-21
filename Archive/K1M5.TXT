@@ -1,0 +1,11 @@
+Station name not available
+Jan 09, 2019 - 02:25 PM EST / 2019.01.09 1925 UTC
+Wind: from the NNW (340 degrees) at 15 MPH (13 KT) gusting to 23 MPH (20 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41 F (5 C)
+Dew Point: 17 F (-8 C)
+Relative Humidity: 38%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: K1M5 091925Z AUTO 34013G20KT 10SM CLR 05/M08 A3022 RMK A01
+cycle: 19

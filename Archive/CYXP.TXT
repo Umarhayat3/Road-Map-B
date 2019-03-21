@@ -1,0 +1,11 @@
+Pangnirtung Airport, Canada (CYXP) 66-09N 065-43W
+Mar 13, 2019 - 06:00 PM EDT / 2019.03.13 2200 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: -16 F (-27 C)
+Dew Point: -23 F (-31 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: CYXP 132200Z VRB02KT 15SM FEW140 M27/M31 A3001 RMK AC1 AC TR SSSATF 12UTC 0.0 LAST STFD OBS/NEXT 141100Z SLP167
+cycle: 22

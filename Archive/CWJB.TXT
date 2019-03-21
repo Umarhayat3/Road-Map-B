@@ -1,0 +1,6 @@
+Ste Foy CS , Que., Canada (CWJB) 47-18N 071-16W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (200 degrees) at 2 MPH (2 KT):0
+Temperature: 28 F (-2 C)
+ob: CWJB 140700Z AUTO 20002KT M02/ RMK AO1 SOG 119 T1021
+cycle: 7

@@ -1,0 +1,12 @@
+Clovis, Clovis Municipal Airport, NM, United States (KCVN) 34-26N 103-05W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the W (270 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 36.0 F (2.2 C)
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.87 in. Hg (1011 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) higher than three hours ago
+ob: KCVN 140856Z AUTO 27010KT 10SM OVC075 02/M01 A2987 RMK AO2 SLP107 60000 T00221006 51019 FZRANO
+cycle: 9

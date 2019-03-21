@@ -1,0 +1,12 @@
+Franklin, Venango Regional Airport, PA, United States (KFKL) 41-23N 079-52W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SE (130 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 43.0 F (6.1 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 55%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KFKL 140856Z AUTO 13008KT 10SM CLR 06/M02 A3000 RMK AO2 SLP163 T00611022 58017
+cycle: 9

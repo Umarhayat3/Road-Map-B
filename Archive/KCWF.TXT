@@ -1,0 +1,11 @@
+Chenault Airpark, LA, United States (KCWF) 30-13N 093-09W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 15 MPH (13 KT) gusting to 28 MPH (24 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 71.6 F (22.0 C)
+Dew Point: 69.4 F (20.8 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+ob: KCWF 140855Z 17013G24KT 10SM OVC008 22/21 A2980 RMK AO2 T02200208 PWINO
+cycle: 9

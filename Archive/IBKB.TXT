@@ -1,0 +1,11 @@
+Station name not available
+Jun 17, 2009 - 09:54 AM EDT / 2009.06.17 1354 UTC
+Wind: Variable at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 80.1 F (26.7 C)
+Dew Point: 73.0 F (22.8 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: IBKB 171354Z AUTO VRB04KT 10SM FEW018 27/23 A3002 RMK AO2 SLP192 T02670228 
+cycle: 14

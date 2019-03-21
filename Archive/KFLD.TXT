@@ -1,0 +1,12 @@
+FOND DU LAC COUNTY AIRPORT, WI, United States (KFLD) 43-46N 88-29W 240M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 45.0 F (7.2 C)
+Dew Point: 43.0 F (6.1 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.45 in. Hg (997 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KFLD 140853Z AUTO 16013KT 10SM BKN050 07/06 A2945 RMK AO2 SLP979 T00720061 58014
+cycle: 9

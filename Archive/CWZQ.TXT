@@ -1,0 +1,9 @@
+Grand Etang, N. S., Canada (CWZQ) 46-33N 061-03W
+Mar 14, 2019 - 03:40 AM EDT / 2019.03.14 0740 UTC
+Wind: from the SSE (150 degrees) at 7 MPH (6 KT):0
+Temperature: 25.7 F (-3.5 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 19.0 F (-7.2 C)
+Relative Humidity: 75%
+ob: CWZQ 140740Z AUTO 15006KT M04/M07 RMK AO1 T10351072
+cycle: 7

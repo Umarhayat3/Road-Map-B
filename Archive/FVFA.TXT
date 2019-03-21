@@ -1,0 +1,10 @@
+Victoria Falls, Zimbabwe (FVFA) 18-06S 025-51E 1062M
+Mar 12, 2019 - 11:00 AM EDT / 2019.03.12 1500 UTC
+Wind: from the ESE (110 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 33%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FVFA 121500Z 11013KT CAVOK 32/14 Q1014 NOSIG
+cycle: 15

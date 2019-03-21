@@ -1,0 +1,12 @@
+ANN ARBOR MUNICIPAL AIRPORT, MI, United States (KARB) 42-13N 083-45W 251M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (100 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 44.1 F (6.7 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 72%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) lower than three hours ago
+ob: KARB 140853Z AUTO 10003KT 10SM BKN075 BKN095 07/02 A2980 RMK AO2 SLP094 T00670022 58019 
+cycle: 9

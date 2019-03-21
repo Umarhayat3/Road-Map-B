@@ -1,0 +1,10 @@
+Ghardaia, Algeria (DAUG) 32-23N 003-49E 450M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (100 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 57 F (14 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 33%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: DAUG 140800Z 10016KT CAVOK 14/M02 Q1025
+cycle: 8

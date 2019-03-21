@@ -1,0 +1,9 @@
+Station name not available
+Jul 08, 2016 - 03:00 PM EDT / 2016.07.08 1900 UTC
+Wind: from the ESE (120 degrees) at 7 MPH (6 KT):0
+Visibility: less than 1 mile:0
+Temperature: 80 F (27 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 54%
+ob: HSPK 081900Z 12006KT 2000HZ 27/17 1006 NOSIG
+cycle: 19

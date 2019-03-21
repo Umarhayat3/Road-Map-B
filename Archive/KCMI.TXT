@@ -1,0 +1,11 @@
+UNIV OF ILLINOIS-WILLARD, IL, United States (KCMI) 40-02N 088-16W 228M
+Mar 14, 2019 - 05:01 AM EDT / 2019.03.14 0901 UTC
+Wind: from the SSE (160 degrees) at 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 57.0 F (13.9 C)
+Dew Point: 55.9 F (13.3 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.58 in. Hg (1001 hPa)
+ob: KCMI 140901Z AUTO 16016KT 10SM SCT015 SCT023 14/13 A2958 RMK AO2 T01390133 
+cycle: 9

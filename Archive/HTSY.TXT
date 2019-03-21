@@ -1,0 +1,12 @@
+Shinyanga, Tanzania (HTSY) 03-30S 033-00E
+Mar 05, 2019 - 08:00 PM EST / 2019.03.06 0100 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 69 F (21 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HTSY 060100Z 36004KT 9999 TS FEW019 FEW020CB BKN080 21/20 Q 1016 HTKJ 060100Z 00000KT 9999 BKN025 23/21 Q1014 NOSIG HTMG 060100Z 00000KT 9999 SCT023 FEW026CB 24/22 Q1012
+cycle: 1

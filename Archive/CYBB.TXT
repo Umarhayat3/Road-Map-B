@@ -1,0 +1,11 @@
+Pelly Bay Airport, Canada (CYBB) 68-32N 089-49W
+Mar 13, 2019 - 07:00 PM EDT / 2019.03.13 2300 UTC
+Wind: from the W (260 degrees) at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: -11 F (-24 C)
+Dew Point: -18 F (-28 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CYBB 132300Z 26002KT 15SM FEW030 FEW150 M24/M28 A3009 RMK SC1AC1 0.0/20/HARD PACK/LAST STFD OBS/NXT/141200Z SLP195
+cycle: 23

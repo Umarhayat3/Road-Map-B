@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (040 degrees) at 14 MPH (12 KT):0
+Visibility: 3 mile(s):0
+Weather: haze
+Temperature: 69 F (21 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: GVBA 140800Z 04012KT 5000 HZ NSC 21/17 Q1015 NOSIG
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+Jan 18, 2010 - 01:00 AM EST / 2010.01.18 0600 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 91 F (33 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 26%
+ob: FBWD 180600Z VRB02KT 9999 FEW035 33/11 Q////
+cycle: 6

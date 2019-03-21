@@ -1,0 +1,12 @@
+Coppermine, N. W. T., Canada (CYCO) 67-49N 115-08W 22M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 8 mile(s):0
+Sky conditions: overcast
+Weather: light snow grains
+Temperature: -4 F (-20 C)
+Dew Point: -9 F (-23 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.29 in. Hg (1025 hPa)
+ob: CYCO 140800Z VRB02KT 8SM -SG OVC076 M20/M23 A3029 RMK AC8 SLP263
+cycle: 8

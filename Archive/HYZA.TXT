@@ -1,0 +1,11 @@
+Station name not available
+Oct 20, 2010 - 02:00 AM EDT / 2010.10.20 0600 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: HYZA 200600Z 18004KT 9999 BKN023 SCT100 19/16 Q1021 NOSIG
+cycle: 6

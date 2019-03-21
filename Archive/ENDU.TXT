@@ -1,0 +1,12 @@
+Bardufoss, Norway (ENDU) 69-04N 018-32E 79M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the E (090 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 26 F (-3 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 58%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: ENDU 140820Z 09004KT 9999 FEW030 BKN050 M03/M10 Q0989 NOSIG RMK WIND 1100FT 11007KT WIND 2200FT 11010KT
+cycle: 8

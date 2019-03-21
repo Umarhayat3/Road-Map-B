@@ -1,0 +1,10 @@
+Station name not available
+Oct 14, 2014 - 04:00 PM EDT / 2014.10.14 2000 UTC
+Wind: from the N (360 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 60 F (16 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 67%
+ob: HAAV 142000Z 36002KT 9999 SCT025 16/10 10249
+cycle: 20

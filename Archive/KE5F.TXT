@@ -1,0 +1,12 @@
+Station name not available
+Dec 14, 2009 - 03:08 PM EST / 2009.12.14 2008 UTC
+Wind: from the NNW (340 degrees) at 6 MPH (5 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light rain with thunder; mist
+Temperature: 68.0 F (20.0 C)
+Dew Point: 64.9 F (18.3 C)
+Relative Humidity: 89%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+ob: KE5F 142008Z AUTO 34005KT 2 1/2SM -TSRA BR BKN005 BKN010 OVC017 20/18 A3003 RMK AO2 TSB1959 T02000183 PNO 
+cycle: 20

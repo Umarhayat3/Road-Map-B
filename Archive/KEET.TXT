@@ -1,0 +1,12 @@
+SHELBY COUNTY AIRPORT, AL, United States (KEET) 33-11N 86-47W 173M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (150 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 66.0 F (18.9 C)
+Dew Point: 57.9 F (14.4 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: KEET 140853Z AUTO 15007KT 10SM OVC060 19/14 A3000 RMK AO2 SLP152 T01890144 56007
+cycle: 9

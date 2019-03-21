@@ -1,0 +1,12 @@
+Floro, Norway (ENFL) 61-35N 005-02E 9M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the E (090 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity; Towering cumulus clouds observed
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: ENFL 140820Z 09007KT 9999 VCSH FEW005 FEW015TCU SCT027 03/02 Q0984
+cycle: 8

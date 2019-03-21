@@ -1,0 +1,10 @@
+Station name not available
+Nov 01, 2009 - 12:00 AM EST / 2009.11.01 0500 UTC
+Wind: from the SSE (160 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: EEDF 010500Z 16006KT CAVOK 25/18 Q1014 NOSIG
+cycle: 5

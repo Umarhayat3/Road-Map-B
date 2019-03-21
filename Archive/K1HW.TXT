@@ -1,0 +1,11 @@
+Station name not available
+Oct 29, 2018 - 09:58 AM EDT / 2018.10.29 1358 UTC
+Wind: from the NW (310 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41.9 F (5.5 C)
+Dew Point: 31.1 F (-0.5 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.9 in. Hg (1012 hPa)
+ob: K1HW 291358Z AUTO 31008KT 10SM CLR 06/00 A2990 RMK AO2 SLP122 T00551005 
+cycle: 14

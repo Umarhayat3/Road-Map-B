@@ -1,0 +1,11 @@
+Station name not available
+Feb 21, 2019 - 04:00 AM EST / 2019.02.21 0900 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT):0
+Visibility: 3 mile(s):0
+Weather: haze
+Temperature: 84 F (29 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 45%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: BEBN 210900Z 05005KT 5000 HZ NSC 29/16 Q1015 NOSIG
+cycle: 9

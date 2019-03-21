@@ -1,0 +1,11 @@
+Jendouba, Tunisia (DTTN) 36-29N 008-48E 144M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (310 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 55 F (13 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: DTTN 140800Z 31012KT 9999 SCT020 SCT030 13/05 Q1023
+cycle: 8

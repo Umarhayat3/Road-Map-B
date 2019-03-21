@@ -1,0 +1,11 @@
+Coleman Mannheim , Germany (ETOR) 49-34N 008-28E 95M
+Jan 14, 2013 - 10:56 AM EST / 2013.01.14 1556 UTC
+Wind: from the NW (320 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 28.0 F (-2.2 C)
+Dew Point: 22.6 F (-5.2 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.95 in. Hg (1014 hPa)
+ob: ETOR 141556Z AUTO 32002KT 9999 OVC050 M02/M05 A2995 RMK AO2 SLP153 T10221052
+cycle: 16

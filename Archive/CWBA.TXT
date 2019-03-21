@@ -1,0 +1,9 @@
+Banff, Alta., Canada (CWBA) 51-11N 115-34W 1384M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSE (160 degrees) at 7 MPH (6 KT):0
+Temperature: 32.9 F (0.5 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 31.6 F (-0.2 C)
+Relative Humidity: 95%
+ob: CWBA 140700Z AUTO 16006KT 01/M00 RMK AO1 SOG 90 T00051002
+cycle: 7

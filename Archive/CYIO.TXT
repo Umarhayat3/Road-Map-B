@@ -1,0 +1,12 @@
+Pond Inlet, N. W. T., Canada (CYIO) 72-42N 077-58W 55M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (230 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: -9 F (-23 C)
+Dew Point: -13 F (-25 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: CYIO 140800Z AUTO 23003KT 190V280 2 1/2SM -SN OVC029 M23/M25 A3000 RMK SLP170
+cycle: 8

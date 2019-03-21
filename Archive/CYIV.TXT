@@ -1,0 +1,13 @@
+Island Lake, Man., Canada (CYIV) 53-51N 094-39W 237M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 12 MPH (10 KT):0
+Visibility: 12 mile(s):0
+Sky conditions: clear
+Weather: light snow
+Temperature: 21 F (-6 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.93 in. Hg (1013 hPa)
+ob: CYIV 140800Z 36010KT 12SM -SN SKC M06/M10 A2993 RMK SLP150
+cycle: 8

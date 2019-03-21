@@ -1,0 +1,11 @@
+Baraboo, Baraboo Wisconsin Dells Airport, WI, United States (KDLL) 43-31-19N 089-46-15W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 46.4 F (8.0 C)
+Dew Point: 44.6 F (7.0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.4 in. Hg (995 hPa)
+ob: KDLL 140855Z AUTO 17009KT 10SM OVC008 08/07 A2940 RMK AO2 T00800070
+cycle: 9

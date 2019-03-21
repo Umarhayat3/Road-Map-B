@@ -1,0 +1,12 @@
+SOUTHEAST TEXAS RGNL AIRPORT, TX, United States (KBPT) 29-95N 094-08W 5M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 21 MPH (18 KT) gusting to 26 MPH (23 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 72.0 F (22.2 C)
+Dew Point: 68.0 F (20.0 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KBPT 140853Z AUTO 17018G23KT 7SM BKN008 OVC014 22/20 A2977 RMK AO2 CIG 007V012 SLP080 T02220200 58015
+cycle: 9

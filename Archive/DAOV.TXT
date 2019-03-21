@@ -1,0 +1,11 @@
+Mascara-Ghriss, Algeria (DAOV) 35-12N 000-08E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (170 degrees) at 2 MPH (2 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: DAOV 140800Z 17002KT 5000 SCT020 11/09 Q1028
+cycle: 8

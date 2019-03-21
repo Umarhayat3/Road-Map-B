@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WNW (300 degrees) at 18 MPH (16 KT):0
+Visibility: less than 1 mile:0
+Weather: sand
+Temperature: 60 F (16 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: HESG 140700Z 30016KT 1000 R33/1000 SA NSC 16/03 Q1017 NOSIG
+cycle: 7

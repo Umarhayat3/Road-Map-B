@@ -1,0 +1,11 @@
+Ndjamena, Chad (FTTJ) 12-08N 015-02E 295M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNE (020 degrees) at 13 MPH (11 KT):0
+Visibility: less than 1 mile:0
+Weather: widespread dust
+Temperature: 78 F (26 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 16%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FTTJ 140700Z 02011KT 1200 R05/1100 DU NSC 26/M01 Q1010 NOSIG
+cycle: 7

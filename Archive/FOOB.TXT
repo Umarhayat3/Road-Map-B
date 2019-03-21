@@ -1,0 +1,10 @@
+Bitam, Gabon (FOOB) 02-05N 011-29E 599M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 77 F (25 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FOOB 140800Z /////KT 9999 SCT010 OVC023 25/23 Q1011
+cycle: 8

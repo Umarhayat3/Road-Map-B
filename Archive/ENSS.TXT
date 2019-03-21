@@ -1,0 +1,12 @@
+Svartnes, Norway (ENSS) 70-21N 031-03E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSW (210 degrees) at 35 MPH (30 KT):0
+Visibility: greater than 7 mile(s):0
+Weather: low drifting snow
+Temperature: 21 F (-6 C)
+Windchill: 1 F (-17 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.44 in. Hg (0997 hPa)
+ob: ENSS 140820Z 21030KT 9999 DRSN NSC M06/M09 Q0997 RMK WIND 500FT 22036KT
+cycle: 8

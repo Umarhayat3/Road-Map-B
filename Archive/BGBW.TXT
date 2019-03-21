@@ -1,0 +1,12 @@
+Narsarsuaq, Greenland (BGBW) 61-10N 045-25W 32M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the S (190 degrees) at 6 MPH (5 KT) (direction variable):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 23 F (-5 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: BGBW 140750Z AUTO 19005KT 150V220 9999NDV -SN SCT043/// OVC050/// M05/M09 Q0996
+cycle: 8

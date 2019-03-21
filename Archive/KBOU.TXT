@@ -1,0 +1,10 @@
+Station name not available
+Oct 17, 2017 - 01:50 PM EDT / 2017.10.17 1750 UTC
+Wind: Calm:0
+Sky conditions: clear
+Temperature: 71 F (22 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 13%
+Pressure (altimeter): 24.82 in. Hg (840 hPa)
+ob: KBOU 171750Z AUTO 00000KT CLR 22/M07 A2482 RMK A02
+cycle: 18

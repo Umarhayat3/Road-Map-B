@@ -1,0 +1,11 @@
+Notodden, Norway (ENNO) 59-34N 009-13E
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (280 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 19 F (-7 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 85%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: ENNO 140750Z 28002KT 9999 FEW020 M07/M09 Q0988
+cycle: 8

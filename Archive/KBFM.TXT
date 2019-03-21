@@ -1,0 +1,12 @@
+MOBILE DOWNTOWN AIRPORT, AL, United States (KBFM) 30-38N 88-04W 20M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 6 MPH (5 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 68.0 F (20.0 C)
+Dew Point: 66.9 F (19.4 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: KBFM 140853Z 17005KT 9SM OVC008 20/19 A2998 RMK AO2 SLP152 T02000194 56006
+cycle: 9

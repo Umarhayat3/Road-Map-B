@@ -1,0 +1,12 @@
+Edinburg, Edinburg International Airport, TX, United States (KEBG) 26-26-31N 098-07-46W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (150 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: haze
+Temperature: 75.7 F (24.3 C)
+Dew Point: 69.8 F (21.0 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+ob: KEBG 140855Z AUTO 15006KT 5SM HZ OVC013 24/21 A2972 RMK AO2 T02430210
+cycle: 9

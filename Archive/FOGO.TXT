@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: rain during the past hour
+Temperature: 71 F (22 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 94%
+ob: FOGO 140800Z /////KT 9999 SCT008 OVC023 22/21 Q//// RERA
+cycle: 8

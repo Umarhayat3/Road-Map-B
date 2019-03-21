@@ -1,0 +1,11 @@
+Borlange, Sweden (ESSD) 60-26N 015-31E 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: ESSD 140820Z VRB02KT 9999 OVC005 02/02 Q0987
+cycle: 8

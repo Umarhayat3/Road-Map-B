@@ -1,0 +1,11 @@
+Station name not available
+Aug 31, 2018 - 07:00 AM EDT / 2018.08.31 1100 UTC
+Wind: from the E (080 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 84 F (29 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DFTX 311100Z 08007KT 050V130 9999 FEW020 29/19 Q1017 NOSIG
+cycle: 11

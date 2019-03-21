@@ -1,0 +1,11 @@
+Carroll, IA, United States (KCIN) 42-03N 094-47W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (130 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 39 F (4 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.09 in. Hg (985 hPa)
+ob: KCIN 140855Z AUTO 13007KT 10SM FEW025 BKN065 OVC070 04/04 A2909 RMK AO2
+cycle: 9

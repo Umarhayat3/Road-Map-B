@@ -1,0 +1,11 @@
+Station name not available
+Aug 24, 2015 - 07:00 PM EDT / 2015.08.24 2300 UTC
+Wind: from the W (280 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GOSG 242300Z 28006KT 9999 SCT013 BKN130 28/25 Q1014
+cycle: 23

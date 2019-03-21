@@ -1,0 +1,12 @@
+Station name not available
+Feb 28, 2016 - 07:00 AM EST / 2016.02.28 1200 UTC
+Wind: from the N (360 degrees) at 24 MPH (21 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 60 F (16 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GMAU 281200Z 36021KT 8000 SCT016 FEW020TCU 16/10 Q1016 NOSIG
+cycle: 12

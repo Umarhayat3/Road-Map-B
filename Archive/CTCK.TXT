@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ENE (070 degrees) at 8 MPH (7 KT):0
+Temperature: 30.4 F (-0.9 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 30.4 F (-0.9 C)
+Relative Humidity: 100%
+ob: CTCK 140700Z AUTO 07007KT M01/M01 RMK AO1 SOG 51 6013 SLP215 T10091009
+cycle: 7

@@ -1,0 +1,9 @@
+Lichtenburg, South Africa (FALT) 26-11S 026-11E
+Oct 24, 2008 - 01:00 AM EDT / 2008.10.24 0500 UTC
+Wind: from the N (360 degrees) at 8 MPH (7 KT):0
+Temperature: 57 F (14 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FALT 240500Z AUTO 36007KT //// // ////// 14/11 Q1025
+cycle: 5

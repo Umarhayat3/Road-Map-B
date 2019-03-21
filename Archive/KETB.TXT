@@ -1,0 +1,11 @@
+West Bend, West Bend Municipal Airport, WI, United States (KETB) 43-25-20N 088-07-41W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.5 in. Hg (998 hPa)
+ob: KETB 140855Z AUTO 16007KT 10SM SCT040 07/06 A2950 RMK AO2
+cycle: 9

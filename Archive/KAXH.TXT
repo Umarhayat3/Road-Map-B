@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (200 degrees) at 10 MPH (9 KT) gusting to 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: Lightning observed
+Temperature: 71.8 F (22.1 C)
+Dew Point: 68.9 F (20.5 C)
+Relative Humidity: 90%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: KAXH 140855Z AUTO 20009G14KT 10SM OVC012 22/21 A2977 RMK AO2 LTG DSNT N T02210205
+cycle: 9

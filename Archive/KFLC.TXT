@@ -1,0 +1,12 @@
+Station name not available
+Oct 09, 2010 - 07:56 PM EDT / 2010.10.09 2356 UTC
+Wind: from the NNW (340 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 82.0 F (27.8 C)
+Dew Point: 46.0 F (7.8 C)
+Relative Humidity: 28%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KFLC 092356Z 34011KT 10SM BKN200 28/08 A3014 RMK AO2 SLP204 RH/28 T02780078 10283 20222 56017 
+cycle: 0

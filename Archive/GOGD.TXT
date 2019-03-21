@@ -1,0 +1,11 @@
+Station name not available
+May 31, 2011 - 11:00 PM EDT / 2011.06.01 0300 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: GOGD 010300Z VRB02KT 8000 OVC130 24/23 Q1012
+cycle: 3

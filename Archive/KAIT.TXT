@@ -1,0 +1,12 @@
+Aitkin, Aitkin Municipal Airport-Steve Kurtz Field, MN, United States (KAIT) 46-33N 093-41W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the ENE (060 degrees) at 3 MPH (3 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: overcast
+Weather: fog
+Temperature: 33 F (1 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.31 in. Hg (992 hPa)
+ob: KAIT 140856Z AUTO 06003KT 1/2SM FG OVC001 01/00 A2931 RMK AO2
+cycle: 9

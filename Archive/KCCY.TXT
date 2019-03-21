@@ -1,0 +1,13 @@
+Charles City, IA, United States (KCCY) 43-04N 092-37W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ESE (120 degrees) at 12 MPH (10 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Precipitation last hour: 0.02 inches
+Temperature: 42 F (6 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.26 in. Hg (990 hPa)
+ob: KCCY 140855Z AUTO 12010KT 3/4SM BR OVC002 06/06 A2926 RMK AO2 P0002
+cycle: 9

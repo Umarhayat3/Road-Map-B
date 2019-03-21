@@ -1,0 +1,11 @@
+Big Spring, Big Spring McMahon-Wrinkle Airport, TX, United States (KBPG) 32-12N 101-31W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the WSW (240 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.2 F (9.0 C)
+Dew Point: 29.1 F (-1.6 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: KBPG 140855Z AUTO 24010KT 10SM CLR 09/M02 A2991 RMK AO2 T00901016
+cycle: 9

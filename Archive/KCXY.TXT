@@ -1,0 +1,12 @@
+HARRISBURG CAPITAL CITY, PA, United States (KCXY) 40-13N 76-51W 106M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SE (130 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 39.0 F (3.9 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KCXY 140856Z AUTO 13003KT 10SM CLR 04/M01 A3017 RMK AO2 SLP220 T00391011 58010
+cycle: 9

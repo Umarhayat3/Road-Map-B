@@ -1,0 +1,12 @@
+Station name not available
+Feb 03, 2009 - 09:55 PM EST / 2009.02.04 0255 UTC
+Wind: Calm:0
+Visibility: less than 1 mile:0
+Sky conditions: obscured
+Weather: light snow; freezing fog
+Temperature: 26 F (-3 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.46 in. Hg (997 hPa)
+ob: EQYD 040255Z AUTO 00000KT 0200 -SN FZFG VV000 M03/M03 A2946 RMK AO2 SLP003
+cycle: 3

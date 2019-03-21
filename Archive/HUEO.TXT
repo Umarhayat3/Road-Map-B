@@ -1,0 +1,11 @@
+Station name not available
+Apr 15, 2013 - 01:00 AM EDT / 2013.04.15 0500 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HUEO 150500Z 16005KT 9999 BKN018 SCT100 21/19 Q1016
+cycle: 5

@@ -1,0 +1,13 @@
+Station name not available
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: from the N (360 degrees) at 10 MPH (9 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow
+Temperature: 28.0 F (-2.2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 25.9 F (-3.4 C)
+Relative Humidity: 91%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+ob: K1HM 130958Z AUTO 36009KT 5SM -SN SCT004 BKN016 M02/M03 A2973 RMK AO2 SLP092 T10221034 
+cycle: 10

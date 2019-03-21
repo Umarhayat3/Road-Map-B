@@ -1,0 +1,12 @@
+Station name not available
+Jan 29, 2010 - 07:53 PM EST / 2010.01.30 0053 UTC
+Wind: from the NW (310 degrees) at 13 MPH (11 KT) gusting to 21 MPH (18 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 41.0 F (5.0 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: KDFK 300053Z AUTO 31011G18KT 4SM BR OVC006 05/04 A2991 RMK AO2 CIG 004V009 SLP131 T00500044 
+cycle: 1

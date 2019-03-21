@@ -1,0 +1,12 @@
+Tioga Municipal Airport, ND, United States (KD60) 48-22-49N 102-53-51W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (350 degrees) at 24 MPH (21 KT) gusting to 32 MPH (28 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 24 F (-4 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.95 in. Hg (1014 hPa)
+ob: KD60 140855Z AUTO 35021G28KT 10SM CLR M04/M05 A2995 RMK AO2
+cycle: 9

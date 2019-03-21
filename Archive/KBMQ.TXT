@@ -1,0 +1,12 @@
+BURNET MUNICIPAL CRADDOCK FIELD, TX, United States (KBMQ) 30-44N 98-14W 389M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WNW (300 degrees) at 16 MPH (14 KT) gusting to 24 MPH (21 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 64.0 F (17.8 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+Pressure tendency: 0.06 inches (2.2 hPa) higher than three hours ago
+ob: KBMQ 140853Z AUTO 30014G21KT 10SM OVC040 18/01 A2983 RMK AO2 SLP087 T01780011 50022
+cycle: 9

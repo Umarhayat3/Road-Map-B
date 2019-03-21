@@ -1,0 +1,11 @@
+Station name not available
+Aug 25, 2018 - 03:30 PM EDT / 2018.08.25 1930 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 78 F (26 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 61%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DTTC 251930Z 32008KT 9999 FEW026 26/18 Q1013 NOSIG
+cycle: 19

@@ -1,0 +1,9 @@
+Plettenberg Bay, South Africa (FAPG) 34-05-17S 023-19-46E
+Jul 12, 2013 - 03:00 AM EDT / 2013.07.12 0700 UTC
+Wind: from the NNW (340 degrees) at 8 MPH (7 KT):0
+Temperature: 73 F (23 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FAPG 120700Z AUTO 34007KT //// // ////// 23/07 Q1017
+cycle: 7

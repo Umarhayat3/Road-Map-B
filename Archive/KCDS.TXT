@@ -1,0 +1,12 @@
+CHILDRESS MUNICIPAL AIRPORT, TX, United States (KCDS) 34-26N 100-17W 594M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WNW (300 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 44.1 F (6.7 C)
+Dew Point: 27.0 F (-2.8 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.79 in. Hg (1008 hPa)
+Pressure tendency: 0.10 inches (3.3 hPa) higher than three hours ago
+ob: KCDS 140853Z AUTO 30011KT 10SM CLR 07/M03 A2979 RMK AO2 SLP078 T00671028 51033
+cycle: 9

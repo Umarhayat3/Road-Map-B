@@ -1,0 +1,11 @@
+Primrose Lake , Canada (CWIQ) 54-45N 110-03W 700M
+Oct 17, 2013 - 07:00 PM EDT / 2013.10.17 2300 UTC
+Wind: from the NW (320 degrees) at 15 MPH (13 KT) gusting to 23 MPH (20 KT):0
+Visibility: 25 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 56%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+ob: CWIQ 172300Z 32013G20KT 25SM BKN042 06/M02 A3003 RMK SC6 SLP197
+cycle: 23

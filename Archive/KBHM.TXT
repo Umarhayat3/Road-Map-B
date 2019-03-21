@@ -1,0 +1,12 @@
+BIRMINGHAM INT'L AIRPORT, AL, United States (KBHM) 33-34N 086-45W 197M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT) gusting to 25 MPH (22 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 68.0 F (20.0 C)
+Dew Point: 57.9 F (14.4 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KBHM 140853Z 16010G22KT 10SM FEW044 OVC060 20/14 A3001 RMK AO2 SLP156 T02000144 55008
+cycle: 9

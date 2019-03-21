@@ -1,0 +1,5 @@
+Naples, Navsuppact, Italy (EQYN) 40-53N 014-17E
+Mar 16, 2010 - 09:56 AM EDT / 2010.03.16 1356 UTC
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: EQYN 161356Z AUTO A3015 RMK AO2 SLPNO PWINO FZRANO TSNO FIBI
+cycle: 14

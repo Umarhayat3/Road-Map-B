@@ -1,0 +1,10 @@
+Station name not available
+Aug 16, 2018 - 11:58 AM EDT / 2018.08.16 1558 UTC
+Wind: from the N (010 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Temperature: 64.6 F (18.1 C)
+Dew Point: 63.5 F (17.5 C)
+Relative Humidity: 96%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: K1IW 161558Z AUTO 01006KT 10SM M 18/18 A3018 RMK AO2 SLP188 T01810175 
+cycle: 16

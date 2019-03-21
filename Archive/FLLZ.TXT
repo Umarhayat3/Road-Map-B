@@ -1,0 +1,10 @@
+Station name not available
+Jun 01, 2009 - 01:00 AM EDT / 2009.06.01 0500 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 51 F (11 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FLLZ 010500Z 00000KT CAVOK 11/11 Q1021
+cycle: 5

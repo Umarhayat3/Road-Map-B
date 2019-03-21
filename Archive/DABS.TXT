@@ -1,0 +1,11 @@
+Tebessa, Algeria (DABS) 35-29N 008-08E 813M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (310 degrees) at 16 MPH (14 KT) gusting to 28 MPH (24 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: DABS 140800Z 31014G24KT 6000 FEW023 BKN030 06/04 Q1024
+cycle: 8

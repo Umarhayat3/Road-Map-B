@@ -1,0 +1,11 @@
+Valcartier Airport, Canada (CYOY) 46-54N 071-30W 178M
+Mar 14, 2019 - 04:02 AM EDT / 2019.03.14 0802 UTC
+Wind: from the ESE (120 degrees) at 2 MPH (2 KT):0
+Visibility: 1 1/4 mile(s):0
+Sky conditions: overcast
+Temperature: 28 F (-2 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: CYOY 140802Z AUTO 12002KT 1 1/4SM OVC001 M02/M03 A3020
+cycle: 8

@@ -1,0 +1,11 @@
+Bondoukou, Cote d'Ivoire (DIBU) 08-03N 002-47W 370M
+Dec 30, 2017 - 08:00 AM EST / 2017.12.30 1300 UTC
+Wind: Calm:0
+Visibility: 2 mile(s):0
+Weather: haze
+Temperature: 93 F (34 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 17%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: DIBU 301300Z 00000KT 4000 HZ NSC 34/06 Q1014 NOSIG
+cycle: 13

@@ -1,0 +1,10 @@
+Makindu, Kenya (HKMU) 02-17S 037-50E 1000M
+Feb 04, 2017 - 07:00 AM EST / 2017.02.04 1200 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 89 F (32 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 38%
+ob: HKMU 041200Z 12004KT 9999 SCT032 32/16
+cycle: 12

@@ -1,0 +1,6 @@
+Station name not available
+Oct 21, 2008 - 08:00 AM EDT / 2008.10.21 1200 UTC
+Wind: from the NNW (330 degrees) at 3 MPH (3 KT):0
+Temperature: 91 F (33 C)
+ob: FAKP 211200Z AUTO 33003KT //// // ////// 33/// Q////
+cycle: 12

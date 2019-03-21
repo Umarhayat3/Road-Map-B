@@ -1,0 +1,10 @@
+Mafikeng Intl. Ad, South Africa (FAMM) 25-47S 025-32E 1300M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FAMM 140800Z 34004KT CAVOK 28/17 Q1023 NOSIG
+cycle: 8

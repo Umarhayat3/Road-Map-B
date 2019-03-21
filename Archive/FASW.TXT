@@ -1,0 +1,8 @@
+Station name not available
+Aug 22, 2008 - 04:00 AM EDT / 2008.08.22 0800 UTC
+Wind: from the N (360 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 66 F (19 C)
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+ob: FASW 220800Z 36010KT CAVOK 19/// Q1030
+cycle: 8

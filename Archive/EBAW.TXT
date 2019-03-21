@@ -1,0 +1,12 @@
+Antwerpen / Deurne, Belgium (EBAW) 51-12N 004-28E 14M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (240 degrees) at 18 MPH (16 KT) gusting to 30 MPH (26 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 44 F (7 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: EBAW 140750Z 24016G26KT 210V270 9000 -RA SCT013 BKN021 07/05 Q1003 TEMPO 4500 RA BKN012
+cycle: 8

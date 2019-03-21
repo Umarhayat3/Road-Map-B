@@ -1,0 +1,10 @@
+Station name not available
+Jun 09, 2008 - 12:00 PM EDT / 2008.06.09 1600 UTC
+Wind: from the ESE (120 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 64 F (18 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 39%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FLNS 091600Z 12006KT CAVOK 18/04 Q1024
+cycle: 16

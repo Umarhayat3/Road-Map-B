@@ -1,0 +1,11 @@
+Station name not available
+Jul 18, 2018 - 11:00 AM EDT / 2018.07.18 1500 UTC
+Wind: from the NNW (330 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Heat index: 94.6 F (34.8 C):1
+Dew Point: 64 F (18 C)
+Relative Humidity: 38%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: HHEM 181500Z 33006KT CAVOK 34/18 Q1004 NOSIG
+cycle: 15

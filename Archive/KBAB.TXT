@@ -1,0 +1,11 @@
+Marysville, Beale Air Force Base, CA, United States (KBAB) 39-08N 121-26W
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: from the NNW (340 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 42.3 F (5.7 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+ob: KBAB 130958Z AUTO 34013KT 10SM CLR 06/00 A3008 RMK AO2 SLP189 T00570000 
+cycle: 10

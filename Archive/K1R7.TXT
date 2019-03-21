@@ -1,0 +1,11 @@
+Station name not available
+Jun 21, 2017 - 04:15 PM EDT / 2017.06.21 2015 UTC
+Wind: from the ENE (060 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: K1R7 212015Z AUTO 06003KT 10SM BKN005 25/24 A2983 RMK AO2
+cycle: 20

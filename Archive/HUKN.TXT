@@ -1,0 +1,10 @@
+Station name not available
+Dec 16, 2008 - 03:00 AM EST / 2008.12.16 0800 UTC
+Wind: from the ESE (110 degrees) at 2 MPH (2 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 77%
+ob: HUKN 160800Z 11002KT 6000 SCT020 BKN120 19/15
+cycle: 8

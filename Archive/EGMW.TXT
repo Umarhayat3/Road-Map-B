@@ -1,0 +1,10 @@
+Station name not available
+Jul 31, 2017 - 02:50 AM EDT / 2017.07.31 0650 UTC
+Wind: from the SSW (210 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: EGMW 310650Z 21013KT CAVOK 16/12 Q1010
+cycle: 7

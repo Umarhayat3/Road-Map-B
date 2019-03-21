@@ -1,0 +1,11 @@
+Station name not available
+Jan 13, 2011 - 10:45 AM EST / 2011.01.13 1545 UTC
+Wind: from the W (280 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 41.2 F (5.1 C)
+Dew Point: 19.0 F (-7.2 C)
+Relative Humidity: 40%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: K00V 131545Z AUTO 28005KT 10SM SCT110 05/M07 A3024 RMK AO2 T00511072
+cycle: 16

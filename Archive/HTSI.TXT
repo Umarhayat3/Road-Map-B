@@ -1,0 +1,10 @@
+Station name not available
+Nov 14, 2018 - 07:00 AM EST / 2018.11.14 1200 UTC
+Wind: from the E (080 degrees) at 21 MPH (18 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 86 F (30 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 27%
+ob: HTSI 141200Z 08018KT 9999 SCT025 30/09
+cycle: 12

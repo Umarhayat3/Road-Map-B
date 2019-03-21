@@ -1,0 +1,11 @@
+Saint John, N. B., Canada (CYSJ) 45-20N 065-53W 109M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 15 F (-9 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: CYSJ 140800Z 00000KT 15SM FEW120 FEW200 M09/M09 A3024 RMK AC1CI1 SLP250
+cycle: 8

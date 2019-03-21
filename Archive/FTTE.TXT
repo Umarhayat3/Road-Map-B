@@ -1,0 +1,9 @@
+Station name not available
+Jan 16, 2019 - 07:00 AM EST / 2019.01.16 1200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 87 F (31 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 9%
+ob: FTTE 161200Z 00000KT CAVOK 31/M05 Q////
+cycle: 12

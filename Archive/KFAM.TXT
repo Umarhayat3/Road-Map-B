@@ -1,0 +1,13 @@
+Farmington Airport, MO, United States (KFAM) 37-46N 090-26W
+Mar 14, 2019 - 05:12 AM EDT / 2019.03.14 0912 UTC
+Wind: from the S (190 degrees) at 14 MPH (12 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Precipitation last hour: A trace
+Temperature: 55 F (13 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.58 in. Hg (1001 hPa)
+ob: KFAM 140912Z AUTO 19012KT 5SM -RA BR BKN009 OVC014 13/13 A2958 RMK AO2 RAB01 CIG 006V011 P0000
+cycle: 9

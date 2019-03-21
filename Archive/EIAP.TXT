@@ -1,0 +1,11 @@
+Station name not available
+Jul 03, 2016 - 02:30 PM EDT / 2016.07.03 1830 UTC
+Wind: from the SSW (210 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: EIAP 031830Z 21008KT 9999 SCT012 26/24 Q1014 TEMPO BKN011
+cycle: 18

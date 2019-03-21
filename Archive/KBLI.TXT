@@ -1,0 +1,12 @@
+BELLINGHAM INTERNATIONAL  AIRPORT, WA, United States (KBLI) 48-48N 122-32W 50M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 36.0 F (2.2 C)
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.4 in. Hg (1029 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) higher than three hours ago
+ob: KBLI 140853Z AUTO 00000KT 10SM FEW060 02/M01 A3040 RMK AO2 SLP304 T00221006 51005
+cycle: 9

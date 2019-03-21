@@ -1,0 +1,11 @@
+Aeroport de Wemindji, Que., Canada (CYNC) 53-00-39N 078-49-49W
+Mar 13, 2019 - 04:00 PM EDT / 2019.03.13 2000 UTC
+Wind: from the SW (230 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 64%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: CYNC 132000Z CCA 23004KT 190V260 15SM BKN087 04/M02 A2981 RMK AC5 LAST STFD OBS/NEXT 141300UTC SLP098
+cycle: 20

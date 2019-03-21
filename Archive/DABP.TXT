@@ -1,0 +1,11 @@
+Skikda, Algeria (DABP) 36-56N 006-57E 7M
+May 25, 2015 - 09:00 AM EDT / 2015.05.25 1300 UTC
+Wind: from the NNW (330 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 72%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: DABP 251300Z 33008KT 9999 FEW030 BKN100 20/15 Q1012
+cycle: 13

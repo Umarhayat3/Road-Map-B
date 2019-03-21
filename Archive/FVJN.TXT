@@ -1,0 +1,10 @@
+Station name not available
+Mar 12, 2019 - 11:00 AM EDT / 2019.03.12 1500 UTC
+Wind: from the SSE (160 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 87 F (31 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 25%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FVJN 121500Z 16007KT 100V210 CAVOK 31/09 Q1019 NOSIG
+cycle: 15

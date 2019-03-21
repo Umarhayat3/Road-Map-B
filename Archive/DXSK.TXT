@@ -1,0 +1,9 @@
+Sokode, Togo (DXSK) 08-59N 001-09E 387M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 94%
+ob: DXSK 140600Z 00000KT CAVOK 25/24 Q////
+cycle: 6

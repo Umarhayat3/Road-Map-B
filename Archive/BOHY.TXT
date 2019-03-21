@@ -1,0 +1,11 @@
+Station name not available
+Jan 15, 2019 - 12:00 AM EST / 2019.01.15 0500 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: 1 mile(s):0
+Weather: haze
+Temperature: 78 F (26 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: BOHY 150500Z VRB03KT 3000 HZ NSC 26/19 Q1021 BECMG 5000 HZ
+cycle: 5

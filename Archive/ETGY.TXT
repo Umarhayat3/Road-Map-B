@@ -1,0 +1,10 @@
+Kalkar, Germany (ETGY) 51-44N 006-16E 43M
+Jan 22, 2014 - 07:20 AM EST / 2014.01.22 1220 UTC
+Wind: from the SSE (160 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: ETGY 221220Z AUTO 16004KT 6000 // ////// 05/02 Q1012 ///
+cycle: 12

@@ -1,0 +1,12 @@
+CHANUTE JOHNSON AIRPORT, KS, United States (KCNU) 37-40N 95-29W 297M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the WSW (240 degrees) at 23 MPH (20 KT) gusting to 39 MPH (34 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 48.0 F (8.9 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.38 in. Hg (994 hPa)
+Pressure tendency: 0.12 inches (4.0 hPa) higher than three hours ago
+ob: KCNU 140852Z AUTO 24020G34KT 10SM OVC032 09/02 A2938 RMK AO2 PK WND 22038/0821 SLP944 T00890017 51040
+cycle: 9

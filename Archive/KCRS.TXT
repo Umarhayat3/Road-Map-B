@@ -1,0 +1,12 @@
+CORSICANA AIRFIELD, TX, United States (KCRS) 32-01N 96-23W 133M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (280 degrees) at 13 MPH (11 KT):0
+Visibility: 8 mile(s):0
+Sky conditions: overcast
+Temperature: 63.0 F (17.2 C)
+Dew Point: 46.0 F (7.8 C)
+Relative Humidity: 53%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+Pressure tendency: 0.11 inches (3.6 hPa) higher than three hours ago
+ob: KCRS 140853Z AUTO 28011KT 8SM OVC045 17/08 A2972 RMK AO2 SLP060 60039 T01720078 50036
+cycle: 9

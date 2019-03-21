@@ -1,0 +1,9 @@
+Souanke, Congo, Republic of the (FCOS) 02-04N 014-08E 550M
+Mar 27, 2017 - 11:00 AM EDT / 2017.03.27 1500 UTC
+Wind: from the SW (220 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds, towering cumulus clouds observed
+Temperature: 91 F (33 C)
+ob: FCOS 271500Z 22004KT 9999 SCT023TCU FEW030CB 33/// Q////
+cycle: 15

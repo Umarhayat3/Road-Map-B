@@ -1,0 +1,11 @@
+Benina, Libya (HLLB) 32-06N 020-16E 132M
+Feb 04, 2019 - 01:50 PM EST / 2019.02.04 1850 UTC
+Wind: from the WNW (290 degrees) at 12 MPH (10 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 55 F (13 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: HLLB 041850Z 29010KT 8000 BKN020 13/12 Q1010
+cycle: 19

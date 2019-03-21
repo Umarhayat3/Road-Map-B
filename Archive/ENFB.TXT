@@ -1,0 +1,10 @@
+Oslo / Fornebu, Norway (ENFB) 59-54N 010-38E 17M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: ENFB 140820Z AUTO 05004KT 9999NDV BKN023/// BKN056/// 04/01 Q0984 W///S4
+cycle: 8

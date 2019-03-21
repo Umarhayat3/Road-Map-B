@@ -1,0 +1,12 @@
+Faro Airport, Canada (CZFA) 62-12N 133-22W
+Mar 13, 2019 - 06:00 PM EDT / 2019.03.13 2200 UTC
+Wind: from the ESE (120 degrees) at 12 MPH (10 KT) gusting to 18 MPH (16 KT):0
+Visibility: 30 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.78 in. Hg (1008 hPa)
+ob: CZFA 132200Z 12010G16KT 30SM FEW050 FEW150 OVC210 01/M09 A2978 RMK CF1AC2CS6 CF TR LAST STFD OBS/NXT 141400UTC SLP135
+cycle: 22

@@ -1,0 +1,11 @@
+Station name not available
+Nov 23, 2009 - 08:50 PM EST / 2009.11.24 0150 UTC
+Wind: Calm:0
+Visibility: 3 mile(s):0
+Sky conditions: clear
+Temperature: 62 F (17 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.96 in. Hg (1014 hPa)
+ob: GIJQ 240150Z 00000KT 6000 SKC 17/14 Q1014 A2996
+cycle: 2

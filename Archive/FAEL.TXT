@@ -1,0 +1,11 @@
+East London, East London Airport, South Africa (FAEL) 33-02S 027-50E 0M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (230 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FAEL 140800Z 23009KT 9999 BKN042 21/16 Q1020
+cycle: 8

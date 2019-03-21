@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NW (320 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Temperature: 29.7 F (-1.3 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 21.9 F (-5.6 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: KBDG 140855Z AUTO 32011KT 10SM M01/M06 A3000 RMK AO1 T10131056
+cycle: 9

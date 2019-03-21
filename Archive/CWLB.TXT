@@ -1,0 +1,9 @@
+Lac La Biche, Alta., Canada (CWLB) 54-46N 112-01W 567M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (280 degrees) at 6 MPH (5 KT):0
+Temperature: 26.4 F (-3.1 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 14.4 F (-9.8 C)
+Relative Humidity: 59%
+ob: CWLB 140700Z AUTO 28005KT M03/M10 RMK AO1 SOG 23 1008 SLP221 T10311098
+cycle: 7

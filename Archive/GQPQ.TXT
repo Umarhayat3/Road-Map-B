@@ -1,0 +1,10 @@
+Station name not available
+Jun 27, 2017 - 09:00 PM EDT / 2017.06.28 0100 UTC
+Wind: from the N (010 degrees) at 9 MPH (8 KT):0
+Visibility: 4 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GQPQ 280100Z 01008KT 7000 NSC 24/21 Q1016 NOSIG
+cycle: 1

@@ -1,0 +1,12 @@
+Abidjan, Cote d'Ivoire (DIAP) 05-15N 003-56W 8M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (240 degrees) at 8 MPH (7 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly clear
+Temperature: 86 F (30 C)
+Heat index: 99.3 F (37.4 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: DIAP 140800Z 24007KT 8000 FEW011 30/26 Q1010 NOSIG
+cycle: 8

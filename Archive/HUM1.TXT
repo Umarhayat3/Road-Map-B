@@ -1,0 +1,11 @@
+Station name not available
+Mar 03, 2011 - 06:00 AM EST / 2011.03.03 1100 UTC
+Wind: from the W (260 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 87 F (31 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 40%
+ob: HUM1 031100Z 26006KT 9999 BKN023 FEW025CB 31/16
+cycle: 11

@@ -1,0 +1,12 @@
+Station name not available
+Dec 04, 2010 - 12:56 PM EST / 2010.12.04 1756 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.0 F (18.9 C)
+Dew Point: 9.0 F (-12.8 C)
+Relative Humidity: 10%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) higher than three hours ago
+ob: KAHK 041756Z AUTO VRB03KT 10SM CLR 19/M13 A3022 RMK AO2 SLP173 T01891128 10189 20061 51005 
+cycle: 18

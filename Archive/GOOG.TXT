@@ -1,0 +1,9 @@
+Linguere, Senegal (GOOG) 15-23N 015-07W 21M
+Mar 10, 2019 - 07:00 PM EDT / 2019.03.10 2300 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 27%
+ob: GOOG 102300Z 00000KT 7000 NSC 25/05 Q////
+cycle: 23

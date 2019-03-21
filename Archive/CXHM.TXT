@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (060 degrees) at 2 MPH (2 KT):0
+Temperature: 34.3 F (1.3 C)
+Dew Point: 33.4 F (0.8 C)
+Relative Humidity: 96%
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: CXHM 140800Z AUTO 06002KT 01/01 RMK AO1 SLP168 T00130008 58006
+cycle: 8

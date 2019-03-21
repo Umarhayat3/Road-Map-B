@@ -1,0 +1,10 @@
+Cove Island Meteorological Aeronautical Presentation System , Canada (CWWX) 45-20N 081-44W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (140 degrees) at 8 MPH (7 KT):0
+Temperature: 33.3 F (0.7 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 32.9 F (0.5 C)
+Relative Humidity: 98%
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: CWWX 140700Z AUTO 14007KT 01/01 RMK AO1 SLP145 T00070005 58006
+cycle: 7

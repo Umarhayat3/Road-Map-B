@@ -1,0 +1,11 @@
+Station name not available
+Aug 22, 2013 - 01:00 AM EDT / 2013.08.22 0500 UTC
+Wind: from the SSW (210 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 95 F (35 C)
+Heat index: 109.8 F (43.2 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 56%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: HDAN 220500Z 21004KT CAVOK 35/25 Q1005
+cycle: 5

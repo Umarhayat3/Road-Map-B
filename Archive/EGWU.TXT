@@ -1,0 +1,12 @@
+Northolt, United Kingdom (EGWU) 51-33N 000-25W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (260 degrees) at 22 MPH (19 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 50 F (10 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EGWU 140750Z 26019KT 9999 -RA BKN018 BKN020 10/08 Q1002 TEMPO 6000 SHRA
+cycle: 8

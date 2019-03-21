@@ -1,0 +1,10 @@
+Lagoon City , Canada (CWGL) 44-32N 079-13W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (080 degrees) at 5 MPH (4 KT):0
+Temperature: 33.4 F (0.8 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 31.3 F (-0.4 C)
+Relative Humidity: 91%
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: CWGL 140700Z AUTO 08004KT 01/M00 RMK AO1 SLP178 T00081004 55004
+cycle: 7

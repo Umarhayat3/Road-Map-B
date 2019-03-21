@@ -1,0 +1,11 @@
+Kremmling, Mc Elroy Airfield, CO, United States (K20V) 40-03-13N 106-22-08W
+Mar 14, 2019 - 04:50 AM EDT / 2019.03.14 0850 UTC
+Wind: from the WNW (300 degrees) at 3 MPH (3 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 19 F (-7 C)
+Dew Point: 14 F (-10 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: K20V 140850Z AUTO 30003KT 7SM SCT025 BKN050 OVC080 M07/M10 A2992 RMK AO2
+cycle: 9

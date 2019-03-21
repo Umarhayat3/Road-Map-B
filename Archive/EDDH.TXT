@@ -1,0 +1,11 @@
+Hamburg-Fuhlsbuettel, Germany (EDDH) 53-38N 010-00E 15M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EDDH 140750Z 23012KT 9999 BKN015 06/04 Q0998 BECMG 24015G25KT
+cycle: 8

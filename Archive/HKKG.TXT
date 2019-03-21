@@ -1,0 +1,6 @@
+Kakamega, Kenya (HKKG) 00-17N 034-47E
+Feb 04, 2017 - 08:00 AM EST / 2017.02.04 1300 UTC
+Wind: from the SW (230 degrees) at 21 MPH (18 KT):0
+Weather: rain during the past hour
+ob: HKKG 041300Z 23018KT RERA
+cycle: 13

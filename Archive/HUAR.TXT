@@ -1,0 +1,11 @@
+Arua, Uganda (HUAR) 03-03N 030-55E 1211M
+Sep 02, 2013 - 08:00 AM EDT / 2013.09.02 1200 UTC
+Wind: from the W (270 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 80 F (27 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 57%
+ob: HUAR 021200Z 27004KT 9999 BKN020 FEW023CB SCT300 27/18
+cycle: 12

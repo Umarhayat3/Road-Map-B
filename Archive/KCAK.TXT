@@ -1,0 +1,12 @@
+AKRON-CANTON REGIONAL AIRPORT , OH, United States (KCAK) 40-55N 081-27W 377M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the S (170 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 50.0 F (10.0 C)
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.95 in. Hg (1014 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KCAK 140851Z 17008KT 10SM SCT250 10/M01 A2995 RMK AO2 SLP145 T01001006 58012
+cycle: 9

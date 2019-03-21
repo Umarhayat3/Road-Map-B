@@ -1,0 +1,11 @@
+Aberdeen / Dyce, United Kingdom (EGPD) 57-12N 002-13W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WNW (290 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 44 F (7 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.12 in. Hg (0986 hPa)
+ob: EGPD 140750Z 29012KT 9999 FEW015 07/02 Q0986
+cycle: 8

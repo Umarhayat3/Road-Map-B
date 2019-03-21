@@ -1,0 +1,10 @@
+Station name not available
+May 04, 2010 - 01:00 PM EDT / 2010.05.04 1700 UTC
+Wind: from the NW (310 degrees) at 21 MPH (18 KT):0
+Visibility: 4 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 27%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: DAMN 041700Z 31018KT 8000 NSC 17/M02 Q1008
+cycle: 17

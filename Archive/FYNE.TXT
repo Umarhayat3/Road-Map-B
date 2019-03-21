@@ -1,0 +1,9 @@
+Station name not available
+Aug 07, 2008 - 01:00 AM EDT / 2008.08.07 0500 UTC
+Wind: Calm:0
+Temperature: 41 F (5 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FYNE 070500Z AUTO 00000KT //// // ////// 05/M00 Q1018
+cycle: 5

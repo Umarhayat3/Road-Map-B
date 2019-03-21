@@ -1,0 +1,12 @@
+Igloolik Airport, Canada (CYGT) 69-22N 081-49W
+Mar 13, 2019 - 04:00 PM EDT / 2019.03.13 2000 UTC
+Wind: from the NW (320 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: partly cloudy
+Temperature: -18 F (-28 C)
+Windchill: -31 F (-35 C):2
+Dew Point: -23 F (-31 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: CYGT 132000Z 32004KT 15SM SCT220 M28/M31 A3000 RMK CS3 S0 AFT 20UTC/LAST STFD OBS/NEXT 1409UTC SLP169
+cycle: 20

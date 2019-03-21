@@ -1,0 +1,10 @@
+Station name not available
+Jul 30, 2008 - 01:00 AM EDT / 2008.07.30 0500 UTC
+Wind: from the N (360 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 24%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: ITAM 300500Z 36004MPS CAVOK 34/11 Q1003 NOSIG
+cycle: 5

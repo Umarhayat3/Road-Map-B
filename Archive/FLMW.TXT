@@ -1,0 +1,9 @@
+Mwinilunga, Zambia (FLMW) 11-45S 024-26E 1363M
+May 14, 2012 - 02:00 AM EDT / 2012.05.14 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 93%
+ob: FLMW 140600Z 00000KT CAVOK 15/14 Q////
+cycle: 6

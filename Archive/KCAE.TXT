@@ -1,0 +1,12 @@
+COLUMBIA METROPOLITAN AIRPORT , SC, United States (KCAE) 33-57N 081-07W 73M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 51.1 F (10.6 C)
+Dew Point: 50.0 F (10.0 C)
+Relative Humidity: 96%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KCAE 140856Z 00000KT 10SM CLR 11/10 A3021 RMK AO2 SLP230 T01060100 58008
+cycle: 9

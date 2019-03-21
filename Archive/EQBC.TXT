@@ -1,0 +1,12 @@
+Station name not available
+Mar 27, 2008 - 06:00 AM EST / 2008.03.27 1100 UTC
+Wind: from the SSE (150 degrees) at 6 MPH (5 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: haze
+Temperature: 87 F (31 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 27%
+Pressure (altimeter): 87.53 in. Hg (2964 hPa)
+ob: EQBC 271100Z 15005KT 6000 HZ BKN200 31/10 Q2964 2956
+cycle: 11

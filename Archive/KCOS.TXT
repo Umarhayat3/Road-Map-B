@@ -1,0 +1,13 @@
+COLORADO SPRINGS MUNI, CO, United States (KCOS) 38-49N 104-43W 1856M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the NNW (340 degrees) at 18 MPH (16 KT) gusting to 28 MPH (24 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 26.1 F (-3.3 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 19.0 F (-7.2 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+Pressure tendency: 0.08 inches (2.7 hPa) higher than three hours ago
+ob: KCOS 140854Z 34016G24KT 10SM SCT065 BKN150 M03/M07 A2980 RMK AO2 SLP132 T10331072 53027 PNO 
+cycle: 9

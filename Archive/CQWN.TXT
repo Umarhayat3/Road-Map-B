@@ -1,0 +1,11 @@
+Station name not available
+Jun 04, 2013 - 01:00 PM EDT / 2013.06.04 1700 UTC
+Wind: from the S (180 degrees) at 3 MPH (3 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 66 F (19 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 32%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: CQWN 041700Z 18003KT 15SM FEW040 OVC230 19/02 A3016 RMK CU1CI2 DA3083FT WND ESTD SLP193
+cycle: 17

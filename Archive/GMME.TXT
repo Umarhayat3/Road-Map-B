@@ -1,0 +1,12 @@
+Rabat-Sale, Morocco (GMME) 34-03N 006-46W 75M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the E (090 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 51 F (11 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: GMME 140830Z 09003KT 030V140 4000 BR BKN016 11/10 Q1025 NOSIG
+cycle: 8

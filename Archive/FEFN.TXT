@@ -1,0 +1,10 @@
+N'Dele, Central African Republic (FEFN) 08-24N 020-39E 511M
+Jun 12, 2009 - 01:00 AM EDT / 2009.06.12 0500 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: thunder; rain during the past hour; Cumulonimbus clouds observed
+Temperature: 71 F (22 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 100%
+ob: FEFN 120500Z /////KT 9999 TS SCT005 FEW033CB OVC120 22/22 Q//// RERA
+cycle: 5

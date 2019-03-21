@@ -1,0 +1,11 @@
+Cambridge Bay, N. W. T., Canada (CYCB) 69-06N 105-07W 27M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (030 degrees) at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: -11 F (-24 C)
+Dew Point: -20 F (-29 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.28 in. Hg (1025 hPa)
+ob: CYCB 140800Z 03002KT 15SM BKN080 M24/M29 A3028 RMK AC7 SLP260
+cycle: 8

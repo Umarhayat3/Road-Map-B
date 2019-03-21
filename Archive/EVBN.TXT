@@ -1,0 +1,12 @@
+Station name not available
+Feb 26, 2019 - 08:00 AM EST / 2019.02.26 1300 UTC
+Wind: from the NE (050 degrees) at 7 MPH (6 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly clear
+Weather: haze
+Temperature: 75 F (24 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: EVBN 261300Z 05006KT 4000 HZ FEW020 24/10 Q1007 NOSIG
+cycle: 13

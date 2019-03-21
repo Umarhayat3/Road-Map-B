@@ -1,0 +1,10 @@
+In Amenas, Algeria (DAUZ) 28-03N 009-38E 562M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (060 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 8 F (-13 C)
+Relative Humidity: 13%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DAUZ 140800Z 06002KT CAVOK 15/M13 Q1022
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+Nov 25, 2008 - 09:00 AM EST / 2008.11.25 1400 UTC
+Wind: from the E (080 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 96 F (36 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 13%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GAPS 251400Z 08008KT 030V120 CAVOK 36/04 Q1013 NOSIG
+cycle: 14

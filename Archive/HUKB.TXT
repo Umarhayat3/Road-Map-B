@@ -1,0 +1,10 @@
+Kabale, Uganda (HUKB) 01-15S 029-59E 1869M
+Feb 22, 2016 - 07:00 AM EST / 2016.02.22 1200 UTC
+Wind: from the SSE (160 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 47%
+ob: HUKB 221200Z 16002KT 9999 SCT020 27/15
+cycle: 12

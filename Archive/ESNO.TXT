@@ -1,0 +1,13 @@
+Ornskoldsvik Airport, Sweden (ESNO) 63-24N 018-58E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (140 degrees) at 14 MPH (12 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: light freezing rain
+Temperature: 32 F (0 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: ESNO 140820Z 14012KT 0350 R12/0600N R30/0550N -FZRA OVC001 M00/M00 Q0989
+cycle: 8

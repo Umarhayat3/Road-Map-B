@@ -1,0 +1,13 @@
+Station name not available
+Mar 13, 2019 - 12:48 PM EDT / 2019.03.13 1648 UTC
+Wind: from the N (350 degrees) at 31 MPH (27 KT) gusting to 47 MPH (41 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: snow
+Temperature: 33.1 F (0.6 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.14 in. Hg (986 hPa)
+ob: KEIK 131648Z AUTO 35027G41KT 1/4SM SN OVC005 01/00 A2914 RMK AO2 T00060000
+cycle: 17

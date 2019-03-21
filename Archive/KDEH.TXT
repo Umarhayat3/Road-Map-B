@@ -1,0 +1,13 @@
+Decorah, IA, United States (KDEH) 43-17N 091-44W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (140 degrees) at 7 MPH (6 KT):0
+Visibility: less than 1/4 mile(s):1
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: 0.07 inches
+Temperature: 44 F (7 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.3 in. Hg (992 hPa)
+ob: KDEH 140855Z AUTO 14006KT M1/4SM -RA OVC001 07/07 A2930 RMK AO2 P0007
+cycle: 9

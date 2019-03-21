@@ -1,0 +1,11 @@
+Station name not available
+May 02, 2014 - 08:30 AM EDT / 2014.05.02 1230 UTC
+Wind: from the W (280 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 35.2 F (1.8 C)
+Dew Point: 12.7 F (-10.7 C)
+Relative Humidity: 38%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: K8V1 021230Z AUTO 28014KT 10SM CLR 02/M11 A3024 RMK AO2 T00181107
+cycle: 12

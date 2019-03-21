@@ -1,0 +1,11 @@
+Sandspit, B. C., Canada (CYZP) 53-15N 131-49W 6M
+Mar 14, 2019 - 04:05 AM EDT / 2019.03.14 0805 UTC
+Wind: from the W (260 degrees) at 15 MPH (13 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.87 in. Hg (1011 hPa)
+ob: CYZP 140805Z AUTO 26013KT 9SM SCT048 OVC075 03/02 A2987 RMK SLP118
+cycle: 8

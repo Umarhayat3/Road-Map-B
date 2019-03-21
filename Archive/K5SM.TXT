@@ -1,0 +1,8 @@
+Sunlight, CO, United States (K5SM) 39-25-32N 107-22-45W
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Visibility: 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+ob: K5SM 140854Z AUTO 1/2SM -SN OVC001 A2989 RMK AO2
+cycle: 9

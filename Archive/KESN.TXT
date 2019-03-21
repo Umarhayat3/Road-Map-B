@@ -1,0 +1,11 @@
+Easton / Newman Field, MD, United States (KESN) 38-48N 076-04W
+Mar 14, 2019 - 05:18 AM EDT / 2019.03.14 0918 UTC
+Wind: from the S (170 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 46.2 F (7.9 C)
+Dew Point: 35.6 F (2.0 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: KESN 140918Z AUTO 17007KT 10SM CLR 08/02 A3024 RMK AO2 T00790020
+cycle: 9

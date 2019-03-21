@@ -1,0 +1,13 @@
+DENVER CENTENNIAL AIRPORT, CO, United States (KAPA) 39-34N 104-51W 1775M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the N (350 degrees) at 24 MPH (21 KT) gusting to 35 MPH (30 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 26.1 F (-3.3 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 19.0 F (-7.2 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+Pressure tendency: 0.09 inches (3.0 hPa) higher than three hours ago
+ob: KAPA 140853Z 35021G30KT 10SM OVC070 M03/M07 A2981 RMK AO2 PK WND 36031/0834 SLP129 60000 T10331072 53030
+cycle: 9

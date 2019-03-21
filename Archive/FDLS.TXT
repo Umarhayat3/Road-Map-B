@@ -1,0 +1,6 @@
+Station name not available
+Oct 07, 2008 - 06:00 AM EDT / 2008.10.07 1000 UTC
+Wind: from the ENE (060 degrees) at 10 MPH (9 KT):0
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FDLS 071000Z AUTO 06009KT //// // ////// ///// Q1024
+cycle: 10

@@ -1,0 +1,7 @@
+Station name not available
+Aug 04, 2012 - 03:30 PM EDT / 2012.08.04 1930 UTC
+Wind: from the SSW (210 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: HSSH 041930Z 21010KT CAVOK Q1011
+cycle: 19

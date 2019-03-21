@@ -1,0 +1,12 @@
+Lamu, Kenya (HKLU) 02-16S 040-50E
+Apr 26, 2017 - 07:00 AM EDT / 2017.04.26 1100 UTC
+Wind: from the S (180 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 91 F (33 C)
+Heat index: 101.5 F (38.6 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 59%
+ob: HKLU 261100Z 18010KT 9999 FEW026CB SCT027 33/24
+cycle: 11

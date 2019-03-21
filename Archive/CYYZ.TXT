@@ -1,0 +1,12 @@
+Toronto Pearson Int'L. Ont., Canada (CYYZ) 43-40N 079-38W 173M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (100 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 35 F (2 C)
+Windchill: 30 F (-1 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: CYYZ 140800Z 10004KT 15SM FEW100 SCT150 BKN220 02/M01 A3002 RMK AC1AC3CI2 SLP173
+cycle: 8

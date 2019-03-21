@@ -1,0 +1,9 @@
+Station name not available
+Aug 17, 2016 - 05:00 AM EDT / 2016.08.17 0900 UTC
+Wind: from the W (280 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 65%
+ob: FTTM 170900Z 28010KT CAVOK 27/20 Q////
+cycle: 9

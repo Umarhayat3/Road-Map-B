@@ -1,0 +1,12 @@
+West Delta, MS, United States (KDLP) 29-07-17N 089-32-50W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (100 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: clear
+Weather: mist
+Temperature: 69 F (21 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: KDLP 140855Z AUTO 10004KT 4SM BR CLR 21/21 A2991 RMK A01
+cycle: 9

@@ -1,0 +1,11 @@
+Dallas / Addison Airport, TX, United States (KADS) 32-58N 096-50W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (270 degrees) at 18 MPH (16 KT) gusting to 32 MPH (28 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.0 F (18.9 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 29%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+ob: KADS 140855Z AUTO 27016G28KT 10SM CLR 19/01 A2973 RMK AO2 T01890006
+cycle: 9

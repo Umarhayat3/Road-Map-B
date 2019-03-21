@@ -1,0 +1,10 @@
+Station name not available
+Mar 05, 2012 - 03:00 PM EST / 2012.03.05 2000 UTC
+Wind: from the W (260 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: CCAT 052000Z 26011KT CAVOK 25/14 Q1012
+cycle: 20

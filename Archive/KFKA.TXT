@@ -1,0 +1,12 @@
+Preston, Fillmore County Airport, MN, United States (KFKA) 43-40-36N 092-10-47W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (170 degrees) at 9 MPH (8 KT):0
+Visibility: less than 1/4 mile(s):1
+Weather: light rain; Lightning observed
+Precipitation last hour: 0.01 inches
+Temperature: 41.2 F (5.1 C)
+Dew Point: 40.1 F (4.5 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.3 in. Hg (992 hPa)
+ob: KFKA 140856Z AUTO 17008KT M1/4SM -RA 05/05 A2930 RMK AO2 LTG DSNT E AND SE P0001 6//// T00510045
+cycle: 9

@@ -1,0 +1,10 @@
+Cap Tourmente, Canada (CWTN) 47-04N 070-48W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (280 degrees) at 6 MPH (5 KT):0
+Temperature: 30.0 F (-1.1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 84%
+Pressure tendency: 0.01 inches (0.4 hPa) higher than three hours ago
+ob: CWTN 140700Z AUTO 28005KT M01/M03 RMK AO1 SLP243 T10111033 53004
+cycle: 7

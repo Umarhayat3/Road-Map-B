@@ -1,0 +1,11 @@
+Cascade Locks State, OR, United States (KCZK) 45-40N 121-53W
+Sep 30, 2013 - 06:45 PM EDT / 2013.09.30 2245 UTC
+Wind: from the SSW (210 degrees) at 13 MPH (11 KT) gusting to 21 MPH (18 KT) (direction variable):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: rain; mist
+Temperature: 51 F (11 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 100%
+ob: KCZK 302245Z 21011G18KT 170V240 3SM RA BR OVC045 11/11 RMK SLP138 NO SPECI CLD HGT AND VIS VISUALLY ESTMD 
+cycle: 23

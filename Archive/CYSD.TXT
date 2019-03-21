@@ -1,0 +1,11 @@
+Suffield Airport, Canada (CYSD) 50-16N 111-11W
+Mar 31, 2015 - 05:00 PM EDT / 2015.03.31 2100 UTC
+Wind: from the WSW (250 degrees) at 24 MPH (21 KT) gusting to 32 MPH (28 KT):0
+Visibility: 25 mile(s):0
+Sky conditions: mostly clear
+Temperature: 69 F (21 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 19%
+Pressure (altimeter): 29.5 in. Hg (998 hPa)
+ob: CYSD 312100Z 25021G28KT 25SM FEW110 FEW180 21/M03 A2950 RMK AC2AC1 DA4379FT THANKS FOR THE MEMORIES SLP992
+cycle: 21

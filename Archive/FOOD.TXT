@@ -1,0 +1,12 @@
+Moanda, Gabon (FOOD) 01-32S 013-16E 573M
+Apr 27, 2008 - 04:30 PM EDT / 2008.04.27 2030 UTC
+Wind: from the SW (220 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 82 F (28 C)
+Dew Point: 78 F (26 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FOOD 272030Z 22005KT 180V240 8000 TS SCT011 FEW018CB SCT033 28/26 Q1010 NOSIG
+cycle: 20

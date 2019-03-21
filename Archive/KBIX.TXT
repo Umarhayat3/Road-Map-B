@@ -1,0 +1,11 @@
+Keesler Air Force Base / Biloxi, MS, United States (KBIX) 30-25N 088-55W
+Mar 14, 2019 - 03:16 AM EDT / 2019.03.14 0716 UTC
+Wind: from the S (190 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 69 F (21 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.96 in. Hg (1014 hPa)
+ob: KBIX 140716Z AUTO 19006KT 10SM OVC005 21/20 A2996 RMK AO2 CIG 004 RWY03 SLP148
+cycle: 7

@@ -1,0 +1,12 @@
+Humberside, United Kingdom (EGNJ) 53-35N 000-21W
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (270 degrees) at 29 MPH (25 KT) gusting to 44 MPH (38 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 51 F (11 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: EGNJ 140820Z 27025G38KT 9999 FEW014CB SCT025 11/07 Q0993
+cycle: 8

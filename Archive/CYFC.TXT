@@ -1,0 +1,11 @@
+Fredericton, N. B., Canada (CYFC) 45-52N 066-32W 20M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (220 degrees) at 3 MPH (3 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 26 F (-3 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.23 in. Hg (1023 hPa)
+ob: CYFC 140800Z AUTO 22003KT 9SM CLR M03/M06 A3023 RMK SLP240
+cycle: 8

@@ -1,0 +1,10 @@
+Western Island Meteorological Aeronautical Presentation System , Canada (CWMZ) 45-02N 080-22W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (120 degrees) at 17 MPH (15 KT):0
+Temperature: 33.1 F (0.6 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 31.8 F (-0.1 C)
+Relative Humidity: 95%
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: CWMZ 140700Z AUTO 12015KT 01/M00 RMK AO1 PK WND 12018/0659 SLP160 T00061001 58006
+cycle: 7

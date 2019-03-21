@@ -1,0 +1,11 @@
+Station name not available
+Apr 09, 2017 - 06:30 PM EDT / 2017.04.09 2230 UTC
+Wind: from the E (100 degrees) at 23 MPH (20 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 62 F (17 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: GMTU 092230Z 10020KT 9999 FEW016 SCT200 17/11 Q1018 NOSIG
+cycle: 22

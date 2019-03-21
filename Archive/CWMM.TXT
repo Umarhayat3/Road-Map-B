@@ -1,0 +1,9 @@
+P. Meadows Coastal Station Automatic Weather Reporting System, Canada (CWMM) 49-12N 122-41W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 34.7 F (1.5 C)
+Dew Point: 34.3 F (1.3 C)
+Relative Humidity: 98%
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: CWMM 140700Z AUTO 00000KT 02/01 RMK AO1 SLP297 T00150013 52008
+cycle: 7

@@ -1,0 +1,12 @@
+Stuttgart-Echterdingen, Germany (EDDS) 48-41N 009-13E 391M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SSW (210 degrees) at 10 MPH (9 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain showers
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: EDDS 140750Z 21009KT 160V240 9999 -SHRA SCT013 BKN045 05/02 Q1013 NOSIG
+cycle: 8

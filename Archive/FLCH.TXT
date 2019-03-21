@@ -1,0 +1,9 @@
+Choma, Zambia (FLCH) 16-50S 027-04E 1278M
+Jul 23, 2010 - 02:00 AM EDT / 2010.07.23 0600 UTC
+Wind: from the N (009 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 53 F (12 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 81%
+ob: FLCH 230600Z 00903KT CAVOK 12/09
+cycle: 6

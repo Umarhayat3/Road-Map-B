@@ -1,0 +1,11 @@
+BLUEFIELD MERCER COUNTY AIRPORT , WV, United States (KBLF) 37-18N 081-12W 873M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 51.1 F (10.6 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 44%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) lower than three hours ago
+ob: KBLF 140852Z AUTO 10SM CLR 11/M01 A3008 RMK AO2 SLP173 T01061011 58019
+cycle: 9

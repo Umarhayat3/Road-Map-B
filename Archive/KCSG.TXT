@@ -1,0 +1,12 @@
+COLUMBUS METROPOLITAN AIRPORT , GA, United States (KCSG) 32-31N 84-57W 135M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the SE (130 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 61.0 F (16.1 C)
+Dew Point: 55.0 F (12.8 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: KCSG 140851Z AUTO 13009KT 10SM FEW050 16/13 A3009 RMK AO2 SLP186 T01610128 58006
+cycle: 9

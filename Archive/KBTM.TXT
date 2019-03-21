@@ -1,0 +1,13 @@
+BERT MOONEY AIRPORT, MT, United States (KBTM) 45-58N 112-30W 1688M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 8 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 21.9 F (-5.6 C)
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) higher than three hours ago
+ob: KBTM 140853Z AUTO 00000KT 8SM OVC023 M06/M08 A3020 RMK AO2 SNB0757E53 SLP271 P0000 60000 T10561078 53014
+cycle: 9

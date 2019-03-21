@@ -1,0 +1,11 @@
+Stockholm/Skavsta, Sweden (ESKN) 58-47N 016-55E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (160 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 37 F (3 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: ESKN 140820Z 16006KT 9999 BKN003 03/03 Q0989 R26/290195
+cycle: 8

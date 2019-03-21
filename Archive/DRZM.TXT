@@ -1,0 +1,8 @@
+Maine-Soroa, Niger (DRZM) 13-14N 011-59E 337M
+Dec 23, 2009 - 03:30 AM EST / 2009.12.23 0830 UTC
+Wind: from the E (080 degrees) at 14 MPH (12 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: widespread dust
+ob: DRZM 230830Z 08012KT 4500 DU BKN 300
+cycle: 8

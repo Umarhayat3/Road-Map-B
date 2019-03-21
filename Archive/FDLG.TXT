@@ -1,0 +1,6 @@
+Station name not available
+Apr 21, 2009 - 05:00 AM EDT / 2009.04.21 0900 UTC
+Wind: from the WSW (240 degrees) at 10 MPH (9 KT):0
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+ob: FDLG 210900Z AUTO 24009KT //// // ////// ///// Q1030
+cycle: 9

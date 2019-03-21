@@ -1,0 +1,10 @@
+Pilot Mound, Man., Canada (CWPO) 49-12N 098-54W 470M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (350 degrees) at 21 MPH (18 KT) gusting to 28 MPH (24 KT):0
+Temperature: 31.6 F (-0.2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 25.2 F (-3.8 C)
+Relative Humidity: 76%
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: CWPO 140700Z AUTO 35018G24KT M00/M04 RMK AO1 PK WND 27025/0611 SLP090 T10021038 58001
+cycle: 7

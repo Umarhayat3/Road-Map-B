@@ -1,0 +1,11 @@
+Ansbach / Katterbach, Germany (ETEB) 49-19N 010-38E 476M
+Mar 14, 2019 - 04:06 AM EDT / 2019.03.14 0806 UTC
+Wind: from the SW (230 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+ob: ETEB 140806Z AUTO 23014KT 9999 BKN017 BKN025 04/04 A2984 RMK AO2 CIG 017V023 SLPNO 
+cycle: 8

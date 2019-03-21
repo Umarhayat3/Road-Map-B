@@ -1,0 +1,10 @@
+Station name not available
+May 24, 2009 - 12:00 AM EDT / 2009.05.24 0400 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: EQBI 240400Z VRB02KT CAVOK 15/02 Q1022
+cycle: 4

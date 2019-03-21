@@ -1,0 +1,10 @@
+Station name not available
+Jun 26, 2015 - 01:00 AM EDT / 2015.06.26 0500 UTC
+Wind: from the ESE (120 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 42 F (6 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: FFTP 260500Z 12003KT CAVOK 06/M01 Q1026
+cycle: 5

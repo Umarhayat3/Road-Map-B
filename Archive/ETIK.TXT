@@ -1,0 +1,12 @@
+Illesheim, Germany (ETIK) 49-28N 010-23E 347M
+Mar 14, 2019 - 03:56 AM EDT / 2019.03.14 0756 UTC
+Wind: from the WSW (240 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: 0.01 inches
+Temperature: 40.6 F (4.8 C)
+Dew Point: 40.6 F (4.8 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+ob: ETIK 140756Z AUTO 24014KT 9999 OVC017 05/05 A2985 RMK AO2 PK WND 23026/15 RAB15E43 SLPNO P0001 T00480048 
+cycle: 8

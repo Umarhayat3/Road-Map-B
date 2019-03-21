@@ -1,0 +1,9 @@
+Station name not available
+Jul 18, 2012 - 02:00 AM EDT / 2012.07.18 0600 UTC
+Wind: from the SW (220 degrees) at 1 MPH (1 KT):0
+Temperature: 44 F (7 C)
+Dew Point: 24 F (-4 C)
+Relative Humidity: 45%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: FYBP 180600Z AUTO 22001KT //// // ////// 07/M04 Q1027
+cycle: 6

@@ -1,0 +1,11 @@
+Kangiqsujuaq Supplementary Aviation Weather Reporting Station , Canada (CYKG) 61-35N 071-56W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 3 F (-16 C)
+Dew Point: -5 F (-21 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.94 in. Hg (1013 hPa)
+ob: CYKG 132100Z 00000KT 15SM SKC M16/M21 A2994 RMK SNW CVR/TR LOOSE/LAST STFD OBS/NXT OBS 141200 UTC SLP162
+cycle: 21

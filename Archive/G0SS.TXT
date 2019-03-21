@@ -1,0 +1,10 @@
+Station name not available
+Nov 17, 2009 - 07:00 AM EST / 2009.11.17 1200 UTC
+Wind: from the NE (040 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 25%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: G0SS 171200Z 04006KT 360V110 CAVOK 32/10 Q1013
+cycle: 12

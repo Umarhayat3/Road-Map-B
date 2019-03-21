@@ -1,0 +1,12 @@
+Esbjerg, Denmark (EKEB) 55-32N 008-34E 29M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (190 degrees) at 10 MPH (9 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.26 in. Hg (0991 hPa)
+ob: EKEB 140820Z AUTO 19009KT 150V220 9000 -RA BKN008/// 05/04 Q0991
+cycle: 8

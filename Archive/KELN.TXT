@@ -1,0 +1,12 @@
+ELLENSBURG BOWERS FIELD, WA, United States (KELN) 47-02N 120-32W 519M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 27.0 F (-2.8 C)
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.37 in. Hg (1028 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) higher than three hours ago
+ob: KELN 140853Z AUTO 00000KT 10SM CLR M03/M07 A3037 RMK AO2 SLP301 T10281067 51011
+cycle: 9

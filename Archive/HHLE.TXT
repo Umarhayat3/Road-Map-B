@@ -1,0 +1,11 @@
+Station name not available
+Oct 27, 2017 - 01:00 PM EDT / 2017.10.27 1700 UTC
+Wind: from the SSW (200 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light drizzle; showers in the vicinity
+Temperature: 64 F (18 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 88%
+ob: HHLE 271700Z 20004KT 9999 -DZ SCT022 BKN070 18/16 VCSH ALL
+cycle: 17

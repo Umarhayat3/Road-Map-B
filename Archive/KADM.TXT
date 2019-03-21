@@ -1,0 +1,11 @@
+Ardmore, Ardmore Municipal Airport, OK, United States (KADM) 34-18-11N 097-01-10W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the WNW (290 degrees) at 15 MPH (13 KT) gusting to 22 MPH (19 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 51.1 F (10.6 C)
+Dew Point: 35.2 F (1.8 C)
+Relative Humidity: 54%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: KADM 140855Z AUTO 29013G19KT 10SM CLR 11/02 A2968 RMK AO2 T01060018
+cycle: 9

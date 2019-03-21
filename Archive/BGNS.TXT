@@ -1,0 +1,13 @@
+Station name not available
+Mar 12, 2019 - 10:36 AM EDT / 2019.03.12 1436 UTC
+Wind: from the E (100 degrees) at 26 MPH (23 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: showers in the vicinity; low drifting snow
+Temperature: 33 F (1 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 64%
+Pressure (altimeter): 29.23 in. Hg (0990 hPa)
+ob: BGNS 121436Z 10023KT 9999 VCSH DRSN FEW010 SCT030 BKN060 OVC100 01/M05 Q0990
+cycle: 14

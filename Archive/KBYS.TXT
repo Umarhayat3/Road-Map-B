@@ -1,0 +1,12 @@
+Fort Irwin/Barstow, Bicycle Lake Army Airfield, CA, United States (KBYS) 35-17N 116-37W 716M
+Mar 14, 2019 - 01:55 AM EDT / 2019.03.14 0555 UTC
+Wind: from the NNW (330 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 46.2 F (7.9 C)
+Dew Point: 11.8 F (-11.2 C)
+Relative Humidity: 24%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+Pressure tendency: 0.08 inches (2.8 hPa) higher than three hours ago
+ob: KBYS 140555Z AUTO 33009KT 10SM CLR 08/M11 A3018 RMK AO2 SLP235 WND DATA ESTMD T00791112 10137 20107 52028
+cycle: 6

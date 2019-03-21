@@ -1,0 +1,12 @@
+PITTSBURGH ALLEGHENY CTY., PA, United States (KAGC) 40-21N 079-55W 389M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (140 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 46.0 F (7.8 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KAGC 140853Z 14006KT 10SM CLR 08/M02 A2999 RMK AO2 SLP162 T00781017 58015
+cycle: 9

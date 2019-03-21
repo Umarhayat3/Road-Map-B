@@ -1,0 +1,12 @@
+Rankin Inlet, N. W. T., Canada (CYRT) 62-49N 092-07W 31M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (020 degrees) at 3 MPH (3 KT):0
+Visibility: 8 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: -2 F (-19 C)
+Dew Point: -5 F (-21 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CYRT 140800Z 02003KT 8SM -SN OVC008 M19/M21 A3009 RMK SC8 SLP197
+cycle: 8

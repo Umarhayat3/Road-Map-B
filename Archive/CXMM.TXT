@@ -1,0 +1,9 @@
+Fort McMurray CS, Alta., Canada (CXMM) 56-39N 111-13W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (270 degrees) at 5 MPH (4 KT):0
+Temperature: 28.2 F (-2.1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 23.4 F (-4.8 C)
+Relative Humidity: 81%
+ob: CXMM 140800Z AUTO 27004KT M02/M05 RMK AO1 SOG 41 3013 SLP206 T10211048
+cycle: 8

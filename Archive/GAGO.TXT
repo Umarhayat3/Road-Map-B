@@ -1,0 +1,10 @@
+Gao, Mali (GAGO) 16-16N 000-03W 260M
+Sep 25, 2018 - 04:20 AM EDT / 2018.09.25 0820 UTC
+Wind: from the NE (040 degrees) at 12 MPH (10 KT):0
+Visibility: 4 mile(s):0
+Temperature: 93 F (34 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 28%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GAGO 250820Z 04010KT 7000 NSC 34/13 Q1013
+cycle: 8

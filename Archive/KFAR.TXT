@@ -1,0 +1,14 @@
+HECTOR INTERNATIONAL AIRPORT , ND, United States (KFAR) 46-56N 096-49W 277M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the N (360 degrees) at 33 MPH (29 KT) gusting to 41 MPH (36 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 32.0 F (0.0 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.4 in. Hg (995 hPa)
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: KFAR 140853Z 36029G36KT 2 1/2SM BR OVC005 00/M01 A2940 RMK AO2 PK WND 36036/0852 SLP966 60000 I1002 I3002 T00001006 58001 
+cycle: 9

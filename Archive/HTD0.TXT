@@ -1,0 +1,11 @@
+Station name not available
+Feb 25, 2018 - 08:00 PM EST / 2018.02.26 0100 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73 F (23 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HTD0 260100Z 10005KT 9999 FEW023 23/17 Q1014 NOSIG
+cycle: 1

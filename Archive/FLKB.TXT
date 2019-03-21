@@ -1,0 +1,9 @@
+Kawambwa, Zambia (FLKB) 09-48S 029-05E 1324M
+Jul 29, 2010 - 08:00 AM EDT / 2010.07.29 1200 UTC
+Wind: from the S (180 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 33%
+ob: FLKB 291200Z 18006KT CAVOK 25/08
+cycle: 12

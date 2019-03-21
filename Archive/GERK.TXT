@@ -1,0 +1,10 @@
+Station name not available
+Jul 24, 2009 - 02:00 AM EDT / 2009.07.24 0600 UTC
+Wind: from the NNW (340 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 98 F (37 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 13%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: GERK 240600Z 34007KT CAVOK 37/05 Q1007 NOSIG
+cycle: 6

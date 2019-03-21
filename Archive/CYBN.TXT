@@ -1,0 +1,12 @@
+Borden, Ont., Canada (CYBN) 44-15N 079-55W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (170 degrees) at 6 MPH (5 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 33 F (1 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: CYBN 140800Z AUTO 17005KT 4SM FEW042 BKN066 BKN086 01/01 A3001 RMK SLP171
+cycle: 8

@@ -1,0 +1,11 @@
+Clyde, N. W. T., Canada (CYCY) 70-29N 068-31W 26M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 9 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: -14 F (-26 C)
+Dew Point: -22 F (-30 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: CYCY 140800Z AUTO 00000KT 9SM BKN180 BKN200 M26/M30 A2992 RMK SLP136
+cycle: 8

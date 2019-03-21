@@ -1,0 +1,8 @@
+Station name not available
+Jan 09, 2019 - 07:00 PM EST / 2019.01.10 0000 UTC
+Temperature: 51 F (11 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: DUTL 100000Z AUTO /////KT NCD 11/07 Q1006
+cycle: 0

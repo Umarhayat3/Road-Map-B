@@ -1,0 +1,8 @@
+Danville, Vermilion County Airport, IL, United States (KDNV) 40-11-58N 087-35-44W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (180 degrees) at 21 MPH (18 KT) gusting to 33 MPH (29 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Pressure (altimeter): 29.61 in. Hg (1002 hPa)
+ob: KDNV 140855Z AUTO 18018G29KT 10SM BKN017 OVC025 A2961 RMK AO2 60041
+cycle: 9

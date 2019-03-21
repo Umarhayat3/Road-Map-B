@@ -1,0 +1,11 @@
+Station name not available
+Feb 27, 2019 - 08:00 AM EST / 2019.02.27 1300 UTC
+Wind: from the NW (310 degrees) at 12 MPH (10 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 59 F (15 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: DFTN 271300Z 31010KT 250V340 9999 SCT020 SCT030 15/07 Q1026
+cycle: 13

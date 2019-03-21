@@ -1,0 +1,11 @@
+Station name not available
+Aug 29, 2011 - 08:15 AM EDT / 2011.08.29 1215 UTC
+Wind: from the ENE (060 degrees) at 5 MPH (4 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: clear
+Temperature: 77 F (25 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: K4C0 291215Z 06004KT 5SM SKC 25/25 A2982
+cycle: 12

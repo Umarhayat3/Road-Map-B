@@ -1,0 +1,9 @@
+Station name not available
+Sep 28, 2009 - 04:06 PM EDT / 2009.09.28 2006 UTC
+Wind: from the W (260 degrees) at 9 MPH (8 KT):0
+Temperature: 69 F (21 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 26%
+Pressure (altimeter): 29.09 in. Hg (985 hPa)
+ob: KG16 282006Z 26008KT M M 21/01 A2909 
+cycle: 20

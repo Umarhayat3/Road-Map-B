@@ -1,0 +1,11 @@
+Idabel, Mc Curtain County Regional Airport, OK, United States (K4O4) 33-54-33N 094-51-33W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the SSW (200 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 59 F (15 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.64 in. Hg (1003 hPa)
+ob: K4O4 140835Z AUTO 20007KT 10SM CLR 15/14 A2964 RMK AO2
+cycle: 8

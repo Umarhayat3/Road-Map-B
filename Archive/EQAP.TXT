@@ -1,0 +1,11 @@
+Station name not available
+Oct 07, 2009 - 01:00 AM EDT / 2009.10.07 0500 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Weather: fog in the vicinity
+Temperature: 42 F (6 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: EQAP 070500Z VRB00KT 8000 VCFG NSC 06/06 Q1024
+cycle: 5

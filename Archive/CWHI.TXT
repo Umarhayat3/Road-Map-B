@@ -1,0 +1,9 @@
+Three Hills, Canada (CWHI) 51-42N 113-13W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WSW (240 degrees) at 5 MPH (4 KT):0
+Temperature: 14.2 F (-9.9 C)
+Windchill: 6 F (-14 C):1
+Dew Point: 12.2 F (-11.0 C)
+Relative Humidity: 91%
+ob: CWHI 140700Z AUTO 24004KT M10/M11 RMK AO1 T10991110
+cycle: 7

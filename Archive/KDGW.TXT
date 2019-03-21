@@ -1,0 +1,14 @@
+DOUGLAS CONVERSE COUNTY, WY, United States (KDGW) 42-48N 105-23W 1499M
+Mar 14, 2019 - 05:01 AM EDT / 2019.03.14 0901 UTC
+Wind: from the NW (320 degrees) at 24 MPH (21 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: obscured
+Weather: snow; freezing fog
+Precipitation last hour: A trace
+Temperature: 25.0 F (-3.9 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 24.1 F (-4.4 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.94 in. Hg (1013 hPa)
+ob: KDGW 140901Z AUTO 32021KT 1/2SM SN FZFG VV009 M04/M04 A2994 RMK AO2 PK WND 32026/0856 P0000 T10391044 
+cycle: 9

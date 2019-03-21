@@ -1,0 +1,12 @@
+Station name not available
+Nov 24, 2011 - 08:00 AM EST / 2011.11.24 1300 UTC
+Wind: from the NNW (340 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 77 F (25 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HYEN 241300Z 34008KT 9999 FEW022 FEW024CB BKN150 25/18 Q1015
+cycle: 13

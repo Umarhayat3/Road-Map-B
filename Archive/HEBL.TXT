@@ -1,0 +1,10 @@
+Station name not available
+Mar 13, 2019 - 01:00 PM EDT / 2019.03.13 1700 UTC
+Wind: from the NW (310 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 12%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: HEBL 131700Z 31006KT CAVOK 28/M03 Q1011 NOSIG
+cycle: 17

@@ -1,0 +1,12 @@
+Frankfort, Frankfort Dow Memorial Field Airport, MI, United States (KFKS) 44-37-30N 086-12-02W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SE (140 degrees) at 14 MPH (12 KT) gusting to 24 MPH (21 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 50.2 F (10.1 C)
+Dew Point: 45.3 F (7.4 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: KFKS 140856Z AUTO 14012G21KT 5SM -RA SCT026 BKN050 OVC080 10/07 A2959 RMK AO2 T01010074
+cycle: 9

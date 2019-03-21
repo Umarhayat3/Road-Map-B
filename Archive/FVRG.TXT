@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 01:00 AM EDT / 2019.03.14 0500 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FVRG 140500Z VRB03KT CAVOK 17/15 Q1022 NOSIG
+cycle: 5

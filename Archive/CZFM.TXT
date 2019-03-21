@@ -1,0 +1,12 @@
+Fort Mcpherson Airport, Canada (CZFM) 67-24N 134-51W
+Mar 13, 2019 - 07:00 PM EDT / 2019.03.13 2300 UTC
+Wind: from the NNW (330 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: 35 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: -2 F (-19 C)
+Windchill: -14 F (-26 C):2
+Dew Point: -11 F (-24 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: CZFM 132300Z 33005KT 280V350 35SM BKN082 M19/M24 A3020 RMK AC7 /S01/AFT 2300Z/SN CVR/MUCH LOOSE LAST OBS/NXT 131300Z SLP234
+cycle: 23

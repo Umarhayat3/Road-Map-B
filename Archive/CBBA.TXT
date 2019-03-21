@@ -1,0 +1,10 @@
+Station name not available
+Jan 18, 2013 - 08:00 PM EST / 2013.01.19 0100 UTC
+Wind: from the S (190 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 32%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: CBBA 190100Z AUTO 19011KT CAVOK 21/04 Q1022
+cycle: 1

@@ -1,0 +1,12 @@
+Brize Norton, United Kingdom (EGVN) 51-45N 001-35W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (260 degrees) at 17 MPH (15 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 48 F (9 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EGVN 140750Z 26015KT 6000 -RA FEW010 BKN018 BKN030 09/08 Q1002 WHT BECMG 9999 NSW FEW018 BLU
+cycle: 8

@@ -1,0 +1,11 @@
+Gran Canaria - Canary Islands, Spain (GCLP) 27-56N 015-23W 47M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the N (010 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 64 F (18 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: GCLP 140830Z 01016KT 9999 SCT020 18/13 Q1023 NOSIG
+cycle: 8

@@ -1,0 +1,10 @@
+Nakuru, Kenya (HKNK) 00-16S 036-06E 1901M
+Feb 04, 2017 - 02:00 AM EST / 2017.02.04 0700 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 46%
+ob: HKNK 040700Z 00000KT 9999 FEW022 SCT260 23/11
+cycle: 7

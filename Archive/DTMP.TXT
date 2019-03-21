@@ -1,0 +1,10 @@
+Station name not available
+Jul 14, 2018 - 04:00 PM EDT / 2018.07.14 2000 UTC
+Wind: from the NE (050 degrees) at 9 MPH (8 KT):0
+Visibility: 3 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DTMP 142000Z 05008KT 6000 NSC 27/24 Q1016
+cycle: 20

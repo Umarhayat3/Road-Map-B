@@ -1,0 +1,11 @@
+Odense / Beldringe, Denmark (EKOD) 55-29N 010-20E 17M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (220 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: EKOD 140750Z 22010KT 9999 FEW010 SCT014 BKN035 06/05 Q0993
+cycle: 8

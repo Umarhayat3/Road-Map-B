@@ -1,0 +1,11 @@
+Station name not available
+Mar 20, 2008 - 03:00 AM EST / 2008.03.20 0800 UTC
+Wind: from the SE (140 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FCPT 200800Z 14004KT 9999 FEW015 BKN150 27/25 Q1011 NOSIG
+cycle: 8

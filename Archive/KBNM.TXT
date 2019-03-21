@@ -1,0 +1,14 @@
+Station name not available
+Nov 26, 2008 - 03:53 AM EST / 2008.11.26 0853 UTC
+Wind: from the WNW (290 degrees) at 12 MPH (10 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Precipitation last hour: 0.01 inches
+Temperature: 55.9 F (13.3 C)
+Dew Point: 53.1 F (11.7 C)
+Relative Humidity: 90%
+Pressure (altimeter): 29.88 in. Hg (1011 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KBNM 260853Z AUTO 29010KT 3SM -RA BR SCT006 BKN065 OVC095 13/12 A2988 RMK AO2 RAE11B29 SLP106 P0001 60002 T01330117 56014 TSNO 
+cycle: 9

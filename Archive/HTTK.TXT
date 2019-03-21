@@ -1,0 +1,10 @@
+Station name not available
+Mar 30, 2016 - 08:00 AM EDT / 2016.03.30 1200 UTC
+Wind: from the SSW (200 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 91 F (33 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 18%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HTTK 301200Z 20002KT CAVOK 33/06 Q1019
+cycle: 12

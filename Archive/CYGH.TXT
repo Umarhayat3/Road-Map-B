@@ -1,0 +1,11 @@
+Fort Good Hope Airport, Canada (CYGH) 66-16N 128-37W
+Mar 13, 2019 - 11:00 AM EDT / 2019.03.13 1500 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 0 F (-18 C)
+Dew Point: -5 F (-21 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: CYGH 131500Z 00000KT 15SM BKN067 BKN110 M18/M21 A3002 RMK AC6AC1 LAST STFD OBS/ NXT 161300Z SLP177
+cycle: 15

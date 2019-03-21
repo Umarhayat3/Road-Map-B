@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NNW (330 degrees) at 22 MPH (19 KT) gusting to 30 MPH (26 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: precipitation
+Temperature: 27.5 F (-2.5 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 23.4 F (-4.8 C)
+Relative Humidity: 84%
+Pressure (altimeter): 29.88 in. Hg (1011 hPa)
+ob: KEAN 140855Z AUTO 33019G26KT 5SM UP BKN022 BKN031 OVC037 M02/M05 A2988 RMK AO2 T10251048
+cycle: 9

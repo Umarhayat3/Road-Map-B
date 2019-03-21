@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FNMA 140800Z 28004KT 9999 SCT014 BKN090 21/19 Q1014
+cycle: 8

@@ -1,0 +1,9 @@
+Hart Island Meteorological Aeronautical Presentation System , Canada (CWRN) 45-21N 060-59W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (230 degrees) at 3 MPH (3 KT):0
+Temperature: 24.4 F (-4.2 C)
+Dew Point: 22.6 F (-5.2 C)
+Relative Humidity: 92%
+Pressure tendency: 0.01 inches (0.2 hPa) lower than three hours ago
+ob: CWRN 140700Z AUTO 23003KT M04/M05 RMK AO1 SLP247 T10421052 58002
+cycle: 7

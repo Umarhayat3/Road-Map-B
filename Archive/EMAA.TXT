@@ -1,0 +1,11 @@
+Station name not available
+Jun 21, 2009 - 03:00 PM EDT / 2009.06.21 1900 UTC
+Wind: from the NNW (330 degrees) at 10 MPH (9 KT):0
+Visibility: 3 mile(s):0
+Temperature: 89 F (32 C)
+Heat index: 100.6 F (38.1 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.55 in. Hg (1000 hPa)
+ob: EMAA 211900Z 33009KT 6000 NSC 32/25 Q1001 A2955 NOSIG
+cycle: 19

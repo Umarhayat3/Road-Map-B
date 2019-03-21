@@ -1,0 +1,12 @@
+WILKES-BARRE/SCRANTON INTERNATIONAL , PA, United States (KAVP) 41-20N 75-44W 291M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 37.9 F (3.3 C)
+Dew Point: 27.0 F (-2.8 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: KAVP 140854Z AUTO 00000KT 10SM CLR 03/M03 A3016 RMK AO2 SLP215 T00331028 50000
+cycle: 9

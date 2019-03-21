@@ -1,0 +1,13 @@
+CLARKSVILLE OUTLAW FIELD, TN, United States (KCKV) 36-37N 87-25W 165M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the S (190 degrees) at 24 MPH (21 KT) gusting to 40 MPH (35 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: 0.06 inches
+Temperature: 68.0 F (20.0 C)
+Dew Point: 55.9 F (13.3 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KCKV 140852Z AUTO 19021G35KT 10SM BKN037 OVC044 20/13 A2973 RMK AO2 PK WND 20040/0757 RAB0754E17B19E52 SLP063 P0006 60012 T02000133 56017
+cycle: 9

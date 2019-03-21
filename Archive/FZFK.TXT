@@ -1,0 +1,11 @@
+Gemena, Congo, Democratic Republic of the (FZFK) 03-17N 019-47E 446M
+Aug 18, 2012 - 05:00 AM EDT / 2012.08.18 0900 UTC
+Wind: from the WNW (290 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 86 F (30 C)
+Heat index: 93.4 F (34.1 C):1
+Dew Point: 73 F (23 C)
+Relative Humidity: 66%
+ob: FZFK 180900Z 29004KT 9999 BKN023 30/23 Q//// NOSIG
+cycle: 9

@@ -1,0 +1,8 @@
+Station name not available
+Sep 30, 2009 - 09:00 AM EDT / 2009.09.30 1300 UTC
+Wind: from the NNW (340 degrees) at 12 MPH (10 KT):0
+Temperature: 44.4 F (6.9 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 69%
+ob: CXMN 301300Z AUTO 34010KT 07/02 RMK AO1 T00690017
+cycle: 13

@@ -1,0 +1,13 @@
+Station name not available
+Jun 15, 2011 - 09:00 AM EDT / 2011.06.15 1300 UTC
+Wind: from the WSW (240 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 91 F (33 C)
+Heat index: 101.5 F (38.6 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GOFK 151300Z 24004KT 9999 BKN015TCU 33/24 Q1013
+cycle: 13

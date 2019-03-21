@@ -1,0 +1,12 @@
+KEY WEST INTERNATIONAL AIRPORT , FL, United States (KEYW) 24-33N 81-46W 5M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (100 degrees) at 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 77.0 F (25.0 C)
+Dew Point: 68.0 F (20.0 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KEYW 140853Z AUTO 10017KT 10SM FEW025 SCT050 SCT060 25/20 A3003 RMK AO2 SLP170 60000 T02500200 58014
+cycle: 9

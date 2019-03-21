@@ -1,0 +1,10 @@
+Station name not available
+Feb 03, 2011 - 04:21 PM EST / 2011.02.03 2121 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Temperature: 19 F (-7 C)
+Dew Point: 10 F (-12 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.44 in. Hg (1030 hPa)
+ob: K88M 032121Z 00000KT 10SM M07/M12 A3044 RMK EUREKA 
+cycle: 21

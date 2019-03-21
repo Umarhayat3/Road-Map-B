@@ -1,0 +1,11 @@
+Leconfield, United Kingdom (EGXV) 53-52N 000-26W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (260 degrees) at 24 MPH (21 KT) gusting to 38 MPH (33 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 50 F (10 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.23 in. Hg (0990 hPa)
+ob: EGXV 140750Z AUTO 26021G33KT 9999 BKN021/// 10/07 Q0990 RERA
+cycle: 8

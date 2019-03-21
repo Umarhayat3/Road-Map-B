@@ -1,0 +1,12 @@
+ALBUQUERQUE INTERNATIONAL  AIRPORT, NM, United States (KABQ) 35-02N 106-36W 1618M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the W (260 degrees) at 14 MPH (12 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 35.1 F (1.7 C)
+Dew Point: 19.0 F (-7.2 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) higher than three hours ago
+ob: KABQ 140852Z 26012KT 10SM FEW040 OVC050 02/M07 A2989 RMK AO2 SLP107 MTNS OBSC NE AND SE T00171072 53017
+cycle: 9

@@ -1,0 +1,12 @@
+WOOSTER WAYNE COUNTY AIRPORT, OH, United States (KBJJ) 40-52N 81-53W 343M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (180 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50.0 F (10.0 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 53%
+Pressure (altimeter): 29.94 in. Hg (1013 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) lower than three hours ago
+ob: KBJJ 140856Z AUTO 18011KT 10SM CLR 10/01 A2994 RMK AO2 SLP140 T01000011 58011
+cycle: 9

@@ -1,0 +1,12 @@
+Station name not available
+Oct 07, 2011 - 04:18 PM EDT / 2011.10.07 2018 UTC
+Wind: from the E (080 degrees) at 28 MPH (24 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 78 F (26 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+ob: KCYD 072018Z 08024KT 10SM -RA BKN025 BKN034 BKN046 26/19 A3008
+cycle: 20

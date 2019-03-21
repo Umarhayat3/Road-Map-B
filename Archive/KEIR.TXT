@@ -1,0 +1,12 @@
+Eugene Island, LA, United States (KEIR) 28-38-05N 091-29-21W
+Mar 14, 2019 - 04:50 AM EDT / 2019.03.14 0850 UTC
+Wind: from the SSE (150 degrees) at 10 MPH (9 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: clear
+Weather: mist
+Temperature: 71 F (22 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.88 in. Hg (1011 hPa)
+ob: KEIR 140850Z AUTO 15009KT 4SM BR CLR 22/22 A2988 RMK A01
+cycle: 9

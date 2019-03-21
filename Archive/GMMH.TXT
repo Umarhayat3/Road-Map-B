@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (020 degrees) at 14 MPH (12 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly clear
+Temperature: 60 F (16 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: GMMH 140800Z 02012KT 5000 FEW004 16/14 Q1019 NOSIG
+cycle: 8

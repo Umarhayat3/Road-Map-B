@@ -1,0 +1,13 @@
+CUT BANK MUNICIPAL AIRPORT, MT, United States (KCTB) 48-36N 112-23W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the WNW (300 degrees) at 7 MPH (6 KT):0
+Visibility: 8 mile(s):0
+Sky conditions: clear
+Temperature: 10.9 F (-11.7 C)
+Windchill: 0 F (-18 C):1
+Dew Point: 9.0 F (-12.8 C)
+Relative Humidity: 91%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KCTB 140856Z AUTO 30006KT 8SM CLR M12/M13 A3020 RMK AO2 SLP277 I1001 I3001 T11171128 53009 TSNO
+cycle: 9

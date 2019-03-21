@@ -1,0 +1,14 @@
+ESTHERVILLE MUNICIPAL AIRPORT , IA, United States (KEST) 43-24N 94-45W 401M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the E (080 degrees) at 13 MPH (11 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Precipitation last hour: 0.01 inches
+Temperature: 36.0 F (2.2 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.17 in. Hg (987 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) lower than three hours ago
+ob: KEST 140852Z AUTO 08011KT 1/4SM FG VV002 02/02 A2917 RMK AO2 RAE09UPB09E13 SLP887 P0001 60006 T00220022 58021 
+cycle: 9

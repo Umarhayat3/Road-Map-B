@@ -1,0 +1,10 @@
+Station name not available
+Oct 10, 2018 - 12:30 AM EDT / 2018.10.10 0430 UTC
+Wind: from the NNW (340 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GQNG 100430Z 34007KT CAVOK 24/21 Q1009 NOSIG
+cycle: 4

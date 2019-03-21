@@ -1,0 +1,8 @@
+Station name not available
+Mar 19, 2011 - 08:54 AM EDT / 2011.03.19 1254 UTC
+Temperature: 54.0 F (12.2 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 36%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: KDNH 191254Z AUTO 12/M02 A3025 RMK AO2 SLP242 T01221022 PWINO TSNO 
+cycle: 13

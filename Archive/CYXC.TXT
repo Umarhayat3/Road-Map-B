@@ -1,0 +1,12 @@
+Cranbrook, B. C., Canada (CYXC) 49-37N 115-47W 939M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (270 degrees) at 10 MPH (9 KT):0
+Visibility: 25 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 26 F (-3 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 17 F (-8 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.28 in. Hg (1025 hPa)
+ob: CYXC 140800Z 27009KT 25SM FEW018 SCT042 M03/M08 A3028 RMK SC2SC2 SLP292
+cycle: 8

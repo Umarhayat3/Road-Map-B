@@ -1,0 +1,12 @@
+Station name not available
+Sep 29, 2013 - 09:00 AM EDT / 2013.09.29 1300 UTC
+Wind: from the E (090 degrees) at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain with thunder; Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: GUIC 291300Z 09006KT 8000 -TSRA SCT015 FEW023CB BKN110 23/23 Q1012 CB E NOSIG
+cycle: 13

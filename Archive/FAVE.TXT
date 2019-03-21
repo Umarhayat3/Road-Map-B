@@ -1,0 +1,9 @@
+Station name not available
+Sep 22, 2008 - 05:00 AM EDT / 2008.09.22 0900 UTC
+Wind: from the W (270 degrees) at 6 MPH (5 KT) gusting to 22 MPH (19 KT):0
+Temperature: 66 F (19 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 32%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FAVE 220900Z AUTO 27005G19KT //// // ////// 19/02 Q1021
+cycle: 9

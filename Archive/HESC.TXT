@@ -1,0 +1,10 @@
+Station name not available
+Mar 10, 2019 - 01:00 PM EDT / 2019.03.10 1700 UTC
+Wind: from the N (010 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 21%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: HESC 101700Z 01008KT CAVOK 15/M07 Q1026 NOSIG
+cycle: 17

@@ -1,0 +1,7 @@
+Tororo, Uganda (HUTO) 00-41N 034-10E 1171M
+May 15, 2017 - 07:12 AM EDT / 2017.05.15 1112 UTC
+Wind: from the WNW (290 degrees) at 21 MPH (18 KT) gusting to 32 MPH (28 KT):0
+Sky conditions: partly cloudy
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: HUTO 151112Z 29018G28KT SCT021 A2991 RMK AO2 PK WND 29028/1059 PWINO 
+cycle: 11

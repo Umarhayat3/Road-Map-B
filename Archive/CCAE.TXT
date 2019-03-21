@@ -1,0 +1,11 @@
+Station name not available
+Mar 31, 2008 - 02:56 PM EDT / 2008.03.31 1856 UTC
+Visibility: 8 mile(s):0
+Sky conditions: overcast
+Weather: light drizzle
+Precipitation last hour: A trace
+Temperature: 55.0 F (12.8 C)
+Dew Point: 48.0 F (8.9 C)
+Relative Humidity: 77%
+ob: CCAE 311856Z 02005T 8SM -DZ OVC013 13/^ Í031 RMK AO2 DX®J SLP263 P0000 T01280089 
+cycle: 19

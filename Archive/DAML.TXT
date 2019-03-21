@@ -1,0 +1,12 @@
+Station name not available
+May 04, 2010 - 01:00 PM EDT / 2010.05.04 1700 UTC
+Wind: from the NNW (340 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 53 F (12 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: DAML 041700Z 34008KT 9999 BKN026TCU 12/10 Q1007
+cycle: 17

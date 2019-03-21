@@ -1,0 +1,10 @@
+Spirit River Auto Station, Alta, Canada (CXSR) 55-41-43N 119-14-03W
+Mar 21, 2018 - 03:00 PM EDT / 2018.03.21 1900 UTC
+Wind: Calm:0
+Precipitation last hour: 0.01 inches
+Temperature: 28.0 F (-2.2 C)
+Dew Point: 26.6 F (-3.0 C)
+Relative Humidity: 94%
+Pressure tendency: 0.01 inches (0.2 hPa) higher than three hours ago
+ob: CXSR 211900Z AUTO 00000KT M02/M03 RMK AO1 2PAST HR SOG 65 1013 SLP139 P0001 T10221030 50002
+cycle: 19

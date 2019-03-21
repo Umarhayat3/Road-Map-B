@@ -1,0 +1,12 @@
+Brazos 451, TX, United States (KBQX) 28-29-37N 095-43-28W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 23 MPH (20 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: partly cloudy
+Weather: mist
+Temperature: 71 F (22 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: KBQX 140855Z AUTO 17020KT 2SM BR SCT008 22/21 A2976 RMK A01
+cycle: 9

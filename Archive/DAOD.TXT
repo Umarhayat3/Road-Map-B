@@ -1,0 +1,12 @@
+Station name not available
+Sep 15, 2014 - 03:00 PM EDT / 2014.09.15 1900 UTC
+Wind: from the NW (320 degrees) at 21 MPH (18 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 82 F (28 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 30%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: DAOD 151900Z 32018KT 6000 -TFGRSCT030CB BKN033 28/09 Q1019
+cycle: 19

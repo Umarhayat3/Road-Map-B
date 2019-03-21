@@ -1,0 +1,10 @@
+Moriarty, NM, United States (K4MY) 34-59N 106-03W
+Mar 30, 2009 - 07:55 PM EDT / 2009.03.30 2355 UTC
+Wind: from the WNW (300 degrees) at 12 MPH (10 KT) gusting to 26 MPH (23 KT) (direction variable):0
+Visibility: 25 mile(s):0
+Sky conditions: mostly clear
+Temperature: 39 F (4 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 86%
+ob: K4MY 302355Z 30010G23KT 220V010 25SM FEW 150 04/02
+cycle: 0

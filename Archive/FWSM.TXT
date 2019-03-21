@@ -1,0 +1,10 @@
+Salima, Malawi (FWSM) 13-45S 034-35E 513M
+Oct 13, 2015 - 08:00 AM EDT / 2015.10.13 1200 UTC
+Wind: from the SSE (150 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 93 F (34 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 24%
+ob: FWSM 131200Z 15014KT 9999 SCT050 34/11 Q////
+cycle: 12

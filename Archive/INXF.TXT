@@ -1,0 +1,4 @@
+Station name not available
+Jan 21, 2011 - 01:56 PM EST / 2011.01.21 1856 UTC
+ob: INXF 211856Z NO CARRIER RING CONNECT 57600 
+cycle: 19

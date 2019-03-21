@@ -1,0 +1,13 @@
+BIG PINEY-MARBLETON AIRPORT, WY, United States (KBPI) 42-35N 110-06W 2117M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ENE (070 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 18.0 F (-7.8 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 10.9 F (-11.7 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+Pressure tendency: 0.07 inches (2.3 hPa) higher than three hours ago
+ob: KBPI 140853Z AUTO 07006KT 10SM OVC075 M08/M12 A3001 RMK AO2 SLP185 T10781117 53023
+cycle: 9

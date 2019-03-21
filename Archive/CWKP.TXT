@@ -1,0 +1,7 @@
+Station name not available
+Jul 09, 2018 - 10:00 AM EDT / 2018.07.09 1400 UTC
+Wind: from the W (260 degrees) at 3 MPH (3 KT):0
+Temperature: 37 F (3 C)
+Pressure (altimeter): 29.46 in. Hg (997 hPa)
+ob: CWKP 091400Z AUTO 26003KT 03/ A2946 RMK SLP999
+cycle: 14

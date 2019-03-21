@@ -1,0 +1,11 @@
+Powell River Airport , Canada (CYPW) 49-50N 124-30W
+Mar 13, 2019 - 10:00 PM EDT / 2019.03.14 0200 UTC
+Wind: from the E (090 degrees) at 8 MPH (7 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.32 in. Hg (1026 hPa)
+ob: CYPW 140200Z 09007KT 20SM FEW033 FEW150 FEW220 BKN250 06/M01 A3032 RMK SC1AC1CC1CI5 AC TR CONTRAILS LAST STFD OBS NEXT OBS 141300 UTC SLP272
+cycle: 2

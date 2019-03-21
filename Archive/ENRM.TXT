@@ -1,0 +1,13 @@
+Rorvik / Ryum, Norway (ENRM) 64-50N 011-09E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ESE (120 degrees) at 10 MPH (9 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow
+Temperature: 32 F (0 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: ENRM 140820Z 12009KT 5000 2000NE -SN SCT005 BKN012 00/00 Q0984
+cycle: 8

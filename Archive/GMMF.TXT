@@ -1,0 +1,11 @@
+Sidi Ifni, Morocco (GMMF) 29-22N 010-11W 66M
+Oct 16, 2008 - 06:00 AM EDT / 2008.10.16 1000 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: GMMF 161000Z VRB03KT 5000 SCT016 19/18 Q1023 NOSIG
+cycle: 10

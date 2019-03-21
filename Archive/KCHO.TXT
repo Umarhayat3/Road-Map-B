@@ -1,0 +1,12 @@
+CHARLOTTESVILLE-ALBEMARLE, VA, United States (KCHO) 38-08N 078-27W 192M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.9 F (9.4 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KCHO 140853Z AUTO 18007KT 10SM CLR 09/00 A3015 RMK AO2 SLP208 T00940000 58015
+cycle: 9

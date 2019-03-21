@@ -1,0 +1,12 @@
+Songea, Tanzania (HTSO) 10-41S 035-35E 1067M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (020 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HTSO 140800Z 02006KT 9999 SCT019 FEW020CB BKN070 24/19 Q1019
+cycle: 8

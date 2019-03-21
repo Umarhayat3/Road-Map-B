@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 01:00 AM EDT / 2019.03.14 0500 UTC
+Wind: from the NNW (330 degrees) at 2 MPH (2 KT):0
+Temperature: 64 F (18 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FAPN 140500Z AUTO 33002KT //// // ////// 18/16 Q1020
+cycle: 5

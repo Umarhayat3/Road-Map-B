@@ -1,0 +1,9 @@
+Station name not available
+Oct 12, 2017 - 01:00 AM EDT / 2017.10.12 0500 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Temperature: 62 F (17 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: DTVL 120500Z AUTO VRB02KT NCD 17/16 Q1024
+cycle: 5

@@ -1,0 +1,12 @@
+BEDFORD HANSCOM FIELD, MA, United States (KBED) 42-28N 071-18W 50M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SSE (150 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 36.0 F (2.2 C)
+Dew Point: 25.0 F (-3.9 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: KBED 140856Z AUTO 15003KT 10SM OVC065 02/M04 A3026 RMK AO2 SLP262 T00221039 58006
+cycle: 9

@@ -1,0 +1,6 @@
+Waterkloof (SAAF), South Africa (FAWK) 25-50S 028-13E 1500M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (180 degrees) at 3 MPH (3 KT):0
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FAWK 140800Z AUTO 18003KT //// // ////// ///// Q1024
+cycle: 8

@@ -1,0 +1,13 @@
+BOISE AIR TERMINAL, ID, United States (KBOI) 43-34N 116-14W 875M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (280 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 28.0 F (-2.2 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 71%
+Pressure (altimeter): 30.3 in. Hg (1026 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) higher than three hours ago
+ob: KBOI 140853Z 28005KT 10SM CLR M02/M07 A3030 RMK AO2 SLP277 T10221067 53017
+cycle: 9

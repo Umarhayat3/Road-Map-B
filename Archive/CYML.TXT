@@ -1,0 +1,11 @@
+Charlevoix Airport, Canada (CYML) 47-36N 070-14W
+Jun 10, 2018 - 02:00 PM EDT / 2018.06.10 1800 UTC
+Wind: from the SE (140 degrees) at 8 MPH (7 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: mostly clear
+Temperature: 53 F (12 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 37%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: CYML 101800Z 14007KT 20SM FEW060 FEW200 12/M02 A3007 RMK SC1CI1 DA726FT WND ESTD LAST OBS SLP187
+cycle: 18

@@ -1,0 +1,10 @@
+Station name not available
+May 02, 2014 - 07:00 AM EDT / 2014.05.02 1100 UTC
+Wind: from the ESE (120 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 84 F (29 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 32%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FLNH 021100Z 12007KT CAVOK 29/11 Q1021
+cycle: 11

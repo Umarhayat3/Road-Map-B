@@ -1,0 +1,12 @@
+Bruxelles National, Belgium (EBBR) 50-54N 004-32E 58M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (240 degrees) at 23 MPH (20 KT) gusting to 38 MPH (33 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain
+Temperature: 44 F (7 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: EBBR 140750Z 24020G33KT 6000 RA SCT008 BKN014 07/05 Q1004 TEMPO 23018G30KT 4000 RA BKN007
+cycle: 8

@@ -1,0 +1,9 @@
+Station name not available
+Feb 11, 2019 - 12:00 PM EST / 2019.02.11 1700 UTC
+Sky conditions: mostly cloudy
+Temperature: 55 F (13 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: DFTB 111700Z 280?0B?Z'NNNPSCT016 BKN030 13/07 Q1021
+cycle: 17

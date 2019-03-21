@@ -1,0 +1,12 @@
+AUGUSTA BUSH FIELD, GA, United States (KAGS) 33-22N 081-58W 44M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.9 F (9.4 C)
+Dew Point: 46.9 F (8.3 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: KAGS 140853Z AUTO 00000KT 10SM CLR 09/08 A3020 RMK AO2 SLP227 T00940083 56007 
+cycle: 9

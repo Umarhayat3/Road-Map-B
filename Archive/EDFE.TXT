@@ -1,0 +1,10 @@
+Station name not available
+Apr 03, 2017 - 04:20 AM EDT / 2017.04.03 0820 UTC
+Wind: from the NNE (030 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: EDFE 030820Z 03005KT CAVOK 13/07 Q1025
+cycle: 8

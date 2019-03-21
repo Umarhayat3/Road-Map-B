@@ -1,0 +1,12 @@
+Nipawin, Sask., Canada (CYBU) 53-20N 104-00W 372M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (310 degrees) at 7 MPH (6 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+ob: CYBU 140800Z AUTO 31006KT 9SM CLR M05/M09 A3010 RMK SLP215
+cycle: 8

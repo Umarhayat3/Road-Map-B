@@ -1,0 +1,11 @@
+Atlantic, IA, United States (KAIO) 41-24N 095-03W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (140 degrees) at 21 MPH (18 KT) gusting to 28 MPH (24 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.04 in. Hg (983 hPa)
+ob: KAIO 140855Z AUTO 14018G24KT 10SM FEW029 FEW038 BKN050 11/09 A2904 RMK AO2
+cycle: 9

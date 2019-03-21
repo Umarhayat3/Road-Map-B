@@ -1,0 +1,12 @@
+APALACHICOLA MUNICIPAL AIRPORT, FL, United States (KAAF) 29-44N 085-01W 5M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (130 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.0 F (18.9 C)
+Dew Point: 60.1 F (15.6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) lower than three hours ago
+ob: KAAF 140853Z AUTO 13010KT 10SM CLR 19/16 A3006 RMK AO2 SLP178 T01890156 58003
+cycle: 9

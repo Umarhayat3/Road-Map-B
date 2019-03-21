@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 30 F (-1 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: K74V 140855Z AUTO 00000KT 2SM -SN OVC009 M01/M02 A3007 RMK AO2
+cycle: 9

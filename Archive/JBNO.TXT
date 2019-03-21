@@ -1,0 +1,12 @@
+Station name not available
+Mar 17, 2010 - 10:53 AM EDT / 2010.03.17 1453 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 30.0 F (-1.1 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) higher than three hours ago
+ob: JBNO 171453Z AUTO 00000KT 10SM CLR M01/M02 A3036 RMK AO2 SLP289 T10111022 51010 TSNO 
+cycle: 15

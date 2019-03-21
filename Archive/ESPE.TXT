@@ -1,0 +1,13 @@
+Vidsel, Sweden (ESPE) 65-52N 020-08E 182M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 10 MPH (9 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: obscured
+Weather: light snow
+Temperature: 24 F (-4 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.26 in. Hg (0991 hPa)
+ob: ESPE 140820Z 13009KT 2000 -SN VV019 M04/M05 Q0991
+cycle: 8

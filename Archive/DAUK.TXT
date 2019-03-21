@@ -1,0 +1,10 @@
+Touggourt, Algeria (DAUK) 33-07N 006-08E 85M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 47%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: DAUK 140800Z 36011KT CAVOK 16/05 Q1023
+cycle: 8

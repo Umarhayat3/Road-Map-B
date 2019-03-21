@@ -1,0 +1,13 @@
+Saint Hubert Airport , Canada (CYHU) 45-31N 073-25W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (100 degrees) at 5 MPH (4 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 30 F (-1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: CYHU 140800Z AUTO 10004KT 2 1/2SM BR OVC043 M01/M02 A3020 RMK SLP228
+cycle: 8

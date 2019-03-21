@@ -1,0 +1,11 @@
+Cosford Royal Air Force Base, United Kingdom (EGWC) 52-38N 002-18W
+Mar 13, 2019 - 06:50 AM EDT / 2019.03.13 1050 UTC
+Wind: from the W (280 degrees) at 15 MPH (13 KT) gusting to 31 MPH (27 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 48 F (9 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 57%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: EGWC 131050Z 28013G27KT 9999 BKN030 09/01 Q1007 BLU
+cycle: 11

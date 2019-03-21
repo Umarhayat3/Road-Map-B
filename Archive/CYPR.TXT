@@ -1,0 +1,12 @@
+Prince Rupert, B. C., Canada (CYPR) 54-18N 130-26W 34M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SE (140 degrees) at 18 MPH (16 KT) gusting to 32 MPH (28 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.9 in. Hg (1012 hPa)
+ob: CYPR 140800Z AUTO 14016G28KT 9SM -RA OVC031 05/02 A2990 RMK SLP126
+cycle: 8

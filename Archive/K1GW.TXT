@@ -1,0 +1,12 @@
+Station name not available
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: from the E (100 degrees) at 9 MPH (8 KT):0
+Visibility: 3/8 mile(s):0
+Sky conditions: obscured
+Weather: light rain; fog
+Temperature: 44.1 F (6.7 C)
+Dew Point: 43.3 F (6.3 C)
+Relative Humidity: 97%
+Pressure (altimeter): 29.28 in. Hg (991 hPa)
+ob: K1GW 130958Z AUTO 10008KT 3/8SM -RA FG VV002 07/06 A2928 RMK AO2 RAB52 SLP898 T00670063 
+cycle: 10

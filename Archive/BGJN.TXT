@@ -1,0 +1,11 @@
+Jacobshavn Lufthavn, Greenland (BGJN) 69-14N 051-04W 31M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the E (090 degrees) at 15 MPH (13 KT):0
+Sky conditions: overcast
+Temperature: 1 F (-17 C)
+Windchill: -18 F (-28 C):2
+Dew Point: -11 F (-24 C)
+Relative Humidity: 54%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: BGJN 140750Z AUTO 09013KT 9999NDV OVC046/// M17/M24 Q1011
+cycle: 8

@@ -1,0 +1,9 @@
+Station name not available
+Jun 11, 2014 - 02:00 PM EDT / 2014.06.11 1800 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 83%
+ob: FCOK 111800Z 00000KT CAVOK 27/24 Q////
+cycle: 18

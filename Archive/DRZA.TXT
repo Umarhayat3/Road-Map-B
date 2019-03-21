@@ -1,0 +1,10 @@
+Agadez, Niger (DRZA) 16-58N 007-59E 502M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (120 degrees) at 25 MPH (22 KT):0
+Visibility: 3 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 22%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: DRZA 140700Z 12022KT 5000 NSC 24/01 Q1014
+cycle: 7

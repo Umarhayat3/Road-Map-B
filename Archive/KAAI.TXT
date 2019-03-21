@@ -1,0 +1,4 @@
+Station name not available
+Jul 26, 2018 - 07:53 PM EDT / 2018.07.26 2353 UTC
+ob: KAAI 262353Z AUTO RMK SLPNO 6//// PWINO TSNO VIA AUTODIAL
+cycle: 0

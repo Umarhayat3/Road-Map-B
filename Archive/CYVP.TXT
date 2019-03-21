@@ -1,0 +1,13 @@
+Kuujjuaq, Que., Canada (CYVP) 58-06N 068-25W 37M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (330 degrees) at 7 MPH (6 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: ice crystals; mist
+Temperature: -2 F (-19 C)
+Windchill: -14 F (-26 C):2
+Dew Point: -5 F (-21 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.13 in. Hg (1020 hPa)
+ob: CYVP 140800Z 33006KT 2 1/2SM IC BR OVC003 M19/M21 A3013 RMK FG2ST6 SLP209
+cycle: 8

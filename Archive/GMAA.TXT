@@ -1,0 +1,11 @@
+Agadir, Morocco (GMAA) 30-23N 009-34W 23M
+Mar 13, 2019 - 01:00 PM EDT / 2019.03.13 1700 UTC
+Wind: from the W (280 degrees) at 10 MPH (9 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 64 F (18 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: GMAA 131700Z 28009KT 5000 SCT010 18/15 Q1020 TEMPO 3000 BR
+cycle: 17

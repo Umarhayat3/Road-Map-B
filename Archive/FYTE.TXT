@@ -1,0 +1,9 @@
+Station name not available
+Jul 17, 2012 - 10:00 PM EDT / 2012.07.18 0200 UTC
+Wind: from the E (100 degrees) at 3 MPH (3 KT):0
+Temperature: 50 F (10 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FYTE 180200Z AUTO 10003KT //// // ////// 10/10 Q1018
+cycle: 2

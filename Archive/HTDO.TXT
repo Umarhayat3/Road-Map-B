@@ -1,0 +1,11 @@
+Dodoma, Tanzania (HTDO) 06-10S 035-46E 1120M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HTDO 140800Z 09010KT 9999 SCT025 25/17 Q1019 NOSIG
+cycle: 8

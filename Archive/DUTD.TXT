@@ -1,0 +1,12 @@
+Station name not available
+Sep 08, 2018 - 02:00 AM EDT / 2018.09.08 0600 UTC
+Wind: Calm:0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 78 F (26 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DUTD 080600Z 00000KT 4000 BR BKN030 26/22 Q1017
+cycle: 6

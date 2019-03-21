@@ -1,0 +1,11 @@
+Station name not available
+Sep 02, 2010 - 12:51 PM EDT / 2010.09.02 1651 UTC
+Wind: from the ENE (070 degrees) at 10 MPH (9 KT) gusting to 23 MPH (20 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 82.9 F (28.3 C)
+Dew Point: 77.0 F (25.0 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: JHSE 021651Z AUTO 07009G20KT 030V090 10SM SCT027 BKN033 BKN060 28/25 A2992 RMK AO2 SLP133 T02830250 TSNO 
+cycle: 17

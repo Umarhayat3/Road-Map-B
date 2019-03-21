@@ -1,0 +1,9 @@
+Cap Madeleine Meteorological Aeronautical Presentation System , Canada (CWSF) 49-15N 065-20W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (230 degrees) at 3 MPH (3 KT):0
+Temperature: 30.2 F (-1.0 C)
+Dew Point: 22.1 F (-5.5 C)
+Relative Humidity: 71%
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: CWSF 140700Z AUTO 23003KT M01/M06 RMK AO1 SLP204 T10101055 56004
+cycle: 7

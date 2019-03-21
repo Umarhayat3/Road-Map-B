@@ -1,0 +1,9 @@
+Station name not available
+Aug 08, 2015 - 05:00 AM EDT / 2015.08.08 0900 UTC
+Wind: from the NNE (020 degrees) at 9 MPH (8 KT):0
+Temperature: 71 F (22 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 18%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: FYAN 080900Z AUTO 02008KT //// // ////// 22/M03 Q1028
+cycle: 9

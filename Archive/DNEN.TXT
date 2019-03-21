@@ -1,0 +1,12 @@
+Enugu, Nigeria (DNEN) 06-28N 007-33E
+Mar 13, 2019 - 12:00 PM EDT / 2019.03.13 1600 UTC
+Wind: from the NNW (340 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 96 F (36 C)
+Heat index: 105.4 F (40.8 C):1
+Dew Point: 73 F (23 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: DNEN 131600Z 34003KT 9999 BKN015 36/23 Q1006 NOSIG
+cycle: 16

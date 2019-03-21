@@ -1,0 +1,11 @@
+Station name not available
+Mar 25, 2011 - 01:00 PM EDT / 2011.03.25 1700 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 105 F (41 C)
+Heat index: 104.4 F (40.2 C):1
+Dew Point: 57 F (14 C)
+Relative Humidity: 20%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: GOGI 251700Z 36004KT CAVOK 41/14 Q1006
+cycle: 17

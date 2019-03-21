@@ -1,0 +1,8 @@
+Salmon Arm Automatic Weather Reporting System , Canada (CWSL) 50-42N 119-17W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (360 degrees) at 2 MPH (2 KT):0
+Temperature: 19.2 F (-7.1 C)
+Dew Point: 14.4 F (-9.8 C)
+Relative Humidity: 81%
+ob: CWSL 140700Z AUTO 36002KT M07/M10 RMK AO1 SOG 28 1014 SLP299 T10711098
+cycle: 7

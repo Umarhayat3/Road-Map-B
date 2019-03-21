@@ -1,0 +1,10 @@
+Station name not available
+Jul 02, 2018 - 12:30 AM EDT / 2018.07.02 0430 UTC
+Wind: from the ENE (060 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: EDMB 020430Z 06004KT 8000 NSC 24/22 Q1012 NOSIG
+cycle: 4

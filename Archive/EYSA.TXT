@@ -1,0 +1,10 @@
+Siauliai Intl./Mil., Lithuania (EYSA) 55-53-38N 023-23-42E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (160 degrees) at 14 MPH (12 KT):0
+Visibility: 5 mile(s):0
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EYSA 140820Z 16012KT 9000 NSC 03/02 Q0998 R14L/29//95 BLU NOSIG
+cycle: 8

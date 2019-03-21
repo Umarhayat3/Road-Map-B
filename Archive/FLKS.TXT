@@ -1,0 +1,10 @@
+Kasama, Zambia (FLKS) 10-13S 031-08E 1384M
+Nov 16, 2012 - 04:00 AM EST / 2012.11.16 0900 UTC
+Wind: from the E (090 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 33%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FLKS 160900Z 09004KT CAVOK 30/12 Q1019
+cycle: 9

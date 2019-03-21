@@ -1,0 +1,10 @@
+Ekofisk Oil Platform, Norway (ENEK) 56-33N 003-15E
+May 25, 2017 - 03:50 AM EDT / 2017.05.25 0750 UTC
+Wind: from the NW (320 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: ENEK 250750Z 32010KT CAVOK 13/11 Q1024 W11/S3
+cycle: 8

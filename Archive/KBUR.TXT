@@ -1,0 +1,12 @@
+BURBANK-GLENDALE-PASADENA, CA, United States (KBUR) 34-12N 118-22W 217M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.9 F (9.4 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 45%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: KBUR 140853Z 00000KT 10SM CLR 09/M02 A3012 RMK AO2 SLP190 T00941017 53003
+cycle: 9

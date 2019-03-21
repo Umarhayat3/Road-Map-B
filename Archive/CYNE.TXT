@@ -1,0 +1,11 @@
+Norway House, Man., Canada (CYNE) 53-58N 097-50W 223M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+ob: CYNE 140800Z AUTO VRB02KT 9SM CLR M05/M06 A2997 RMK SLP165
+cycle: 8

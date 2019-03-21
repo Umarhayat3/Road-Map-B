@@ -1,0 +1,12 @@
+Station name not available
+Feb 28, 2010 - 08:50 PM EST / 2010.03.01 0150 UTC
+Wind: from the N (350 degrees) at 6 MPH (5 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: rain; mist
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: EQBF 010150Z 35005KT 5000 RA BR BKN060 OVC090 05/04 Q1018 WHT
+cycle: 2

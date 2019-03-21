@@ -1,0 +1,10 @@
+Station name not available
+Nov 03, 2018 - 01:00 AM EDT / 2018.11.03 0500 UTC
+Wind: from the WNW (300 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HEDF 030500Z 30003KT CAVOK 15/11 Q1014
+cycle: 5

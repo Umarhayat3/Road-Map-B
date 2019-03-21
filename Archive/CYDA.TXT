@@ -1,0 +1,11 @@
+Dawson, Y. T., Canada (CYDA) 64-03N 139-08W 370M
+Mar 13, 2019 - 06:00 PM EDT / 2019.03.13 2200 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: overcast
+Temperature: 30 F (-1 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 54%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+ob: CYDA 132200Z VRB02KT 20SM SCT200 OVC220 M01/M09 A2973 RMK CS4CI4 LAST STFD OBS/NEXT 141300 Z SLP098
+cycle: 22

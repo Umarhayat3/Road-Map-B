@@ -1,0 +1,12 @@
+Station name not available
+Nov 24, 2010 - 10:50 AM EST / 2010.11.24 1550 UTC
+Wind: from the NNW (330 degrees) at 21 MPH (18 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 39 F (4 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: EGXX 241550Z 33018KT 9999 -RA SCT012 BKN050 04/02 Q1008 GRN
+cycle: 16

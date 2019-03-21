@@ -1,0 +1,7 @@
+Puinte Claveau, Canada (CWQV) 48-16N 070-07W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Temperature: 30.9 F (-0.6 C)
+Dew Point: 24.4 F (-4.2 C)
+Relative Humidity: 76%
+ob: CWQV 140700Z AUTO M01/M04 RMK AO1 T10061042
+cycle: 7

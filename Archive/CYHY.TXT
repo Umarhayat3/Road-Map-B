@@ -1,0 +1,12 @@
+Hay River, N. W. T., Canada (CYHY) 60-50N 115-47W 166M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 5 F (-15 C)
+Windchill: -5 F (-21 C):2
+Dew Point: 0 F (-18 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CYHY 140800Z 16005KT 15SM SKC M15/M18 A3019 RMK SLP243
+cycle: 8

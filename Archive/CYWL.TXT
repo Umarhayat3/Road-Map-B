@@ -1,0 +1,12 @@
+Williams Lake, B. C., Canada (CYWL) 52-11N 122-03W 940M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ESE (120 degrees) at 8 MPH (7 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 28 F (-2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 50%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: CYWL 140800Z 12007KT 15SM BKN120 M02/M11 A3017 RMK AC7 SLP256
+cycle: 8

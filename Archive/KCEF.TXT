@@ -1,0 +1,11 @@
+Chicopee Falls / Westover Air Force Base, MA, United States (KCEF) 42-12N 072-32W 75M
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the SSE (160 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 35.6 F (2.0 C)
+Dew Point: 25.7 F (-3.5 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: KCEF 140656Z AUTO 16004KT 10SM OVC055 02/M03 A3025 RMK AO2 SLP252 T00201035
+cycle: 7

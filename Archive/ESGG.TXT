@@ -1,0 +1,11 @@
+Goteborg / Landvetter, Sweden (ESGG) 57-40N 012-18E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (190 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 37 F (3 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: ESGG 140820Z 19009KT 9999 SCT007 BKN015 03/01 Q0989 R21/29//95
+cycle: 8

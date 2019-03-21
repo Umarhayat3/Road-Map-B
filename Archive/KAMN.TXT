@@ -1,0 +1,11 @@
+Alma, Gratiot Community Airport, MI, United States (KAMN) 43-19-19N 084-41-16W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SSE (150 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 43.2 F (6.2 C)
+Dew Point: 36.7 F (2.6 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: KAMN 140856Z AUTO 15005KT 10SM BKN044 OVC050 06/03 A2971 RMK AO2 T00620026
+cycle: 9

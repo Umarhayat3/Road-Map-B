@@ -1,0 +1,11 @@
+Station name not available
+Aug 10, 2011 - 10:00 AM EDT / 2011.08.10 1400 UTC
+Wind: from the WNW (300 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 102 F (39 C)
+Heat index: 109.6 F (43.1 C):1
+Dew Point: 69 F (21 C)
+Relative Humidity: 35%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GISP 101400Z 30004KT CAVOK 39/21 Q1009
+cycle: 14

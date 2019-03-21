@@ -1,0 +1,10 @@
+Station name not available
+Jul 16, 2010 - 07:00 PM EDT / 2010.07.16 2300 UTC
+Wind: from the SW (220 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GTOT 162300Z 22008KT CAVOK 28/25 Q1009
+cycle: 23

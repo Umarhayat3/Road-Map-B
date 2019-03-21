@@ -1,0 +1,11 @@
+Intracoastal City, LA, United States (K7R4) 29-47N 092-08W
+Apr 26, 2015 - 05:56 PM EDT / 2015.04.26 2156 UTC
+Wind: from the SE (130 degrees) at 7 MPH (6 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: K7R4 262156Z 13006KT 7SM SCT032 BKN100 23/17 A2971
+cycle: 22

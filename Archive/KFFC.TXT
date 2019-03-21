@@ -1,0 +1,12 @@
+PEACHTREE CITY-FALCON FIELD, GA, United States (KFFC) 33-22N 084-34W 248M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (140 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 60.1 F (15.6 C)
+Dew Point: 55.0 F (12.8 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KFFC 140853Z AUTO 14007KT 10SM CLR 16/13 A3012 RMK AO2 SLP197 T01560128 58010
+cycle: 9

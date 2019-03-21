@@ -1,0 +1,10 @@
+Fagernes Leirin, Norway (ENFG) 61-00N 009-18E
+Apr 22, 2018 - 04:50 AM EDT / 2018.04.22 0850 UTC
+Wind: from the S (190 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 42 F (6 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 52%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: ENFG 220850Z 19007KT CAVOK 06/M03 Q1014
+cycle: 9

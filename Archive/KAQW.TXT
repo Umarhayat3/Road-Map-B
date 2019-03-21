@@ -1,0 +1,12 @@
+N ADAMS HARRIMAN-AND-WEST, MA, United States (KAQW) 42-42N 073-10W 201M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the ENE (070 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37.9 F (3.3 C)
+Dew Point: 25.0 F (-3.9 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: KAQW 140852Z AUTO 07003KT 10SM OVC049 03/M04 A3021 RMK AO2 SLP236 T00331039 55004
+cycle: 9

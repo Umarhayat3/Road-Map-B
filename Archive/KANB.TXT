@@ -1,0 +1,12 @@
+ANNISTON METRO AIRPORT, AL, United States (KANB) 33-35N 085-51W 183M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (130 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 64.0 F (17.8 C)
+Dew Point: 53.1 F (11.7 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KANB 140853Z AUTO 13007KT 10SM FEW035 OVC060 18/12 A3003 RMK AO2 SLP164 T01780117 58012
+cycle: 9

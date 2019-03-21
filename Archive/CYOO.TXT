@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+Pressure tendency: falling rapidly
+ob: CYOO 140800Z AUTO 08006KT 9SM OVC042 03/01 A3003 RMK PRESFR SLP175
+cycle: 8

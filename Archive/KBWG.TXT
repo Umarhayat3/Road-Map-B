@@ -1,0 +1,12 @@
+BOWLING GREEN-WARREN CO RGNL, KY, United States (KBWG) 36-58N 086-25W 161M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 28 MPH (24 KT) gusting to 40 MPH (35 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 68.0 F (20.0 C)
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.78 in. Hg (1008 hPa)
+Pressure tendency: 0.06 inches (2.0 hPa) lower than three hours ago
+ob: KBWG 140853Z AUTO 17024G35KT 10SM BKN043 OVC070 20/09 A2978 RMK AO2 PK WND 18039/0839 SLP081 T02000094 58020 
+cycle: 9

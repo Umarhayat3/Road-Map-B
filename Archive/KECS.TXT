@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NNW (330 degrees) at 32 MPH (28 KT) gusting to 39 MPH (34 KT):0
+Visibility: 1 1/4 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 26 F (-3 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: KECS 140855Z AUTO 33028G34KT 1 1/4SM -SN OVC026 M03/M05 A2981 RMK AO2
+cycle: 9

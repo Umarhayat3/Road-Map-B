@@ -1,0 +1,12 @@
+Faya, Chad (FTTY) 18-00N 019-10E 234M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (040 degrees) at 29 MPH (25 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: clear
+Weather: blowing sand
+Temperature: 66 F (19 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 27%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FTTY 140700Z 04025KT 3500 BLSA SKC 19/M00 Q1017
+cycle: 7

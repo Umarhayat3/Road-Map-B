@@ -1,0 +1,10 @@
+Station name not available
+Apr 12, 2017 - 10:30 PM EDT / 2017.04.13 0230 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DUMB 130230Z 28004KT 6000 NSC 15/12 Q1017 NOSIG
+cycle: 2

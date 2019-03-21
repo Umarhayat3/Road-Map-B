@@ -1,0 +1,8 @@
+Station name not available
+Aug 30, 2012 - 05:50 AM EDT / 2012.08.30 0950 UTC
+Wind: from the SSE (160 degrees) at 9 MPH (8 KT) (direction variable):0
+Sky conditions: mostly cloudy
+Temperature: 62 F (17 C)
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: ESGL 300950Z AUTO 16008KT 140V200 9999NDV FEW019/// BKN029/// 17/// Q1014 RESHRA
+cycle: 10

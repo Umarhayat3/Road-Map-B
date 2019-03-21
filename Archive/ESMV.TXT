@@ -1,0 +1,10 @@
+Hagshult, Sweden (ESMV) 57-18N 014-08E 172M
+Nov 12, 2014 - 07:20 AM EST / 2014.11.12 1220 UTC
+Wind: from the E (090 degrees) at 14 MPH (12 KT):0
+Sky conditions: overcast
+Temperature: 44 F (7 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: ESMV 121220Z AUTO 09012KT 9999NDV OVC006/// 07/07 Q1014
+cycle: 12

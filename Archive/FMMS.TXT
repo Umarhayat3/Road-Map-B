@@ -1,0 +1,12 @@
+Sainte-Marie Aerodrome, Madagascar (FMMS) 17-05S 049-49E 3M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: from the SW (220 degrees) at 9 MPH (8 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light with thunder; Cumulonimbus clouds observed
+Temperature: 77 F (25 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FMMS 140600Z 22008KT 8000 -TS SCT017CB OVC250 25/24 Q1015
+cycle: 6

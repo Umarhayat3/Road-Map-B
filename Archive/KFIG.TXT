@@ -1,0 +1,13 @@
+CLEARFIELD-LAWRENCE AIRPORT, PA, United States (KFIG) 41-03N 078-25W 462M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the N (010 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 34.0 F (1.1 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KFIG 140854Z AUTO 01007KT 10SM CLR 01/M02 A3006 RMK AO2 SLP189 T00111022 58015
+cycle: 9

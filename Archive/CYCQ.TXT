@@ -1,0 +1,11 @@
+Chetwynd Airport, Canada (CYCQ) 55-42N 121-38W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the SW (230 degrees) at 14 MPH (12 KT):0
+Visibility: 35 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 17 F (-8 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+ob: CYCQ 140100Z 23012KT 35SM FEW045 FEW130 SCT220 04/M08 A3008 RMK SC1AC1CI2 SC TR LAST STFD OBS/NEXT 141300Z SLP222
+cycle: 1

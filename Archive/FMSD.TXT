@@ -1,0 +1,11 @@
+Fort-Dauphin, Madagascar (FMSD) 25-02S 046-57E 9M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (080 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FMSD 140700Z 08012KT 9999 SCT016 BKN033 27/21 Q1017
+cycle: 7

@@ -1,0 +1,9 @@
+Station name not available
+Jul 30, 2017 - 05:53 AM EDT / 2017.07.30 0953 UTC
+Wind: from the SE (130 degrees) at 6 MPH (5 KT):0
+Temperature: 52.0 F (11.1 C)
+Dew Point: 41.0 F (5.0 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.3 in. Hg (1026 hPa)
+ob: CP68 300953Z AUTO 13005KT 11/05 A3030 RMK AO1 SLP189 T01110050 
+cycle: 10

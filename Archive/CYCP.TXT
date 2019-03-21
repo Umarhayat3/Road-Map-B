@@ -1,0 +1,11 @@
+Blue River, B. C., Canada (CYCP) 52-08N 119-18W 683M
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 44%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: CYCP 140100Z 00000KT 15SM SCT084 04/M07 A3020 RMK AC4 LAST STFD OBS/NEXT 141300Z SLP269
+cycle: 1

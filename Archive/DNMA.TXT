@@ -1,0 +1,11 @@
+Maiduguri, Nigeria (DNMA) 11-51N 013-05E
+Mar 07, 2019 - 05:00 AM EST / 2019.03.07 1000 UTC
+Wind: from the E (090 degrees) at 7 MPH (6 KT):0
+Visibility: 2 mile(s):0
+Weather: haze
+Temperature: 95 F (35 C)
+Dew Point: 24 F (-4 C)
+Relative Humidity: 8%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: DNMA 071000Z 09006KT 4000 HZ NSC 35/M04 Q1014
+cycle: 10

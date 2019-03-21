@@ -1,0 +1,13 @@
+Oakes Municipal Airport, ND, United States (K2D5) 46-10-23N 098-04-48W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (360 degrees) at 26 MPH (23 KT) gusting to 35 MPH (30 KT):0
+Visibility: 1 1/2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 30 F (-1 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.43 in. Hg (996 hPa)
+ob: K2D5 140855Z AUTO 36023G30KT 1 1/2SM BR OVC007 M01/M01 A2943 RMK AO2 PWINO
+cycle: 9

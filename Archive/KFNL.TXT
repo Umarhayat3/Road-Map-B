@@ -1,0 +1,14 @@
+Fort Collins/Loveland, Fort Collins-Loveland Municipal Airport, CO, United States (KFNL) 40-27N 105-01W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the NNW (330 degrees) at 31 MPH (27 KT) gusting to 38 MPH (33 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 27.0 F (-2.8 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 23.0 F (-5.0 C)
+Relative Humidity: 84%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+Pressure tendency: 0.07 inches (2.4 hPa) higher than three hours ago
+ob: KFNL 140856Z AUTO 33027G33KT 7SM OVC090 M03/M05 A2985 RMK AO2 PK WND 32036/0817 SNE33 SLP129 P0000 60000 T10281050 51024 FZRANO
+cycle: 9

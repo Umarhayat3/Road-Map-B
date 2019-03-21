@@ -1,0 +1,11 @@
+Canton, Cherokee County Airport, GA, United States (K47A) 34-18-38N 084-25-26W
+Oct 03, 2011 - 12:35 PM EDT / 2011.10.03 1635 UTC
+Wind: from the WNW (290 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66 F (19 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 42%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: K47A 031635Z AUTO 29004KT 10SM CLR 19/06 A3020 RMK AO2
+cycle: 16

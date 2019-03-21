@@ -1,0 +1,11 @@
+Station name not available
+Oct 10, 2016 - 05:55 PM EDT / 2016.10.10 2155 UTC
+Wind: from the NNE (030 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 72.3 F (22.4 C)
+Dew Point: 48.2 F (9.0 C)
+Relative Humidity: 42%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+ob: K4A7 102155Z AUTO 03003KT 10SM CLR 22/09 A3026 RMK AO2 T02240090
+cycle: 22

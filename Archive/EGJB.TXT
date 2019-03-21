@@ -1,0 +1,12 @@
+Guernsey Airport, United Kingdom (EGJB) 49-26N 002-36W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (270 degrees) at 32 MPH (28 KT) gusting to 44 MPH (38 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 50 F (10 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: EGJB 140820Z 27028G38KT 9000 -RA FEW010 SCT012 BKN014 10/08 Q1013
+cycle: 8

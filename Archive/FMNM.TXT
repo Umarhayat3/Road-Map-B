@@ -1,0 +1,12 @@
+Majunga, Madagascar (FMNM) 15-40S 046-21E 18M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSE (160 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 84 F (29 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FMNM 140700Z 16002KT 9999 TS FEW010 SCT020CB 29/25 Q1013 TEMPO 4000 TSRA
+cycle: 7

@@ -1,0 +1,10 @@
+Station name not available
+Jul 04, 2008 - 11:50 PM EDT / 2008.07.05 0350 UTC
+Wind: from the NNE (030 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 104 F (40 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 7%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: EBQH 050350Z 03004KT CAVOK 40/M02 Q1001 BLU NOSIG
+cycle: 4

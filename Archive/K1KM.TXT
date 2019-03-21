@@ -1,0 +1,12 @@
+Station name not available
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: from the WNW (300 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 18.5 F (-7.5 C)
+Windchill: 5 F (-15 C):1
+Dew Point: 9.3 F (-12.6 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.66 in. Hg (1004 hPa)
+ob: K1KM 130958Z AUTO 30011KT 10SM BKN090 M07/M13 A2966 RMK AO2 SLP087 T10751126 
+cycle: 10

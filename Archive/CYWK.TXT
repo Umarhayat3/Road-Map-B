@@ -1,0 +1,13 @@
+Wabush Lake, Nfld., Canada (CYWK) 52-56N 066-52W 551M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (280 degrees) at 7 MPH (6 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 23 F (-5 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 85%
+Pressure (altimeter): 29.96 in. Hg (1014 hPa)
+ob: CYWK 140800Z AUTO 28006KT 9SM -SN BKN011 OVC018 M05/M07 A2996 RMK SLP183
+cycle: 8

@@ -1,0 +1,11 @@
+Boothville Heliport, LA, United States (K1B7) 29-21N 89-26W
+Nov 03, 2016 - 10:00 AM EDT / 2016.11.03 1400 UTC
+Wind: from the E (090 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 77 F (25 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: K1B7 031400Z 09005KT 10SM SKC 25/24 A3022
+cycle: 14

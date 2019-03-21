@@ -1,0 +1,11 @@
+Nain, Nfld, Canada (CYDP) 56-33N 061-41W 7M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: -2 F (-19 C)
+Dew Point: -9 F (-23 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+ob: CYDP 140800Z 00000KT 15SM SKC M19/M23 A3006 RMK SLP181
+cycle: 8

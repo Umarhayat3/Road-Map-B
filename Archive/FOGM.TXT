@@ -1,0 +1,9 @@
+Mouila, Gabon (FOGM) 01-52S 011-01E 89M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 94%
+ob: FOGM 140800Z /////KT 9999 FEW010 BKN026 26/25 Q////
+cycle: 8

@@ -1,0 +1,8 @@
+Arlington, WY, United States (KARL) 41-42N 106-13W
+Jan 20, 2009 - 12:50 PM EST / 2009.01.20 1750 UTC
+Wind: from the WSW (240 degrees) at 18 MPH (16 KT) gusting to 26 MPH (23 KT):0
+Temperature: 46.6 F (8.1 C)
+Dew Point: 9.0 F (-12.8 C)
+Relative Humidity: 21%
+ob: KARL 201750Z AUTO 24016G23KT 08/M13 RMK AO1 T00811128
+cycle: 18

@@ -1,0 +1,11 @@
+Station name not available
+Apr 06, 2008 - 12:53 PM EDT / 2008.04.06 1653 UTC
+Wind: Variable at 5 MPH (4 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: mostly cloudy
+Temperature: 73.9 F (23.3 C)
+Dew Point: 62.1 F (16.7 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+ob: COGB 061653Z AUTO VRB04KT 00SM FEW021 BKN037 23/17 A2999 RMK AO2 SLP154 T02330167 TSNO 
+cycle: 17

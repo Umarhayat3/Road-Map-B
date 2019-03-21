@@ -1,0 +1,12 @@
+Kiruna Airport, Sweden (ESNQ) 67-49N 020-20E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (150 degrees) at 3 MPH (3 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 15 F (-9 C)
+Dew Point: 12 F (-11 C)
+Relative Humidity: 85%
+Pressure (altimeter): 29.23 in. Hg (0990 hPa)
+ob: ESNQ 140820Z AUTO 15003KT 7000 -SN FEW003/// BKN005/// OVC008/// M09/M11 Q0990
+cycle: 8

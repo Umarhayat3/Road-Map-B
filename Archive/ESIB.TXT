@@ -1,0 +1,12 @@
+Satenas, Sweden (ESIB) 58-26N 012-42E 74M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (220 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: ESIB 140820Z 22008KT 9999 SCT008 02/01 Q0989
+cycle: 8

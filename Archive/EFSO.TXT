@@ -1,0 +1,5 @@
+Sodankyla, Finland (EFSO) 67-22N 026-39E 179M
+Mar 18, 2010 - 02:08 AM EDT / 2010.03.18 0608 UTC
+Weather: sandstorm, ; ice pellets, 
+ob: EFSO 180608Z THIS IS A TEST MESSAGE PLS DISREGARD
+cycle: 6

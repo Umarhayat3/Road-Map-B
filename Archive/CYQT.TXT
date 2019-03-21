@@ -1,0 +1,13 @@
+Thunder Bay, Ont., Canada (CYQT) 48-22N 089-19W 199M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (070 degrees) at 15 MPH (13 KT) gusting to 21 MPH (18 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Temperature: 33 F (1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.54 in. Hg (1000 hPa)
+ob: CYQT 140800Z 07013G18KT 5SM -RA BR OVC003 01/01 A2954 RMK ST8 SLP013
+cycle: 8

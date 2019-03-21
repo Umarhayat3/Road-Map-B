@@ -1,0 +1,9 @@
+Station name not available
+Sep 10, 2008 - 11:52 PM EDT / 2008.09.11 0352 UTC
+Wind: Calm:0
+Temperature: 60.1 F (15.6 C)
+Dew Point: 51.1 F (10.6 C)
+Relative Humidity: 72%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+ob: GCZZ 110352Z AUTO 00000KT 16/11 A2985 RMK AO2 SLP079 T01560106 PWINO`TSNO 
+cycle: 4

@@ -1,0 +1,12 @@
+Dover Air Force Base, DE, United States (KDOV) 39-08N 075-28W
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the S (180 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: clear
+Weather: haze
+Temperature: 42.1 F (5.6 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.23 in. Hg (1023 hPa)
+ob: KDOV 140656Z AUTO 18006KT 5SM HZ CLR 06/M01 A3023 RMK AO2 SLP240 T00561011 
+cycle: 7

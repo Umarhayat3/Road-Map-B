@@ -1,0 +1,11 @@
+Friedrichshafen, Germany (EDNY) 47-40N 009-31E 424M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (240 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 41 F (5 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: EDNY 140750Z 24016KT 9999 FEW024 BKN064 OVC072 05/01 Q1016
+cycle: 8

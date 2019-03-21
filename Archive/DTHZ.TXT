@@ -1,0 +1,11 @@
+Station name not available
+Mar 04, 2018 - 03:00 PM EST / 2018.03.04 2000 UTC
+Wind: from the W (270 degrees) at 20 MPH (17 KT):0
+Visibility: 1 mile(s):0
+Weather: sand
+Temperature: 66 F (19 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 42%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: DTHZ 042000Z 27017KT 2000 SA NSC 19/06 Q1001
+cycle: 20

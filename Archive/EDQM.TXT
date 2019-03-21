@@ -1,0 +1,13 @@
+Hof, Germany (EDQM) 50-19N 011-53E 568M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (240 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light drizzle
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: EDQM 140750Z 24011KT 9999 -DZ OVC007 02/01 Q1006
+cycle: 8

@@ -1,0 +1,9 @@
+Cypress Hills Park, Canada (CWVP) 49-39N 109-31W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (330 degrees) at 6 MPH (5 KT):0
+Temperature: 21.4 F (-5.9 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 18.7 F (-7.4 C)
+Relative Humidity: 89%
+ob: CWVP 140700Z AUTO 33005KT M06/M07 RMK AO1 SOG 36 1008 SLP239 T10591074
+cycle: 7

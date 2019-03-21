@@ -1,0 +1,10 @@
+Rosso, Mauritania (GQNR) 16-30N 015-49W 6M
+Feb 26, 2012 - 11:30 PM EST / 2012.02.27 0430 UTC
+Wind: from the NE (050 degrees) at 9 MPH (8 KT):0
+Visibility: 4 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 10 F (-12 C)
+Relative Humidity: 10%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: GQNR 270430Z 05008KT 8000 NSC 20/M12 Q1011 NOSIG
+cycle: 4

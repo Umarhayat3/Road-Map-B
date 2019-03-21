@@ -1,0 +1,10 @@
+Calvinia, South Africa (FACV) 31-28S 019-46E 1000M
+Mar 14, 2019 - 03:24 AM EDT / 2019.03.14 0724 UTC
+Wind: from the E (100 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 27%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FACV 140724Z 10003KT CAVOK 26/06 Q1019
+cycle: 7

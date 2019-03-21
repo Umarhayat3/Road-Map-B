@@ -1,0 +1,8 @@
+Maniwaki, Canada (CWMJ) 46-17N 076-00W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (130 degrees) at 1 MPH (1 KT):0
+Temperature: 28.8 F (-1.8 C)
+Dew Point: 27.3 F (-2.6 C)
+Relative Humidity: 94%
+ob: CWMJ 140700Z AUTO 13001KT M02/M03 RMK AO1 SOG 79 5009 SLP213 T10181026
+cycle: 7

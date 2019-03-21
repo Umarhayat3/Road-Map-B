@@ -1,0 +1,12 @@
+CONCORD BUCHANAN FIELD, CA, United States (KCCR) 38-00N 122-03W 11M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 43.0 F (6.1 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) higher than three hours ago
+ob: KCCR 140853Z AUTO 00000KT 10SM CLR 06/01 A3024 RMK AO2 SLP225 T00610006 53004
+cycle: 9

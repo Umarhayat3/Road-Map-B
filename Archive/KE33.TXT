@@ -1,0 +1,10 @@
+Chama, NM, United States (KE33) 36-54N 106-35W
+Sep 30, 2012 - 05:45 PM EDT / 2012.09.30 2145 UTC
+Wind: from the ENE (075 degrees) at 5 MPH (4 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 24%
+ob: KE33 302145Z 07504KT 20SM BKN070 19/M02 RMK 70008
+cycle: 22

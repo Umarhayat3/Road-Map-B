@@ -1,0 +1,12 @@
+Cambridge Municipal, MN, United States (KCBG) 45-34N 093-16W
+Mar 03, 2019 - 07:57 AM EST / 2019.03.03 1257 UTC
+Wind: from the WSW (250 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: -16 F (-27 C)
+Windchill: -31 F (-35 C):2
+Dew Point: -25 F (-32 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+ob: KCBG 031257Z AUTO 25005KT 10SM CLR M27/M32 A3039 RMK AO2
+cycle: 13

@@ -1,0 +1,13 @@
+Faribault, Faribault Municipal Airport, MN, United States (KFBL) 44-20N 093-19W
+Sep 20, 2018 - 07:41 PM EDT / 2018.09.20 2341 UTC
+Wind: from the SSE (150 degrees) at 18 MPH (16 KT) gusting to 45 MPH (39 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: heavy rain with thunder in the vicinity; Lightning observed
+Precipitation last hour: 0.08 inches
+Temperature: 69 F (21 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.51 in. Hg (999 hPa)
+ob: KFBL 202341Z AUTO 15016G39KT 122V182 4SM +VCTSRA SCT010 BKN070 21/21 A2951 RMK AO2 P0008 LTG DSNT ALQDS
+cycle: 23

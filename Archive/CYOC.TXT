@@ -1,0 +1,13 @@
+Old Crow Airport, Canada (CYOC) 67-34N 139-49W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the NNE (030 degrees) at 13 MPH (11 KT) gusting to 21 MPH (18 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: overcast
+Weather: light snow; low drifting snow
+Temperature: 0 F (-18 C)
+Windchill: -18 F (-28 C):2
+Dew Point: -9 F (-23 C)
+Relative Humidity: 64%
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+ob: CYOC 140100Z 03011G18KT 20SM -SN DRSN OVC023 M18/M23 A2997 RMK SC8 LAST STFD OBS/NEXT 141300Z SLP183
+cycle: 1

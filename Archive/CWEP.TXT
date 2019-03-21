@@ -1,0 +1,9 @@
+East Point, P. E. I, Canada (CWEP) 46-27N 061-58W 13M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (200 degrees) at 9 MPH (8 KT):0
+Temperature: 26.4 F (-3.1 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 23.7 F (-4.6 C)
+Relative Humidity: 89%
+ob: CWEP 140700Z AUTO 20008KT M03/M05 RMK AO1 SOG 47 7008 SLP243 T10311046
+cycle: 7

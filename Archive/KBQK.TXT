@@ -1,0 +1,11 @@
+Brunswick / Glynco, GA, United States (KBQK) 31-15N 081-28W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (100 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 62 F (17 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: KBQK 140855Z AUTO 10003KT 10SM CLR 17/14 A3018 RMK AO2
+cycle: 9

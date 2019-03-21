@@ -1,0 +1,12 @@
+Portage Southport A, Canada (CYPG) 49-54N 098-16W 259M
+Mar 13, 2019 - 10:00 PM EDT / 2019.03.14 0200 UTC
+Wind: from the N (350 degrees) at 15 MPH (13 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: CYPG 140200Z 35013KT 15SM OVC150 01/M04 A2976 RMK AS8 SLP093
+cycle: 2

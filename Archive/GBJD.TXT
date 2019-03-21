@@ -1,0 +1,8 @@
+Station name not available
+Jun 16, 2015 - 02:56 AM EDT / 2015.06.16 0656 UTC
+Wind: from the E (090 degrees) at 40 MPH (35 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: squalls; squalls, ; Cumulonimbus clouds observed
+ob: GBJD 160656Z 09035KT 9000 SQ SCT011 FEW018CB BKN110 SQUAL AT THE STATION
+cycle: 7

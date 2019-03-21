@@ -1,0 +1,8 @@
+Chamouchouane Automatic Weather Reporting System, Canada (CWEE) 49-17N 073-21W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Temperature: 30.7 F (-0.7 C)
+Dew Point: 26.8 F (-2.9 C)
+Relative Humidity: 85%
+Pressure tendency: 0.02 inches (0.7 hPa) higher than three hours ago
+ob: CWEE 140700Z AUTO M01/M03 RMK AO1 SLP193 T10071029 51007
+cycle: 7

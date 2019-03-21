@@ -1,0 +1,11 @@
+Station name not available
+Jan 26, 2016 - 08:40 AM EST / 2016.01.26 1340 UTC
+Wind: from the S (190 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 57 F (14 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 47%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: ETGV 261340Z 19004KT 9999 FEW200 14/03 Q1026 BLU+FCST CANCEL
+cycle: 13

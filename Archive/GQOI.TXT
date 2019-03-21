@@ -1,0 +1,11 @@
+Station name not available
+Dec 09, 2016 - 07:00 AM EST / 2016.12.09 1200 UTC
+Wind: from the E (080 degrees) at 18 MPH (16 KT):0
+Visibility: 3 mile(s):0
+Weather: blowing sand
+Temperature: 78 F (26 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 29%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: GQOI 091200Z 08016KT 6000 BLSA NSC 26/07 Q1018
+cycle: 12

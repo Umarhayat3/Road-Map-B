@@ -1,0 +1,9 @@
+Station name not available
+Mar 31, 2017 - 02:00 AM EDT / 2017.03.31 0600 UTC
+Wind: from the E (100 degrees) at 18 MPH (16 KT):0
+Visibility: 4 mile(s):0
+Temperature: 96 F (36 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 16%
+ob: GAYE 310600Z 10016KT 8000 NSC 36/07 Q////
+cycle: 6

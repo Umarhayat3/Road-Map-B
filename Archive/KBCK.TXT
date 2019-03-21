@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (080 degrees) at 3 MPH (3 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: fog; Lightning observed
+Temperature: 45.0 F (7.2 C)
+Dew Point: 45.0 F (7.2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.32 in. Hg (992 hPa)
+ob: KBCK 140855Z AUTO 08003KT 1/4SM FG OVC007 07/07 A2932 RMK AO2 LTG DSNT SW T00720072
+cycle: 9

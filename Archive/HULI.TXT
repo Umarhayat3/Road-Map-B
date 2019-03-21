@@ -1,0 +1,10 @@
+Lira, Uganda (HULI) 02-15N 032-54E
+Feb 22, 2016 - 07:00 AM EST / 2016.02.22 1200 UTC
+Wind: from the SE (130 degrees) at 12 MPH (10 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 95 F (35 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 24%
+ob: HULI 221200Z 13010KT 9000 SCT025 35/12
+cycle: 12

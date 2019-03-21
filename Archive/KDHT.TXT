@@ -1,0 +1,12 @@
+DALHART MUNICIPAL AIRPORT, TX, United States (KDHT) 36-01N 102-33W 1217M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNW (340 degrees) at 23 MPH (20 KT) gusting to 35 MPH (30 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 36.0 F (2.2 C)
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+Pressure tendency: 0.08 inches (2.7 hPa) higher than three hours ago
+ob: KDHT 140853Z AUTO 34020G30KT 10SM BKN110 02/M07 A2976 RMK AO2 PK WND 34038/0822 SLP055 T00221067 53027
+cycle: 9

@@ -1,0 +1,9 @@
+Station name not available
+Sep 08, 2011 - 11:52 AM EDT / 2011.09.08 1552 UTC
+Wind: from the WSW (250 degrees) at 3 MPH (3 KT):0
+Temperature: 62 F (17 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: KG12 081552Z 25003KT M M 17/15 A2976 
+cycle: 16

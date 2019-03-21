@@ -1,0 +1,10 @@
+Pointe-Des-Monts , Que., Canada (CWTG) 49-19N 067-23W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (220 degrees) at 13 MPH (11 KT):0
+Temperature: 30.4 F (-0.9 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 29.1 F (-1.6 C)
+Relative Humidity: 94%
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: CWTG 140700Z AUTO 22011KT M01/M02 RMK AO1 SLP207 T10091016 50000
+cycle: 7

@@ -1,0 +1,12 @@
+Station name not available
+Mar 21, 2014 - 10:00 PM EDT / 2014.03.22 0200 UTC
+Wind: from the ESE (110 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 66 F (19 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FBMM 220200Z 11003KT 340V110 9999 SCT025 FEW030CB BKN070 19/17 Q1018
+cycle: 2

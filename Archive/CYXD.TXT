@@ -1,0 +1,13 @@
+Edmonton Municipal Alta., Canada (CYXD) 53-34N 113-31W 671M
+Apr 01, 2015 - 10:00 AM EDT / 2015.04.01 1400 UTC
+Wind: from the W (280 degrees) at 23 MPH (20 KT) gusting to 33 MPH (29 KT):0
+Visibility: 1 3/4 mile(s):0
+Sky conditions: overcast
+Weather: light precipitation
+Temperature: 33 F (1 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.52 in. Hg (999 hPa)
+ob: CYXD 011400Z AUTO 28020G29KT 1 3/4SM -UP OVC009 01/M00 A2952 RMK SLP019
+cycle: 14

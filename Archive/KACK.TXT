@@ -1,0 +1,12 @@
+NANTUCKET MEMORIAL AIRPORT, MA, United States (KACK) 41-15N 70-04W 16M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37.0 F (2.8 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.3 in. Hg (1026 hPa)
+Pressure tendency: 0.07 inches (2.3 hPa) lower than three hours ago
+ob: KACK 140853Z AUTO 16006KT 10SM OVC090 03/01 A3030 RMK AO2 SLP259 T00280006 56023
+cycle: 9

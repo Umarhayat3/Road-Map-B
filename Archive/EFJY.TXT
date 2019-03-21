@@ -1,0 +1,13 @@
+Jyvaskyla, Finland (EFJY) 62-24N 025-41E 145M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 12 MPH (10 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: mostly cloudy
+Weather: snow
+Temperature: 26 F (-3 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EFJY 140820Z 13010KT 1200 SN BKN005 M03/M04 Q0998
+cycle: 8

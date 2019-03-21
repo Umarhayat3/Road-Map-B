@@ -1,0 +1,12 @@
+ABILENE REGIONAL AIRPORT, TX, United States (KABI) 32-25N 099-41W 548M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the W (260 degrees) at 16 MPH (14 KT) gusting to 23 MPH (20 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 55.9 F (13.3 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 40%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+Pressure tendency: 0.09 inches (2.9 hPa) higher than three hours ago
+ob: KABI 140852Z 26014G20KT 7SM BKN018 13/00 A2982 RMK AO2 SLP083 T01330000 51029
+cycle: 9

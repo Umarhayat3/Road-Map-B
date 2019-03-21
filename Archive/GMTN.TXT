@@ -1,0 +1,11 @@
+Tetuan / Sania Ramel, Morocco (GMTN) 35-35N 005-20W 10M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 60 F (16 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: GMTN 140800Z VRB02KT 6000 SCT010 BKN026 16/12 Q1025 NOSIG
+cycle: 8

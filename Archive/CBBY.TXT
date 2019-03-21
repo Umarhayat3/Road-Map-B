@@ -1,0 +1,11 @@
+Station name not available
+Nov 22, 2011 - 05:00 PM EST / 2011.11.22 2200 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: CBBY 222200Z VRB02KT 9999 BKN025 OVC100 01/M01 Q1024 R33/CLRD70 NOSIG RMK G/Z
+cycle: 22

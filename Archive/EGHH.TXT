@@ -1,0 +1,12 @@
+Bournemouth Airport, United Kingdom (EGHH) 50-47N 001-50W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (260 degrees) at 21 MPH (18 KT) gusting to 33 MPH (29 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 50 F (10 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: EGHH 140820Z 26018G29KT 9999 -RA BKN023 10/09 Q1006
+cycle: 8

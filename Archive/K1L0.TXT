@@ -1,0 +1,11 @@
+Station name not available
+Apr 20, 2017 - 12:35 PM EDT / 2017.04.20 1635 UTC
+Wind: from the ESE (110 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 83.7 F (28.7 C)
+Dew Point: 67.6 F (19.8 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+ob: K1L0 201635Z AUTO 11009KT 10SM SCT031 SCT042 BKN075 29/20 A3012 RMK AO2 T02870198
+cycle: 16

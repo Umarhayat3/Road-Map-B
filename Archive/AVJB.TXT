@@ -1,0 +1,11 @@
+Station name not available
+Dec 23, 2017 - 09:00 PM EST / 2017.12.24 0200 UTC
+Wind: Calm:0
+Visibility: 1 mile(s):0
+Sky conditions: mostly clear
+Temperature: 48 F (9 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: AVJB 240200Z 00000KT 3000 FEW100 09/07 Q1017
+cycle: 2

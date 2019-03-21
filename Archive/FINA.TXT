@@ -1,0 +1,12 @@
+Station name not available
+Feb 26, 2014 - 05:00 AM EST / 2014.02.26 1000 UTC
+Wind: from the E (080 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: showers in the vicinity; Cumulonimbus clouds observed
+Temperature: 84 F (29 C)
+Dew Point: 78 F (26 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FINA 261000Z 08008KT 9999 VCSH BKN020CB 29/26 Q1010 
+cycle: 10

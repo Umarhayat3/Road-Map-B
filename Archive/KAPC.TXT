@@ -1,0 +1,12 @@
+NAPA COUNTY AIRPORT, CA, United States (KAPC) 38-12N 122-17W 13M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the N (010 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.0 F (7.2 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 55%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: KAPC 140854Z AUTO 01005KT 10SM CLR 07/M01 A3024 RMK AO2 SLP232 T00721011 53008
+cycle: 9

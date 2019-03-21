@@ -1,0 +1,9 @@
+Lastoursville, Gabon (FOOR) 00-50S 012-43E 485M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 83%
+ob: FOOR 140800Z /////KT 9999 SCT005 27/24 Q////
+cycle: 8

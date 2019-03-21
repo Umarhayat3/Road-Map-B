@@ -1,0 +1,12 @@
+Korhogo, Cote d'Ivoire (DIKO) 09-25N 005-37W 381M
+Sep 29, 2018 - 11:00 PM EDT / 2018.09.30 0300 UTC
+Wind: from the NW (320 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 71 F (22 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DIKO 300300Z 32004KT 8000 TS BKN013 FEW020CB 22/22 Q1013 NOSIG
+cycle: 3

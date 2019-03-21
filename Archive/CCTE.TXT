@@ -1,0 +1,10 @@
+Station name not available
+Jan 24, 2013 - 06:00 PM EST / 2013.01.24 2300 UTC
+Wind: from the WSW (250 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 62 F (17 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 55%
+ob: CCTE 242300Z 25006KT 9999 SCT043 SCT200 17/08 Q1Y019 NOSIG
+cycle: 23

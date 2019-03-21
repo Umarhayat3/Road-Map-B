@@ -1,0 +1,11 @@
+Sindal Flyveplads, Denmark (EKSN) 57-30N 010-13E 28M
+Mar 13, 2019 - 08:50 AM EDT / 2019.03.13 1250 UTC
+Wind: from the SSE (150 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: EKSN 131250Z 15013KT 9999 SCT013 BKN018 06/05 Q0984
+cycle: 13

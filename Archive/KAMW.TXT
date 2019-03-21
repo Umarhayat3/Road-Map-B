@@ -1,0 +1,14 @@
+AMES MUNICIPAL AIRPORT, IA, United States (KAMW) 41-59N 93-37W 279M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (130 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: A trace
+Temperature: 42.1 F (5.6 C)
+Dew Point: 41.0 F (5.0 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.17 in. Hg (987 hPa)
+Pressure tendency: 0.07 inches (2.3 hPa) lower than three hours ago
+ob: KAMW 140853Z AUTO 13007KT 10SM -RA BKN070 OVC110 06/05 A2917 RMK AO2 RAB41 SLP878 P0000 60000 T00560050 57023
+cycle: 9

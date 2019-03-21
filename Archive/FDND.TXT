@@ -1,0 +1,7 @@
+Station name not available
+Jun 01, 2018 - 05:00 AM EDT / 2018.06.01 0900 UTC
+Temperature: 69 F (21 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 82%
+ob: FDND 010900Z AUTO /////KT //// // ////// 21/18 Q////
+cycle: 9

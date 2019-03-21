@@ -1,0 +1,11 @@
+Station name not available
+Jun 26, 2016 - 04:00 AM EDT / 2016.06.26 0800 UTC
+Wind: from the W (280 degrees) at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FEGT 260800Z 28006KT 7000 BKN009 23/21 Q1014
+cycle: 8

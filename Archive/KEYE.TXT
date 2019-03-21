@@ -1,0 +1,14 @@
+INDIANAPOLIS EAGLE CREEK, IN, United States (KEYE) 39-50N 86-18W 248M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT) gusting to 24 MPH (21 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: 0.02 inches
+Temperature: 55.0 F (12.8 C)
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KEYE 140853Z AUTO 16010G21KT 10SM -RA SCT038 BKN047 OVC070 13/09 A2972 RMK AO2 PK WND 18026/0814 SLP060 P0002 60004 T01280094 55010
+cycle: 9

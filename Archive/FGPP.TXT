@@ -1,0 +1,12 @@
+Station name not available
+Apr 02, 2008 - 11:00 AM EDT / 2008.04.02 1500 UTC
+Wind: from the SW (220 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 84 F (29 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: FGPP 021500Z 22008KT 9999 FEW023 FEW030CB 29/24 Q1003 NOSIG
+cycle: 15

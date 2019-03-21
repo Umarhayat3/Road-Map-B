@@ -1,0 +1,13 @@
+ASHLAND KENNEDY MEMORIAL, WI, United States (KASX) 46-33N 090-55W 251M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NE (040 degrees) at 3 MPH (3 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 36.0 F (2.2 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.37 in. Hg (994 hPa)
+Pressure tendency: 0.10 inches (3.4 hPa) lower than three hours ago
+ob: KASX 140853Z AUTO 04003KT 1/4SM FG VV007 02/02 A2937 RMK AO2 SLP955 6//// T00220022 58034 PNO 
+cycle: 9

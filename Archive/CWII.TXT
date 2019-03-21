@@ -1,0 +1,10 @@
+Victoria Beach , Canada (CWII) 50-42N 096-34W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (010 degrees) at 10 MPH (9 KT):0
+Temperature: 30.4 F (-0.9 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 24.3 F (-4.3 C)
+Relative Humidity: 77%
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: CWII 140700Z AUTO 01009KT M01/M04 RMK AO1 SLP076 T10091043 56007
+cycle: 7

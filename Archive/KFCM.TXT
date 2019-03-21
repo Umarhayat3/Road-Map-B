@@ -1,0 +1,13 @@
+Minneapolis, Flying Cloud Airport, MN, United States (KFCM) 44-49-56N 093-28-13W 280M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 41.0 F (5.0 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.25 in. Hg (990 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) lower than three hours ago
+ob: KFCM 140853Z AUTO 08006KT 1/4SM FG VV002 05/04 A2925 RMK AO2 SLP910 T00500044 58019
+cycle: 9

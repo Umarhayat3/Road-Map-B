@@ -1,0 +1,11 @@
+Kairouan, Tunisia (DTTK) 35-40N 010-06E 68M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (330 degrees) at 14 MPH (12 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 59 F (15 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 47%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DTTK 140800Z 33012KT 250V020 9999 FEW023 15/04 Q1022
+cycle: 8

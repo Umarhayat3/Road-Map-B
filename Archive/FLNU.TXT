@@ -1,0 +1,11 @@
+Station name not available
+Jan 31, 2016 - 02:00 PM EST / 2016.01.31 1900 UTC
+Wind: from the W (260 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 82 F (28 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: FLNU 311900Z 26007KT 9999 FEW023 28/24 Q1009 NOSIG
+cycle: 19

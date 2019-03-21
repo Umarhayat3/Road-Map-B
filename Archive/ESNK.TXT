@@ -1,0 +1,13 @@
+Kramfors Flygplats, Sweden (ESNK) 63-03N 017-46E 19M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (140 degrees) at 12 MPH (10 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: ESNK 140820Z 14010KT 2000 BR OVC003 01/01 Q0988 REDZ
+cycle: 8

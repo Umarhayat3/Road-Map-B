@@ -1,0 +1,11 @@
+Station name not available
+Mar 11, 2019 - 03:15 PM EDT / 2019.03.11 1915 UTC
+Wind: from the ESE (120 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 46.9 F (8.3 C)
+Dew Point: 33.6 F (0.9 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: KAJZ 111915Z AUTO 12006KT 10SM SCT028 SCT046 OVC055 08/01 A3014 RMK AO2 T00830009
+cycle: 19

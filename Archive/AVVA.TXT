@@ -1,0 +1,6 @@
+Station name not available
+Dec 23, 2017 - 04:00 AM EST / 2017.12.23 0900 UTC
+Visibility: greater than 7 mile(s):0
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: AVVA 230900Z /////KT CAVOK 2/21 Q1014
+cycle: 9

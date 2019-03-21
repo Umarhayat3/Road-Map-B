@@ -1,0 +1,12 @@
+Sable Island, N. S., Canada (CWSA) 43-56N 060-01W 4M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WNW (300 degrees) at 8 MPH (7 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 30 F (-1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.3 in. Hg (1026 hPa)
+ob: CWSA 140700Z AUTO 30007KT 9SM CLR M01/M04 A3030 RMK SLP261
+cycle: 7

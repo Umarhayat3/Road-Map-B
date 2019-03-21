@@ -1,0 +1,13 @@
+WALLA WALLA REGIONAL AIRPORT, WA, United States (KALW) 46-06N 118-17W 363M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (110 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 33.1 F (0.6 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 21.0 F (-6.1 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.4 in. Hg (1029 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: KALW 140853Z AUTO 11008KT 10SM CLR 01/M06 A3040 RMK AO2 SLP306 T00061061 53008
+cycle: 9

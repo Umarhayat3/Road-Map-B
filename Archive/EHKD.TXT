@@ -1,0 +1,12 @@
+De Kooy, Netherlands (EHKD) 52-55N 004-47E 14M
+Mar 14, 2019 - 03:55 AM EDT / 2019.03.14 0755 UTC
+Wind: from the SW (230 degrees) at 25 MPH (22 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: heavy drizzle
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: EHKD 140755Z AUTO 23022KT 7000 +DZ FEW008 BKN017 BKN020 07/06 Q0996 WHT 24020KT 8000 DZ FEW008 SCT015 BKN025 TEMPO 4000 RA SCT008 OVC015
+cycle: 8

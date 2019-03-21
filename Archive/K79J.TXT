@@ -1,0 +1,12 @@
+OPP/ANDALUSIA, AL, United States (K79J) 31-18N 86-23W 94M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SE (130 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 57.0 F (13.9 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+Pressure tendency: 0.04 inches (1.3 hPa) lower than three hours ago
+ob: K79J 140856Z AUTO 13007KT 10SM FEW029 19/14 A3001 RMK AO2 SLP159 T01940139 58013 
+cycle: 9

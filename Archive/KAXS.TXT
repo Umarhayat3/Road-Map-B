@@ -1,0 +1,11 @@
+Altus, Altus/Quartz Mountain Regional Airport, OK, United States (KAXS) 34-41-55N 099-20-17W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (280 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 44.1 F (6.7 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: KAXS 140855Z AUTO 28011KT 10SM CLR 07/00 A2976 RMK AO2 T00670000
+cycle: 9

@@ -1,0 +1,7 @@
+Wilkerson Pass, CO, United States (K4BM) 39-03-01N 105-30-52W
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the NNW (330 degrees) at 10 MPH (9 KT) gusting to 25 MPH (22 KT):0
+Sky conditions: overcast
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+ob: K4BM 140854Z AUTO 33009G22KT OVC120 A2973 RMK AO2 PWINO
+cycle: 9

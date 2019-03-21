@@ -1,0 +1,13 @@
+Station name not available
+Nov 13, 2009 - 10:31 AM EST / 2009.11.13 1531 UTC
+Wind: from the NW (320 degrees) at 10 MPH (9 KT) gusting to 22 MPH (19 KT):0
+Visibility: 1 1/4 mile(s):0
+Sky conditions: overcast
+Weather: rain; mist
+Precipitation last hour: 0.02 inches
+Temperature: 59 F (15 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.52 in. Hg (999 hPa)
+ob: CHSE 131531Z AUTO 32009G19KT 1 1/4SM RA BR OVC004 15/15 A2952 RMK AO2 CIG 002V007 P0002 TSNO 
+cycle: 15

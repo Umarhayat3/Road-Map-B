@@ -1,0 +1,12 @@
+Matagami, Que., Canada (CYNM) 49-46N 077-49W 281M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (190 degrees) at 6 MPH (5 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: CYNM 140800Z AUTO 19005KT 9SM BKN013 OVC018 01/M01 A2998 RMK SLP167
+cycle: 8

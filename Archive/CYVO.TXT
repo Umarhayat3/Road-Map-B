@@ -1,0 +1,13 @@
+Val D'Or, Que., Canada (CYVO) 48-04N 077-47W 337M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 14 MPH (12 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 30 F (-1 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: CYVO 140800Z AUTO 16012KT 9SM -SN OVC007 M01/M01 A3001 RMK SLP183
+cycle: 8

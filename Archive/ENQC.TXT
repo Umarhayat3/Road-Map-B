@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT):0
+Temperature: 44 F (7 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 48%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: ENQC 140820Z AUTO 05005KT 9999NDV NCD 07/M03 Q0983 W///S4
+cycle: 8

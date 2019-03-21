@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (260 degrees) at 28 MPH (24 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: ENLE 140820Z 26024KT 9000 -RADZ SCT010 BKN015 07/06 Q0983 W07/S4
+cycle: 8

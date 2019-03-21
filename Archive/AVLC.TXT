@@ -1,0 +1,9 @@
+Station name not available
+Dec 20, 2014 - 07:00 PM EST / 2014.12.21 0000 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 80 F (27 C)
+Dew Point: 78 F (26 C)
+Relative Humidity: 94%
+ob: AVLC 210000Z /////KT 9999 FEW010 27/26 Q////
+cycle: 0

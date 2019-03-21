@@ -1,0 +1,12 @@
+Station name not available
+Mar 13, 2019 - 07:15 PM EDT / 2019.03.13 2315 UTC
+Wind: from the NNW (330 degrees) at 40 MPH (35 KT) gusting to 48 MPH (42 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: rain
+Temperature: 39 F (4 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 93%
+Pressure (altimeter): 28.93 in. Hg (979 hPa)
+ob: KCBK 132315Z AUTO 33035G42KT 3SM RA BKN008 OVC012 04/03 A2893 RMK AO2
+cycle: 23

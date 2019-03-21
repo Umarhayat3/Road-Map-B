@@ -1,0 +1,10 @@
+Solander Island Meteorological Aeronautical Presentation System , Canada (CWRU) 50-07N 127-56W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (120 degrees) at 38 MPH (33 KT) gusting to 55 MPH (48 KT):0
+Precipitation last hour: 0.01 inches
+Temperature: 43.0 F (6.1 C)
+Dew Point: 42.4 F (5.8 C)
+Relative Humidity: 97%
+Pressure tendency: 0.01 inches (0.2 hPa) higher than three hours ago
+ob: CWRU 140700Z AUTO 12033G48KT 06/06 RMK AO1 2PAST HR 8019 PK WND 11051/0632 SLP199 P0001 T00610058 50002
+cycle: 7

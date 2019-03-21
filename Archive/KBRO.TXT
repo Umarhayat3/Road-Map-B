@@ -1,0 +1,12 @@
+BROWNSVILLE/SOUTH PADRE IS, TX, United States (KBRO) 25-54N 97-25W 5M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 75.0 F (23.9 C)
+Dew Point: 72.0 F (22.2 C)
+Relative Humidity: 90%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: KBRO 140853Z AUTO 16014KT 10SM OVC015 24/22 A2974 RMK AO2 SLP069 T02390222 58004
+cycle: 9

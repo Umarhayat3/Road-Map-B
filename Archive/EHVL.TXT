@@ -1,0 +1,12 @@
+Vlieland, Netherlands (EHVL) 53-15N 004-55E 12M
+Mar 14, 2019 - 04:25 AM EDT / 2019.03.14 0825 UTC
+Wind: from the WSW (240 degrees) at 33 MPH (29 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: EHVL 140825Z AUTO 24029KT 6000 -RA FEW010 SCT015 BKN020 07/06 Q0993 WHT
+cycle: 8

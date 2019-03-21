@@ -1,0 +1,10 @@
+Station name not available
+Dec 19, 2011 - 01:00 PM EST / 2011.12.19 1800 UTC
+Wind: from the N (350 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 51 F (11 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 40%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: DAMR 191800Z 35008KT CAVOK 11/M02 Q1025
+cycle: 18

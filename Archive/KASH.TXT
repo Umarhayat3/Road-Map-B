@@ -1,0 +1,12 @@
+Nashua, Boire Field Airport, NH, United States (KASH) 42-46-54N 071-30-53W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 34.0 F (1.1 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KASH 140856Z AUTO 00000KT 10SM OVC055 01/M01 A3026 RMK AO2 SLP259 T00111011 58010 FZRANO 
+cycle: 9

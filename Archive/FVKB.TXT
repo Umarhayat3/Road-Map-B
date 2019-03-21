@@ -1,0 +1,13 @@
+Kariba, Zimbabwe (FVKB) 16-31S 028-53E 518M
+Mar 08, 2019 - 07:00 AM EST / 2019.03.08 1200 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: Towering cumulus clouds observed
+Temperature: 91 F (33 C)
+Heat index: 96.1 F (35.6 C):1
+Dew Point: 69 F (21 C)
+Relative Humidity: 49%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: FVKB 081200Z 05004KT 9999 FEW045TCU 33/21 Q1008 NOSIG
+cycle: 12

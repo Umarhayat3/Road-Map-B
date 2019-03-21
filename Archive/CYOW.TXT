@@ -1,0 +1,14 @@
+Ottawa Int'L. Ont., Canada (CYOW) 45-19N 075-40W 114M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (060 degrees) at 13 MPH (11 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 30 F (-1 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+Pressure tendency: falling rapidly
+ob: CYOW 140800Z 06011KT 1SM R32/P6000FT/D R07/P6000FT/D BR OVC002 M01/M01 A3012 RMK FG2SF6 PRESFR SLP208
+cycle: 8

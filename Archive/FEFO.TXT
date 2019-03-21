@@ -1,0 +1,10 @@
+Bouar, Central African Republic (FEFO) 05-58N 015-38E 1020M
+Nov 29, 2018 - 12:00 AM EST / 2018.11.29 0500 UTC
+Wind: from the N (360 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 39%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FEFO 290500Z 36014KT CAVOK 20/06 Q1015
+cycle: 5

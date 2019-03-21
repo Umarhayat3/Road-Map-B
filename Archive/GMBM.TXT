@@ -1,0 +1,9 @@
+Station name not available
+Oct 17, 2008 - 03:00 AM EDT / 2008.10.17 0700 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 57 F (14 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 76%
+ob: GMBM 170700Z 00000KT CAVOK 14/10 1021
+cycle: 7

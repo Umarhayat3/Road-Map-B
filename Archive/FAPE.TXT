@@ -1,0 +1,10 @@
+Port Elizabeth, Port E Apt, South Africa (FAPE) 33-59S 025-36E 0M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (230 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FAPE 140800Z 23011KT CAVOK 21/17 Q1020 NOSIG
+cycle: 8

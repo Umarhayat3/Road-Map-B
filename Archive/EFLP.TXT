@@ -1,0 +1,13 @@
+Lappeenranta, Finland (EFLP) 61-02-45N 028-08-55E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light snow grains
+Temperature: 24 F (-4 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EFLP 140820Z AUTO 13007KT 100V180 9999 -SG OVC008 M04/M05 Q1002
+cycle: 8

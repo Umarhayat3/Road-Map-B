@@ -1,0 +1,12 @@
+ATHENS BEN EPPS AIRPORT, GA, United States (KAHN) 33-57N 083-20W 244M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 51.1 F (10.6 C)
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) lower than three hours ago
+ob: KAHN 140851Z AUTO 10005KT 9SM CLR 11/09 A3018 RMK AO2 SLP218 T01060094 58005
+cycle: 9

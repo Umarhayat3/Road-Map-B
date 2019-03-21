@@ -1,0 +1,9 @@
+Station name not available
+Jan 20, 2019 - 11:00 PM EST / 2019.01.21 0400 UTC
+Wind: from the SSE (150 degrees) at 8 MPH (7 KT):0
+Temperature: 50 F (10 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 71%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: DQMB 210400Z AUTO 15007KT NCD 10/05 Q1009
+cycle: 4

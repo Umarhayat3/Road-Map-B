@@ -1,0 +1,13 @@
+Station name not available
+Sep 09, 2013 - 11:00 AM EDT / 2013.09.09 1500 UTC
+Wind: from the W (280 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 89 F (32 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 73 F (23 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: GOIK 091500Z 28006KT 9999 BKN020TCU 32/23 Q1015
+cycle: 15

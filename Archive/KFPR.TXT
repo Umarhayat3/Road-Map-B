@@ -1,0 +1,12 @@
+FORT PIERCE ST LUCIE, FL, United States (KFPR) 27-30N 080-23W 13M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (110 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 71.1 F (21.7 C)
+Dew Point: 60.1 F (15.6 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+Pressure tendency: 0.04 inches (1.3 hPa) lower than three hours ago
+ob: KFPR 140853Z AUTO 11011KT 10SM OVC040 22/16 A3010 RMK AO2 SLP193 T02170156 56013
+cycle: 9

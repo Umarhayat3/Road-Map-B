@@ -1,0 +1,12 @@
+Mosinee / Central Wisconsin, WI, United States (KCWA) 44-47N 089-40W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (140 degrees) at 13 MPH (11 KT):0
+Visibility: 1 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.4 in. Hg (995 hPa)
+ob: KCWA 140855Z AUTO 14011KT 1 1/2SM -RA OVC004 06/06 A2940 RMK AO2
+cycle: 9

@@ -1,0 +1,12 @@
+Salliut Airport Supplementary Aviation Weather Reporting Station , Canada (CYZG) 62-11N 075-40W
+Mar 13, 2019 - 11:00 AM EDT / 2019.03.13 1500 UTC
+Wind: from the WSW (250 degrees) at 6 MPH (5 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: -7 F (-22 C)
+Windchill: -20 F (-29 C):2
+Dew Point: -14 F (-26 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: CYZG 131500Z 25005KT 15SM FEW130 M22/M26 A2983 RMK AS1 AS TR SN CVR TR LOOSE/LAST STFD OBS/NEXT OBS 141200UTC SLP136
+cycle: 15

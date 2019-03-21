@@ -1,0 +1,12 @@
+Station name not available
+Feb 08, 2010 - 02:55 AM EST / 2010.02.08 0755 UTC
+Wind: from the SSW (210 degrees) at 8 MPH (7 KT) gusting to 12 MPH (10 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Temperature: 55 F (13 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: EQYM 080755Z 21007G10KT 3200 -RA BR SCT002 BKN006 OVC010 13/13 A2974 RMK SLPNO
+cycle: 8

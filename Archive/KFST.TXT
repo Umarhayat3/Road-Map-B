@@ -1,0 +1,12 @@
+FORT STOCKTON PECOS CO AIRPORT , TX, United States (KFST) 30-55N 102-55W 918M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WNW (290 degrees) at 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 54.0 F (12.2 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 37%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KFST 140853Z AUTO 29016KT 10SM CLR 12/M02 A2992 RMK AO2 SLP097 T01221017 50009 
+cycle: 9

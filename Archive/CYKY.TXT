@@ -1,0 +1,12 @@
+Kindersley, Sask., Canada (CYKY) 51-31N 109-10W 694M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (260 degrees) at 12 MPH (10 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 12 F (-11 C)
+Windchill: -2 F (-19 C):1
+Dew Point: 8 F (-13 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: CYKY 140800Z 26010KT 15SM SKC M11/M13 A3016 RMK SLP256
+cycle: 8

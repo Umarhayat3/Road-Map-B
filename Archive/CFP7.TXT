@@ -1,0 +1,11 @@
+Station name not available
+May 16, 2015 - 03:00 PM EDT / 2015.05.16 1900 UTC
+Wind: from the N (350 degrees) at 20 MPH (17 KT) gusting to 25 MPH (22 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 48 F (9 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: CFP7 161900Z 35017G22KT 15SM BKN018 BKN040 OVC100 09/05 A3004 RMK SC6SC1AC1 DA2072FT LAST OBS SLP168
+cycle: 19

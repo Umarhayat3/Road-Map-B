@@ -1,0 +1,11 @@
+Roros Lufthavn, Norway (ENRO) 62-35N 011-21E 626M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the ESE (120 degrees) at 3 MPH (3 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 14 F (-10 C)
+Dew Point: 12 F (-11 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: ENRO 140750Z 12003KT 4000 BKN006 M10/M11 Q0984
+cycle: 8

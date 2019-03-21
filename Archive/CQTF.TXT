@@ -1,0 +1,7 @@
+Station name not available
+Jun 01, 2014 - 02:44 PM EDT / 2014.06.01 1844 UTC
+Wind: from the SSE (150 degrees) at 6 MPH (5 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+ob: CQTF 011844Z 15005KT 15SM FEW060 BKN100 BKN250 RMK CU1AC6CI1 LAST MANED OB
+cycle: 18

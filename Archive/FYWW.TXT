@@ -1,0 +1,10 @@
+Windhoek, Town MET, Namibia (FYWW) 22-34S 017-06E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (010 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 36%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FYWW 140800Z 01002KT CAVOK 27/11 Q1024
+cycle: 8

@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Temperature: 80 F (27 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 47%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: FYGB 140800Z AUTO 10007KT //// // ////// 27/15 Q1027
+cycle: 8

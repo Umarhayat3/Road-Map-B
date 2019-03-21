@@ -1,0 +1,10 @@
+Onatchiway, Que., Canada (CWXC) 48-53N 071-02W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the S (170 degrees) at 6 MPH (5 KT):0
+Temperature: 30.0 F (-1.1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 25.5 F (-3.6 C)
+Relative Humidity: 83%
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: CWXC 140700Z AUTO 17005KT M01/M04 RMK AO1 SLP202 T10111036 50003
+cycle: 7

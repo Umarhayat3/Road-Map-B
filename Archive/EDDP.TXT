@@ -1,0 +1,11 @@
+Leipzig-Schkeuditz, Germany (EDDP) 51-25N 012-14E 149M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 20 MPH (17 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 44 F (7 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EDDP 140750Z 23017KT 9999 FEW022 07/02 Q1005 TEMPO 23015G25KT
+cycle: 8

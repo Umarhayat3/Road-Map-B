@@ -1,0 +1,12 @@
+SKYHAVEN AIRPORT, NH, United States (KDAW) 43-17N 70-55W 100M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 30.0 F (-1.1 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 95%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KDAW 140851Z AUTO 00000KT 10SM BKN060 M01/M02 A3026 RMK AO2 SLP249 T10111017 55009
+cycle: 9

@@ -1,0 +1,10 @@
+Station name not available
+Jul 05, 2016 - 05:00 PM EDT / 2016.07.05 2100 UTC
+Wind: from the NNE (020 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DTOB 052100Z 02013KT CAVOK 26/23 Q1013 NOSIG
+cycle: 21

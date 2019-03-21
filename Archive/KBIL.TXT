@@ -1,0 +1,12 @@
+LOGAN INTERNATIONAL AIRPORT, MT, United States (KBIL) 45-49N 108-33W 1091M
+Mar 14, 2019 - 04:58 AM EDT / 2019.03.14 0858 UTC
+Wind: from the NW (310 degrees) at 14 MPH (12 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 21.9 F (-5.6 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 15.1 F (-9.4 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: KBIL 140858Z 31012KT 10SM SCT029 M06/M09 A3019 RMK AO2 T10561094
+cycle: 9

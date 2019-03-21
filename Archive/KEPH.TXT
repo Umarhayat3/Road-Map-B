@@ -1,0 +1,13 @@
+EPHRATA MUNICIPAL AIRPORT, WA, United States (KEPH) 47-18N 119-31W 383M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNE (020 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 21.9 F (-5.6 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) higher than three hours ago
+ob: KEPH 140853Z AUTO 02005KT 10SM CLR M06/M08 A3039 RMK AO2 SLP304 T10561078 53012
+cycle: 9

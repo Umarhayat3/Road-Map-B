@@ -1,0 +1,12 @@
+Oslo / Gardermoen, Norway (ENGM) 60-12N 011-05E 204M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: Calm:0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: freezing fog
+Temperature: 17 F (-8 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: ENGM 140820Z 00000KT 0600 R19R/P2000N R01R/0450D FZFG BKN002 OVC006 M08/M09 Q0987 TEMPO 1200 BCFG
+cycle: 8

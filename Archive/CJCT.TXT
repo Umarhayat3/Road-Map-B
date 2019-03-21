@@ -1,0 +1,10 @@
+Station name not available
+Dec 07, 2008 - 03:51 AM EST / 2008.12.07 0851 UTC
+Sky conditions: clear
+Temperature: 30.9 F (-0.6 C)
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: CJCT 070851Z AUTO ÇÇÇÇZQÅ8SM CLR M01/M08 A3025 RMK AO2 SLP225 T10061078 51000 TSNO 
+cycle: 9

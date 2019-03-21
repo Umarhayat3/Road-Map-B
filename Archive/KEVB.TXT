@@ -1,0 +1,11 @@
+New Smyrna Beach, New Smyrna Beach Municipal Airport, FL, United States (KEVB) 29-03-20N 080-56-54W
+Mar 13, 2019 - 09:50 PM EDT / 2019.03.14 0150 UTC
+Wind: from the ESE (110 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 64 F (18 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: KEVB 140150Z 11008KT 10SM SCT040 18/15 A3020 RMK LAST 
+cycle: 2

@@ -1,0 +1,13 @@
+Peterborough Airport , Canada (CYPQ) 44-14N 078-22W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (030 degrees) at 5 MPH (4 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 33 F (1 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+ob: CYPQ 140800Z AUTO 03004KT 5SM BR OVC033 01/00 A3006 RMK SLP190
+cycle: 8

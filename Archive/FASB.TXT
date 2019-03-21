@@ -1,0 +1,10 @@
+Springbok, South Africa (FASB) 29-40S 017-52E 1000M
+Mar 14, 2019 - 03:22 AM EDT / 2019.03.14 0722 UTC
+Wind: from the ENE (070 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 24%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FASB 140722Z 07007KT CAVOK 26/04 Q1018
+cycle: 7

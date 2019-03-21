@@ -1,0 +1,13 @@
+Waskaganish Airport, Canada (CYKQ) 51-29N 078-45W
+Mar 10, 2019 - 05:00 PM EDT / 2019.03.10 2100 UTC
+Wind: from the E (100 degrees) at 12 MPH (10 KT) gusting to 20 MPH (17 KT):0
+Visibility: 1 1/4 mile(s):0
+Sky conditions: obscured
+Weather: light snow
+Temperature: 23 F (-5 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.57 in. Hg (1001 hPa)
+ob: CYKQ 102100Z 10010G17KT 1 1/4SM -SN VV023 M05/M06 A2957 RMK SN8 LAST STFD OBS/NEXT 171300 UTC SLP016
+cycle: 21

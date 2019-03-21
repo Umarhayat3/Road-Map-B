@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the NNE (020 degrees) at 5 MPH (4 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Windchill: 30 F (-1 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.28 in. Hg (991 hPa)
+ob: KBDH 140856Z AUTO 02004KT 1/4SM OVC002 02/02 A2928 RMK AO2
+cycle: 9

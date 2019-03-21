@@ -1,0 +1,6 @@
+Station name not available
+Oct 09, 2018 - 01:55 AM EDT / 2018.10.09 0555 UTC
+Sky conditions: overcast
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: KAJL 090555Z AUTO OVC002 A3000 RMK AO2 PWINO TSNO
+cycle: 6

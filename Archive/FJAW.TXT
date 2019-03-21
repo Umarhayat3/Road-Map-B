@@ -1,0 +1,11 @@
+Station name not available
+Jun 24, 2010 - 04:50 PM EDT / 2010.06.24 2050 UTC
+Wind: from the SSE (150 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 77 F (25 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FJAW 242050Z 15011KT 9999 FEW025 25/19 Q1016 BLU
+cycle: 21

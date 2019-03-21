@@ -1,0 +1,11 @@
+Kananga, Congo, Democratic Republic of the (FZUA) 05-53S 022-25E 657M
+Aug 31, 2017 - 03:00 AM EDT / 2017.08.31 0700 UTC
+Wind: from the W (260 degrees) at 7 MPH (6 KT):0
+Visibility: less than 1 mile:0
+Weather: fog
+Temperature: 71 F (22 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FZUA 310700Z 26006KT 0500 FG 0VC007 22/21 Q1016 BECMG 1200
+cycle: 7

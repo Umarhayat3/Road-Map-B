@@ -1,0 +1,9 @@
+Trois Rivieres, Canada (CWTY) 46-21N 072-31W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (110 degrees) at 2 MPH (2 KT):0
+Temperature: 30.4 F (-0.9 C)
+Dew Point: 29.8 F (-1.2 C)
+Relative Humidity: 97%
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: CWTY 140700Z AUTO 11002KT M01/M01 RMK AO1 SLP240 T10091012 58006
+cycle: 7

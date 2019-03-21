@@ -1,0 +1,12 @@
+Gagnoa, Cote d'Ivoire (DIGA) 06-08N 005-57W 210M
+Dec 30, 2017 - 08:00 AM EST / 2017.12.30 1300 UTC
+Wind: from the E (100 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Heat index: 95.7 F (35.4 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DIGA 301300Z 10004KT 6000 BKN013 31/24 Q1013 NOSIG
+cycle: 13

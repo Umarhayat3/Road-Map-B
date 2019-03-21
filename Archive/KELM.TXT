@@ -1,0 +1,12 @@
+ELMIRA COUNTY AIRPORT, NY, United States (KELM) 42-10N 76-54W 302M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 34.0 F (1.1 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: KELM 140853Z AUTO 00000KT 10SM OVC055 01/M02 A3010 RMK AO2 SLP200 T00111017 56004
+cycle: 9

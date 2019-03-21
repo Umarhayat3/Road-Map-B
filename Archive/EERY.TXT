@@ -1,0 +1,10 @@
+Station name not available
+Mar 08, 2009 - 12:00 AM EST / 2009.03.08 0500 UTC
+Wind: from the S (170 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 28%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: EERY 080500Z 17004KT CAVOK 20/01 Q1021 NOSIG
+cycle: 5

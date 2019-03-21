@@ -1,0 +1,10 @@
+Station name not available
+Aug 03, 2018 - 01:30 AM EDT / 2018.08.03 0530 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: DTFH 030530Z VRB02KT CAVOK 24/18 Q1014 NOSIG
+cycle: 5

@@ -1,0 +1,10 @@
+Station name not available
+Aug 05, 2011 - 08:00 AM EDT / 2011.08.05 1200 UTC
+Wind: from the NNE (030 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 84 F (29 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 23%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FLMD 051200Z 03003KT CAVOK 29/06 Q1019
+cycle: 12

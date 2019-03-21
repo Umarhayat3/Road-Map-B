@@ -1,0 +1,8 @@
+Station name not available
+Sep 21, 2015 - 06:00 PM EDT / 2015.09.21 2200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+ob: GBST 212230 00000KT 9999 TS SCT010 FEWCB019 SCT110 THUNDERSTOR S HARD ATSW OF ATATION
+cycle: 22

@@ -1,0 +1,10 @@
+Station name not available
+Sep 06, 2015 - 05:30 AM EDT / 2015.09.06 0930 UTC
+Wind: from the S (170 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 27%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: FNUH 060930Z 17011KT CAVOK 25/05 Q1026
+cycle: 9

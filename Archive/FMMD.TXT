@@ -1,0 +1,11 @@
+Station name not available
+Aug 27, 2013 - 09:00 AM EDT / 2013.08.27 1300 UTC
+Wind: from the E (100 degrees) at 22 MPH (19 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 71 F (22 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FMMD 271300Z 10019KT 9999 SCT016 22/16 Q1025
+cycle: 13

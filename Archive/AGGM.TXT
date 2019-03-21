@@ -1,0 +1,12 @@
+Munda, Solomon Islands (AGGM) 08-20S 157-16E 6M
+Feb 09, 2019 - 04:00 PM EST / 2019.02.09 2100 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: haze
+Temperature: 80 F (27 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: AGGM 092100Z 00000KT 9999 HZ FEW016 BKN300 27/25 Q1006
+cycle: 21

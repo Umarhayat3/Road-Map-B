@@ -1,0 +1,9 @@
+Koutiala, Mali (GAKO) 12-23N 005-28W 367M
+Feb 04, 2019 - 10:00 AM EST / 2019.02.04 1500 UTC
+Wind: from the NE (040 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 96 F (36 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 11%
+ob: GAKO 041500Z 04010KT CAVOK 36/02 Q////
+cycle: 15

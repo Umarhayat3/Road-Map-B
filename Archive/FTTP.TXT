@@ -1,0 +1,11 @@
+Pala, Chad (FTTP) 09-22N 014-55E 455M
+Apr 21, 2014 - 08:00 AM EDT / 2014.04.21 1200 UTC
+Wind: from the W (260 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 98 F (37 C)
+Heat index: 99.0 F (37.2 C):1
+Dew Point: 62 F (17 C)
+Relative Humidity: 30%
+ob: FTTP 211200Z 26004KT 9999 FEW040 SCT150 37/17 Q////
+cycle: 12

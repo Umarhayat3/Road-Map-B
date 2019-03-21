@@ -1,0 +1,10 @@
+Station name not available
+Feb 15, 2015 - 01:00 PM EST / 2015.02.15 1800 UTC
+Wind: from the WSW (240 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 64 F (18 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 23%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DAMH 151800Z 24010KT CAVOK 18/M03 Q1016
+cycle: 18

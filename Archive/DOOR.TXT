@@ -1,0 +1,9 @@
+Station name not available
+Jul 15, 2016 - 11:00 AM EDT / 2016.07.15 1500 UTC
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 78%
+ob: DOOR 151500Z /////KT 8000 BKN005 26/22 Q////
+cycle: 15

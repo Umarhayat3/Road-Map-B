@@ -1,0 +1,11 @@
+Peace River, Alta., Canada (CYPE) 56-14N 117-26W 571M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Dew Point: 10 F (-12 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.13 in. Hg (1020 hPa)
+ob: CYPE 140800Z VRB02KT 15SM SKC M05/M12 A3013 RMK SLP238
+cycle: 8

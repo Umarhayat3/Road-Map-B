@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 05:15 AM EDT / 2019.03.14 0915 UTC
+Wind: from the NNW (340 degrees) at 36 MPH (31 KT) gusting to 49 MPH (43 KT):0
+Temperature: 27.5 F (-2.5 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 22.1 F (-5.5 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.79 in. Hg (1008 hPa)
+ob: KFMM 140915Z AUTO 34031G43KT M02/M05 A2979 RMK AO2 T10251055 PWINO
+cycle: 9

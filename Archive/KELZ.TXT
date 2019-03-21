@@ -1,0 +1,12 @@
+WELLSVILLE MUNICIPAL AIRPORT, NY, United States (KELZ) 42-06N 077-60W 646M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 43.0 F (6.1 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 55%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KELZ 140856Z AUTO 00000KT 10SM FEW110 06/M02 A3004 RMK AO2 SLP182 T00611022 58012
+cycle: 9

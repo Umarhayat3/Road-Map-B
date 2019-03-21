@@ -1,0 +1,8 @@
+Point Petre , Ont., Canada (CWQP) 43-50N 077-09W 79M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Temperature: 35.6 F (2.0 C)
+Dew Point: 32.9 F (0.5 C)
+Relative Humidity: 89%
+ob: CWQP 140700Z AUTO 10007KT 02/01 RMK AO1 SOG 11 6011 SLP193 T00200005
+cycle: 7

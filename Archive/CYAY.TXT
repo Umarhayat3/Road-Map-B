@@ -1,0 +1,12 @@
+Saint Anthony Airport, Canada (CYAY) 51-24N 056-05W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (230 degrees) at 10 MPH (9 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 21 F (-6 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CYAY 140800Z AUTO 23009KT 9SM BKN150 M06/M07 A3009 RMK SLP193
+cycle: 8

@@ -1,0 +1,11 @@
+Dewar Lakes, N. W. T., Canada (CWUW) 68-39N 071-10W 527M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WNW (300 degrees) at 14 MPH (12 KT):0
+Sky conditions: overcast
+Temperature: -18 F (-28 C)
+Windchill: -41 F (-41 C):2
+Dew Point: -23 F (-31 C)
+Relative Humidity: 75%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+ob: CWUW 140700Z AUTO 30012KT ////SM OVC002 M28/M31 A2984
+cycle: 7

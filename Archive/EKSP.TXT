@@ -1,0 +1,12 @@
+Skrydstrup, Denmark (EKSP) 55-14N 009-16E 47M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (230 degrees) at 17 MPH (15 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.29 in. Hg (0992 hPa)
+ob: EKSP 140820Z 23015KT 9000 -RA FEW008 BKN012 BKN020 05/03 Q0992 BECMG 22016KT
+cycle: 8

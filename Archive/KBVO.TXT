@@ -1,0 +1,12 @@
+BARTLESVILLE MUNICIPAL AIRPORT , OK, United States (KBVO) 36-46N 96-01W 210M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WSW (250 degrees) at 14 MPH (12 KT) gusting to 25 MPH (22 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 46.0 F (7.8 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.5 in. Hg (998 hPa)
+Pressure tendency: 0.11 inches (3.6 hPa) higher than three hours ago
+ob: KBVO 140853Z AUTO 25012G22KT 10SM CLR 08/01 A2950 RMK AO2 PK WND 25030/0814 SLP983 T00780006 51036
+cycle: 9

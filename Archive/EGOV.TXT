@@ -1,0 +1,11 @@
+Valley, United Kingdom (EGOV) 53-15N 004-32W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WNW (290 degrees) at 24 MPH (21 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 50 F (10 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: EGOV 140750Z 29021KT 9999 FEW020 SCT250 10/06 Q1000 BLU NOSIG
+cycle: 8

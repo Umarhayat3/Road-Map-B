@@ -1,0 +1,12 @@
+Monchengladbach, Germany (EDLN) 51-13-49N 006-30-16E
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (220 degrees) at 14 MPH (12 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: EDLN 140750Z 22012KT 200V260 8000 -RA BKN013 OVC025 06/05 Q1004
+cycle: 8

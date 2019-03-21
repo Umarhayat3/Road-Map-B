@@ -1,0 +1,9 @@
+Vereeniging, South Africa (FAVV) 26-34-29S 027-57-45E
+Mar 13, 2019 - 02:00 AM EDT / 2019.03.13 0600 UTC
+Wind: from the NE (040 degrees) at 1 MPH (1 KT):0
+Temperature: 66 F (19 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FAVV 130600Z AUTO 04001KT //// // ////// 19/16 Q1024
+cycle: 6

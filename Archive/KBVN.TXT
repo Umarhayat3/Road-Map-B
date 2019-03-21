@@ -1,0 +1,14 @@
+Albion, Albion Municipal Airport, NE, United States (KBVN) 41-43-42N 098-03-20W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NNW (330 degrees) at 23 MPH (20 KT) gusting to 33 MPH (29 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Precipitation last hour: 0.04 inches
+Temperature: 32.9 F (0.5 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 31.6 F (-0.2 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.12 in. Hg (986 hPa)
+ob: KBVN 140855Z AUTO 33020G29KT 4SM -SN OVC010 01/00 A2912 RMK AO2 P0004 60017 T00051002
+cycle: 9

@@ -1,0 +1,11 @@
+Saint-Pierre, Reunion (FMEP) 21-20S 055-29E 53M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the S (170 degrees) at 12 MPH (10 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 86 F (30 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 58%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: FMEP 140830Z AUTO 17010KT 130V190 9999 FEW028 30/21 Q1012 NOSIG
+cycle: 8

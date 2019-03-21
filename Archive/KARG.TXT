@@ -1,0 +1,12 @@
+Walnut Ridge, Walnut Ridge Regional Airport, AR, United States (KARG) 36-08N 090-55W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SSW (200 degrees) at 13 MPH (11 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 59.0 F (15.0 C)
+Dew Point: 59.0 F (15.0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.61 in. Hg (1002 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) lower than three hours ago
+ob: KARG 140856Z AUTO 20011KT 7SM OVC004 15/15 A2961 RMK AO2 SLP028 60000 T01500150 56019
+cycle: 9

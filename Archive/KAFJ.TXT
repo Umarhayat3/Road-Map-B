@@ -1,0 +1,12 @@
+Washington, Washington County Airport, PA, United States (KAFJ) 40-08N 080-17W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (180 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50.0 F (10.0 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 45%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KAFJ 140856Z AUTO 18003KT 10SM CLR 10/M01 A3002 RMK AO2 SLP166 T01001011 58012
+cycle: 9

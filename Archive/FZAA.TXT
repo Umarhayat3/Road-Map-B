@@ -1,0 +1,12 @@
+Kinshasa / N'Djili, Congo, Democratic Republic of the (FZAA) 04-23S 015-26E 312M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 78 F (26 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: FZAA 140700Z 00000KT 4500 BR BKN018 OVC100 26/23 Q1012 NOSIG
+cycle: 7

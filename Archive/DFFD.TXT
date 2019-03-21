@@ -1,0 +1,11 @@
+Ouagadougou, Burkina Faso (DFFD) 12-21N 001-31W 306M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (340 degrees) at 5 MPH (4 KT):0
+Visibility: 2 mile(s):0
+Weather: widespread dust
+Temperature: 77 F (25 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 16%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: DFFD 140700Z 34004KT 4000 DU NSC 25/M02 Q1011 TEMPO 2500 DU
+cycle: 7

@@ -1,0 +1,10 @@
+Station name not available
+Sep 10, 2017 - 11:00 PM EDT / 2017.09.11 0300 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 66 F (19 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FMOM 110300Z 00000KT CAVOK 19/15 Q1016 NOSIG
+cycle: 3

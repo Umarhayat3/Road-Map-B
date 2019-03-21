@@ -1,0 +1,11 @@
+Rocksprings, Edwards County Airport, TX, United States (KECU) 29-56-48N 100-10-25W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (360 degrees) at 6 MPH (5 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 55 F (13 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 43%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: KECU 140855Z AUTO 36005KT 7SM OVC019 13/01 A2992 RMK AO2
+cycle: 9

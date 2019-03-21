@@ -1,0 +1,9 @@
+Station name not available
+Feb 12, 2013 - 12:00 AM EST / 2013.02.12 0500 UTC
+Wind: from the W (270 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 82%
+ob: HURA 120500Z 27008KT CAVOK 20/17
+cycle: 5

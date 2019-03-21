@@ -1,0 +1,11 @@
+Culpeper, Culpeper County Airport, VA, United States (KCJR) 38-31-36N 077-51-32W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 40.8 F (4.9 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: KCJR 140855Z AUTO 00000KT 10SM CLR 05/01 A3017 RMK AO2 T00490011
+cycle: 9

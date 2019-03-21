@@ -1,0 +1,8 @@
+Burns Lake CS , B. C., Canada (CWPZ) 54-23N 125-57W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ENE (070 degrees) at 1 MPH (1 KT):0
+Temperature: 28.9 F (-1.7 C)
+Dew Point: 24.8 F (-4.0 C)
+Relative Humidity: 84%
+ob: CWPZ 140700Z AUTO 07001KT M02/M04 RMK AO1 SOG 49 8011 SLP210 T10171040
+cycle: 7

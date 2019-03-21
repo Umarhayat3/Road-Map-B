@@ -1,0 +1,13 @@
+Cody, WY, United States (KCOD) 44-31N 109-01W 1553M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the NNW (340 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 25.0 F (-3.9 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 14.0 F (-10.0 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) higher than three hours ago
+ob: KCOD 140856Z AUTO 34009KT 10SM BKN080 M04/M10 A3015 RMK AO2 SLP259 T10391100 53015 FZRANO
+cycle: 9

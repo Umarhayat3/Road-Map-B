@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Temperature: 87 F (31 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 45%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FAKN 140800Z AUTO 00000KT //// // ////// 31/18 Q1023
+cycle: 8

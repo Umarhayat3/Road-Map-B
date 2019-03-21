@@ -1,0 +1,9 @@
+Station name not available
+Dec 18, 2018 - 02:00 PM EST / 2018.12.18 1900 UTC
+Wind: from the NW (310 degrees) at 6 MPH (5 KT):0
+Temperature: 68 F (20 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FDUS 181900Z AUTO 31005KT //// // ////// 20/19 Q1016
+cycle: 19

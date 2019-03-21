@@ -1,0 +1,14 @@
+Flag Island, MN, United States (KFGN) 49-19N 94-54W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (010 degrees) at 20 MPH (17 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Precipitation last hour: 0.01 inches
+Temperature: 33 F (1 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.5 in. Hg (998 hPa)
+ob: KFGN 140855Z AUTO 01017KT 2 1/2SM -SN BKN006 OVC009 01/M01 A2950 RMK AO2 P0001
+cycle: 9

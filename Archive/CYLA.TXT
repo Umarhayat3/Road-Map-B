@@ -1,0 +1,12 @@
+Aupaluk, Que., Canada (CYLA) 59-17-48N 069-35-59W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: from the E (080 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 6 F (-14 C)
+Windchill: -4 F (-20 C):1
+Dew Point: 1 F (-17 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+ob: CYLA 132100Z 08004KT 15SM SCT013 BKN080 M14/M17 A2999 RMK SC4AC2 LAST STFD OBS/NEXT 141200UTC SLP163
+cycle: 21

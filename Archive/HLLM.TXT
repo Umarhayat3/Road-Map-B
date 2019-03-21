@@ -1,0 +1,11 @@
+Station name not available
+Feb 05, 2019 - 03:50 AM EST / 2019.02.05 0850 UTC
+Wind: from the NNW (340 degrees) at 9 MPH (8 KT) gusting to 26 MPH (23 KT) (direction variable):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: HLLM 050850Z 34008G23KT 310V020 6000 SCT015 BKN030 11/05 Q1007
+cycle: 9

@@ -1,0 +1,11 @@
+Sokoto, Nigeria (DNSO) 13-01N 005-15E 302M
+Mar 07, 2019 - 05:00 AM EST / 2019.03.07 1000 UTC
+Wind: from the SSE (150 degrees) at 23 MPH (20 KT):0
+Visibility: 1 mile(s):0
+Weather: haze
+Temperature: 91 F (33 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 13%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DNSO 071000Z 15020KT 3000 HZ NSC 33/01 Q1013
+cycle: 10

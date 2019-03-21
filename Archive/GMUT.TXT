@@ -1,0 +1,11 @@
+Station name not available
+Oct 02, 2017 - 04:30 AM EDT / 2017.10.02 0830 UTC
+Wind: from the E (090 degrees) at 20 MPH (17 KT) gusting to 35 MPH (30 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: GMUT 020830Z 09017G30KT 9999 FEW016 SCT200 25/16 Q1018 NOSIG
+cycle: 8

@@ -1,0 +1,12 @@
+Station name not available
+Nov 20, 2018 - 02:00 AM EST / 2018.11.20 0700 UTC
+Wind: from the SW (220 degrees) at 12 MPH (10 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: fog
+Temperature: 46 F (8 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GMMK 200700Z 22010KT 0100 FG OVC006 08/08 Q1013 M8
+cycle: 7

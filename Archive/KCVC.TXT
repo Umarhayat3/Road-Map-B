@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (090 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 55 F (13 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: KCVC 140855Z AUTO 09003KT 10SM CLR 13/11 A3015 RMK AO2 PNO
+cycle: 9

@@ -1,0 +1,14 @@
+MEEKER AIRPORT, CO, United States (KEEO) 40-03N 107-53W 1930M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NW (310 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 21.0 F (-6.1 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 15.1 F (-9.4 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+Pressure tendency: 0.07 inches (2.3 hPa) higher than three hours ago
+ob: KEEO 140853Z AUTO 31007KT 10SM OVC032 M06/M09 A2999 RMK AO2 SNE0754 SLP185 P0000 60000 T10611094 53023
+cycle: 9

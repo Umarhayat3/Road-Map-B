@@ -1,0 +1,10 @@
+Harare Kutsaga , Zimbabwe (FVHA) 17-55S 031-08E 1480M
+Sep 13, 2018 - 04:00 AM EDT / 2018.09.13 0800 UTC
+Wind: from the NE (050 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 29%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: FVHA 130800Z 05006KT 010V110 CAVOK 24/05 Q1024 NOSIG
+cycle: 8

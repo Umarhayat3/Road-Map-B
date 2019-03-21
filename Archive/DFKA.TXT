@@ -1,0 +1,9 @@
+Station name not available
+Nov 25, 2018 - 09:00 PM EST / 2018.11.26 0200 UTC
+Wind: from the SW (230 degrees) at 9 MPH (8 KT) (direction variable):0
+Temperature: 60 F (16 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: DFKA 260200Z AUTO 23008KT 200V260 /// 16/05 Q1010
+cycle: 2

@@ -1,0 +1,9 @@
+Port Colborne Automated Reporting Station , Canada (CWPC) 42-52N 079-15W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (010 degrees) at 5 MPH (4 KT):0
+Temperature: 41.0 F (5.0 C)
+Dew Point: 24.4 F (-4.2 C)
+Relative Humidity: 51%
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: CWPC 140700Z AUTO 01004KT 05/M04 RMK AO1 SLP175 T00501042 55004
+cycle: 7

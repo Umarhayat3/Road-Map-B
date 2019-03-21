@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SSE (160 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 66.9 F (19.4 C)
+Dew Point: 59.0 F (15.0 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: KEKY 140856Z AUTO 16007KT 130V200 10SM SCT024 OVC035 19/15 A3000 RMK AO2 SLP170 T01940150 57004
+cycle: 9

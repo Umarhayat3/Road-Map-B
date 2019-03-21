@@ -1,0 +1,10 @@
+Slave Lake, Alta, Canada (CYZH) 55-18N 114-47W 581M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (250 degrees) at 2 MPH (2 KT):0
+Visibility: 9 mile(s):0
+Temperature: 19 F (-7 C)
+Dew Point: 14 F (-10 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: CYZH 140800Z AUTO 25002KT 9SM M07/M10 A3015 RMK CLD MISG SLP245
+cycle: 8

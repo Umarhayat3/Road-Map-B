@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 03:55 AM EDT / 2019.03.14 0755 UTC
+Wind: from the WSW (240 degrees) at 37 MPH (32 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.12 in. Hg (0986 hPa)
+ob: EHAK 140755Z AUTO 24032KT 5000 -RADZ FEW007/// SCT010/// BKN014/// 07/06 Q0986 W///H///
+cycle: 8

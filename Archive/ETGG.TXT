@@ -1,0 +1,12 @@
+Gluecksburg / Meierwik, Germany (ETGG) 54-50N 009-30E 33M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (240 degrees) at 18 MPH (16 KT) gusting to 33 MPH (29 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: ETGG 140820Z 24016G29KT 6000 -RA BKN015 BKN030 06/04 Q0993 WHT
+cycle: 8

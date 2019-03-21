@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (040 degrees) at 6 MPH (5 KT):0
+Precipitation last hour: 0.04 inches
+Temperature: 31.6 F (-0.2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 31.6 F (-0.2 C)
+Relative Humidity: 100%
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: CTRA 140700Z AUTO 04005KT M00/M00 RMK AO1 9PAST HR SOG 59 6014 SLP024 P0004 T10021002 50009
+cycle: 7

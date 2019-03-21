@@ -1,0 +1,11 @@
+Station name not available
+Aug 28, 2017 - 08:00 PM EDT / 2017.08.29 0000 UTC
+Wind: from the SSW (210 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: clear
+Temperature: 55 F (13 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FTSO 290000Z 21009KT 9999 SKC 13/09 Q1022
+cycle: 0

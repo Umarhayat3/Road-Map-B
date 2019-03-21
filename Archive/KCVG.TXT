@@ -1,0 +1,14 @@
+CINCINNATI/NORTHERN KY INTERNATIONAL , KY, United States (KCVG) 39-03N 084-40W 269M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the S (190 degrees) at 14 MPH (12 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: A trace
+Temperature: 61.0 F (16.1 C)
+Dew Point: 41.0 F (5.0 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) lower than three hours ago
+ob: KCVG 140852Z 19012KT 10SM -RA FEW049 BKN095 OVC120 16/05 A2985 RMK AO2 RAB38 SLP099 P0000 60000 T01610050 56011
+cycle: 9

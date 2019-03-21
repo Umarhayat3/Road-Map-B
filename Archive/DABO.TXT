@@ -1,0 +1,11 @@
+Station name not available
+Aug 31, 2012 - 03:00 AM EDT / 2012.08.31 0700 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: DABO 310700Z 05005KT 9999 SCT040 23/16 Q1020
+cycle: 7

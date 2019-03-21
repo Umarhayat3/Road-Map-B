@@ -1,0 +1,12 @@
+Bremen, Germany (EDDW) 53-03N 008-48E 5M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (220 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: EDDW 140750Z 22014KT 9999 -RA BKN015 06/04 Q0999 TEMPO 23015G25KT BKN012
+cycle: 8

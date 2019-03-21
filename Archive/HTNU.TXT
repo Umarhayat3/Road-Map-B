@@ -1,0 +1,12 @@
+Station name not available
+Apr 13, 2018 - 08:00 PM EDT / 2018.04.14 0000 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 69 F (21 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: HTNU 140000Z 00000KT 9999 FEW019 FEW020CB SCT090 21/19 Q1017
+cycle: 0

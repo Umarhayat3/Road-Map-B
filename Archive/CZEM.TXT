@@ -1,0 +1,11 @@
+Eastmain River Airport, Canada (CZEM) 52-14N 078-31W
+Mar 13, 2019 - 04:00 PM EDT / 2019.03.13 2000 UTC
+Wind: from the SW (230 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+ob: CZEM 132000Z 23007KT 180V240 15SM OVC038 03/M01 A2984 RMK SC8 LAST STFD OBS/NEXT 141300 UTC SLP106
+cycle: 20

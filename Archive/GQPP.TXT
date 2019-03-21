@@ -1,0 +1,10 @@
+Nouadhibou, Mauritania (GQPP) 20-56N 017-02W 3M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (020 degrees) at 13 MPH (11 KT):0
+Visibility: 4 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: GQPP 140800Z 02011KT 7000 NSC 17/12 Q1017 NOSIG
+cycle: 8

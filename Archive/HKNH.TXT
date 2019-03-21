@@ -1,0 +1,11 @@
+Station name not available
+Apr 16, 2013 - 09:00 AM EDT / 2013.04.16 1300 UTC
+Wind: from the E (090 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 68 F (20 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 56%
+ob: HKNH 161300Z 09006KT 9999 FEW020CB SCT021 20/11
+cycle: 13

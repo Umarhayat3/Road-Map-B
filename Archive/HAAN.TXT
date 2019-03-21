@@ -1,0 +1,11 @@
+Station name not available
+May 26, 2017 - 03:00 AM EDT / 2017.05.26 0700 UTC
+Wind: from the E (080 degrees) at 9 MPH (8 KT):0
+Visibility: 3 mile(s):0
+Weather: haze
+Temperature: 73 F (23 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 38%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: HAAN 260700Z 08008KT 6000 HZ NSC 23/08 Q1027 
+cycle: 7

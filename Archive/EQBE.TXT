@@ -1,0 +1,12 @@
+Station name not available
+Mar 01, 2008 - 10:50 PM EST / 2008.03.02 0350 UTC
+Wind: from the ENE (070 degrees) at 2 MPH (2 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Weather: smoke
+Temperature: 59 F (15 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 54%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: EQBE 020350Z 07002KT 6000 FU SCT150 15/06 Q1013 WHT NOSIG
+cycle: 4

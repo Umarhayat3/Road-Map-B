@@ -1,0 +1,11 @@
+WEST MEMPHIS MUNICIPAL AIRPORT, AR, United States (KAWM) 35-08N 090-14W
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 22 MPH (19 KT) gusting to 32 MPH (28 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Precipitation last hour: A trace
+Temperature: 69 F (21 C)
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KAWM 140853Z AUTO 18019G28KT 10SM BKN039 BKN050 BKN060 21/ A2965 RMK AO2 PK WND 19030/0817 RAB15E26 SLP038 P0000 60000 T0211 58015 
+cycle: 9

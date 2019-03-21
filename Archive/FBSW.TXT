@@ -1,0 +1,11 @@
+Shakawe, Botswana (FBSW) 18-22S 021-51E 1000M
+Jan 18, 2010 - 01:00 AM EST / 2010.01.18 0600 UTC
+Wind: from the NE (050 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 84 F (29 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 45%
+ob: FBSW 180600Z 05008KT 9999 TS FEW030 FEW035CB 29/16 Q////
+cycle: 6

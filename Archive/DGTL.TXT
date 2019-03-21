@@ -1,0 +1,12 @@
+Station name not available
+Nov 19, 2008 - 07:00 AM EST / 2008.11.19 1200 UTC
+Wind: from the SW (230 degrees) at 9 MPH (8 KT):0
+Visibility: 4 mile(s):0
+Weather: haze
+Temperature: 91 F (33 C)
+Heat index: 96.1 F (35.6 C):1
+Dew Point: 69 F (21 C)
+Relative Humidity: 49%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: DGTL 191200Z 23008KT 7000 HZ 33/21 Q1009
+cycle: 12

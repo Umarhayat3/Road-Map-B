@@ -1,0 +1,13 @@
+AUGUSTA STATE AIRPORT, ME, United States (KAUG) 44-19N 069-48W 109M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 30.0 F (-1.1 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 95%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KAUG 140853Z AUTO 00000KT 5SM BR OVC003 M01/M02 A3027 RMK AO2 SLP256 60000 T10111017 56010 
+cycle: 9

@@ -1,0 +1,12 @@
+ELKO REGIONAL AIRPORT, NV, United States (KEKO) 40-50N 115-47W 1547M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the W (280 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 24.1 F (-4.4 C)
+Dew Point: 15.1 F (-9.4 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) higher than three hours ago
+ob: KEKO 140856Z AUTO 28003KT 10SM CLR M04/M09 A3026 RMK AO2 SLP275 T10441094 53015
+cycle: 9

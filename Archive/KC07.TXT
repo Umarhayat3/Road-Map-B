@@ -1,0 +1,7 @@
+Station name not available
+Mar 14, 2019 - 04:48 AM EDT / 2019.03.14 0848 UTC
+Wind: from the WNW (290 degrees) at 10 MPH (9 KT) gusting to 16 MPH (14 KT) (direction variable):0
+Sky conditions: overcast
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: KC07 140848Z AUTO 29009G14KT 240V340 BKN003 OVC006 A2982 RMK AO2 PWINO
+cycle: 9

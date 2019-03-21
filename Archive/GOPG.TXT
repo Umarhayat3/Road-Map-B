@@ -1,0 +1,10 @@
+Station name not available
+Sep 26, 2012 - 07:00 AM EDT / 2012.09.26 1100 UTC
+Wind: from the NW (320 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Heat index: 98.4 F (36.9 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 62%
+ob: GOPG 261100Z 32006KT CAVOK 32/24 Q///
+cycle: 11

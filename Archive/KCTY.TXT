@@ -1,0 +1,11 @@
+CROSS CITY AIRPORT, FL, United States (KCTY) 29-38N 083-06W 12M
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (100 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 62.1 F (16.7 C)
+Dew Point: 59.0 F (15.0 C)
+Relative Humidity: 89%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: KCTY 140855Z AUTO 10003KT 10SM CLR 17/15 A3011 RMK AO2 T01670150
+cycle: 9

@@ -1,0 +1,11 @@
+Station name not available
+Jan 25, 2013 - 11:00 AM EST / 2013.01.25 1600 UTC
+Wind: from the SW (230 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 57 F (14 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.68 in. Hg (1039 hPa)
+ob: CLLP 251600Z 23005KT 9999 FEW017 BKN200 14/01 Q1039
+cycle: 16

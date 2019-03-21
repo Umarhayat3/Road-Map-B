@@ -1,0 +1,10 @@
+Kaduna, Nigeria (DNKA) 10-36N 007-27E 642M
+Jan 18, 2019 - 08:00 AM EST / 2019.01.18 1300 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 15%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: DNKA 181300Z 14008KT CAVOK 34/04 Q1014
+cycle: 13

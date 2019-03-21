@@ -1,0 +1,11 @@
+Knoxville Downtown, TN, United States (KDKX) 35-58N 083-52W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 48 F (9 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: KDKX 140855Z AUTO 00000KT 10SM FEW047 09/07 A3004 RMK A01
+cycle: 9

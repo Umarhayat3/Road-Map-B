@@ -1,0 +1,11 @@
+Station name not available
+Jun 13, 2016 - 05:00 AM EDT / 2016.06.13 0900 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FNGB 130900Z 00000KT 9999 FEW015 BKN020 23/19 Q1019
+cycle: 9

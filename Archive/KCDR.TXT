@@ -1,0 +1,15 @@
+CHADRON MUNICIPAL AIRPORT, NE, United States (KCDR) 42-50N 103-06W 1010M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NW (320 degrees) at 20 MPH (17 KT) gusting to 29 MPH (25 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: precipitation
+Precipitation last hour: A trace
+Temperature: 30.0 F (-1.1 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 25.0 F (-3.9 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) higher than three hours ago
+ob: KCDR 140853Z AUTO 32017G25KT 10SM UP FEW027 FEW033 OVC049 M01/M04 A2975 RMK AO2 UPB0759 SLP109 P0000 60000 T10111039 53021
+cycle: 9

@@ -1,0 +1,10 @@
+Station name not available
+Jul 25, 2012 - 03:00 PM EDT / 2012.07.25 1900 UTC
+Wind: from the ENE (070 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 96 F (36 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 11%
+Pressure (altimeter): 29.44 in. Hg (0997 hPa)
+ob: GMDW 251900Z 07008KT CAVOK 36/02 Q0997 NOSIG
+cycle: 19

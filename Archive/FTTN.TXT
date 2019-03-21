@@ -1,0 +1,10 @@
+Am-Timan, Chad (FTTN) 11-02N 020-17E 436M
+May 15, 2018 - 05:00 AM EDT / 2018.05.15 0900 UTC
+Wind: from the S (180 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Heat index: 95.0 F (35.0 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 55%
+ob: FTTN 150900Z 18008KT CAVOK 32/22 Q////
+cycle: 9

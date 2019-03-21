@@ -1,0 +1,7 @@
+Pelly Island Automatic Weather Reporting System , Canada (CWND) 69-38N 135-26W
+Mar 14, 2019 - 11:39 AM EDT / 2019.03.14 1539 UTC
+Temperature: 29.5 F (-1.4 C)
+Dew Point: 29.3 F (-1.5 C)
+Relative Humidity: 99%
+ob: CWND 141539Z M01/M02 RMK 8017 T10141015
+cycle: 15

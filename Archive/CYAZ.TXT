@@ -1,0 +1,11 @@
+Tofino Airport, Canada (CYAZ) 49-05N 125-46W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the SSE (160 degrees) at 7 MPH (6 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 44 F (7 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.32 in. Hg (1026 hPa)
+ob: CYAZ 140100Z 16006KT 15SM FEW050 SCT140 SCT220 07/04 A3032 RMK SC2AC1CI1 LAST STFD OBS/NEXT 141300UTC SLP271
+cycle: 1

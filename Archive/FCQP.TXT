@@ -1,0 +1,11 @@
+Station name not available
+Sep 22, 2016 - 06:00 AM EDT / 2016.09.22 1000 UTC
+Wind: from the WSW (250 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FCQP 221000Z 25006KT 9999 SCT018 SCT026 28/21 Q1016 NOSIG
+cycle: 10

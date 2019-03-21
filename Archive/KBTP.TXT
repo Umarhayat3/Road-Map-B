@@ -1,0 +1,12 @@
+Butler, Butler County Airport/K W Scholter Field, PA, United States (KBTP) 40-47N 079-57W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50.0 F (10.0 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 42%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+Pressure tendency: 0.05 inches (1.6 hPa) lower than three hours ago
+ob: KBTP 140856Z AUTO 12004KT 10SM CLR 10/M02 A3000 RMK AO2 SLP166 T01001022 58016
+cycle: 9

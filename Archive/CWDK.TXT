@@ -1,0 +1,9 @@
+Claresholm Automatic Weather Reporting System , Canada (CWDK) 50-01N 113-38W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (330 degrees) at 3 MPH (3 KT):0
+Temperature: 18.0 F (-7.8 C)
+Dew Point: 12.2 F (-11.0 C)
+Relative Humidity: 77%
+Pressure tendency: 0.02 inches (0.7 hPa) higher than three hours ago
+ob: CWDK 140700Z AUTO 33003KT M08/M11 RMK AO1 SLP264 T10781110 53007
+cycle: 7

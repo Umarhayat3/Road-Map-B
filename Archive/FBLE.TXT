@@ -1,0 +1,10 @@
+Station name not available
+Apr 26, 2011 - 03:00 AM EDT / 2011.04.26 0700 UTC
+Wind: from the NE (040 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FBLE 260700Z 04009KT CAVOK 25/17 Q1017
+cycle: 7

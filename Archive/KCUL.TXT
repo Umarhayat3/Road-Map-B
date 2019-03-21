@@ -1,0 +1,12 @@
+Carmi, Carmi Municipal Airport, IL, United States (KCUL) 38-05-22N 088-07-23W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SE (140 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: Lightning observed
+Temperature: 57 F (14 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.66 in. Hg (1004 hPa)
+ob: KCUL 140856Z AUTO 14014KT 10SM OVC095 14/13 A2966 RMK AO2 LTG DSNT S
+cycle: 9

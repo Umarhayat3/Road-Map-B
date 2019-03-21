@@ -1,0 +1,9 @@
+Station name not available
+Sep 16, 2018 - 08:00 AM EDT / 2018.09.16 1200 UTC
+Wind: from the ENE (070 degrees) at 1 MPH (1 KT):0
+Temperature: 87 F (31 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 12%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FYSF 161200Z AUTO 07001KT //// // ////// 31/M01 Q1017
+cycle: 12

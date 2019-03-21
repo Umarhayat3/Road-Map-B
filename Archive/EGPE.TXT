@@ -1,0 +1,12 @@
+Inverness / Dalcross, United Kingdom (EGPE) 57-32N 004-03W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (250 degrees) at 20 MPH (17 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: EGPE 140820Z 25017KT 9999 VCSH FEW012 SCT028 06/04 Q0989 RESHRA
+cycle: 8

@@ -1,0 +1,11 @@
+Hawarden, United Kingdom (EGNR) 53-10N 002-59W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WNW (300 degrees) at 21 MPH (18 KT) gusting to 39 MPH (34 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 71%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: EGNR 140820Z 30018G34KT 260V330 9999 FEW015 SCT035 11/06 Q1000
+cycle: 8

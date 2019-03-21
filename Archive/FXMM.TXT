@@ -1,0 +1,11 @@
+Maseru / Moshoeshoe, Lesotho (FXMM) 29-27S 027-33E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 47%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FXMM 140800Z 00000KT 9999 SCT035 25/13 Q1025 NOSIG
+cycle: 8

@@ -1,0 +1,11 @@
+Kangirsuk Supplementary Aviation Weather Reporting Station , Canada (CYAS) 60-01N 070-00W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 6 F (-14 C)
+Dew Point: 0 F (-18 C)
+Relative Humidity: 71%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: CYAS 132100Z VRB02KT 15SM FEW004 SCT052 M14/M18 A2998 RMK ST1SC3 SN COV/MED PACK LAST STFD OBS/NEXT 141200UTC SLP168
+cycle: 21

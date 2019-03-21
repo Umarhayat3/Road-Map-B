@@ -1,0 +1,12 @@
+Stornoway, United Kingdom (EGPO) 58-13N 006-19W 13M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (280 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity; Cumulonimbus clouds observed
+Temperature: 44 F (7 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: EGPO 140820Z 28008KT 9999 VCSH FEW012 FEW016CB SCT020 07/04 Q0989
+cycle: 8

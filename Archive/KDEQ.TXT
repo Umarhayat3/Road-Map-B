@@ -1,0 +1,12 @@
+DE QUEEN HELMS SEVIER COUNTY, AR, United States (KDEQ) 34-03N 94-24W 106M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSW (210 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 62.1 F (16.7 C)
+Dew Point: 61.0 F (16.1 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.63 in. Hg (1003 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) higher than three hours ago
+ob: KDEQ 140853Z AUTO 21007KT 10SM SCT050 BKN095 17/16 A2963 RMK AO2 SLP029 60089 T01670161 53006
+cycle: 9

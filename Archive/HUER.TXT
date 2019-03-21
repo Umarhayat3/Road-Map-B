@@ -1,0 +1,11 @@
+Station name not available
+Jul 07, 2012 - 12:00 AM EDT / 2012.07.07 0400 UTC
+Wind: from the WSW (250 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain; Cumulonimbus clouds observed
+Temperature: 64 F (18 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 93%
+ob: HUER 070400Z 25003KT 9999 -RA FEW020 FEW023CB BKN100 18/17
+cycle: 4

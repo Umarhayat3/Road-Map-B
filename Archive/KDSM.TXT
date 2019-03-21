@@ -1,0 +1,13 @@
+DES MOINES INTERNATIONAL, IA, United States (KDSM) 41-32N 93-40W 295M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the SE (140 degrees) at 17 MPH (15 KT) gusting to 29 MPH (25 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 50.0 F (10.0 C)
+Dew Point: 43.0 F (6.1 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.15 in. Hg (987 hPa)
+Pressure tendency: 0.08 inches (2.6 hPa) lower than three hours ago
+ob: KDSM 140854Z 14015G25KT 10SM FEW050 FEW070 OVC095 10/06 A2915 RMK AO2 PK WND 16027/0756 RAE20 SLP872 P0000 60000 T01000061 58026
+cycle: 9

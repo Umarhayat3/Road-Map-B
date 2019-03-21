@@ -1,0 +1,12 @@
+Seinajoki-Ilmajok, Finland (EFSI) 62-41-37N 022-49-55E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ESE (120 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 32 F (0 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: EFSI 140820Z AUTO 12013KT 9999 OVC007 M00/M02 Q0994
+cycle: 8

@@ -1,0 +1,11 @@
+Koebenhavn / Kastrup, Denmark (EKCH) 55-37N 012-39E 5M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (230 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: EKCH 140820Z 23011KT 9999 FEW012 BKN018 06/04 Q0994 TEMPO BKN012
+cycle: 8

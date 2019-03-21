@@ -1,0 +1,11 @@
+Dresden-Klotzsche, Germany (EDDC) 51-08N 013-45E 232M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (250 degrees) at 14 MPH (12 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 75%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EDDC 140750Z 25012KT 210V280 9999 SCT027 SCT040 06/02 Q1005 TEMPO 26015G25KT
+cycle: 8

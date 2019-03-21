@@ -1,0 +1,10 @@
+Station name not available
+Mar 21, 2013 - 06:00 PM EDT / 2013.03.21 2200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 91 F (33 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 33%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: GOOM 212200Z 00000KT CAVOK 33/15 Q1007
+cycle: 22

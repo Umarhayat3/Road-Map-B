@@ -1,0 +1,6 @@
+Station name not available
+Oct 04, 2010 - 12:00 AM EDT / 2010.10.04 0400 UTC
+Wind: from the ESE (120 degrees) at 12 MPH (10 KT) gusting to 23 MPH (20 KT):0
+Visibility: greater than 7 mile(s):0
+ob: HHSB 040400 0606 12010G20KT CAVOK
+cycle: 4

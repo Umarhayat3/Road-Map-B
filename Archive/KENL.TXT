@@ -1,0 +1,11 @@
+Centralia, Centralia Municipal Airport, IL, United States (KENL) 38-30-53N 089-05-32W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 61.2 F (16.2 C)
+Dew Point: 61.2 F (16.2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: KENL 140855Z AUTO 17011KT 10SM OVC010 16/16 A2959 RMK AO2 T01620162
+cycle: 9

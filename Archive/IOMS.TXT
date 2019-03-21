@@ -1,0 +1,10 @@
+Station name not available
+Apr 19, 2008 - 09:00 PM EDT / 2008.04.20 0100 UTC
+Wind: from the S (180 degrees) at 1 MPH (1 KT):0
+Visibility: 2 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: IOMS 200100Z 18001KT 4000 U NSC 27/13 Q1006 NOSIG
+cycle: 1

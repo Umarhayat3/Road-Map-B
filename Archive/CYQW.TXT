@@ -1,0 +1,11 @@
+North Battleford, Sask., Canada (CYQW) 52-46N 108-15W 548M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 10 F (-12 C)
+Dew Point: 6 F (-14 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: CYQW 140800Z AUTO 00000KT 9SM CLR M12/M14 A3016 RMK SLP251
+cycle: 8

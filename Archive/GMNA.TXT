@@ -1,0 +1,11 @@
+Station name not available
+Dec 26, 2013 - 11:00 PM EST / 2013.12.27 0400 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 77 F (25 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GMNA 270400Z 00000K 9999 FEW020CB SCT040 BKN250 25/23 Q1013
+cycle: 4

@@ -1,0 +1,11 @@
+Comox, B. C., Canada (CYQQ) 49-43N 124-54W 24M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: overcast
+Temperature: 44 F (7 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.35 in. Hg (1027 hPa)
+ob: CYQQ 140800Z 16010KT 20SM FEW041 OVC110 07/03 A3035 RMK SC1AS7 SLP279
+cycle: 8

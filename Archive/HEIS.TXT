@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (240 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HEIS 140800Z 24014KT CAVOK 16/12 Q1014
+cycle: 8

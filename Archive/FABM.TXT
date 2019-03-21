@@ -1,0 +1,10 @@
+Bethlehem Airport, South Africa (FABM) 28-15S 028-20E 1700M
+Mar 14, 2019 - 02:25 AM EDT / 2019.03.14 0625 UTC
+Wind: from the SE (140 degrees) at 1 MPH (1 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: FABM 140625Z 14001KT CAVOK 22/16 Q1026
+cycle: 6

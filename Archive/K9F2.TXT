@@ -1,0 +1,11 @@
+Fourchon Supplementary Aviation Weather Reporting Station, LA, United States (K9F2) 29-06N 090-12W
+Nov 03, 2016 - 06:00 AM EDT / 2016.11.03 1000 UTC
+Wind: from the SE (130 degrees) at 9 MPH (8 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: K9F2 031000Z 13008KT 7SM FEW050 24/21 A3014
+cycle: 10

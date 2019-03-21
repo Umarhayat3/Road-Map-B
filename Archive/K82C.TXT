@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 3/4 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 46.0 F (7.8 C)
+Dew Point: 46.0 F (7.8 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.37 in. Hg (994 hPa)
+ob: K82C 140855Z AUTO 00000KT 3/4SM BR OVC007 08/08 A2937 RMK AO2 T00780078
+cycle: 9

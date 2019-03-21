@@ -1,0 +1,8 @@
+Princeton Automatic Weather Reporting System , Canada (CWPR) 50-36N 120-31W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 22.6 F (-5.2 C)
+Dew Point: 18.1 F (-7.7 C)
+Relative Humidity: 82%
+ob: CWPR 140700Z AUTO 00000KT M05/M08 RMK AO1 SOG 30 1012 SLP301 T10521077
+cycle: 7

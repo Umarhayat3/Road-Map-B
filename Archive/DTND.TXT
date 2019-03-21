@@ -1,0 +1,11 @@
+Station name not available
+Jan 09, 2019 - 01:30 PM EST / 2019.01.09 1830 UTC
+Wind: from the WSW (250 degrees) at 9 MPH (8 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 53 F (12 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 57%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: DTND 091830Z 25008KT 8000 FEW023 SCT030 12/04 Q1009 NOSIG
+cycle: 18

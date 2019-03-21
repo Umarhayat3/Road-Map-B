@@ -1,0 +1,12 @@
+Joensuu, Finland (EFJO) 62-40N 029-38E 117M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 14 MPH (12 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 26 F (-3 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: EFJO 140820Z 13012KT 100V170 9999 BKN014 BKN054 M03/M06 Q1004
+cycle: 8

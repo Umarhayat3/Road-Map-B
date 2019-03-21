@@ -1,0 +1,12 @@
+Station name not available
+Apr 03, 2010 - 02:00 AM EDT / 2010.04.03 0600 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 37 F (3 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.25 in. Hg (990 hPa)
+ob: CYPS 030600Z 00000KT 10SM -RA FEW010 BKN025 OVC039 03/03 A2925 RMK SF1SC4SC3 LAST OB/NEXT UNKNOWN SLP911
+cycle: 6

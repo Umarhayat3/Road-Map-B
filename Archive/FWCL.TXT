@@ -1,0 +1,11 @@
+Chileka, Malawi (FWCL) 15-41S 034-58E 767M
+Mar 14, 2019 - 01:00 AM EDT / 2019.03.14 0500 UTC
+Wind: from the ESE (120 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 71 F (22 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FWCL 140500Z 12005KT 9999 FEW012 BKN070 22/18 Q1017 NOSIG
+cycle: 5

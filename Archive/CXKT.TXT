@@ -1,0 +1,8 @@
+Kentville , N. S., Canada (CXKT) 45-04N 064-29W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (250 degrees) at 1 MPH (1 KT):0
+Temperature: 26.1 F (-3.3 C)
+Dew Point: 21.9 F (-5.6 C)
+Relative Humidity: 84%
+ob: CXKT 140800Z AUTO 25001KT M03/M06 RMK AO1 SOG 12 8005 SLP249 T10331056
+cycle: 8

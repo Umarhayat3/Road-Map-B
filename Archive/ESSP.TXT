@@ -1,0 +1,11 @@
+Norrkoping, Sweden (ESSP) 58-35N 016-09E 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (180 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: ESSP 140820Z 18007KT 9999 FEW010 BKN015 04/03 Q0989 R27/19//72
+cycle: 8

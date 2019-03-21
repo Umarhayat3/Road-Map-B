@@ -1,0 +1,12 @@
+Fort Worth, Forth Worth Spinks Airport, TX, United States (KFWS) 32-34N 097-18W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (260 degrees) at 14 MPH (12 KT) gusting to 22 MPH (19 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: clear
+Weather: haze; Lightning observed
+Temperature: 64.4 F (18.0 C)
+Dew Point: 34.3 F (1.3 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: KFWS 140855Z AUTO 26012G19KT 5SM HZ CLR 18/01 A2976 RMK AO2 LTG DSNT SE T01800013
+cycle: 9

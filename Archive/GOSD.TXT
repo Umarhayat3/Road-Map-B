@@ -1,0 +1,10 @@
+Station name not available
+Nov 15, 2010 - 08:00 AM EST / 2010.11.15 1300 UTC
+Wind: from the NNE (020 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GOSD 151300Z 02002KT CAVOK 34/15 Q1009
+cycle: 13

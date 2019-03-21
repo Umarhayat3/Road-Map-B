@@ -1,0 +1,11 @@
+Gore Bay, Ont., Canada (CYZE) 45-53N 082-34W 193M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 14 MPH (12 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+Pressure tendency: falling rapidly
+ob: CYZE 140800Z AUTO 09012KT 2 1/2SM OVC003 02/ A2985 RMK PRESFR TD MISG SLP116
+cycle: 8

@@ -1,0 +1,13 @@
+ALEXANDRIA ESLER RGNL AIRPORT , LA, United States (KESF) 31-24N 092-18W 28M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 13 MPH (11 KT) gusting to 21 MPH (18 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 71.1 F (21.7 C)
+Dew Point: 69.1 F (20.6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KESF 140853Z AUTO 17011G18KT 9SM SCT013 BKN019 OVC029 22/21 A2977 RMK AO2 RAE21 SLP080 P0000 60000 T02170206 58015
+cycle: 9

@@ -1,0 +1,9 @@
+Berberati, Central African Republic (FEFT) 04-15N 015-48E 583M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (320 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 74%
+ob: FEFT 140800Z 32006KT CAVOK 28/23 Q////
+cycle: 8

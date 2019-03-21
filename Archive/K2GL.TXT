@@ -1,0 +1,10 @@
+Galliano, Galliano Heliport, LA, United States (K2GL) 29-24-48N 090-17-56W
+Jun 26, 2008 - 05:55 AM EDT / 2008.06.26 0955 UTC
+Wind: Calm:0
+Visibility: 1 mile(s):0
+Sky conditions: clear
+Temperature: 80 F (27 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 83%
+ob: K2GL 260955Z 00000KT 7SM SKC 27/24 3010
+cycle: 10

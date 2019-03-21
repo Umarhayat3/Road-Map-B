@@ -1,0 +1,14 @@
+MONROE COUNTY AIRPORT, IN, United States (KBMG) 39-09N 086-37W 257M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 14 MPH (12 KT) gusting to 26 MPH (23 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: 0.02 inches
+Temperature: 57.0 F (13.9 C)
+Dew Point: 52.0 F (11.1 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+Pressure tendency: 0.06 inches (2.0 hPa) lower than three hours ago
+ob: KBMG 140853Z AUTO 16012G23KT 10SM -RA BKN038 BKN046 OVC070 14/11 A2971 RMK AO2 PK WND 15028/0815 SLP057 P0002 60006 T01390111 56020
+cycle: 9

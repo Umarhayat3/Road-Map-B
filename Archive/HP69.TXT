@@ -1,0 +1,10 @@
+Station name not available
+Mar 05, 2008 - 06:52 AM EST / 2008.03.05 1152 UTC
+Wind: Calm:0
+Temperature: 34.0 F (1.1 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 96%
+Pressure (altimeter): 30.3 in. Hg (1026 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) higher than three hours ago
+ob: HP69 051152Z AUTO 00000KT 01/01 A3030 RMK AO2 SLP279 70036 T00110006 10017 20011 51006 PWINO FZRANO TSNO 
+cycle: 12

@@ -1,0 +1,12 @@
+NASHVILLE INTERNATIONAL  AIRPORT, TN, United States (KBNA) 36-07N 086-41W 210M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 25 MPH (22 KT) gusting to 37 MPH (32 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 68.0 F (20.0 C)
+Dew Point: 52.0 F (11.1 C)
+Relative Humidity: 56%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: KBNA 140853Z 17022G32KT 10SM BKN037 OVC060 20/11 A2985 RMK AO2 PK WND 17032/0845 SLP101 60000 T02000111 58007
+cycle: 9

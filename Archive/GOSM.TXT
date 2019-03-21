@@ -1,0 +1,10 @@
+Matam, Senegal (GOSM) 15-39N 013-15W 17M
+Mar 10, 2019 - 07:00 PM EDT / 2019.03.10 2300 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 31%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GOSM 102300Z 00000KT CAVOK 24/06 Q1014
+cycle: 23

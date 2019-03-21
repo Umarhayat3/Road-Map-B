@@ -1,0 +1,10 @@
+Station name not available
+Apr 13, 2016 - 05:00 AM EDT / 2016.04.13 0900 UTC
+Wind: from the SW (220 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 96 F (36 C)
+Heat index: 103.5 F (39.7 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 44%
+ob: FTTB 130900Z 22006KT CAVOK 36/22 Q////
+cycle: 9

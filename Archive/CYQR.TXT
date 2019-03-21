@@ -1,0 +1,12 @@
+Regina, Sask., Canada (CYQR) 50-26N 104-40W 577M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 19 F (-7 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+ob: CYQR 140800Z 32008KT 15SM SKC M07/M09 A3008 RMK SLP221
+cycle: 8

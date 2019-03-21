@@ -1,0 +1,12 @@
+St. John's, Nfld, Canada (CYYT) 47-37N 052-44W 140M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WNW (290 degrees) at 9 MPH (8 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 21 F (-6 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: CYYT 140800Z 29008KT 15SM SKC M06/M06 A3016 RMK SLP222
+cycle: 8

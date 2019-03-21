@@ -1,0 +1,12 @@
+Station name not available
+Aug 23, 2010 - 05:56 AM EDT / 2010.08.23 0956 UTC
+Wind: from the SW (230 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 55.9 F (13.3 C)
+Dew Point: 50.0 F (10.0 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KCFA 230956Z AUTO 23006KT 10SM BKN080 OVC100 13/10 A3007 RMK AO2 RAE00 SLP190 P0000 T01330100 
+cycle: 10

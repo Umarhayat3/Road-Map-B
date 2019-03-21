@@ -1,0 +1,11 @@
+Flin Flon Airport, Canada (CYFO) 54-41N 101-41W
+Mar 13, 2019 - 07:00 PM EDT / 2019.03.13 2300 UTC
+Wind: from the NW (310 degrees) at 10 MPH (9 KT) gusting to 17 MPH (15 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 41 F (5 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.93 in. Hg (1013 hPa)
+ob: CYFO 132300Z 31009G15KT 15SM FEW040 FEW220 05/M07 A2993 RMK CU1CI1 CU TR CI TR LAST OBS/NEXT 141100UTC SLP152
+cycle: 23

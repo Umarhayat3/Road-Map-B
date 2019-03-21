@@ -1,0 +1,11 @@
+Saguache, Saguache Municipal Airport, CO, United States (K04V) 38-05-50N 106-10-07W
+Mar 14, 2019 - 04:36 AM EDT / 2019.03.14 0836 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 21 F (-6 C)
+Dew Point: 12 F (-11 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: K04V 140836Z AUTO 00000KT 10SM CLR M06/M11 A2982 RMK AO2
+cycle: 8

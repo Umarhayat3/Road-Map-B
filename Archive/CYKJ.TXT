@@ -1,0 +1,11 @@
+Key Lake, Canada (CYKJ) 57-15N 105-37W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (270 degrees) at 2 MPH (2 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 3 F (-16 C)
+Dew Point: 1 F (-17 C)
+Relative Humidity: 91%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: CYKJ 140800Z AUTO 27002KT 9SM OVC110 M16/M17 A3002 RMK SLP208
+cycle: 8

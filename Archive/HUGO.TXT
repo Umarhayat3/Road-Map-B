@@ -1,0 +1,11 @@
+Station name not available
+Jun 27, 2010 - 06:00 AM EDT / 2010.06.27 1000 UTC
+Wind: from the ENE (060 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 82 F (28 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 61%
+ob: HUGO 271000Z 06003KT 9999 BKN023 FEW024CB 28/20
+cycle: 10

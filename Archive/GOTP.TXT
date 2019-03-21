@@ -1,0 +1,10 @@
+Station name not available
+Jan 24, 2016 - 07:00 AM EST / 2016.01.24 1200 UTC
+Wind: from the ESE (120 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 13%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GOTP 241200Z 12008KT CAVOK 32/01 Q1016
+cycle: 12

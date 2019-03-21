@@ -1,0 +1,10 @@
+Nioro Du Sahel, Mali (GANR) 15-14N 009-21W 237M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 33%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GANR 140600Z 00000KT 8000 NSC 15/M01 Q1014
+cycle: 6

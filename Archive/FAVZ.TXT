@@ -1,0 +1,9 @@
+Station name not available
+Nov 10, 2008 - 10:00 AM EST / 2008.11.10 1500 UTC
+Wind: from the WNW (290 degrees) at 8 MPH (7 KT):0
+Temperature: 91 F (33 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 21%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: FAVZ 101500Z AUTO 29007KT //// // ////// 33/08 Q1008
+cycle: 15

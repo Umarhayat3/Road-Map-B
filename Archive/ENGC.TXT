@@ -1,0 +1,12 @@
+Gullfax Platform , Norway (ENGC) 61-02N 002-02E
+Mar 14, 2019 - 03:54 AM EDT / 2019.03.14 0754 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity; Cumulonimbus clouds observed
+Temperature: 41 F (5 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: ENGC 140754Z 08006KT 9999 VCSH FEW020CB SCT045 05/00 Q0983 W06/S4
+cycle: 8

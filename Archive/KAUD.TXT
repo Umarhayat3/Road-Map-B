@@ -1,0 +1,7 @@
+Audubon Park, LA, United States (KAUD) 29-56N 090-08W
+Nov 13, 2016 - 05:54 PM EST / 2016.11.13 2254 UTC
+Temperature: 64.8 F (18.2 C)
+Dew Point: 51.4 F (10.8 C)
+Relative Humidity: 61%
+ob: KAUD 132254Z 18/11 RMK T01820108 
+cycle: 23

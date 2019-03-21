@@ -1,0 +1,13 @@
+Sandnessjoen / Stokka, Norway (ENST) 65-58N 012-28E 17M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the NE (040 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow
+Temperature: 32 F (0 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.09 in. Hg (0985 hPa)
+ob: ENST 140820Z 04005KT 360V120 9999 -SN FEW015 SCT028 BKN038 00/M07 Q0985 RMK WIND 300FT 05004KT
+cycle: 8

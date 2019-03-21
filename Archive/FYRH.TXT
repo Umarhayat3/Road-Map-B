@@ -1,0 +1,9 @@
+Station name not available
+Sep 16, 2018 - 08:00 AM EDT / 2018.09.16 1200 UTC
+Wind: from the W (260 degrees) at 5 MPH (4 KT):0
+Temperature: 91 F (33 C)
+Dew Point: 3 F (-16 C)
+Relative Humidity: 3%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FYRH 161200Z AUTO 26004KT //// // ////// 33/M16 Q1017
+cycle: 12

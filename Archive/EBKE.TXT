@@ -1,0 +1,12 @@
+Station name not available
+Oct 26, 2016 - 08:00 AM EDT / 2016.10.26 1200 UTC
+Wind: from the NNE (030 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 98 F (37 C)
+Heat index: 94.5 F (34.7 C):1
+Dew Point: 48 F (9 C)
+Relative Humidity: 18%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: EBKE 261200Z 03010KT 9999 FEW035 37/09 Q1010
+cycle: 12

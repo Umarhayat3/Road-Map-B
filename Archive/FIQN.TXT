@@ -1,0 +1,11 @@
+Station name not available
+Apr 20, 2016 - 01:00 AM EDT / 2016.04.20 0500 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73 F (23 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FIQN 200500Z 00000KT 9999 FEW020 23/22 Q1016
+cycle: 5

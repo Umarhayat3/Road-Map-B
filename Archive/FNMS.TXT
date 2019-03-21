@@ -1,0 +1,9 @@
+Station name not available
+Jan 13, 2014 - 01:00 AM EST / 2014.01.13 0600 UTC
+Wind: from the NE (040 degrees) at 14 MPH (12 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain with thunder
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FNMS 130600Z 04012KT 8000 TSRA BKN017 XX/XX Q1015
+cycle: 6

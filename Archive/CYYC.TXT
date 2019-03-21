@@ -1,0 +1,12 @@
+Calgary International, Alta., Canada (CYYC) 51-07N 114-01W 1084M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 21 F (-6 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: CYYC 140800Z VRB04KT 15SM FEW120 FEW220 M06/M10 A3017 RMK AC1CI1 AC TR SLP275
+cycle: 8

@@ -1,0 +1,11 @@
+Station name not available
+Aug 27, 2009 - 04:10 PM EDT / 2009.08.27 2010 UTC
+Wind: from the ENE (060 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.6 F (19.2 C)
+Dew Point: 52.9 F (11.6 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: K3BS 272010Z AUTO 06005KT 10SM CLR 19/12 A3014 RMK AO2 T01920116
+cycle: 20

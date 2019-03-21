@@ -1,0 +1,9 @@
+Saturna Island Meteorological Aeronautical Presentation System , Canada (CWEZ) 48-47N 123-03W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (110 degrees) at 10 MPH (9 KT):0
+Temperature: 44.2 F (6.8 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 84%
+Pressure tendency: 0.01 inches (0.5 hPa) higher than three hours ago
+ob: CWEZ 140700Z AUTO 11009KT 07/04 RMK AO1 SLP285 T00680044 51005
+cycle: 7

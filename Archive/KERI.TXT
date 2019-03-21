@@ -1,0 +1,12 @@
+ERIE INTERNATIONAL AIRPORT, PA, United States (KERI) 42-05N 080-11W 222M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the SSE (160 degrees) at 17 MPH (15 KT) gusting to 28 MPH (24 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 57.0 F (13.9 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.93 in. Hg (1013 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) lower than three hours ago
+ob: KERI 140851Z AUTO 16015G24KT 10SM CLR 14/M02 A2993 RMK AO2 SLP136 T01391022 58021 TSNO
+cycle: 9

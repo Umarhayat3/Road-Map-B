@@ -1,0 +1,13 @@
+Mtwara, Tanzania (HTMT) 10-16S 040-11E 113M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (330 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 86 F (30 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HTMT 140800Z 33016KT 9999 BKN023 FEW024CB 30/25 Q1014
+cycle: 8

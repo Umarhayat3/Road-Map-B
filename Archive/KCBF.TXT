@@ -1,0 +1,11 @@
+Council Bluffs, IA, United States (KCBF) 41-16N 095-46W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 48 F (9 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.01 in. Hg (982 hPa)
+ob: KCBF 140855Z AUTO 17016KT 10SM SCT024 BKN038 OVC045 09/09 A2901 RMK AO2
+cycle: 9

@@ -1,0 +1,11 @@
+Hat Island, N. W. T., Canada (CWIL) 68-19N 100-05W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (010 degrees) at 14 MPH (12 KT):0
+Sky conditions: overcast
+Temperature: -11 F (-24 C)
+Windchill: -32 F (-36 C):2
+Dew Point: -14 F (-26 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: CWIL 140700Z AUTO 01012KT ////SM BKN060 OVC070 M24/M26 A3025
+cycle: 7

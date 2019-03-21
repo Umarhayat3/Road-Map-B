@@ -1,0 +1,11 @@
+Station name not available
+Oct 19, 2009 - 06:55 AM EDT / 2009.10.19 1055 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 61.7 F (16.5 C)
+Dew Point: 57.6 F (14.2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+ob: EQYQ 191055Z AUTO 10005KT 9999 FEW009 BKN011 BKN016 17/14 A2984 RMK AO2 SLP104 T01650142
+cycle: 11

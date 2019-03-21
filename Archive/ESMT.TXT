@@ -1,0 +1,11 @@
+Halmstad Swedish Air Force Base , Sweden (ESMT) 56-41N 012-50E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (240 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.29 in. Hg (0992 hPa)
+ob: ESMT 140820Z 24010KT 9999 FEW006 SCT008 BKN009 04/03 Q0992
+cycle: 8

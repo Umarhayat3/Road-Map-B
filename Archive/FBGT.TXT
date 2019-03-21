@@ -1,0 +1,11 @@
+Station name not available
+Mar 19, 2017 - 12:00 PM EDT / 2017.03.19 1600 UTC
+Wind: from the E (090 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 71 F (22 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FBGT 191600Z 09014KT 9999 SCT025 SCT065 22/16 Q1025
+cycle: 16

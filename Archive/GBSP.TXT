@@ -1,0 +1,12 @@
+Station name not available
+Jul 09, 2016 - 07:11 AM EDT / 2016.07.09 1111 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 87 F (31 C)
+Heat index: 95.7 F (35.4 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 66%
+ob: GBSP 091111Z 00000KT 9999 SCT012 FEW020CB SCT120 FEW220 31/24 CB-E-SE
+cycle: 11

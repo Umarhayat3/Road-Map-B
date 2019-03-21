@@ -1,0 +1,11 @@
+Station name not available
+May 22, 2018 - 04:00 PM EDT / 2018.05.22 2000 UTC
+Wind: from the W (280 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 62 F (17 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: EDTB 222000Z 28005KT 250V310 9999 FEW020 17/14 Q1016
+cycle: 20

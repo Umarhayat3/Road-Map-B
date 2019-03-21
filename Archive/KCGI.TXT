@@ -1,0 +1,13 @@
+CAPE GIRARDEAU REGIONAL, MO, United States (KCGI) 37-14N 089-35W 102M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (190 degrees) at 16 MPH (14 KT) gusting to 22 MPH (19 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 61.0 F (16.1 C)
+Dew Point: 57.9 F (14.4 C)
+Relative Humidity: 89%
+Pressure (altimeter): 29.63 in. Hg (1003 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KCGI 140853Z AUTO 19014G19KT 6SM BR OVC007 16/14 A2963 RMK AO2 CIG 006V011 SLP032 60000 T01610144 56014
+cycle: 9

@@ -1,0 +1,10 @@
+Makabana, Congo, Republic of the (FCPA) 03-29S 012-37E 161M
+Nov 08, 2018 - 04:00 AM EST / 2018.11.08 0900 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 80 F (27 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 83%
+ob: FCPA 080900Z 00000KT 9999 SCT015 BKN018 OVC130 27/24 Q////
+cycle: 9

@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (130 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.35 in. Hg (1027 hPa)
+ob: KFOT 140855Z AUTO 13007KT 10SM CLR 02/02 A3035 RMK AO1
+cycle: 9

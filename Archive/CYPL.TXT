@@ -1,0 +1,11 @@
+Pickle Lake Man , Canada (CYPL) 51-27N 090-12W
+Mar 13, 2019 - 10:00 PM EDT / 2019.03.14 0200 UTC
+Wind: from the NE (050 degrees) at 3 MPH (3 KT):0
+Visibility: 12 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: CYPL 140200Z 05003KT 12SM OVC020 02/M02 A2976 RMK SC8 BR LAST STFD OBS/NEXT 141100 UTC SLP097
+cycle: 2

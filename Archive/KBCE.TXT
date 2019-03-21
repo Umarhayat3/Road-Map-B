@@ -1,0 +1,13 @@
+BRYCE CANYON AIRPORT, UT, United States (KBCE) 37-42N 112-09W 2312M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WNW (300 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 19.0 F (-7.2 C)
+Windchill: 5 F (-15 C):1
+Dew Point: 12.9 F (-10.6 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: KBCE 140853Z AUTO 30014KT 10SM BKN055 OVC080 M07/M11 A3002 RMK AO2 SLP167 T10721106 53008
+cycle: 9

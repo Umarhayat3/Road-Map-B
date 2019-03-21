@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (100 degrees) at 7 MPH (6 KT):0
+Temperature: 33.1 F (0.6 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 30.2 F (-1.0 C)
+Relative Humidity: 89%
+ob: CZEL 140700Z AUTO 10006KT 01/M01 RMK AO1 SOG 09 7004 SLP172 T00061010
+cycle: 7

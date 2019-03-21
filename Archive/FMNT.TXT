@@ -1,0 +1,11 @@
+Station name not available
+Dec 08, 2012 - 08:00 PM EST / 2012.12.09 0100 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 71 F (22 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FMNT 090100Z 00000KT 9999 FEW017 SCT033 22/22 Q1011
+cycle: 1

@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (280 degrees) at 7 MPH (6 KT) gusting to 22 MPH (19 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light rain with thunder; Lightning observed
+Precipitation last hour: 0.27 inches
+Temperature: 63.9 F (17.7 C)
+Dew Point: 63.9 F (17.7 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: KCFD 140855Z AUTO 28006G19KT 4SM -TSRA SCT005 BKN013 OVC050 18/18 A2982 RMK AO2 LTG DSNT ALQS P0027 60027 T01770177
+cycle: 9

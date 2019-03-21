@@ -1,0 +1,12 @@
+Malindi, Kenya (HKML) 03-14S 040-06E 23M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 86 F (30 C)
+Heat index: 95.0 F (35.0 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HKML 140600Z 08006KT 9999 SCT020 30/24 Q1014
+cycle: 6

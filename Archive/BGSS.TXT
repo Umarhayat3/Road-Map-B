@@ -1,0 +1,11 @@
+Station name not available
+Jul 24, 2014 - 06:50 AM EDT / 2014.07.24 1050 UTC
+Wind: Variable at 1 MPH (1 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: BGSS 241050Z VRB01KT 9999 SCT030 11/05 Q1013
+cycle: 11

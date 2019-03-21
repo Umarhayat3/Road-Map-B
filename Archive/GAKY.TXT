@@ -1,0 +1,10 @@
+Kayes, Mali (GAKY) 14-26N 011-26W 47M
+Jul 24, 2018 - 11:00 PM EDT / 2018.07.25 0300 UTC
+Wind: from the W (260 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GAKY 250300Z 26008KT CAVOK 26/25 Q1013
+cycle: 3

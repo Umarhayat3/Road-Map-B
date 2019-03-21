@@ -1,0 +1,11 @@
+Shingle Point, Y. T., Canada (CYUA) 68-57N 137-13W 38M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 12 MPH (10 KT):0
+Sky conditions: mostly cloudy
+Temperature: -16 F (-27 C)
+Windchill: -38 F (-39 C):2
+Dew Point: -23 F (-31 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CYUA 140800Z AUTO 08010KT ////SM BKN002 M27/M31 A3009
+cycle: 8

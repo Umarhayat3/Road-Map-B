@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: from the WSW (250 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: DNAA 140600Z 25002KT CAVOK 26/22 Q1011 NOSIG
+cycle: 6

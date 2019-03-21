@@ -1,0 +1,14 @@
+DENVER INTERNATIONAL AIRPORT, CO, United States (KDEN) 39-52N 104-40W 1640M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NW (320 degrees) at 24 MPH (21 KT) gusting to 33 MPH (29 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 27.0 F (-2.8 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 16.0 F (-8.9 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+Pressure tendency: 0.11 inches (3.6 hPa) higher than three hours ago
+ob: KDEN 140853Z 32021G29KT 10SM OVC065 M03/M09 A2982 RMK AO2 PK WND 34033/0754 UPB07E16SNE07 SLP119 P0000 60000 T10281089 53036
+cycle: 9

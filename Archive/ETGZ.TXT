@@ -1,0 +1,11 @@
+Messstetten, Germany (ETGZ) 48-11N 009-00E 930M
+Sep 30, 2013 - 08:20 AM EDT / 2013.09.30 1220 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 46 F (8 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: ETGZ 301220Z VRB02KT 9999 OVC007 08/07 Q1007 GRN
+cycle: 12

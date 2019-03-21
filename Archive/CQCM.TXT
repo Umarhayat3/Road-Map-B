@@ -1,0 +1,7 @@
+Station name not available
+Oct 28, 2010 - 08:50 AM EDT / 2010.10.28 1250 UTC
+Wind: from the NW (310 degrees) at 10 MPH (9 KT) gusting to 16 MPH (14 KT):0
+Visibility: 8 mile(s):0
+Sky conditions: clear
+ob: CQCM 281250Z 31009G14KT 8SM SKC RMK WND ESTD LAST OBS STN CLOSURE
+cycle: 13

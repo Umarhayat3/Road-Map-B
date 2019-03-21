@@ -1,0 +1,12 @@
+EMPORIA MUNICIPAL AIRPORT, KS, United States (KEMP) 38-20N 96-12W 367M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WSW (240 degrees) at 20 MPH (17 KT) gusting to 33 MPH (29 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 41.0 F (5.0 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 75%
+Pressure (altimeter): 29.3 in. Hg (992 hPa)
+Pressure tendency: 0.12 inches (4.0 hPa) higher than three hours ago
+ob: KEMP 140853Z AUTO 24017G29KT 10SM OVC026 05/01 A2930 RMK AO2 PK WND 24038/0826 SLP923 T00500011 51040
+cycle: 9

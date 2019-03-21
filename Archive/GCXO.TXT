@@ -1,0 +1,11 @@
+Tenerife / Los Rodeos, Spain (GCXO) 28-28N 016-19W 617M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 53 F (12 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: GCXO 140830Z VRB02KT 9999 FEW009 12/11 Q1025 NOSIG
+cycle: 8

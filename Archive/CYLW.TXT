@@ -1,0 +1,12 @@
+Kelowna Airport, Canada (CYLW) 49-58N 119-23W 430M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (350 degrees) at 6 MPH (5 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: CYLW 140800Z AUTO 35005KT 9SM CLR M05/M07 A3036 RMK SLP305
+cycle: 8

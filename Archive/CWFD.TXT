@@ -1,0 +1,9 @@
+Cape Dyer, N. W. T., Canada (CWFD) 66-35N 061-37W 393M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (010 degrees) at 3 MPH (3 KT):0
+Temperature: -2 F (-19 C)
+Dew Point: -20 F (-29 C)
+Relative Humidity: 40%
+Pressure (altimeter): 29.66 in. Hg (1004 hPa)
+ob: CWFD 140700Z AUTO 01003KT ////SM //// NCD M19/M29 A2966
+cycle: 7

@@ -1,0 +1,12 @@
+Kassel / Calden, Germany (EDVK) 51-24N 009-23E 283M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SSW (200 degrees) at 12 MPH (10 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: EDVK 140750Z 20010KT 9000 -RA FEW007 BKN015 OVC035 05/02 Q1004
+cycle: 8

@@ -1,0 +1,11 @@
+Station name not available
+Sep 10, 2016 - 06:00 PM EDT / 2016.09.10 2200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 62 F (17 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: HTUR 102200Z 00000KT 9999 FEW016 17/12 Q1024
+cycle: 22

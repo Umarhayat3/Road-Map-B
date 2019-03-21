@@ -1,0 +1,9 @@
+Sisters Island Automatic Weather Reporting System , Canada (CWGT) 49-29N 124-26W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (120 degrees) at 18 MPH (16 KT):0
+Temperature: 44.8 F (7.1 C)
+Dew Point: 39.6 F (4.2 C)
+Relative Humidity: 81%
+Pressure tendency: 0.02 inches (0.7 hPa) higher than three hours ago
+ob: CWGT 140700Z AUTO 12016KT 07/04 RMK AO1 PK WND 11021/0620 SLP278 T00710042 53007
+cycle: 7

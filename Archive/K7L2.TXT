@@ -1,0 +1,12 @@
+Linton Municipal Airport, ND, United States (K7L2) 46-13-14N 100-14-44W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (350 degrees) at 31 MPH (27 KT) gusting to 40 MPH (35 KT):0
+Visibility: 1/4 mile(s):0
+Weather: light snow
+Temperature: 30 F (-1 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: K7L2 140855Z AUTO 35027G35KT 1/4SM -SN M01/M01 A2962 RMK AO2
+cycle: 9

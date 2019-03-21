@@ -1,0 +1,11 @@
+Zweibrucken, Rheinland-Pfalz, Germany (EDRZ) 49-12-34N 007-24-04E
+Nov 28, 2014 - 09:50 AM EST / 2014.11.28 1450 UTC
+Wind: from the ENE (060 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly clear
+Temperature: 39 F (4 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: EDRZ 281450Z 06008KT 030V100 9000 FEW009 04/02 Q1008
+cycle: 15

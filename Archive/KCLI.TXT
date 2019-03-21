@@ -1,0 +1,11 @@
+Clintonville, Clintonville Municipal Airport, WI, United States (KCLI) 44-36-50N 088-43-53W
+Mar 14, 2019 - 05:15 AM EDT / 2019.03.14 0915 UTC
+Wind: from the SSE (150 degrees) at 12 MPH (10 KT) gusting to 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 44.2 F (6.8 C)
+Dew Point: 41.5 F (5.3 C)
+Relative Humidity: 90%
+Pressure (altimeter): 29.44 in. Hg (996 hPa)
+ob: KCLI 140915Z AUTO 15010G16KT 10SM OVC011 07/05 A2944 RMK AO2 T00680053
+cycle: 9

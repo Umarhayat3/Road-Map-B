@@ -1,0 +1,11 @@
+Houston / Ellington, TX, United States (KEFD) 29-36N 095-10W
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the S (170 degrees) at 15 MPH (13 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 71 F (22 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: KEFD 140750Z 17013KT 7SM BKN010 OVC020 22/21 A2976
+cycle: 8

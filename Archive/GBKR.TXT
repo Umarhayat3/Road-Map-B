@@ -1,0 +1,11 @@
+Station name not available
+Sep 25, 2016 - 01:48 PM EDT / 2016.09.25 1748 UTC
+Wind: from the SE (130 degrees) at 35 MPH (30 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: squalls; squalls, ; Cumulonimbus clouds observed
+Temperature: 80 F (27 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 69%
+ob: GBKR 251748Z 13030KT 9999 SQ SCT012 FEW018CB BKN120 27/21 SQUALL AT STATION
+cycle: 18

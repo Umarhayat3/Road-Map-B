@@ -1,0 +1,10 @@
+Iles-De-La-Madelein, Canada (CWGR) 47-25N 061-48W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the S (190 degrees) at 12 MPH (10 KT):0
+Temperature: 26.6 F (-3.0 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 22.8 F (-5.1 C)
+Relative Humidity: 85%
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: CWGR 140700Z AUTO 19010KT M03/M05 RMK AO1 SLP229 T10301051 58007
+cycle: 7

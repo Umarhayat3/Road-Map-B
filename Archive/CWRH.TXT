@@ -1,0 +1,6 @@
+Resolution Island, N. W. T., Canada (CWRH) 61-35N 64-39W
+Jul 21, 2018 - 06:00 PM EDT / 2018.07.21 2200 UTC
+Temperature: 51 F (11 C)
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+ob: CWRH 212200Z AUTO ///// 11/ A3012 RMK SLP223
+cycle: 22

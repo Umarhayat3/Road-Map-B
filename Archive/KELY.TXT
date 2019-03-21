@@ -1,0 +1,12 @@
+ELY AIRPORT (YELLAND FIELD), NV, United States (KELY) 39-18N 114-51W 1906M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNW (330 degrees) at 7 MPH (6 KT):0
+Sky conditions: mostly cloudy
+Temperature: 21.9 F (-5.6 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 14.0 F (-10.0 C)
+Relative Humidity: 71%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) higher than three hours ago
+ob: KELY 140853Z AUTO 33006KT BKN055 M06/M10 A3017 RMK AO2 SLP242 T10561100 53011
+cycle: 9

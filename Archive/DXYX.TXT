@@ -1,0 +1,11 @@
+Station name not available
+Jan 26, 2016 - 05:00 AM EST / 2016.01.26 1000 UTC
+Wind: from the NNE (020 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: 1 mile(s):0
+Weather: haze
+Temperature: 86 F (30 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DXYX 261000Z 02006KT 340V060 2500 HZ NSC 30/19 Q1017 NOSIG
+cycle: 10

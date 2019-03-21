@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 02:50 AM EDT / 2019.03.14 0650 UTC
+Wind: from the SSE (150 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain, snow
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: EEEI 140650Z 15008KT 120V180 9999 -RASN OVC008 01/M00 Q0999 R24/190095 NOSIG
+cycle: 7

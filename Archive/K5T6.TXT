@@ -1,0 +1,11 @@
+Santa Teresa, Dona Ana County Airport at Santa Teresa, NM, United States (K5T6) 31-52-51N 106-42-17W
+Aug 28, 2014 - 04:55 PM EDT / 2014.08.28 2055 UTC
+Wind: from the W (260 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 91 F (33 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 22%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: K5T6 282055Z 26005KT 10SM SCT070 SCT250 33/09 A3004 RMK UNOFFICIAL
+cycle: 21

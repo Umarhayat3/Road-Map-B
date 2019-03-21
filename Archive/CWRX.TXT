@@ -1,0 +1,11 @@
+Rowley Island, N. W. T., Canada (CWRX) 69-04N 079-04W
+Mar 14, 2019 - 03:07 AM EDT / 2019.03.14 0707 UTC
+Wind: from the SW (220 degrees) at 5 MPH (4 KT):0
+Sky conditions: overcast
+Temperature: -14 F (-26 C)
+Windchill: -27 F (-33 C):2
+Dew Point: -18 F (-28 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+ob: CWRX 140707Z AUTO 22004KT ////SM //// FEW008 BKN043 OVC060 M26/M28 A3010
+cycle: 7

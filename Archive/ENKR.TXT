@@ -1,0 +1,12 @@
+Kirkenes Lufthavn, Norway (ENKR) 69-44N 029-54E 91M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (170 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 15 F (-9 C)
+Windchill: 0 F (-18 C):1
+Dew Point: 10 F (-12 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: ENKR 140820Z 17012KT 9999 SCT018 M09/M12 Q0998 RMK WIND 731FT 16021KT
+cycle: 8

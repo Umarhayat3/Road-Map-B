@@ -1,0 +1,11 @@
+Station name not available
+Jul 05, 2012 - 10:10 AM EDT / 2012.07.05 1410 UTC
+Wind: from the N (360 degrees) at 37 MPH (32 KT):0
+Visibility: 1 mile(s):0
+Weather: widespread dust
+Temperature: 73 F (23 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GMMG 051410Z 36032KT 2000 DU NSC 23/17 Q1010 M02
+cycle: 14

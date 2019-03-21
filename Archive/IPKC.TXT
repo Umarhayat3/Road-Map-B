@@ -1,0 +1,10 @@
+Station name not available
+Jan 25, 2008 - 06:30 AM EST / 2008.01.25 1130 UTC
+Wind: from the E (080 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 22%
+ob: IPKC 251130Z 08004KT 7000 SCT025 SCT090 21/M01 Q.1013 NOSIG
+cycle: 11

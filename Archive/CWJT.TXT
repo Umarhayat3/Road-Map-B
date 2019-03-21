@@ -1,0 +1,9 @@
+St Jovite Automatic Weather Reporting System , Canada (CWJT) 46-04N 074-32W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 21.9 F (-5.6 C)
+Dew Point: 20.8 F (-6.2 C)
+Relative Humidity: 95%
+Pressure tendency: 0.03 inches (1.1 hPa) lower than three hours ago
+ob: CWJT 140700Z AUTO 00000KT M06/M06 RMK AO1 SLP234 T10561062 56011
+cycle: 7

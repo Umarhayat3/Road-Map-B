@@ -1,0 +1,12 @@
+Djibouti \ Ambouli, Djibouti (HDAM) 11-33N 043-10E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 86 F (30 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HDAM 140800Z 09005KT 9999 SCT023 BKN030 30/25 Q1016
+cycle: 8

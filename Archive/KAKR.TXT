@@ -1,0 +1,12 @@
+AKRON FULTON INTERNATIONAL, OH, United States (KAKR) 41-02N 081-28W 363M
+Mar 12, 2019 - 05:54 AM EDT / 2019.03.12 0954 UTC
+Wind: from the W (270 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 26.1 F (-3.3 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.32 in. Hg (1026 hPa)
+ob: KAKR 120954Z AUTO 27004KT 10SM CLR M03/M08 A3032 RMK AO2 SLP278 T10331078
+cycle: 10

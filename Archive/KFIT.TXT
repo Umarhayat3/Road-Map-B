@@ -1,0 +1,12 @@
+Fitchburg, Fitchburg Municipal Airport, MA, United States (KFIT) 42-33-07N 071-45-21W 103M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the SE (140 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 36.0 F (2.2 C)
+Dew Point: 25.0 F (-3.9 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KFIT 140852Z AUTO 14003KT 10SM OVC055 02/M04 A3025 RMK AO2 SLP248 T00221039 56009
+cycle: 9

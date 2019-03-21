@@ -1,0 +1,13 @@
+Carrington Municipal Airport, ND, United States (K46D) 47-27-04N 099-09-05W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (360 degrees) at 30 MPH (26 KT) gusting to 39 MPH (34 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 30 F (-1 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.61 in. Hg (1002 hPa)
+ob: K46D 140855Z AUTO 36026G34KT 1/2SM -SN OVC002 M01/M01 A2961 RMK AO2
+cycle: 9

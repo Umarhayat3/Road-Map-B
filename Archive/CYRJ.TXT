@@ -1,0 +1,12 @@
+Roberval, Que., Canada (CYRJ) 48-31N 072-16W 179M
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the SW (220 degrees) at 20 MPH (17 KT) gusting to 30 MPH (26 KT):0
+Visibility: 30 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 35 F (2 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CYRJ 140100Z 22017G26KT 30SM BKN063 02/M02 A3009 RMK SC7 LAST OBS/NEXT 140900 UTC SLP201
+cycle: 1

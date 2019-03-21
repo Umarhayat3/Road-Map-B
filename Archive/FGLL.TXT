@@ -1,0 +1,12 @@
+Station name not available
+Aug 14, 2014 - 07:00 AM EDT / 2014.08.14 1100 UTC
+Wind: from the SSW (200 degrees) at 12 MPH (10 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain; Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FGLL 141100Z 20010KT 8000 RA BKN010 FEW027CB 23/23 Q1015 RMK-CB NE/SW
+cycle: 11

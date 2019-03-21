@@ -1,0 +1,11 @@
+Port Said, Egypt (HEPS) 31-16N 032-18E 6M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WSW (240 degrees) at 21 MPH (18 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 57 F (14 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: HEPS 140700Z 24018KT 8000 SCT025 SCT030 14/10 Q1013 NOSIG
+cycle: 7

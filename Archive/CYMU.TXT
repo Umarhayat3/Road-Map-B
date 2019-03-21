@@ -1,0 +1,11 @@
+Umiujaq, Canada (CYMU) 56-32N 076-31W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: from the SE (130 degrees) at 3 MPH (3 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 21 F (-6 C)
+Dew Point: 14 F (-10 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.86 in. Hg (1011 hPa)
+ob: CYMU 132100Z 13003KT 15SM FEW040 FEW130 FEW280 M06/M10 A2986 RMK SC1AC1CI1 AC TR CI TR LAST STFD OBS/NEXT 14 1200Z SLP121
+cycle: 21

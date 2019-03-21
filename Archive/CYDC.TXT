@@ -1,0 +1,11 @@
+Princeton Airport , Canada (CYDC) 49-28N 120-31W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the W (270 degrees) at 9 MPH (8 KT):0
+Visibility: 25 mile(s):0
+Sky conditions: mostly clear
+Temperature: 41 F (5 C)
+Dew Point: 17 F (-8 C)
+Relative Humidity: 38%
+Pressure (altimeter): 30.23 in. Hg (1023 hPa)
+ob: CYDC 140100Z 27008KT 25SM FEW060 FEW070 FEW280 05/M08 A3023 RMK SC1AC1CI1 AC TR CI TR CONTRAILS LAST STFD OBS/NEXT 14 1300UTC SLP267
+cycle: 1

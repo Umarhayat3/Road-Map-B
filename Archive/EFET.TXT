@@ -1,0 +1,13 @@
+Enontekio, Finland (EFET) 68-21-52N 023-25-39E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (150 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 17 F (-8 C)
+Windchill: 5 F (-15 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: EFET 140820Z AUTO 15008KT 110V190 6000 -SN BKN026 OVC060 M08/M11 Q0993
+cycle: 8

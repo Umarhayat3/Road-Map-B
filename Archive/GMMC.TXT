@@ -1,0 +1,11 @@
+Casablanca, Morocco (GMMC) 33-34N 007-40W 62M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 57 F (14 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: GMMC 140800Z 08006KT 8000 BKN016 14/10 Q1025
+cycle: 8

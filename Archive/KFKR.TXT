@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (190 degrees) at 20 MPH (17 KT) gusting to 29 MPH (25 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 59.2 F (15.1 C)
+Dew Point: 50.4 F (10.2 C)
+Relative Humidity: 72%
+Pressure (altimeter): 29.7 in. Hg (1005 hPa)
+ob: KFKR 140855Z AUTO 19017G25KT 10SM -RA SCT037 SCT048 BKN110 15/10 A2970 RMK AO2 60001 T01510102 TSNO
+cycle: 9

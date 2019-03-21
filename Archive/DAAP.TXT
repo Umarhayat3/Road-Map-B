@@ -1,0 +1,10 @@
+Illizi, Algeria (DAAP) 26-30N 008-25E 558M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 53 F (12 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 30%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DAAP 140800Z 16006KT CAVOK 12/M05 Q1022
+cycle: 8

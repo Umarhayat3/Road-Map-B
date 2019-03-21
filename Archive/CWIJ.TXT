@@ -1,0 +1,8 @@
+Lupin, N. W. T., Canada (CWIJ) 65-46N 111-14W 500M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: -4.9 F (-20.5 C)
+Dew Point: -11.0 F (-23.9 C)
+Relative Humidity: 74%
+ob: CWIJ 140700Z AUTO 00000KT M21/M24 RMK AO1 SOG 55 3008 SLP247 T12051239
+cycle: 7

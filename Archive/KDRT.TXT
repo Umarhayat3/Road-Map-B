@@ -1,0 +1,12 @@
+DEL RIO INTERNATIONAL  AIRPORT, TX, United States (KDRT) 29-22N 100-55W 313M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 57.9 F (14.4 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+Pressure tendency: 0.10 inches (3.5 hPa) higher than three hours ago
+ob: KDRT 140853Z AUTO 00000KT 10SM CLR 14/04 A2982 RMK AO2 SLP085 T01440044 53035
+cycle: 9

@@ -1,0 +1,13 @@
+Kenora, Ont., Canada (CYQK) 49-47N 094-22W 410M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (020 degrees) at 9 MPH (8 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: obscured
+Weather: light snow
+Temperature: 32 F (0 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.57 in. Hg (1001 hPa)
+ob: CYQK 140800Z 02008KT 3/4SM -SN VV005 M00/M00 A2957 RMK SN8 SLP031
+cycle: 8

@@ -1,0 +1,13 @@
+Kuopio, Finland (EFKU) 63-01N 027-48E 102M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 12 MPH (10 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 24 F (-4 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 85%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: EFKU 140820Z 13010KT 2000 -SN SCT013 OVC024 M04/M06 Q1001
+cycle: 8

@@ -1,0 +1,11 @@
+Djibouti, Djibouti (HFFF) 11-33N 043-09E 19M
+Feb 14, 2008 - 11:00 AM EST / 2008.02.14 1600 UTC
+Wind: from the ENE (060 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: HFFF 141600Z 06015KT 9999 FEW016 BKN025 26/23 Q1018 RESHRA NOSIG=/ 
+cycle: 16

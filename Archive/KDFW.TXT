@@ -1,0 +1,13 @@
+DALLAS/FT. WORTH INTERNATIONAL  AIRPORT , TX, United States (KDFW) 32-54N 097-02W 174M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (270 degrees) at 23 MPH (20 KT) gusting to 30 MPH (26 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: haze
+Temperature: 64.9 F (18.3 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.7 in. Hg (1005 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) higher than three hours ago
+ob: KDFW 140853Z 27020G26KT 6SM HZ OVC034 18/02 A2970 RMK AO2 PK WND 28026/0852 SLP051 T01830017 53021 
+cycle: 9

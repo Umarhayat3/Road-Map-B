@@ -1,0 +1,12 @@
+DURANGO-LA PLATA COUNTY AIRPORT , CO, United States (KDRO) 37-09N 107-46W 2035M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ENE (070 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 24.1 F (-4.4 C)
+Dew Point: 23.0 F (-5.0 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+Pressure tendency: 0.07 inches (2.5 hPa) higher than three hours ago
+ob: KDRO 140853Z AUTO 07003KT 10SM CLR M04/M05 A2982 RMK AO2 SLP123 T10441050 53025
+cycle: 9

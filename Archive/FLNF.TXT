@@ -1,0 +1,10 @@
+Station name not available
+Aug 07, 2008 - 08:00 AM EDT / 2008.08.07 1200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FLNF 071200Z 00000KT CAVOK 30/13 Q1016
+cycle: 12

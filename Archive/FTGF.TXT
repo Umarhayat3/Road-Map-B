@@ -1,0 +1,11 @@
+Station name not available
+Mar 23, 2016 - 03:00 AM EDT / 2016.03.23 0700 UTC
+Wind: from the WSW (250 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73 F (23 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 40%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FTGF 230700Z 25005KT 9999 FEW030 23/09 Q1023
+cycle: 7

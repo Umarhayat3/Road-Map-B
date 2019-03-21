@@ -1,0 +1,11 @@
+Station name not available
+Apr 10, 2008 - 09:05 AM EDT / 2008.04.10 1305 UTC
+Wind: from the S (170 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 59 F (15 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+ob: K5R3 101305Z AUTO 17004KT 10SM OVC060 15/13 A2972 RMK AO2
+cycle: 13

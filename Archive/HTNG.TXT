@@ -1,0 +1,11 @@
+Station name not available
+Jan 16, 2019 - 06:00 AM EST / 2019.01.16 1100 UTC
+Wind: from the ENE (060 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 84 F (29 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HTNG 161100Z 06005KT 9999 SCT026 29/23 Q1016
+cycle: 11

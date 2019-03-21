@@ -1,0 +1,13 @@
+Duluth, Duluth International Airport, MN, United States (KDLH) 46-50-34N 092-13-34W 435M
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (100 degrees) at 14 MPH (12 KT) (direction variable):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 37.9 F (3.3 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.34 in. Hg (993 hPa)
+Pressure tendency: 0.07 inches (2.4 hPa) lower than three hours ago
+ob: KDLH 140855Z 10012KT 1/4SM R09/1800V2200FT FG VV002 03/02 A2934 RMK AO2 TWR VIS 1/2 SLP950 T00330022 58024
+cycle: 9

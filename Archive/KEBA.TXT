@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ESE (110 degrees) at 5 MPH (4 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: clear
+Temperature: 48.0 F (8.9 C)
+Dew Point: 46.4 F (8.0 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: KEBA 140855Z AUTO 11004KT 7SM CLR 09/08 A3021 RMK AO2 T00890080
+cycle: 9

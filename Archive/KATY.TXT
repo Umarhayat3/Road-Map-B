@@ -1,0 +1,14 @@
+WATERTOWN MUNICIPAL AIRPORT, SD, United States (KATY) 44-54N 097-09W 532M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the N (010 degrees) at 22 MPH (19 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 32.0 F (0.0 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.25 in. Hg (990 hPa)
+Pressure tendency: 0.00 inches (0.1 hPa) higher than three hours ago
+ob: KATY 140853Z AUTO 01019KT 1/2SM FG VV002 00/M01 A2925 RMK AO2 PK WND 35026/0850 SLP921 T00001006 50001 
+cycle: 9

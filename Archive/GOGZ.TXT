@@ -1,0 +1,10 @@
+Station name not available
+Feb 09, 2013 - 02:00 PM EST / 2013.02.09 1900 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 61%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: GOGZ 091900Z 32008KT CAVOK 26/18 Q1008
+cycle: 19

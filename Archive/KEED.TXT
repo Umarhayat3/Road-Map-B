@@ -1,0 +1,12 @@
+NEEDLES AIRPORT, CA, United States (KEED) 34-46N 114-37W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the N (350 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 51.1 F (10.6 C)
+Dew Point: 19.0 F (-7.2 C)
+Relative Humidity: 27%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) higher than three hours ago
+ob: KEED 140856Z AUTO 35009KT 10SM CLR 11/M07 A3017 RMK AO2 SLP204 T01061072 53017 
+cycle: 9

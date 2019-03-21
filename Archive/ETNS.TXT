@@ -1,0 +1,12 @@
+Schleswig-Jagel, Germany (ETNS) 54-28N 009-31E 25M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (240 degrees) at 20 MPH (17 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: ETNS 140820Z 24017KT 6000 -RADZ FEW009 BKN012 BKN020 06/04 Q0994 GRN GRN TEMPO YLO
+cycle: 8

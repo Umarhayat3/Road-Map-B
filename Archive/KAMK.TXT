@@ -1,0 +1,11 @@
+Station name not available
+Apr 22, 2009 - 11:56 PM EDT / 2009.04.23 0356 UTC
+Wind: from the SSW (200 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69 F (21 C)
+Dew Point: 12 F (-11 C)
+Relative Humidity: 10%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+ob: KAMK 230356Z AUTO 20011KT 10SM CLR 21/M11 A3006 RMK AO2 SLP088 T0211L²"J 
+cycle: 4

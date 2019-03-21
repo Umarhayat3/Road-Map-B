@@ -1,0 +1,9 @@
+Longue Point De Mingan, Que., Canada (CWBT) 50-16N 064-14W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (050 degrees) at 1 MPH (1 KT):0
+Temperature: 21.2 F (-6.0 C)
+Dew Point: 22.1 F (-5.5 C)
+Relative Humidity: 103%
+Pressure tendency: 0.01 inches (0.5 hPa) lower than three hours ago
+ob: CWBT 140700Z AUTO 05001KT M06/M06 RMK AO1 SLP204 T10601055 58005
+cycle: 7

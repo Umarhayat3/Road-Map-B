@@ -1,0 +1,12 @@
+Shawbury, United Kingdom (EGOS) 52-48N 002-40W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (270 degrees) at 15 MPH (13 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: heavy rain
+Temperature: 48 F (9 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EGOS 140750Z 27013KT 6000 +RA FEW014 BKN016 09/08 Q0998 WHT BECMG 29020G30KT 9999 NSW SCT025 BLU
+cycle: 8

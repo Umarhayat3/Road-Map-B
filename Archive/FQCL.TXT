@@ -1,0 +1,11 @@
+Station name not available
+May 03, 2018 - 04:00 AM EDT / 2018.05.03 0800 UTC
+Wind: from the ENE (070 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FQCL 030800Z 07011KT 9999 FEW013 BKN015 20/17 Q1022
+cycle: 8

@@ -1,0 +1,12 @@
+MCMWTC BRIDGEPORT, CA, CA,  (KBAN) 38-21N 119-31W
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 12.9 F (-10.6 C)
+Dew Point: 1.9 F (-16.7 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: KBAN 140852Z AUTO 00000KT 10SM CLR M11/M17 A3025 RMK AO2 SLP244 T11061167 53008 FZRANO 
+cycle: 9

@@ -1,0 +1,12 @@
+Gilze-Rijen, Netherlands (EHGR) 51-34N 004-56E 24M
+Mar 14, 2019 - 03:55 AM EDT / 2019.03.14 0755 UTC
+Wind: from the SW (230 degrees) at 13 MPH (11 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EHGR 140755Z AUTO 23011KT 200V270 9000 -RA FEW007 SCT014 BKN016 07/06 Q1002 GRN 23015G25KT 7000 -RA SCT010 BKN012 TEMPO 4500 RA FEW007 SCT009
+cycle: 8

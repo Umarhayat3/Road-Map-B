@@ -1,0 +1,11 @@
+Clarion, IA, United States (KCAV) 42-45N 093-46W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ESE (110 degrees) at 21 MPH (18 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.17 in. Hg (987 hPa)
+ob: KCAV 140855Z AUTO 11018KT 7SM FEW040 SCT055 BKN090 05/05 A2917 RMK AO2 PWINO
+cycle: 9

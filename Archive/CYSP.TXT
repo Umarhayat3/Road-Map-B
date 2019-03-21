@@ -1,0 +1,13 @@
+Station name not available
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: from the S (180 degrees) at 12 MPH (10 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: CYSP 132100Z 18010KT 1/4SM FG VV000 02/01 A2982 RMK FG8 WND ESTD VIA CYXU SLP113
+cycle: 21

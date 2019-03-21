@@ -1,0 +1,6 @@
+Station name not available
+Jun 22, 2010 - 04:01 PM EDT / 2010.06.22 2001 UTC
+Weather: squalls
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: KCZR 221959R AUTO 22013CT SQ A3000 RMK AO2 PWING FZRANO TSNG 
+cycle: 20

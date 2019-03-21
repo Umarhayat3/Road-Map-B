@@ -1,0 +1,13 @@
+Station name not available
+Jan 10, 2011 - 07:50 PM EST / 2011.01.11 0050 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 28 F (-2 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 26 F (-3 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: AZUM 110050Z 36004KT 4000 -SN SCT035 OVC070 M02/M03 Q1021
+cycle: 1

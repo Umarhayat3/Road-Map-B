@@ -1,0 +1,11 @@
+Station name not available
+Sep 17, 2018 - 02:00 PM EDT / 2018.09.17 1800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Heat index: 99.7 F (37.6 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: DVMI 171800Z /////KT 9999 BKN016 31/26 Q1011
+cycle: 18

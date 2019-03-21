@@ -1,0 +1,10 @@
+East Breaks, TX, United States (KEMK) 27-49-07N 094-19-22W
+Feb 10, 2019 - 11:30 AM EST / 2019.02.10 1630 UTC
+Wind: from the SSW (200 degrees) at 22 MPH (19 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: clear
+Weather: haze
+Temperature: 73 F (23 C)
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: KEMK 101630Z AUTO 20019KT 6SM HZ CLR 23/ A3022 RMK A01
+cycle: 16

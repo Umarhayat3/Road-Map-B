@@ -1,0 +1,7 @@
+Goure, Niger (DRZG) 13-59N 010-18E 460M
+Jan 05, 2010 - 12:20 AM EST / 2010.01.05 0520 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: 1 mile(s):0
+Weather: widespread dust
+ob: DRZG 050520Z 04004KT 3000 DU NSC
+cycle: 5

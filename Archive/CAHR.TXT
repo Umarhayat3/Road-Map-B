@@ -1,0 +1,8 @@
+Station name not available
+Mar 09, 2019 - 06:00 PM EST / 2019.03.09 2300 UTC
+Wind: from the WNW (300 degrees) at 3 MPH (3 KT):0
+Temperature: 19.0 F (-7.2 C)
+Dew Point: 12.7 F (-10.7 C)
+Relative Humidity: 76%
+ob: CAHR 092300Z AUTO 30003KT M07/M11 RMK AO1 SOG 19 1038 SLP270 T10721107
+cycle: 23

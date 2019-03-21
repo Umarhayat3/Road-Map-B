@@ -1,0 +1,10 @@
+Station name not available
+Dec 14, 2015 - 01:00 AM EST / 2015.12.14 0600 UTC
+Wind: from the SW (230 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FYTK 140600Z 23012KT CAVOK 15/05 Q1018
+cycle: 6

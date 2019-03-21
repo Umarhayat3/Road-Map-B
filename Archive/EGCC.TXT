@@ -1,0 +1,12 @@
+Manchester Airport, United Kingdom (EGCC) 53-21N 002-17W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WNW (290 degrees) at 25 MPH (22 KT) gusting to 44 MPH (38 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 50 F (10 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EGCC 140820Z AUTO 29022G38KT 9999 BKN017/// BKN024/// //////TCU 10/06 Q0998
+cycle: 8

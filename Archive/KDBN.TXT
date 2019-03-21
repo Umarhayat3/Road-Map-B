@@ -1,0 +1,11 @@
+Dublin, W H 'Bud' Barron Airport, GA, United States (KDBN) 32-33-52N 082-59-06W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 55 F (13 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: KDBN 140855Z AUTO 00000KT 10SM OVC032 13/12 A3020 RMK AO2
+cycle: 9

@@ -1,0 +1,9 @@
+Station name not available
+Jun 05, 2012 - 02:00 AM EDT / 2012.06.05 0600 UTC
+Wind: from the S (180 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain in the vicinity; Cumulonimbus clouds observed
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HUWN 050600Z 18010KT 9999 VCRA SCT017 FEW020CB BKN120 Q1019
+cycle: 6

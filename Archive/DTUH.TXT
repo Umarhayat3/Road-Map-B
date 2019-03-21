@@ -1,0 +1,11 @@
+Station name not available
+Oct 16, 2017 - 11:00 AM EDT / 2017.10.16 1500 UTC
+Wind: from the ESE (110 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 75 F (24 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 50%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: DTUH 161500Z 11008KT 080V160 9999 SCT023 24/13 Q1025
+cycle: 15

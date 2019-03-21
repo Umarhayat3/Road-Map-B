@@ -1,0 +1,9 @@
+Burlington Piers , Canada (CWWB) 43-18N 079-48W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (010 degrees) at 6 MPH (5 KT):0
+Temperature: 35.4 F (1.9 C)
+Dew Point: 31.3 F (-0.4 C)
+Relative Humidity: 84%
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: CWWB 140700Z AUTO 01005KT 02/M00 RMK AO1 SLP176 T00191004 56004
+cycle: 7

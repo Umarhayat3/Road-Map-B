@@ -1,0 +1,12 @@
+East Cameron 278, LA, United States (KEHC) 28-25-44N 092-52-41W
+Sep 19, 2018 - 01:20 PM EDT / 2018.09.19 1720 UTC
+Wind: from the NE (050 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 86 F (30 C)
+Heat index: 93.4 F (34.1 C):1
+Dew Point: 73 F (23 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+ob: KEHC 191720Z AUTO 05006KT 10SM CLR 30/23 A2999 RMK A01
+cycle: 17

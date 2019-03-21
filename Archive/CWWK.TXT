@@ -1,0 +1,9 @@
+White Rock Automatic Weather Reporting System , Canada (CWWK) 49-01N 122-47W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNE (020 degrees) at 3 MPH (3 KT):0
+Temperature: 40.6 F (4.8 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 80%
+Pressure tendency: 0.01 inches (0.5 hPa) higher than three hours ago
+ob: CWWK 140700Z AUTO 02003KT 05/02 RMK AO1 SLP296 T00480017 51005
+cycle: 7

@@ -1,0 +1,9 @@
+Bougouni, Mali (GABG) 11-25N 007-30W 351M
+Mar 31, 2017 - 02:00 AM EDT / 2017.03.31 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 58%
+ob: GABG 310600Z 00000KT CAVOK 28/19 Q////
+cycle: 6

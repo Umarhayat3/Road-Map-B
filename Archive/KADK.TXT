@@ -1,0 +1,11 @@
+Station name not available
+Oct 12, 2011 - 03:56 PM EDT / 2011.10.12 1956 UTC
+Wind: from the ESE (110 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 81.0 F (27.2 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 14%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+ob: KADK 121956Z AUTO 11011KT 10SM CLR 27/M02 A3006 RMK AO2 SLP091 T02721022 TSNO 
+cycle: 20

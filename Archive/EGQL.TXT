@@ -1,0 +1,10 @@
+Leuchars, United Kingdom (EGQL) 56-23N 002-52W 0M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (260 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: EGQL 140750Z 26012KT CAVOK 06/04 Q0988 BLU
+cycle: 8

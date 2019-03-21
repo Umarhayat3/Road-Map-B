@@ -1,0 +1,11 @@
+Station name not available
+Aug 23, 2009 - 05:56 AM EDT / 2009.08.23 0956 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 64.0 F (17.8 C)
+Dew Point: 60.1 F (15.6 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: KAOK 230956Z AUTO 00000KT 10SM CLR 18/16 A3016 RMK AO2 SLP125 T01780156 
+cycle: 10

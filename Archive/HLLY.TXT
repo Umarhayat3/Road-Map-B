@@ -1,0 +1,10 @@
+Station name not available
+Dec 23, 2009 - 07:50 AM EST / 2009.12.23 1250 UTC
+Wind: from the SW (230 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 22%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HLLY 231250Z 23009KT CAVOK 27/04 Q1015
+cycle: 13

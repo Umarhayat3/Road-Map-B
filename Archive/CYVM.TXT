@@ -1,0 +1,11 @@
+Broughton Island Airport, Canada (CYVM) 67-33N 064-02W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: -22 F (-30 C)
+Dew Point: -29 F (-34 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+ob: CYVM 140800Z AUTO VRB02KT 9SM CLR M30/M34 A2997 RMK SLP150
+cycle: 8

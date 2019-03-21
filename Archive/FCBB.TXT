@@ -1,0 +1,11 @@
+Brazzaville / Maya-Maya, Congo, Republic of the (FCBB) 04-15S 015-15E 316M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (220 degrees) at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly clear
+Temperature: 82 F (28 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FCBB 140800Z 22006KT 8000 FEW013 28/23 Q1013 NOSIG
+cycle: 8

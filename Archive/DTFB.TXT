@@ -1,0 +1,11 @@
+Station name not available
+Nov 27, 2018 - 07:00 PM EST / 2018.11.28 0000 UTC
+Wind: from the WNW (300 degrees) at 24 MPH (21 KT) gusting to 39 MPH (34 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 59 F (15 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: DTFB 280000Z 30021G34KT 9999 SCT016 SCT030 15/09 Q1015
+cycle: 0

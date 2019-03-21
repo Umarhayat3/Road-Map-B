@@ -1,0 +1,10 @@
+Station name not available
+Apr 25, 2016 - 08:00 PM EDT / 2016.04.26 0000 UTC
+Wind: from the WSW (240 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: GANS 260000Z 24002KT CAVOK 34/15 Q1008
+cycle: 0

@@ -1,0 +1,12 @@
+BRADLEY INTERNATIONAL AIRPORT , CT, United States (KBDL) 41-56N 072-41W 60M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the SE (140 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37.0 F (2.8 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: KBDL 140851Z 14005KT 10SM OVC060 03/M02 A3026 RMK AO2 SLP246 T00281022 55006
+cycle: 9

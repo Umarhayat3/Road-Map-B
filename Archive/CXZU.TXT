@@ -1,0 +1,8 @@
+Whitecourt , Alta., Canada (CXZU) 54-09N 115-47W
+Apr 21, 2016 - 10:00 AM EDT / 2016.04.21 1400 UTC
+Temperature: 31.1 F (-0.5 C)
+Dew Point: 22.8 F (-5.1 C)
+Relative Humidity: 71%
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: CXZU 211400Z AUTO M01/M05 RMK AO1 SLP199 T10051051 56008
+cycle: 14

@@ -1,0 +1,14 @@
+Timmins, Ont., Canada (CYTS) 48-34N 081-22W 295M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SE (140 degrees) at 10 MPH (9 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.88 in. Hg (1011 hPa)
+Pressure tendency: falling rapidly
+ob: CYTS 140800Z 14009KT 6SM BR OVC005 01/01 A2988 RMK ST8 PRESFR SLP133
+cycle: 8

@@ -1,0 +1,10 @@
+Keetmanshoop, Namibia (FYKT) 26-32S 018-07E 1100M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (030 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 28%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FYKT 140800Z 03014KT CAVOK 30/10 Q1019
+cycle: 8

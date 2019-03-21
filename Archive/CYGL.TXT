@@ -1,0 +1,12 @@
+La Grande Riviere, Que, Canada (CYGL) 53-38N 077-42W 195M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.93 in. Hg (1013 hPa)
+ob: CYGL 140800Z 16005KT 15SM OVC024 01/M01 A2993 RMK SC8 SLP150
+cycle: 8

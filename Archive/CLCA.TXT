@@ -1,0 +1,12 @@
+Station name not available
+Mar 30, 2009 - 06:00 AM EDT / 2009.03.30 1000 UTC
+Wind: Calm:0
+Visibility: less than 1 mile:0
+Sky conditions: mostly cloudy
+Weather: fog
+Temperature: 68 F (20 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: CLCA 301000Z 00000KT 0600 FG BKN004 20/19 Q1012
+cycle: 10

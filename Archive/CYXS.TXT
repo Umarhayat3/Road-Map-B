@@ -1,0 +1,11 @@
+Prince George, B. C., Canada (CYXS) 53-53N 122-41W 691M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 23 F (-5 C)
+Dew Point: 15 F (-9 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CYXS 140800Z AUTO 00000KT 9SM OVC110 M05/M09 A3014 RMK SLP243
+cycle: 8

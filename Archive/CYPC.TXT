@@ -1,0 +1,12 @@
+Paulatuk Airport, Canada (CYPC) 69-21N 124-02W
+Mar 13, 2019 - 07:00 PM EDT / 2019.03.13 2300 UTC
+Wind: from the NNW (330 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: -7 F (-22 C)
+Windchill: -18 F (-28 C):2
+Dew Point: -13 F (-25 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: CYPC 132300Z 33004KT 15SM FEW020 SCT030 BKN200 M22/M25 A3025 RMK NS2SC2CI2 -21.2/-22.9/TR/23/ LAST STFD OBS/NXT 141300UTC SLP247
+cycle: 23

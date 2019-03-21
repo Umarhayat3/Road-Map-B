@@ -1,0 +1,11 @@
+Moresby, Papua New Guinea (AYPY) 09-26S 147-13E 49M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (280 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: AYPY 140700Z 28010KT 9999 SCT030 BKN100 28/23 Q1007
+cycle: 7

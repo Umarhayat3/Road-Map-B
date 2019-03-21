@@ -1,0 +1,12 @@
+Station name not available
+Aug 04, 2013 - 09:00 PM EDT / 2013.08.05 0100 UTC
+Wind: from the SW (220 degrees) at 9 MPH (8 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light drizzle
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GGLR 050100Z 22008KT 9000 -DZ FEW006 BKN012 24/23 Q1014 TEMPO DZ
+cycle: 1

@@ -1,0 +1,12 @@
+Egilsstadir, Iceland (BIEG) 65-17N 014-24W 23M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (040 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 64%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: BIEG 140700Z 04011KT 9999 BKN042 OVC110 02/M04 Q0987
+cycle: 7

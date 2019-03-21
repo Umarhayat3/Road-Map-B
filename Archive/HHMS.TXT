@@ -1,0 +1,6 @@
+Station name not available
+Oct 04, 2010 - 12:00 AM EDT / 2010.10.04 0400 UTC
+Wind: from the E (080 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+ob: HHMS 040400 0606 08012KT CAVOK BECMG 1015 12019KT 9/9 FEW030
+cycle: 4

@@ -1,0 +1,11 @@
+Oseberg , Norway (ENOA) 59-19N 010-27E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the E (080 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: ENOA 140820Z 08008KT 9999 FEW035 BKN110 05/M02 Q0983 W///S4
+cycle: 8

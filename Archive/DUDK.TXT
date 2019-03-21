@@ -1,0 +1,11 @@
+Station name not available
+Jan 05, 2019 - 05:00 PM EST / 2019.01.05 2200 UTC
+Wind: from the W (260 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 51 F (11 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: DUDK 052200Z 26003KT 180V340 9999 FEW023 11/04 Q1025
+cycle: 22

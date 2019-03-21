@@ -1,0 +1,10 @@
+Station name not available
+Aug 13, 2010 - 07:00 PM EDT / 2010.08.13 2300 UTC
+Wind: from the ENE (060 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 43%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+ob: BIIE 132300Z 06006KT CAVOK 24/11 Q1015 A2999 QFE902.2 RH
+cycle: 23

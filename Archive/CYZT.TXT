@@ -1,0 +1,11 @@
+Port Hardy, B. C., Canada (CYZT) 50-41N 127-22W 22M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ESE (120 degrees) at 16 MPH (14 KT) gusting to 24 MPH (21 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 42 F (6 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CYZT 140800Z 12014G21KT 15SM BKN053 OVC081 06/M01 A3019 RMK SC5AC3 SLP225
+cycle: 8

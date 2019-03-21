@@ -1,0 +1,11 @@
+Beaver Falls Airport, PA, United States (KBVI) 40-46N 080-24W
+Mar 13, 2019 - 07:47 PM EDT / 2019.03.13 2347 UTC
+Wind: from the SSE (150 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 53 F (12 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 37%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: KBVI 132347Z 15005KT 10SM BKN075 BKN090 OVC110 12/M02 A3009 RMK LAST 
+cycle: 0

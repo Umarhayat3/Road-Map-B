@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the E (100 degrees) at 2 MPH (2 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 28.97 in. Hg (0981 hPa)
+ob: ENSL 140820Z 10002KT 8000 -RA OVC010 06/05 Q0981 W03/S4
+cycle: 8

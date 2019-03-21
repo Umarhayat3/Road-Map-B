@@ -1,0 +1,12 @@
+Station name not available
+Jul 30, 2018 - 12:00 AM EDT / 2018.07.30 0400 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 89 F (32 C)
+Heat index: 100.6 F (38.1 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: AYVN 300400Z 14008KT 9999 SCT02 SCT300 32/25 Q1009
+cycle: 4

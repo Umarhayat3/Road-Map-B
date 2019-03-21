@@ -1,0 +1,11 @@
+Chandler, Chandler Municipal Airport, AZ, United States (KCHD) 33-16-09N 111-48-40W
+Mar 13, 2019 - 11:47 PM EDT / 2019.03.14 0347 UTC
+Wind: from the WSW (240 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 51 F (11 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 40%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: KCHD 140347Z 24011KT 10SM CLR 11/M02 A3001 RMK LAST 
+cycle: 4

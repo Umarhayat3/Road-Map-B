@@ -1,0 +1,7 @@
+Station name not available
+Sep 08, 2011 - 11:22 AM EDT / 2011.09.08 1522 UTC
+Temperature: 69 F (21 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 56%
+ob: KF06 081522Z MMMMMKT 21/12 RMK PK WND MMMMMKT PCPN NONE LAST 24 HRS
+cycle: 15

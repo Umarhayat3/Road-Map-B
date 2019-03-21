@@ -1,0 +1,7 @@
+Malakal, Sudan (HSSM) 09-33N 031-39E 388M
+Sep 20, 2008 - 12:00 AM EDT / 2008.09.20 0400 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+ob: HSSM 200400Z VRB03KT 9/9 SCT040 BKN140 TEMPO 0913 6000 TSRA FEW045CB
+cycle: 4

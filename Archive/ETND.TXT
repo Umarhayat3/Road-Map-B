@@ -1,0 +1,12 @@
+Diepholz, Germany (ETND) 52-35N 008-21E 43M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (230 degrees) at 17 MPH (15 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: ETND 140820Z 23015KT 8000 -RADZ SCT012 BKN016 06/04 Q0999 WHT BLU TEMPO GRN
+cycle: 8

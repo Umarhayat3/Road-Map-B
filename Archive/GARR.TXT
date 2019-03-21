@@ -1,0 +1,10 @@
+Station name not available
+May 09, 2016 - 08:30 PM EDT / 2016.05.10 0030 UTC
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 82 F (28 C)
+Dew Point: 78 F (26 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: GARR 100030Z B?ZE???? ?"( FEW0"0CB 28/26 Q1011
+cycle: 0

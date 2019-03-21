@@ -1,0 +1,5 @@
+Station name not available
+Jan 30, 2014 - 03:00 AM EST / 2014.01.30 0800 UTC
+Weather: partial sandstorm
+ob: DNSU 300800Z CALL IN PROGRESS
+cycle: 8

@@ -1,0 +1,11 @@
+Station name not available
+Oct 04, 2016 - 12:20 AM EDT / 2016.10.04 0420 UTC
+Wind: from the ESE (120 degrees) at 22 MPH (19 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 59 F (15 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.62 in. Hg (1037 hPa)
+ob: EKGF 040420Z 12019KT 9999 FEW024 15/10 Q1037
+cycle: 4

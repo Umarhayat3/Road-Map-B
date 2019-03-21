@@ -1,0 +1,8 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNE (030 degrees) at 1 MPH (1 KT):0
+Temperature: 23.7 F (-4.6 C)
+Dew Point: 18.7 F (-7.4 C)
+Relative Humidity: 80%
+ob: CERM 140700Z AUTO 03001KT M05/M07 RMK AO1 SOG 104 8006 SLP224 T10461074
+cycle: 7

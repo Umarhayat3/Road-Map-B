@@ -1,0 +1,9 @@
+Station name not available
+Mar 30, 2016 - 08:00 AM EDT / 2016.03.30 1200 UTC
+Wind: from the NNE (030 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 57%
+ob: HTTN 301200Z 03003KT CAVOK 27/18 Q101/
+cycle: 12

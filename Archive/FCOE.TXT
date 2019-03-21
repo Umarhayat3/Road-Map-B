@@ -1,0 +1,11 @@
+Station name not available
+Mar 27, 2017 - 11:00 AM EDT / 2017.03.27 1500 UTC
+Wind: from the NE (040 degrees) at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Weather: haze
+Temperature: 95 F (35 C)
+Heat index: 102.6 F (39.2 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 46%
+ob: FCOE 271500Z 04006KT 7000 HZ NSC 35/22 Q////
+cycle: 15

@@ -1,0 +1,10 @@
+Station name not available
+Apr 18, 2016 - 12:00 AM EDT / 2016.04.18 0400 UTC
+Wind: from the NNE (020 degrees) at 29 MPH (25 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GWNP 180400Z 02025KT CAVOK 27/13 Q1013 NOSIG
+cycle: 4

@@ -1,0 +1,12 @@
+CHINO AIRPORT, CA, United States (KCNO) 33-58N 117-38W 207M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ENE (070 degrees) at 9 MPH (8 KT) gusting to 21 MPH (18 KT) (direction variable):0
+Visibility: 8 mile(s):0
+Sky conditions: clear
+Temperature: 55.0 F (12.8 C)
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 25%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: KCNO 140853Z AUTO 07008G18KT 040V110 8SM CLR 13/M07 A3012 RMK AO2 SLP199 T01281067 50000 
+cycle: 9

@@ -1,0 +1,11 @@
+West Cameron, TX, United States (KCRH) 28-54-31N 093-18-06W
+Oct 14, 2015 - 09:25 AM EDT / 2015.10.14 1325 UTC
+Wind: from the E (100 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 80 F (27 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: KCRH 141325Z AUTO 10010KT 10SM CLR 27/18 A3004 RMK A01
+cycle: 13

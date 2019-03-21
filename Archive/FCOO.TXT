@@ -1,0 +1,8 @@
+Station name not available
+Oct 31, 2008 - 02:50 AM EST / 2008.10.31 0750 UTC
+Wind: from the E (100 degrees) at 12 MPH (10 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: rain with thunder; Cumulonimbus clouds observed
+ob: FCOO 310750Z 10010KT 2000 TSRA FEW026CB OVC100 ///// Q////
+cycle: 8

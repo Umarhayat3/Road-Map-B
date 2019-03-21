@@ -1,0 +1,11 @@
+Station name not available
+Dec 26, 2018 - 04:58 PM EST / 2018.12.26 2158 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 30.4 F (-0.9 C)
+Dew Point: 28.4 F (-2.0 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: K1DW 262158Z AUTO 00000KT 10SM OVC009 M01/M02 A2982 RMK AO2 SLP125 T10091020 
+cycle: 22

@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the W (280 degrees) at 12 MPH (10 KT) gusting to 24 MPH (21 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: heavy rain
+Precipitation last hour: 0.45 inches
+Temperature: 57.2 F (14.0 C)
+Dew Point: 56.3 F (13.5 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+ob: K2I0 140835Z AUTO 28010G21KT 3SM +RA SCT008 BKN033 OVC044 14/14 A2980 RMK AO2 P0045 T01400135
+cycle: 8

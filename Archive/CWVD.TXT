@@ -1,0 +1,7 @@
+Broughton Island, Canada (CWVD) 67-32N 063-47W
+Jun 19, 2018 - 08:00 AM EDT / 2018.06.19 1200 UTC
+Wind: from the E (100 degrees) at 7 MPH (6 KT):0
+Temperature: 37 F (3 C)
+Pressure (altimeter): 29.43 in. Hg (996 hPa)
+ob: CWVD 191200Z AUTO 10006KT 03/ A2943 RMK SLP000
+cycle: 12

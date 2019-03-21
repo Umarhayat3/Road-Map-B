@@ -1,0 +1,10 @@
+Landsberg, Germany (ETSA) 48-04N 010-54E 628M
+Jul 10, 2018 - 01:20 AM EDT / 2018.07.10 0520 UTC
+Wind: from the SW (220 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: ETSA 100520Z AUTO 22005KT 9999 // ////// 15/11 Q1017 ///
+cycle: 5

@@ -1,0 +1,8 @@
+Brooks Automatic Weather Reporting System , Canada (CWBO) 50-33N 111-51W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (210 degrees) at 1 MPH (1 KT):0
+Temperature: 13.1 F (-10.5 C)
+Dew Point: 10.9 F (-11.7 C)
+Relative Humidity: 90%
+ob: CWBO 140700Z AUTO 21001KT M11/M12 RMK AO1 SOG 08 2007 SLP266 T11051117
+cycle: 7

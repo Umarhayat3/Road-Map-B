@@ -1,0 +1,10 @@
+Kasane, Botswana (FBKE) 17-49S 025-09E 1000M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ESE (110 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 50%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FBKE 140700Z 11012KT CAVOK 26/15 Q1019
+cycle: 7

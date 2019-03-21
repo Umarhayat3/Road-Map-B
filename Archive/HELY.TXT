@@ -1,0 +1,10 @@
+Station name not available
+Dec 10, 2016 - 07:00 AM EST / 2016.12.10 1200 UTC
+Wind: from the E (100 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 38%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: HELY 101200Z 10002KT CAVOK 24/09 Q1017 NOSIG
+cycle: 12

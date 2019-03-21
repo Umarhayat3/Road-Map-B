@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Variable at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: mist; Lightning observed
+Temperature: 57 F (14 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.6 in. Hg (1002 hPa)
+ob: KCCA 140855Z AUTO VRB06KT 4SM BR OVC004 14/14 A2960 RMK AO2 LTG DSNT N AND NW
+cycle: 9

@@ -1,0 +1,7 @@
+Station name not available
+Feb 26, 2013 - 01:00 AM EST / 2013.02.26 0600 UTC
+Wind: from the ESE (120 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+ob: HILI 260600Z 12010KT CAVOK 27/XX
+cycle: 6

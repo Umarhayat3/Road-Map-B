@@ -1,0 +1,13 @@
+Douala Obs., Cameroon (FKKD) 04-00N 009-44E 9M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 1 MPH (1 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: partly cloudy
+Weather: mist; Cumulonimbus clouds observed
+Temperature: 86 F (30 C)
+Heat index: 95.0 F (35.0 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FKKD 140800Z VRB01KT 4000 BR SCT013 FEW016CB 30/24 Q1010 BECMG 6000 NSW
+cycle: 8

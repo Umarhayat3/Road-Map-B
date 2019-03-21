@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (230 degrees) at 5 MPH (4 KT):0
+Temperature: 11.8 F (-11.2 C)
+Windchill: 3 F (-16 C):1
+Dew Point: 8.2 F (-13.2 C)
+Relative Humidity: 85%
+ob: CXMG 140700Z AUTO 23004KT M11/M13 RMK AO1 T11121132
+cycle: 7

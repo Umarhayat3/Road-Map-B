@@ -1,0 +1,12 @@
+Tiree, United Kingdom (EGPU) 56-30N 006-53W 0M
+Mar 09, 2019 - 12:50 PM EST / 2019.03.09 1750 UTC
+Wind: from the W (280 degrees) at 20 MPH (17 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity; Cumulonimbus clouds observed
+Temperature: 41 F (5 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EGPU 091750Z 28017KT 9999 VCSH SCT025CB 05/M00 Q1005
+cycle: 18

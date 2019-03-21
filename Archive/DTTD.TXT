@@ -1,0 +1,10 @@
+Remada, Tunisia (DTTD) 32-19N 010-24E 301M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 13 MPH (11 KT) gusting to 24 MPH (21 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: DTTD 140800Z 09011G21KT 050V130 CAVOK 15/05 Q1023
+cycle: 8

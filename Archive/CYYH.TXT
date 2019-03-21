@@ -1,0 +1,13 @@
+Spence Bay Airport , Canada (CYYH) 69-33N 093-35W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (320 degrees) at 5 MPH (4 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: -7 F (-22 C)
+Windchill: -18 F (-28 C):2
+Dew Point: -14 F (-26 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+ob: CYYH 140800Z 32004KT 7SM -SN SCT048 SCT050 OVC054 M22/M26 A3012 RMK SC3SC1SC4 SLP207
+cycle: 8

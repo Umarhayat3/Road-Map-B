@@ -1,0 +1,10 @@
+Station name not available
+May 25, 2011 - 08:15 AM EDT / 2011.05.25 1215 UTC
+Wind: from the E (100 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+ob: K4R4 251215Z AUTO 10003KT 10SM 25/22 A2999 RMK AO2
+cycle: 12

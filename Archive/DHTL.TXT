@@ -1,0 +1,9 @@
+Station name not available
+May 26, 2018 - 02:00 PM EDT / 2018.05.26 1800 UTC
+Wind: from the SE (140 degrees) at 3 MPH (3 KT) (direction variable):0
+Temperature: 71 F (22 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DHTL 261800Z AUTO 14003KT 060V200 NCD 22/20 Q1017
+cycle: 18

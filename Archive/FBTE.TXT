@@ -1,0 +1,9 @@
+Tshane, Botswana (FBTE) 24-01S 021-53E 1100M
+Aug 09, 2011 - 08:00 AM EDT / 2011.08.09 1200 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 18%
+ob: FBTE 091200Z 36004KT CAVOK 27/01
+cycle: 12

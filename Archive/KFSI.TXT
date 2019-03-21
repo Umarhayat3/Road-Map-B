@@ -1,0 +1,11 @@
+Fort Sill, OK, United States (KFSI) 34-36N 098-24W 360M
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the WNW (290 degrees) at 15 MPH (13 KT) gusting to 22 MPH (19 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.7 F (9.3 C)
+Dew Point: 35.4 F (1.9 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.61 in. Hg (1002 hPa)
+ob: KFSI 140656Z AUTO 29013G19KT 10SM CLR 09/02 A2961 RMK AO2 SLP023 T00930019
+cycle: 7

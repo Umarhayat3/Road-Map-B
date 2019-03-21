@@ -1,0 +1,11 @@
+Safi, Morocco (GMMS) 32-17N 009-14W 45M
+Nov 14, 2017 - 05:00 AM EST / 2017.11.14 1000 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 62 F (17 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: GMMS 141000Z 10005KT 9999 SCT010 17/14 Q1019 NOSIG B2 B3
+cycle: 10

@@ -1,0 +1,11 @@
+La Grange, Fayette Regional Air Center Airport, TX, United States (K3T5) 29-54-29N 096-57-00W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the S (190 degrees) at 10 MPH (9 KT) gusting to 16 MPH (14 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 73.8 F (23.2 C)
+Dew Point: 72.0 F (22.2 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.7 in. Hg (1005 hPa)
+ob: K3T5 140835Z AUTO 19009G14KT 7SM OVC014 23/22 A2970 RMK AO2 T02320222
+cycle: 8

@@ -1,0 +1,14 @@
+Station name not available
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SW (220 degrees) at 16 MPH (14 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: heavy rain with thunder; mist; Lightning observed
+Precipitation last hour: 0.07 inches
+Temperature: 66.9 F (19.4 C)
+Dew Point: 66.0 F (18.9 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.66 in. Hg (1004 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KADF 140856Z AUTO 22014KT 6SM +TSRA BR BKN018 OVC022 19/19 A2966 RMK AO2 LTG DSNT ALQDS TSB42RAB45 SLP046 P0007 60007 T01940189 55009
+cycle: 9

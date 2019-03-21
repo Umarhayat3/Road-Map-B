@@ -1,0 +1,11 @@
+Maintirano, Madagascar (FMMO) 18-03S 044-02E 23M
+Feb 15, 2016 - 04:00 AM EST / 2016.02.15 0900 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 80 F (27 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FMMO 150900Z 00000KT 9999 OVC011 27/23 Q1011
+cycle: 9

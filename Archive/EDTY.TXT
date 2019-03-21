@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 39 F (4 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: EDTY 140750Z 23012KT 9999 SCT014 BKN017 OVC055 04/04 Q1011
+cycle: 8

@@ -1,0 +1,14 @@
+DODGE CITY REGIONAL AIRPORT, KS, United States (KDDC) 37-46N 99-58W 789M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the NW (310 degrees) at 32 MPH (28 KT) gusting to 55 MPH (48 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: precipitation
+Precipitation last hour: A trace
+Temperature: 36.0 F (2.2 C)
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.5 in. Hg (998 hPa)
+Pressure tendency: rising rapidly - 0.09 inches (3.1 hPa) higher than three hours ago
+ob: KDDC 140852Z AUTO 31028G48KT 10SM UP OVC032 02/M03 A2950 RMK AO2 PK WND 30052/0816 PRESRR SLP988 P0000 60000 T00221033 53031 
+cycle: 9

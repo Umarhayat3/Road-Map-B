@@ -1,0 +1,12 @@
+Flippin, Marion County Regional Airport, AR, United States (KFLP) 36-18N 092-35W
+Mar 14, 2019 - 05:15 AM EDT / 2019.03.14 0915 UTC
+Wind: from the SW (220 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Weather: Lightning observed
+Temperature: 59 F (15 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: KFLP 140915Z AUTO 22006KT 10SM FEW018 SCT028 15/13 A2956 RMK AO2 LTG DSNT E
+cycle: 9

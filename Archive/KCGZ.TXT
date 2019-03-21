@@ -1,0 +1,12 @@
+Casa Grande, Casa Grande Municipal Airport, AZ, United States (KCGZ) 32-57N 111-46W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the W (260 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41.0 F (5.0 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) higher than three hours ago
+ob: KCGZ 140856Z AUTO 26009KT 10SM CLR 05/M01 A3009 RMK AO2 SLP191 6//// T00501011 51007 PNO 
+cycle: 9

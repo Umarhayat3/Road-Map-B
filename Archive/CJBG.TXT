@@ -1,0 +1,11 @@
+Station name not available
+May 16, 2011 - 06:00 AM EDT / 2011.05.16 1000 UTC
+Wind: from the N (010 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 71 F (22 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: CJBG 161000Z 01004KT 9999 SCT100 22/18 Q1019 NOSWG RMK R30R/CLRD70 
+cycle: 10

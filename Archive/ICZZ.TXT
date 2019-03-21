@@ -1,0 +1,9 @@
+Station name not available
+Dec 09, 2009 - 04:52 AM EST / 2009.12.09 0952 UTC
+Wind: Calm:0
+Temperature: 37.0 F (2.8 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: ICZZ 090952Z AUTO 00000KT 03/01 A3001 RMK AO2 SLP158 T00280006 PWINO TSNO 
+cycle: 10

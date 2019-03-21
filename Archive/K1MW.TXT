@@ -1,0 +1,12 @@
+Station name not available
+Dec 28, 2018 - 01:58 PM EST / 2018.12.28 1858 UTC
+Wind: from the N (350 degrees) at 14 MPH (12 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 19.9 F (-6.7 C)
+Windchill: 6 F (-14 C):1
+Dew Point: 5.5 F (-14.7 C)
+Relative Humidity: 52%
+Pressure (altimeter): 30.13 in. Hg (1020 hPa)
+ob: K1MW 281858Z AUTO 35012KT 10SM FEW220 BKN250 M07/M15 A3013 RMK AO2 SHSNE10SHSNB17E32 SLPNO T10671147 
+cycle: 19

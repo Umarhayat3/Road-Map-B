@@ -1,0 +1,13 @@
+Station name not available
+Mar 13, 2019 - 04:00 PM EDT / 2019.03.13 2000 UTC
+Wind: from the NW (310 degrees) at 9 MPH (8 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light snow showers
+Temperature: -5 F (-21 C)
+Windchill: -22 F (-30 C):2
+Dew Point: -13 F (-25 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+ob: CYAB 132000Z 31008KT 4SM -SHSN FEW004 SCT016 OVC032 M21/M25 A2989 RMK ST2SC2SC4 SN GAUGE 0.6 MM/LAST STFD OBS/NEXT 141100Z VIS SE S 2 BR SUN DIMLY VSBL CIG ESTD SLP126
+cycle: 20

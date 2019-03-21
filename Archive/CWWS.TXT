@@ -1,0 +1,9 @@
+George Island Meteorological Aeronautical Presentation System , Canada (CWWS) 52-48N 097-37W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (350 degrees) at 18 MPH (16 KT):0
+Temperature: 20.7 F (-6.3 C)
+Windchill: 5 F (-15 C):1
+Dew Point: 17.8 F (-7.9 C)
+Relative Humidity: 88%
+ob: CWWS 140700Z AUTO 35016KT M06/M08 RMK AO1 SOG 48 1010 PK WND 02019/0600 SLP144 T10631079
+cycle: 7

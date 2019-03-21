@@ -1,0 +1,12 @@
+Repulse Bay Airport, Canada (CYUT) 66-32N 086-15W
+Mar 13, 2019 - 11:00 PM EDT / 2019.03.14 0300 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 3/8 mile(s):0
+Sky conditions: mostly cloudy
+Weather: freezing fog
+Temperature: -9 F (-23 C)
+Dew Point: -13 F (-25 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: CYUT 140300Z VRB02KT 3/8SM FZFG BKN006 M23/M25 A3015 RMK FG3ST2 CALL OUT OBS SLP213
+cycle: 3

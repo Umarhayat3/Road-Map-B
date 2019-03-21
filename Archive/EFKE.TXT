@@ -1,0 +1,13 @@
+Kemi, Finland (EFKE) 65-47N 024-35E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (150 degrees) at 13 MPH (11 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 24 F (-4 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 85%
+Pressure (altimeter): 29.44 in. Hg (0997 hPa)
+ob: EFKE 140820Z AUTO 15011KT 120V200 9999 -SN OVC011 M04/M06 Q0997
+cycle: 8

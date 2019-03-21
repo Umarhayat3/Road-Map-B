@@ -1,0 +1,13 @@
+Thule A. B., Greenland (BGTL) 76-32N 068-45W 77M
+Mar 14, 2019 - 03:27 AM EDT / 2019.03.14 0727 UTC
+Wind: from the SSE (150 degrees) at 33 MPH (29 KT) gusting to 41 MPH (36 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: haze
+Temperature: -5 F (-21 C)
+Windchill: -32 F (-36 C):2
+Dew Point: -11 F (-24 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: BGTL 140727Z AUTO 15029G36KT 3600 HZ OVC018 M21/M24 A2968 RMK AO2 SNE0657 SLP042 TSNO 
+cycle: 7

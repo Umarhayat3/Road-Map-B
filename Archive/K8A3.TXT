@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the S (190 degrees) at 17 MPH (15 KT) gusting to 30 MPH (26 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 62 F (17 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: K8A3 140835Z AUTO 19015G26KT 10SM FEW050 17/09 A2992 RMK A01
+cycle: 8

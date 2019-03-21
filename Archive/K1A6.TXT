@@ -1,0 +1,11 @@
+Middlesboro, Middlesboro-Bell County Airport, KY, United States (K1A6) 36-36-38N 083-44-14W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50.4 F (10.2 C)
+Dew Point: 36.9 F (2.7 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+ob: K1A6 140835Z AUTO 00000KT 10SM CLR 10/03 A3003 RMK AO2 T01020027
+cycle: 8

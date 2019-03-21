@@ -1,0 +1,12 @@
+Station name not available
+Jan 28, 2013 - 02:00 AM EST / 2013.01.28 0700 UTC
+Wind: from the WSW (240 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Heat index: 97.5 F (36.4 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FMMN 280700Z 24006KT 9999 FEW020 BKN233 31/25 Q1011
+cycle: 7

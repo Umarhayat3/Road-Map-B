@@ -1,0 +1,13 @@
+DUBUQUE REGIONAL AIRPORT, IA, United States (KDBQ) 42-24N 90-42W 326M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (150 degrees) at 16 MPH (14 KT) (direction variable):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 46.9 F (8.3 C)
+Dew Point: 46.0 F (7.8 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.34 in. Hg (993 hPa)
+Pressure tendency: 0.06 inches (2.2 hPa) lower than three hours ago
+ob: KDBQ 140853Z AUTO 15014KT 1/4SM R36/1200V1400FT FG VV001 08/08 A2934 RMK AO2 SLP940 T00830078 58022
+cycle: 9

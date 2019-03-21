@@ -1,0 +1,9 @@
+Rheine-Bentlage, Germany (ETHE) 52-18N 007-23E 49M
+Dec 20, 2017 - 08:20 AM EST / 2017.12.20 1320 UTC
+Wind: from the WSW (250 degrees) at 5 MPH (4 KT):0
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.47 in. Hg (1032 hPa)
+ob: ETHE 201320Z AUTO 25004KT //// // ////// 07/06 Q1032 ///
+cycle: 13

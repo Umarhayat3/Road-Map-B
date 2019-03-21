@@ -1,0 +1,10 @@
+Merritt Island, Merritt Island Airport, FL, United States (KCOI) 28-20-29N 080-41-07W
+Oct 13, 2008 - 08:37 AM EDT / 2008.10.13 1237 UTC
+Wind: from the E (080 degrees) at 21 MPH (18 KT) gusting to 25 MPH (22 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 80 F (27 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 74%
+ob: KCOI 131237Z 08018G22KT 10SM CLR 27/22 AA3011 RMK TSNO
+cycle: 12

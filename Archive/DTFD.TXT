@@ -1,0 +1,11 @@
+Station name not available
+Jul 19, 2018 - 06:00 PM EDT / 2018.07.19 2200 UTC
+Wind: from the ENE (070 degrees) at 14 MPH (12 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 91 F (33 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 31%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: DTFD 192200Z 07012KT 6000 SCT033 33/14 Q1012
+cycle: 22

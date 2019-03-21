@@ -1,0 +1,12 @@
+Bangui, Central African Republic (FEFF) 04-24N 018-31E 366M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: FEFF 140800Z 16005KT 9999 TS BKN007 SCT033CB 24/21 Q1009 BECMG 3000 +TSRA BKN013 FEW033CB
+cycle: 8

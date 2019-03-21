@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (140 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: 0.03 inches
+Temperature: 50 F (10 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+ob: KANQ 140855Z AUTO 14010KT 10SM BKN075 OVC085 10/06 A2972 RMK AO2 P0003
+cycle: 9

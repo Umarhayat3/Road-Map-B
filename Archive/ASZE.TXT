@@ -1,0 +1,11 @@
+Station name not available
+Sep 30, 2008 - 06:30 AM EDT / 2008.09.30 1030 UTC
+Wind: from the ESE (120 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Temperature: 51 F (11 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: ASZE 301030Z 12005KT 090V160 7000 OVC002 11/10 Q1021
+cycle: 10

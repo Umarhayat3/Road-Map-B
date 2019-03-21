@@ -1,0 +1,11 @@
+Station name not available
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 23.2 F (-4.9 C)
+Dew Point: 18.3 F (-7.6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.7 in. Hg (1005 hPa)
+ob: K1CM 130958Z AUTO 00000KT 10SM FEW010 FEW020 BKN100 M05/M08 A2970 RMK AO2 SLP096 T10491076 
+cycle: 10

@@ -1,0 +1,15 @@
+SCOTTSBLUFF HEILIG FIELD, NE, United States (KBFF) 41-52N 103-36W 1203M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NW (320 degrees) at 36 MPH (31 KT) gusting to 52 MPH (45 KT):0
+Visibility: 1 1/4 mile(s):0
+Sky conditions: partly cloudy
+Weather: precipitation; mist
+Precipitation last hour: A trace
+Temperature: 28.0 F (-2.2 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+Pressure tendency: 0.08 inches (2.8 hPa) higher than three hours ago
+ob: KBFF 140853Z AUTO 32031G45KT 1 1/4SM UP BR SCT110 M02/M03 A2974 RMK AO2 PK WND 32045/0847 SLP094 P0000 60000 T10221033 53028 
+cycle: 9

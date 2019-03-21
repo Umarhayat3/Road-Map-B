@@ -1,0 +1,8 @@
+St. Stephen, N. B., Canada (CWSS) 45-13N 067-15W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 22.5 F (-5.3 C)
+Dew Point: 22.1 F (-5.5 C)
+Relative Humidity: 98%
+ob: CWSS 140700Z AUTO 00000KT M05/M06 RMK AO1 SOG 29 8003 SLP248 T10531055
+cycle: 7

@@ -1,0 +1,11 @@
+Dease Lake B. C., Canada (CWDL) 58-25N 130-00W 816M
+Nov 15, 2012 - 05:00 PM EST / 2012.11.15 2200 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 23 F (-5 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.69 in. Hg (1005 hPa)
+ob: CWDL 152200Z 00000KT 10SM BKN070 OVC080 M05/M05 A2969 RMK AC6AS2 -4.5/-7.0/0/0/0 70031 FINAL SKEDD OBS REP STN CLSNG SLP088
+cycle: 22

@@ -1,0 +1,11 @@
+Springdale Municipal, AR, United States (KASG) 36-11N 094-07W
+Mar 13, 2019 - 09:48 PM EDT / 2019.03.14 0148 UTC
+Wind: from the SSE (160 degrees) at 13 MPH (11 KT) gusting to 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 55 F (13 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.51 in. Hg (999 hPa)
+ob: KASG 140148Z 16011G17KT 10SM CLR 13/09 A2951 
+cycle: 2

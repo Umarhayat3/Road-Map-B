@@ -1,0 +1,9 @@
+Standerton, South Africa (FASR) 26-56S 029-13E
+Aug 22, 2008 - 04:00 AM EDT / 2008.08.22 0800 UTC
+Wind: from the W (270 degrees) at 3 MPH (3 KT):0
+Temperature: 60 F (16 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+ob: FASR 220800Z AUTO 27003KT //// // ////// 16/06 Q1030
+cycle: 8

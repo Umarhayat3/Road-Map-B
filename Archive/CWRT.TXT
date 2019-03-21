@@ -1,0 +1,8 @@
+Crowsnest, Canada (CWRT) 49-38N 114-29W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 2.5 F (-16.4 C)
+Dew Point: 0.1 F (-17.7 C)
+Relative Humidity: 89%
+ob: CWRT 140700Z AUTO 00000KT M16/M18 RMK AO1 T11641177
+cycle: 7

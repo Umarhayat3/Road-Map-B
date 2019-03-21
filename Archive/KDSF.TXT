@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ESE (120 degrees) at 20 MPH (17 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: clear
+Weather: mist
+Temperature: 73 F (23 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.95 in. Hg (1014 hPa)
+ob: KDSF 140855Z AUTO 12017KT 2 1/2SM BR CLR 23/22 A2995 RMK A01
+cycle: 9

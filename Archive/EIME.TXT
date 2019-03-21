@@ -1,0 +1,12 @@
+Casement Aerodrome, Ireland (EIME) 53-18N 006-26W 93M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (280 degrees) at 26 MPH (23 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 48 F (9 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EIME 140800Z 28023KT 9999 -RA FEW015 BKN025 09/07 Q1002
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+Jun 26, 2017 - 11:00 AM EDT / 2017.06.26 1500 UTC
+Wind: from the SSE (160 degrees) at 8 MPH (7 KT):0
+Visibility: 3 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GQQP 261500Z 16007KT 6000 NSC 26/21 Q1009 NOSIG
+cycle: 15

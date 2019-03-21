@@ -1,0 +1,11 @@
+Conakry / Gbessia, Guinea (GUCY) 09-34N 013-37W 26M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 2 mile(s):0
+Weather: mist
+Temperature: 77 F (25 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GUCY 140800Z 00000KT 4000 BR NSC 25/23 Q1010 NOSIG
+cycle: 8

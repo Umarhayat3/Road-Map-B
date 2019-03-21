@@ -1,0 +1,12 @@
+Beauvechain, Belgium (EBBE) 50-45N 004-46E 127M
+Mar 14, 2019 - 03:25 AM EDT / 2019.03.14 0725 UTC
+Wind: from the SW (230 degrees) at 21 MPH (18 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EBBE 140725Z 23018KT 4000 -RA SCT010 BKN016 BKN025 06/05 Q1005 GRN GRN
+cycle: 7

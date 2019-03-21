@@ -1,0 +1,11 @@
+Station name not available
+Jan 08, 2010 - 04:55 PM EST / 2010.01.08 2155 UTC
+Wind: from the E (090 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 75.0 F (23.9 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 22%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+ob: JRNM 082153 09007KT 10SM CLR 24/01 A3006 RMK AO2 SLP173 T02390011 
+cycle: 22

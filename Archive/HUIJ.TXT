@@ -1,0 +1,12 @@
+Station name not available
+Aug 01, 2008 - 12:00 AM EDT / 2008.08.01 0400 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 66 F (19 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HUIJ 010400Z 36004KT 9999 FEW019 FEW022CB BKN110 19/18 Q1016
+cycle: 4

@@ -1,0 +1,11 @@
+Station name not available
+Dec 21, 2011 - 08:53 AM EST / 2011.12.21 1353 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 42.1 F (5.6 C)
+Dew Point: 37.0 F (2.8 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: KDNC 211353Z AUTO 00000KT 10SM CLR 06/03 A3004 RMK AO2 SLP174 T00560028 
+cycle: 14

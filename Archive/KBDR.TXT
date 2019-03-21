@@ -1,0 +1,12 @@
+SIKORSKY MEMORIAL AIRPORT, CT, United States (KBDR) 41-10N 073-08W 7M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 39.0 F (3.9 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: KBDR 140852Z AUTO 00000KT 10SM OVC065 04/02 A3027 RMK AO2 SLP248 60000 T00390017 56007
+cycle: 9

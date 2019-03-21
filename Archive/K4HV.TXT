@@ -1,0 +1,11 @@
+Hanksville , UT, United States (K4HV) 38-22N 110-43W
+Oct 01, 2012 - 01:45 AM EDT / 2012.10.01 0545 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 57.0 F (13.9 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 45%
+Pressure tendency: 0.03 inches (1.0 hPa) higher than three hours ago
+ob: K4HV 010545Z 00000KT 10SM SKC 14/02 RMK NOSPECI T01390022 10322 20139 51010 
+cycle: 6

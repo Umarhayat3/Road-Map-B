@@ -1,0 +1,12 @@
+Annaba, Algeria (DABB) 36-50N 007-49E 4M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 20 MPH (17 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 57 F (14 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: DABB 140800Z 34017KT 9999 FEW020 FEW023TCU BKN030 14/07 Q1024
+cycle: 8

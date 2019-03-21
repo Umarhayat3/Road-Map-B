@@ -1,0 +1,10 @@
+Station name not available
+May 30, 2014 - 02:00 AM EDT / 2014.05.30 0600 UTC
+Wind: from the E (090 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 64 F (18 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FEKI 300600Z 09006KT CAVOK 18/13 Q1023 NOSIG
+cycle: 6

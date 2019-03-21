@@ -1,0 +1,11 @@
+Oakdale, Allen Parish Airport, LA, United States (KACP) 30-45-02N 092-41-19W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the S (170 degrees) at 7 MPH (6 KT) gusting to 17 MPH (15 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 72.9 F (22.7 C)
+Dew Point: 68.0 F (20.0 C)
+Relative Humidity: 84%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: KACP 140835Z AUTO 17006G15KT 10SM OVC013 23/20 A2981 RMK AO2 T02270200
+cycle: 8

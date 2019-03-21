@@ -1,0 +1,11 @@
+Port Harcourt, Nigeria (DNPO) 04-51N 007-01E 18M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: DNPO 140600Z 00000KT 8000 BKN007 23/22 Q1008 NOSIG
+cycle: 6

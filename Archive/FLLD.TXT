@@ -1,0 +1,10 @@
+Lundazi, Zambia (FLLD) 12-17S 033-12E
+Nov 04, 2008 - 12:00 AM EST / 2008.11.04 0500 UTC
+Wind: from the W (280 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FLLD 040500Z 28005KT CAVOK 21/14 Q1018
+cycle: 5

@@ -1,0 +1,11 @@
+Station name not available
+Jul 20, 2015 - 07:00 AM EDT / 2015.07.20 1100 UTC
+Wind: from the SW (220 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 71 F (22 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FBSU 201100Z 22006KT 9999 OVC010 22/16 Q1018
+cycle: 11

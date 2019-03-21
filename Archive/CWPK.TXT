@@ -1,0 +1,8 @@
+Parent, Que., Canada (CWPK) 47-55N 074-37W 441M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSE (160 degrees) at 3 MPH (3 KT):0
+Temperature: 27.3 F (-2.6 C)
+Dew Point: 25.0 F (-3.9 C)
+Relative Humidity: 90%
+ob: CWPK 140700Z AUTO 16003KT M03/M04 RMK AO1 SOG 74 8003 SLP212 T10261039
+cycle: 7

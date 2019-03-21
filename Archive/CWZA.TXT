@@ -1,0 +1,9 @@
+Agassiz Automated Reporting Station , Canada (CWZA) 49-15N 121-46W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WNW (300 degrees) at 3 MPH (3 KT):0
+Temperature: 37.0 F (2.8 C)
+Dew Point: 34.9 F (1.6 C)
+Relative Humidity: 91%
+Pressure tendency: 0.03 inches (1.0 hPa) higher than three hours ago
+ob: CWZA 140700Z AUTO 30003KT 03/02 RMK AO1 SLP297 T00280016 53010
+cycle: 7

@@ -1,0 +1,11 @@
+Fassberg, Germany (ETHS) 52-55N 010-11E 88M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (250 degrees) at 15 MPH (13 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: ETHS 140820Z 25013KT 9000 SCT007 BKN015 06/04 Q0999 WHT WHT
+cycle: 8

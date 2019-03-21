@@ -1,0 +1,11 @@
+Station name not available
+Dec 12, 2016 - 10:00 PM EST / 2016.12.13 0300 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FALC 130300Z 05004KT 9999 SCT006 BKN012 19/18 Q1019
+cycle: 3

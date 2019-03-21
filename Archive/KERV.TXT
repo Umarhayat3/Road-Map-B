@@ -1,0 +1,11 @@
+Kerrville, Kerrville Municipal Airport/Louis Schreiner Field, TX, United States (KERV) 29-58N 099-05W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 58.6 F (14.8 C)
+Dew Point: 35.8 F (2.1 C)
+Relative Humidity: 42%
+Pressure (altimeter): 29.86 in. Hg (1011 hPa)
+ob: KERV 140855Z AUTO 32008KT 7SM BKN027 15/02 A2986 RMK AO2 T01480021
+cycle: 9

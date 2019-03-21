@@ -1,0 +1,9 @@
+Edmonton Municipal CR10 , Alta., Canada (CXEC) 53-34N 113-31W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WNW (290 degrees) at 6 MPH (5 KT):0
+Temperature: 29.1 F (-1.6 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 14.0 F (-10.0 C)
+Relative Humidity: 52%
+ob: CXEC 140800Z AUTO 29005KT M02/M10 RMK AO1 SOG 33 3012 SLP242 T10161100
+cycle: 8

@@ -1,0 +1,12 @@
+Alamogordo-White, NM, United States (KALM) 32-50N 105-59W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (150 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 35 F (2 C)
+Windchill: 30 F (-1 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: KALM 140855Z AUTO 15005KT 10SM CLR 02/M05 A2998 RMK AO2 
+cycle: 9

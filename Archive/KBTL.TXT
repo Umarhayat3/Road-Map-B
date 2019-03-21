@@ -1,0 +1,13 @@
+W.K.KELLOGG REGIONAL AIRPORT, MI, United States (KBTL) 42-18N 085-15W 290M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 17 MPH (15 KT):0
+Visibility: 10 mile(s):0
+Weather: light rain
+Precipitation last hour: 0.12 inches
+Temperature: 50.0 F (10.0 C)
+Dew Point: 46.0 F (7.8 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.69 in. Hg (1005 hPa)
+Pressure tendency: 0.09 inches (3.2 hPa) lower than three hours ago
+ob: KBTL 140853Z AUTO 16015KT 10SM -RA 10/08 A2969 RMK AO2 RAEMMB34 SLP057 P0012 60013 T01000078 58032 
+cycle: 9

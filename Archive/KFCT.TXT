@@ -1,0 +1,8 @@
+Station name not available
+Nov 10, 2008 - 10:25 AM EST / 2008.11.10 1525 UTC
+Wind: Calm:0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Pressure (altimeter): 29.9 in. Hg (1012 hPa)
+ob: KFCT 101525Z AUTO 00000KT 7SM BKN007 A2990 RMK AO2
+cycle: 15

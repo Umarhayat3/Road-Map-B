@@ -1,0 +1,12 @@
+Station name not available
+Oct 16, 2009 - 11:54 AM EDT / 2009.10.16 1554 UTC
+Wind: from the ENE (060 degrees) at 6 MPH (5 KT):0
+Visibility: less than 1/4 mile(s):1
+Sky conditions: obscured
+Weather: fog
+Temperature: 35.1 F (1.7 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+ob: KBSP 161554Z AUTO 06005KT M1/4SM FG VV001 02/01 A2989 RMK AO2 SLP140 T00170006 
+cycle: 16

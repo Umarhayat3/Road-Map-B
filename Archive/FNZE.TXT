@@ -1,0 +1,11 @@
+Station name not available
+Apr 03, 2010 - 06:00 AM EDT / 2010.04.03 1000 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 75 F (24 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FNZE 031000Z VRB02KT 9999 BKN140 24/22 Q1011 NOSIG
+cycle: 10

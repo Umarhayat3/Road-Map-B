@@ -1,0 +1,8 @@
+Englee Meteorological Aeronautical Presentation System , Canada (CWDA) 50-43N 056-07W
+Feb 15, 2019 - 09:00 AM EST / 2019.02.15 1400 UTC
+Wind: Calm:0
+Temperature: 22.1 F (-5.5 C)
+Dew Point: 14.7 F (-9.6 C)
+Relative Humidity: 72%
+ob: CWDA 151400Z AUTO 00000KT M06/M10 RMK AO1 T10551096
+cycle: 14

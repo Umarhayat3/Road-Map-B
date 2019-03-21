@@ -1,0 +1,10 @@
+In Salah North, Algeria (DAUI) 27-15N 002-31E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 64 F (18 C)
+Dew Point: 14 F (-10 C)
+Relative Humidity: 13%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: DAUI 140800Z 36008KT CAVOK 18/M10 Q1020
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+Feb 03, 2011 - 03:57 PM EST / 2011.02.03 2057 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Temperature: 24 F (-4 C)
+Dew Point: 10 F (-12 C)
+Relative Humidity: 53%
+Pressure (altimeter): 30.45 in. Hg (1031 hPa)
+ob: K6S5 032057Z 00000KT 10SM M04/M12 A3045 RMK HAMILTON 
+cycle: 21

@@ -1,0 +1,13 @@
+Erding, Germany (ETSE) 48-19N 011-57E 467M
+Jan 30, 2015 - 03:20 AM EST / 2015.01.30 0820 UTC
+Wind: from the W (270 degrees) at 15 MPH (13 KT) gusting to 26 MPH (23 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: mostly cloudy
+Weather: snow showers, small hail and/or snow pellets
+Temperature: 33 F (1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 28.91 in. Hg (0979 hPa)
+ob: ETSE 300820Z 27013G23KT 1600 SHSNGS FEW006 BKN023 01/M01 Q0979 REGS YLO
+cycle: 8

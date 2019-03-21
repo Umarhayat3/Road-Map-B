@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the WSW (250 degrees) at 25 MPH (22 KT) gusting to 40 MPH (35 KT):0
+Visibility: 10 mile(s):0
+Weather: light precipitation
+Temperature: 44 F (7 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: KBKN 140855Z AUTO 25022G35KT 10SM -UP 07/01 A2953 RMK AO2
+cycle: 9

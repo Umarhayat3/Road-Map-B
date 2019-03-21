@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ESE (120 degrees) at 14 MPH (12 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: obscured
+Weather: light snow
+Temperature: 23 F (-5 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: ESNX 140820Z 12012KT 2000 -SN VV010 M05/M05 Q0988
+cycle: 8

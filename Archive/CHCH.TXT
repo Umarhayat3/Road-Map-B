@@ -1,0 +1,11 @@
+Station name not available
+Jan 28, 2010 - 04:00 PM EST / 2010.01.28 2100 UTC
+Wind: from the NNE (030 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 96 F (36 C)
+Heat index: 95.9 F (35.5 C):1
+Dew Point: 60 F (16 C)
+Relative Humidity: 30%
+ob: CHCH 282100Z 03014KT 9999 SCT032 36/16 
+cycle: 21

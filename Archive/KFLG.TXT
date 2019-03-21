@@ -1,0 +1,13 @@
+FLAGSTAFF PULLIAM AIRPORT, AZ, United States (KFLG) 35-08N 111-40W 2134M
+Mar 14, 2019 - 04:57 AM EDT / 2019.03.14 0857 UTC
+Wind: from the WNW (300 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 19.0 F (-7.2 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 10.9 F (-11.7 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: KFLG 140857Z AUTO 30005KT 10SM CLR M07/M12 A2999 RMK AO2 SLP166 T10721117 53000
+cycle: 9

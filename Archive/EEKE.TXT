@@ -1,0 +1,13 @@
+Kuressaare, Estonia (EEKE) 58-13-48N 022-30-34E
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SSE (160 degrees) at 15 MPH (13 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 33 F (1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: EEKE 140750Z 16013KT 4000 BR BKN004 01/01 Q0996 R17/290195
+cycle: 8

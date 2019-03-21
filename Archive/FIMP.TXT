@@ -1,0 +1,11 @@
+Plaisance Mauritius , Mauritius (FIMP) 20-26S 057-40E 57M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSW (210 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 87 F (31 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 55%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: FIMP 140800Z 21012KT 9999 FEW018 31/21 Q1012
+cycle: 8

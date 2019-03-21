@@ -1,0 +1,8 @@
+Diffa, Niger (DRZF) 13-25N 012-47E 305M
+Aug 20, 2009 - 09:44 AM EDT / 2009.08.20 1344 UTC
+Wind: from the SW (220 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+ob: DRZF 201344Z 22006KT 9999 TS SCT014 FEW043CB BKN300
+cycle: 13

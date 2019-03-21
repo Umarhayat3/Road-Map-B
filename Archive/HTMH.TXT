@@ -1,0 +1,9 @@
+Station name not available
+Dec 10, 2018 - 12:00 PM EST / 2018.12.10 1700 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 88%
+ob: HTMH 101700Z 00000KT CAVOK 22/20
+cycle: 17

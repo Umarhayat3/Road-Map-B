@@ -1,0 +1,11 @@
+Garissa, Kenya (HKGA) 00-28S 039-38E 147M
+Apr 26, 2017 - 07:00 AM EDT / 2017.04.26 1100 UTC
+Wind: from the SSE (160 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 95 F (35 C)
+Heat index: 98.4 F (36.9 C):1
+Dew Point: 66 F (19 C)
+Relative Humidity: 39%
+ob: HKGA 261100Z 16008KT 9999 SCT029 35/19
+cycle: 11

@@ -1,0 +1,12 @@
+Svalbard Lufthavn, Norway (ENSB) 78-15N 015-28E 29M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: -2 F (-19 C)
+Windchill: -16 F (-27 C):2
+Dew Point: -9 F (-23 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: ENSB 140820Z 10007KT 9999 FEW015 SCT080 M19/M23 Q0998 NOSIG RMK WIND 1400FT VRB01KT
+cycle: 8

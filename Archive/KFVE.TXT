@@ -1,0 +1,13 @@
+NORTHERN AROOSTOOK REGIONAL, ME, United States (KFVE) 47-17N 68-18W 301M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (280 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 28.9 F (-1.7 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) lower than three hours ago
+ob: KFVE 140853Z AUTO 28007KT 10SM CLR M02/M08 A3015 RMK AO2 SLP221 T10171078 55003
+cycle: 9

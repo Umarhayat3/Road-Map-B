@@ -1,0 +1,12 @@
+Station name not available
+Mar 03, 2019 - 08:35 AM EST / 2019.03.03 1335 UTC
+Wind: from the WNW (290 degrees) at 26 MPH (23 KT) gusting to 33 MPH (29 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: -16 F (-27 C)
+Windchill: -45 F (-43 C):2
+Dew Point: -27 F (-33 C)
+Relative Humidity: 56%
+Pressure (altimeter): 30.38 in. Hg (1028 hPa)
+ob: KD57 031335Z AUTO 29023G29KT 9SM OVC005 M27/M33 A3038 RMK AO2 PWINO
+cycle: 13

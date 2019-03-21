@@ -1,0 +1,13 @@
+DALLAS LOVE FIELD, TX, United States (KDAL) 32-51N 096-51W 158M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (270 degrees) at 15 MPH (13 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: mostly cloudy
+Weather: widespread dust
+Temperature: 64.9 F (18.3 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 39%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) higher than three hours ago
+ob: KDAL 140853Z 27013KT 6SM DU BKN036 18/04 A2971 RMK AO2 SLP056 DU BKN036 T01830044 53021
+cycle: 9

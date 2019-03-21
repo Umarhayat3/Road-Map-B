@@ -1,0 +1,11 @@
+Station name not available
+Oct 21, 2016 - 11:00 AM EDT / 2016.10.21 1500 UTC
+Wind: from the W (260 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FMMA 211500Z 26005KT 9999 SCT009 27/22 Q1014
+cycle: 15

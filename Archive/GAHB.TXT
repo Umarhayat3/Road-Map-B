@@ -1,0 +1,10 @@
+Hombori, Mali (GAHB) 15-20N 001-41W 288M
+Jul 27, 2010 - 02:00 PM EDT / 2010.07.27 1800 UTC
+Wind: from the S (180 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Heat index: 100.0 F (37.8 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 49%
+ob: GAHB 271800Z 18006KT CAVOK 34/22 Q////
+cycle: 18

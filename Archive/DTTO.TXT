@@ -1,0 +1,11 @@
+Station name not available
+Oct 12, 2017 - 09:00 AM EDT / 2017.10.12 1300 UTC
+Wind: from the N (360 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: DTTO 121300Z 36002KT 9999 SCT020 27/13 Q1025
+cycle: 13

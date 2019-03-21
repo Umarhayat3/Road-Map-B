@@ -1,0 +1,11 @@
+Station name not available
+May 02, 2010 - 05:00 AM EDT / 2010.05.02 0900 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FMDS 020900Z 00000KT 9999 SCT035 21/17 Q1022 NOSIG
+cycle: 9

@@ -1,0 +1,11 @@
+Banak, Norway (ENNA) 70-04N 024-59E 8M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (170 degrees) at 28 MPH (24 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 21 F (-6 C)
+Windchill: 3 F (-16 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: ENNA 140820Z 17024KT CAVOK M06/M11 Q0994 RMK WIND 1800FT 21034KT
+cycle: 8

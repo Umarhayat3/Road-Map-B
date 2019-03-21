@@ -1,0 +1,9 @@
+Holland Rock Automatic Weather Reporting System , Canada (CWHL) 54-10N 130-22W
+Mar 12, 2019 - 08:00 PM EDT / 2019.03.13 0000 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Temperature: 41.7 F (5.4 C)
+Dew Point: 37.2 F (2.9 C)
+Relative Humidity: 83%
+Pressure tendency: 0.01 inches (0.5 hPa) higher than three hours ago
+ob: CWHL 130000Z AUTO 14008KT 05/03 RMK AO1 T00540029 53005
+cycle: 0

@@ -1,0 +1,10 @@
+Station name not available
+Feb 02, 2008 - 10:00 AM EST / 2008.02.02 1500 UTC
+Wind: from the E (100 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 95 F (35 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 21%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GOZZ 021500Z 10006KT CAVOK 35/10 Q1009
+cycle: 15

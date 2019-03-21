@@ -1,0 +1,10 @@
+Asyut, Egypt (HEAT) 27-03N 031-01E 70M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (340 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HEAT 140700Z 34016KT CAVOK 13/05 Q1019 NOSIG
+cycle: 7

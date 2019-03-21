@@ -1,0 +1,9 @@
+Teslin Marine Aviation Reporting Station , Canada (CWZW) 60-10N 132-46W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (130 degrees) at 10 MPH (9 KT):0
+Temperature: 34.2 F (1.2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 55%
+ob: CWZW 140700Z AUTO 13009KT 01/M07 RMK AO1 SOG 43 7008 PK WND 15018/0641 SLP121 T00121067
+cycle: 7

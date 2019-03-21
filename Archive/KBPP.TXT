@@ -1,0 +1,4 @@
+Bowman, Bowman Municipal Airport, ND, United States (KBPP) 46-11-13N 103-25-41W
+Jun 03, 2010 - 12:38 PM EDT / 2010.06.03 1638 UTC
+ob: KBPP 031638Z AUTO RMK AO1
+cycle: 16

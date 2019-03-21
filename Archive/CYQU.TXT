@@ -1,0 +1,12 @@
+Grande Prairie, Alta., Canada (CYQU) 55-11N 118-53W 669M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (250 degrees) at 7 MPH (6 KT):0
+Visibility: 25 mile(s):0
+Sky conditions: clear
+Temperature: 28 F (-2 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: CYQU 140800Z 25006KT 25SM SKC M02/M10 A3016 RMK SLP249
+cycle: 8

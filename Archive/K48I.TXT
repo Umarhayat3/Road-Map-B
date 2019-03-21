@@ -1,0 +1,11 @@
+Sutton, Braxton County Airport, WV, United States (K48I) 38-41-13N 080-39-06W
+Aug 14, 2009 - 03:00 PM EDT / 2009.08.14 1900 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: K48I 141900Z AUTO 00000KT 10SM SCT015 SCT044 SCT075 27/18 A3018 RMK AO2
+cycle: 19

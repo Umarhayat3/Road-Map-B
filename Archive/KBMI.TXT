@@ -1,0 +1,12 @@
+Bloomington/Normal, Central Illinois Regional Airport at Bloomington-Normal, IL, United States (KBMI) 40-28-37N 088-54-57W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SSE (160 degrees) at 23 MPH (20 KT) gusting to 29 MPH (25 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 55.9 F (13.3 C)
+Dew Point: 55.0 F (12.8 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KBMI 140856Z AUTO 16020G25KT 10SM BKN007 BKN011 OVC018 13/13 A2953 RMK AO2 CIG 005V011 SLP994 60001 T01330128 58008
+cycle: 9

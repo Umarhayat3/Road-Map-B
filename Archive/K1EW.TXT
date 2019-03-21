@@ -1,0 +1,11 @@
+Station name not available
+Apr 06, 2017 - 11:58 AM EDT / 2017.04.06 1558 UTC
+Wind: from the WNW (290 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50.5 F (10.3 C)
+Dew Point: 26.8 F (-2.9 C)
+Relative Humidity: 39%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: K1EW 061558Z AUTO 29008KT 10SM CLR 10/M03 A3022 RMK AO2 SLPNO T01031029 
+cycle: 16

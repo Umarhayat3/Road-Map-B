@@ -1,0 +1,11 @@
+Washington, IA, United States (KAWG) 41-17N 091-40W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 16 MPH (14 KT) gusting to 22 MPH (19 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 51 F (11 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.31 in. Hg (992 hPa)
+ob: KAWG 140855Z AUTO 16014G19KT 10SM CLR 11/09 A2931 RMK AO2
+cycle: 9

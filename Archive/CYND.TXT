@@ -1,0 +1,12 @@
+Gatineau Airport, Canada (CYND) 45-31N 075-34W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the E (080 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 30 F (-1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: CYND 140100Z 08005KT 10SM SCT008 OVC051 M01/M02 A3021 RMK SF4SC4 LAST STFD OBS/NEXT 141100 UTC SLP236
+cycle: 1

@@ -1,0 +1,10 @@
+Vilnius, Lithuania (EYVI) 54-38N 025-06E 156M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (170 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 39 F (4 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EYVI 140820Z 17014KT CAVOK 04/01 Q1002 R19/2///95 NOSIG
+cycle: 8

@@ -1,0 +1,11 @@
+Station name not available
+Nov 13, 2018 - 10:00 AM EST / 2018.11.13 1500 UTC
+Wind: from the ESE (110 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 71 F (22 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 53%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: DTTE 131500Z 11006KT 060V160 9999 FEW026 22/12 Q1023
+cycle: 15

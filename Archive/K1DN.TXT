@@ -1,0 +1,14 @@
+Station name not available
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the NNE (020 degrees) at 32 MPH (28 KT) gusting to 36 MPH (31 KT):0
+Visibility: 7/8 mile(s):0
+Sky conditions: overcast
+Weather: snow
+Precipitation last hour: 0.01 inches
+Temperature: 30.2 F (-1.0 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+ob: K1DN 140656Z AUTO 02028G31KT 7/8SM SN OVC019 M01/M02 A2975 RMK AO2 PK WND 03035/31 SLP103 P0001 T10101017 
+cycle: 7

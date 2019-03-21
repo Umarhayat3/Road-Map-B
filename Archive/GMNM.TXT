@@ -1,0 +1,11 @@
+Station name not available
+Jul 27, 2017 - 02:00 PM EDT / 2017.07.27 1800 UTC
+Wind: from the WSW (250 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: GMNM 271800Z 25004KT 9999 FEW020 SCT040 25/19 Q1017 NOSIG
+cycle: 18

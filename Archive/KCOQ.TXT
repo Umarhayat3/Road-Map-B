@@ -1,0 +1,13 @@
+Cloquet, Cloquet Carlton County Airport, MN, United States (KCOQ) 46-42N 092-30W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (090 degrees) at 6 MPH (5 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: overcast
+Weather: fog
+Temperature: 35 F (2 C)
+Windchill: 30 F (-1 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.34 in. Hg (993 hPa)
+ob: KCOQ 140855Z AUTO 09005KT 1/2SM FG OVC002 02/01 A2934 RMK AO2
+cycle: 9

@@ -1,0 +1,7 @@
+Croker River, N. W. T., Canada (CWXR) 69-16N 119-13W
+Jul 20, 2018 - 09:00 PM EDT / 2018.07.21 0100 UTC
+Wind: from the NNW (330 degrees) at 12 MPH (10 KT):0
+Temperature: 44 F (7 C)
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CWXR 210100Z AUTO 33010KT 07/ A3019 RMK SLP232
+cycle: 1

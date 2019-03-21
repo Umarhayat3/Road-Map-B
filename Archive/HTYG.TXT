@@ -1,0 +1,12 @@
+Station name not available
+Dec 23, 2010 - 01:00 AM EST / 2010.12.23 0600 UTC
+Wind: Calm:0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 66 F (19 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HTYG 230600Z 00000KT 9000 FEW020CB BKN090 19/15 Q1019 NOSIG
+cycle: 6

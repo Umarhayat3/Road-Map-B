@@ -1,0 +1,12 @@
+Station name not available
+Feb 29, 2016 - 11:00 PM EST / 2016.03.01 0400 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 80 F (27 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FKKE 010400Z 00000KT 8000 TS BKN013 FEW016CB 27/25 Q1010 BECMG NSW
+cycle: 4

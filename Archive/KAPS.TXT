@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (210 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 75.6 F (24.2 C)
+Dew Point: 69.8 F (21.0 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.9 in. Hg (1012 hPa)
+ob: KAPS 140855Z AUTO 21008KT 10SM OVC018 24/21 A2990 RMK AO2 T02420210
+cycle: 9

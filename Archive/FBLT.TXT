@@ -1,0 +1,12 @@
+Letlhakane, Botswana (FBLT) 21-25S 025-36E 985M
+Dec 22, 2014 - 08:00 AM EST / 2014.12.22 1300 UTC
+Wind: from the NE (050 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 91 F (33 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FBLT 221300Z 05007KT 9999 SCT030 FEW035CB 33/18 Q1015
+cycle: 13

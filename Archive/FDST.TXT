@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 73 F (23 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FDST 140700Z AUTO 00000KT //// // ////// 23/18 Q1020
+cycle: 7

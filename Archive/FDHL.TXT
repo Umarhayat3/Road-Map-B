@@ -1,0 +1,8 @@
+Station name not available
+Apr 02, 2011 - 05:00 PM EDT / 2011.04.02 2100 UTC
+Temperature: 62 F (17 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FDHL 022100Z AUTO /////KT //// // ////// 17/17 Q1019
+cycle: 21

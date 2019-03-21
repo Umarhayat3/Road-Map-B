@@ -1,0 +1,11 @@
+Station name not available
+May 14, 2015 - 07:50 AM EDT / 2015.05.14 1150 UTC
+Wind: from the SE (140 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 84 F (29 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GHAW 141150Z 14016KT 9999 SCT023 29/23 Q1014 WHT BECMG FEW024 BLU
+cycle: 12

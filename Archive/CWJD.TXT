@@ -1,0 +1,9 @@
+Grand Rapids, Man., Canada (CWJD) 53-11N 099-16W 223M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (350 degrees) at 5 MPH (4 KT):0
+Temperature: 25.0 F (-3.9 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 18.7 F (-7.4 C)
+Relative Humidity: 76%
+ob: CWJD 140700Z AUTO 35004KT M04/M07 RMK AO1 SOG 39 2006 SLP163 T10391074
+cycle: 7

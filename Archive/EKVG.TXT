@@ -1,0 +1,11 @@
+Soervaag / Vagar, Denmark (EKVG) 62-04N 007-17W 92M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 17 MPH (15 KT):0
+Sky conditions: mostly cloudy
+Temperature: 35 F (2 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: EKVG 140820Z AUTO 13015KT 9999NDV FEW009/// BKN041/// 02/01 Q0983
+cycle: 8

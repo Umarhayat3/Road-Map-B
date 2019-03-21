@@ -1,0 +1,13 @@
+Kajaani, Finland (EFKI) 64-17N 027-41E 136M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (150 degrees) at 12 MPH (10 KT) gusting to 23 MPH (20 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 24 F (-4 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: EFKI 140820Z 15010G20KT 120V180 9000 -SN OVC016 M04/M07 Q1000
+cycle: 8

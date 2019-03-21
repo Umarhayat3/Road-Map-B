@@ -1,0 +1,10 @@
+El Fasher, Sudan (HSFS) 13-37N 025-20E 730M
+Feb 27, 2019 - 09:30 AM EST / 2019.02.27 1430 UTC
+Wind: from the N (350 degrees) at 21 MPH (18 KT):0
+Visibility: 3 mile(s):0
+Temperature: 96 F (36 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 13%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: HSFS 271430Z 35018KT 6000 36/04 Q1009 TEMPO 4000 BLSA
+cycle: 14

@@ -1,0 +1,12 @@
+Saint Mawgan, United Kingdom (EGDG) 50-26N 005-00W 0M
+Dec 01, 2008 - 03:50 AM EST / 2008.12.01 0850 UTC
+Wind: from the NNW (340 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity; Cumulonimbus clouds observed
+Temperature: 42 F (6 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 75%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: EGDG 010850Z 34013KT 9999 VCSH FEW018CB SCT025 06/02 Q1007
+cycle: 9

@@ -1,0 +1,10 @@
+Mbeya, Tanzania (HTMB) 08-56S 033-28E 1707M
+Sep 12, 2017 - 02:00 AM EDT / 2017.09.12 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 62 F (17 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 51%
+ob: HTMB 120600Z 00000KT 9999 FEW018 17/07 Q////
+cycle: 6

@@ -1,0 +1,10 @@
+Station name not available
+Dec 01, 2015 - 05:00 PM EST / 2015.12.01 2200 UTC
+Wind: from the NNW (330 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: HEMX 012200Z 33003KT CAVOK 17/09 Q1020 NOSIG
+cycle: 22

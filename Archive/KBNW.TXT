@@ -1,0 +1,12 @@
+Boone Municipal, IA, United States (KBNW) 42-03N 093-51W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (130 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light precipitation
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.15 in. Hg (987 hPa)
+ob: KBNW 140855Z AUTO 13013KT 10SM -UP FEW039 SCT047 BKN060 05/05 A2915 RMK AO2
+cycle: 9

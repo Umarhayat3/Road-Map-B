@@ -1,0 +1,13 @@
+Akulivik Airport, Canada (CYKO) 60-49N 078-09W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: from the ESE (110 degrees) at 23 MPH (20 KT) gusting to 29 MPH (25 KT):0
+Visibility: 12 mile(s):0
+Sky conditions: mostly cloudy
+Weather: low drifting snow
+Temperature: 1 F (-17 C)
+Windchill: -22 F (-30 C):2
+Dew Point: -4 F (-20 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: CYKO 132100Z 11020G25KT 12SM DRSN BKN079 M17/M20 A2991 RMK AC7 LAST STFD OBS / NEXT 141200 UTC SLP132
+cycle: 21

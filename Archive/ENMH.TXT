@@ -1,0 +1,11 @@
+Mehamn, Norway (ENMH) 71-02N 027-50E 13M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the S (190 degrees) at 25 MPH (22 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 21 F (-6 C)
+Windchill: 3 F (-16 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: ENMH 140750Z 19022KT CAVOK M06/M10 Q0993
+cycle: 8

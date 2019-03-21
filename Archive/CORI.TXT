@@ -1,0 +1,13 @@
+Station name not available
+Mar 23, 2012 - 02:25 AM EDT / 2012.03.23 0625 UTC
+Wind: from the WNW (290 degrees) at 10 MPH (9 KT) (direction variable):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: mist
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: CORI 230625Z 29009KT 220V330 1600 BR OVC002 02/02 Q1019 R02/0///95 TEMPO 0800 FG
+cycle: 6

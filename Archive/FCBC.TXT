@@ -1,0 +1,12 @@
+Station name not available
+Jun 28, 2016 - 05:00 AM EDT / 2016.06.28 0900 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 73 F (23 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FCBC 280900Z 28004KT 4500 BR BKN020 23/20 Q1018 BECMG 6000 NSW
+cycle: 9

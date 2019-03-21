@@ -1,0 +1,12 @@
+ALICE INTERNATIONAL AIRPORT, TX, United States (KALI) 27-44N 098-01W 53M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 9 MPH (8 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 73.0 F (22.8 C)
+Dew Point: 69.1 F (20.6 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) higher than three hours ago
+ob: KALI 140853Z AUTO 18008KT 7SM OVC013 23/21 A2973 RMK AO2 SLP064 T02280206 51011
+cycle: 9

@@ -1,0 +1,11 @@
+Davis-Monthan Air Force Base, AZ, United States (KDMA) 32-10N 110-53W
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: from the SSW (200 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 46.9 F (8.3 C)
+Dew Point: 40.5 F (4.7 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: KDMA 130958Z AUTO 20014KT 10SM OVC060 08/05 A2981 RMK AO2 SLP083 T00830047 
+cycle: 10

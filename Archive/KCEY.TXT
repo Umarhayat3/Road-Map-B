@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (150 degrees) at 8 MPH (7 KT) gusting to 25 MPH (22 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 59 F (15 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+ob: KCEY 140855Z AUTO 15007G22KT 140V200 10SM OVC008 15/15 A2972 RMK AO1 
+cycle: 9

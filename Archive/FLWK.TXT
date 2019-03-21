@@ -1,0 +1,8 @@
+Station name not available
+Jan 11, 2010 - 01:00 AM EST / 2010.01.11 0600 UTC
+Wind: from the N (360 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 64 F (18 C)
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FLWK 110600Z 36010KT CAVOK 18/// Q1025
+cycle: 6

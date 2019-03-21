@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSW (210 degrees) at 12 MPH (10 KT):0
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: ETML 140820Z AUTO 21010KT //// // ////// 06/04 Q0996 ///
+cycle: 8

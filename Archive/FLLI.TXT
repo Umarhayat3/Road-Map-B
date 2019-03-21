@@ -1,0 +1,8 @@
+Livingstone, Zambia (FLLI) 17-49S 025-49E 986M
+Apr 19, 2015 - 11:25 AM EDT / 2015.04.19 1525 UTC
+Wind: from the ENE (070 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+ob: FLLI 191525Z 07009KT 9999 TS FEW035CB SCT030 TEMPO 12015G20KT 7000 TS
+cycle: 15

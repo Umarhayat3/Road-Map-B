@@ -1,0 +1,9 @@
+Station name not available
+Dec 06, 2015 - 11:00 AM EST / 2015.12.06 1600 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 82%
+ob: DAPT 061600Z 04004KT CAVOK 17/14 Q128
+cycle: 16

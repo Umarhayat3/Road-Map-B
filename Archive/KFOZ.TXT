@@ -1,0 +1,11 @@
+Bigfork, Bigfork Municipal Airport, MN, United States (KFOZ) 47-46-58N 093-39-01W
+Mar 14, 2019 - 05:14 AM EDT / 2019.03.14 0914 UTC
+Wind: from the NNE (030 degrees) at 3 MPH (3 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.42 in. Hg (996 hPa)
+ob: KFOZ 140914Z AUTO 03003KT 2SM OVC002 02/02 A2942 RMK AO2
+cycle: 9

@@ -1,0 +1,13 @@
+BLUE CANYON AIRPORT, CA, United States (KBLU) 39-17N 120-42W 1609M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: Variable at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 30.0 F (-1.1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 10.0 F (-12.2 C)
+Relative Humidity: 42%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) higher than three hours ago
+ob: KBLU 140852Z AUTO VRB06KT 10SM CLR M01/M12 A3020 RMK AO2 SLP232 T10111122 53010 TSNO 
+cycle: 9

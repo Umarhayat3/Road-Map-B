@@ -1,0 +1,12 @@
+Minneapolis / Blaine, MN, United States (KANE) 45-09N 093-13W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (090 degrees) at 5 MPH (4 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: fog
+Temperature: 39 F (4 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.27 in. Hg (991 hPa)
+ob: KANE 140855Z AUTO 09004KT 1/4SM FG OVC002 04/04 A2927 RMK AO2
+cycle: 9

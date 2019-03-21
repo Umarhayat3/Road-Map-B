@@ -1,0 +1,11 @@
+Clinton, Clinton Regional Airport, OK, United States (KCLK) 35-32-17N 098-55-17W
+Mar 13, 2019 - 08:55 PM EDT / 2019.03.14 0055 UTC
+Wind: from the SSW (210 degrees) at 26 MPH (23 KT) gusting to 43 MPH (37 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 64 F (18 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 27%
+Pressure (altimeter): 29.26 in. Hg (990 hPa)
+ob: KCLK 140055Z AUTO 21023G37KT 7SM SCT032 SCT038 OVC100 18/M01 A2926 RMK AO2
+cycle: 1

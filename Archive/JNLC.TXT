@@ -1,0 +1,12 @@
+Station name not available
+Aug 20, 2009 - 05:56 PM EDT / 2009.08.20 2156 UTC
+Wind: from the N (010 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 98.1 F (36.7 C)
+Heat index: 94.8 F (34.9 C):1
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 19%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: JNLC 202156Z 01006KT 10SM CLR 37/09 A2982 RMK AO2 SLP096 RH/18 T03670094 
+cycle: 22

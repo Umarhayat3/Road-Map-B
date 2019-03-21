@@ -1,0 +1,11 @@
+Shepherd Bay, N. W. T., Canada (CYUS) 68-49N 093-26W 42M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 9 MPH (8 KT):0
+Sky conditions: overcast
+Temperature: -9 F (-23 C)
+Windchill: -25 F (-32 C):2
+Dew Point: -14 F (-26 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: CYUS 140800Z AUTO VRB08KT ////SM //// OVC035 M23/M26 A3015
+cycle: 8

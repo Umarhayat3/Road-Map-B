@@ -1,0 +1,12 @@
+Station name not available
+Feb 04, 2017 - 09:00 AM EST / 2017.02.04 1400 UTC
+Wind: from the WNW (300 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 93 F (34 C)
+Heat index: 98.4 F (36.9 C):1
+Dew Point: 69 F (21 C)
+Relative Humidity: 46%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: FCCB 041400Z 30003KT 230V360 9000 SCT016 34/21 Q1009 NOSIG
+cycle: 14

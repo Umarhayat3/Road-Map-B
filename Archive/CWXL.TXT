@@ -1,0 +1,9 @@
+Bow Island, Canada (CWXL) 49-38N 111-27W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Temperature: 10.6 F (-11.9 C)
+Windchill: 1 F (-17 C):1
+Dew Point: 7.2 F (-13.8 C)
+Relative Humidity: 85%
+ob: CWXL 140700Z AUTO 18004KT M12/M14 RMK AO1 T11191138
+cycle: 7

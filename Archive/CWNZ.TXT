@@ -1,0 +1,10 @@
+Nagagami, Ont., Canada (CWNZ) 49-45N 084-10W 263M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (130 degrees) at 5 MPH (4 KT):0
+Precipitation last hour: A trace
+Temperature: 35.2 F (1.8 C)
+Dew Point: 33.4 F (0.8 C)
+Relative Humidity: 93%
+Pressure tendency: 0.00 inches (0.1 hPa) higher than three hours ago
+ob: CWNZ 140700Z AUTO 13004KT 02/01 RMK AO1 1PAST HR SOG 72 8009 SLP107 P0000 T00180008 50001
+cycle: 7

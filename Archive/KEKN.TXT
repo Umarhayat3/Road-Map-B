@@ -1,0 +1,12 @@
+JENNINGS RANDOLPH FIELD, WV, United States (KEKN) 38-53N 079-51W 603M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 39.9 F (4.4 C)
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KEKN 140851Z AUTO 00000KT 10SM CLR 04/M01 A3008 RMK AO2 SLP190 T00441006 58015 TSNO
+cycle: 9

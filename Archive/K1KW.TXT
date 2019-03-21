@@ -1,0 +1,11 @@
+Station name not available
+Sep 13, 2018 - 05:58 PM EDT / 2018.09.13 2158 UTC
+Wind: from the SSE (160 degrees) at 15 MPH (13 KT) gusting to 21 MPH (18 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: clear
+Temperature: 90.3 F (32.4 C)
+Dew Point: 33.3 F (0.7 C)
+Relative Humidity: 13%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: K1KW 132158Z AUTO 16013G18KT 7SM CLR 32/01 A2992 RMK AO2 SLPNO T03240007 
+cycle: 22

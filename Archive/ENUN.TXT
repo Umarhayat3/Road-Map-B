@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the NE (050 degrees) at 15 MPH (13 KT):0
+Sky conditions: partly cloudy
+Temperature: 37 F (3 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.09 in. Hg (0985 hPa)
+ob: ENUN 140820Z AUTO 05013KT 9999NDV SCT019/// 03/M02 Q0985 W05/S/
+cycle: 8

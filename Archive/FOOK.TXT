@@ -1,0 +1,10 @@
+Makokou, Gabon (FOOK) 00-34N 012-52E 515M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 80 F (27 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 78%
+ob: FOOK 140800Z /////KT 9999 FEW010 FEW018CB 27/23 Q////
+cycle: 8

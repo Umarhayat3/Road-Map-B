@@ -1,0 +1,15 @@
+BAUDETTE INTERNATIONAL AIRPORT, MN, United States (KBDE) 48-44N 94-37W 329M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the N (010 degrees) at 12 MPH (10 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Precipitation last hour: 0.01 inches
+Temperature: 33.1 F (0.6 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.44 in. Hg (996 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) lower than three hours ago
+ob: KBDE 140853Z AUTO 01010KT 3SM BR OVC005 01/00 A2944 RMK AO2 UPE43SNB43E44 SLP982 P0001 60005 T00060000 58011
+cycle: 9

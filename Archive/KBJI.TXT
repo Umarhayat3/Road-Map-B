@@ -1,0 +1,13 @@
+Bemidji, MN, United States (KBJI) 47-30N 094-56W 420M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the N (360 degrees) at 7 MPH (6 KT):0
+Visibility: 2 1/2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 33.8 F (1.0 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 33.4 F (0.8 C)
+Relative Humidity: 98%
+Pressure (altimeter): 29.37 in. Hg (994 hPa)
+ob: KBJI 140856Z AUTO 36006KT 2 1/2SM BR OVC003 01/01 A2937 RMK AO2 T00100008
+cycle: 9

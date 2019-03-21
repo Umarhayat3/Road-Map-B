@@ -1,0 +1,10 @@
+Station name not available
+Aug 28, 2018 - 12:30 PM EDT / 2018.08.28 1630 UTC
+Wind: from the E (090 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 58%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: DFNH 281630Z 09012KT CAVOK 28/19 Q1015
+cycle: 16

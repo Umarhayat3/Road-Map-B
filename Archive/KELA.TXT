@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (200 degrees) at 17 MPH (15 KT) gusting to 28 MPH (24 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Weather: Lightning observed
+Temperature: 71.8 F (22.1 C)
+Dew Point: 68.9 F (20.5 C)
+Relative Humidity: 90%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+ob: KELA 140855Z AUTO 20015G24KT 7SM OVC013 22/21 A2975 RMK AO2 LTG DSNT N T02210205
+cycle: 9

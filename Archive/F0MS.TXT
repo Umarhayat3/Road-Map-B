@@ -1,0 +1,6 @@
+Station name not available
+Apr 03, 2009 - 02:00 AM EDT / 2009.04.03 0600 UTC
+Wind: from the S (170 degrees) at 5 MPH (4 KT):0
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: F0MS 030600Z AUTO 17004KT //// // ////// ///// Q1026
+cycle: 6

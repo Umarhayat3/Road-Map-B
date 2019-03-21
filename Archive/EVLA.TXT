@@ -1,0 +1,11 @@
+Liepaja International Airport, Latvia (EVLA) 56-31N 021-05E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (150 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: EVLA 140820Z AUTO 15007KT 120V180 9999 SCT043/// BKN068/// 05/02 Q0995
+cycle: 8

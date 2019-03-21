@@ -1,0 +1,4 @@
+Stanley Municipal Airport, ND, United States (K08D) 48-18-03N 102-24-23W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+ob: K08D 140835Z AUTO RMK AO2 PNO PWINO TSNO
+cycle: 8

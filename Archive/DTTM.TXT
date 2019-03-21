@@ -1,0 +1,11 @@
+Monastir-Skanes, Tunisia (DTTM) 35-40N 010-45E 3M
+Nov 16, 2018 - 04:00 AM EST / 2018.11.16 0900 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly clear
+Temperature: 68 F (20 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DTTM 160900Z 05004KT 360V100 8000 FEW020 20/13 Q1017
+cycle: 9

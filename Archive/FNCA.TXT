@@ -1,0 +1,13 @@
+Cabinda, Angola (FNCA) 05-33S 012-11E 20M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (150 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 86 F (30 C)
+Heat index: 99.3 F (37.4 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FNCA 140800Z 15004KT 9999 FEW010 BKN020 FEW023CB 30/26 Q1011
+cycle: 8

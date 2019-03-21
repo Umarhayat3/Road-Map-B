@@ -1,0 +1,12 @@
+Fort Resolution, Canada (CYFR) 61-11N 113-41W
+Mar 13, 2019 - 06:00 PM EDT / 2019.03.13 2200 UTC
+Wind: from the NW (320 degrees) at 10 MPH (9 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 12 F (-11 C)
+Windchill: 0 F (-18 C):1
+Dew Point: 5 F (-15 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+ob: CYFR 132200Z 32009KT 15SM FEW030 BKN084 M11/M15 A3006 RMK SC1AC5 SC TR /TR/50/ SNW CVR/MEDIUM PACK LAST STFD OBS/NEXT141400Z SLP197
+cycle: 22

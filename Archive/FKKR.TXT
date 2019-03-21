@@ -1,0 +1,10 @@
+Garoua, Cameroon (FKKR) 09-20N 013-23E 244M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ESE (120 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Temperature: 91 F (33 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 11%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FKKR 140800Z 12005KT 070V150 7000 NSC 33/M01 Q1010 NOSIG
+cycle: 8

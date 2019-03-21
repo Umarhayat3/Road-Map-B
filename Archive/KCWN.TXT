@@ -1,0 +1,14 @@
+Station name not available
+Mar 13, 2019 - 06:58 AM EDT / 2019.03.13 1058 UTC
+Wind: from the NNW (330 degrees) at 14 MPH (12 KT) gusting to 20 MPH (17 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain; mist
+Precipitation last hour: 0.17 inches
+Temperature: 38.3 F (3.5 C)
+Dew Point: 38.1 F (3.4 C)
+Relative Humidity: 99%
+Pressure (altimeter): 29.06 in. Hg (984 hPa)
+Pressure tendency: falling rapidly
+ob: KCWN 131058Z AUTO 33012G17KT 3/4SM -RA BR BKN002 04/03 A2906 RMK AO2 VIS 1/4V3/4 RAE08RAB43 PRESFR SLP702 P0017 T00350034 
+cycle: 11

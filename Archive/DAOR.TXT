@@ -1,0 +1,10 @@
+Bechar, Algeria (DAOR) 31-37N 002-14W 773M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (060 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 24%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: DAOR 140800Z 06002KT CAVOK 15/M05 Q1026
+cycle: 8

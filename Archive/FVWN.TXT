@@ -1,0 +1,10 @@
+Hwange National Park, Zimbabwe (FVWN) 18-38S 027-00E 1077M
+Mar 10, 2019 - 08:00 AM EDT / 2019.03.10 1200 UTC
+Wind: from the NE (040 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 33%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FVWN 101200Z 04006KT CAVOK 32/14 Q1016
+cycle: 12

@@ -1,0 +1,12 @@
+FORT WORTH ALLIANCE AIRPORT, TX, United States (KAFW) 32-59N 097-19W 233M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (280 degrees) at 18 MPH (16 KT) gusting to 32 MPH (28 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 63.0 F (17.2 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: 0.08 inches (2.7 hPa) higher than three hours ago
+ob: KAFW 140853Z 28016G28KT 10SM CLR 17/01 A2973 RMK AO2 PK WND 27030/0837 SLP057 T01720006 53027
+cycle: 9

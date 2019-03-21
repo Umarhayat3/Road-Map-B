@@ -1,0 +1,11 @@
+Ouargla, Algeria (DAUU) 31-55N 005-24E 141M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 23 MPH (20 KT):0
+Visibility: 3 mile(s):0
+Weather: low drifting sand
+Temperature: 60 F (16 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 44%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DAUU 140800Z 34020KT 6000 DRSA NSC 16/04 Q1022
+cycle: 8

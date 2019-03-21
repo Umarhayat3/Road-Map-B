@@ -1,0 +1,11 @@
+East Cameron 47, LA, United States (KCMB) 29-26-26N 092-58-45W
+Aug 03, 2012 - 11:30 AM EDT / 2012.08.03 1530 UTC
+Wind: from the SW (220 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Temperature: 91 F (33 C)
+Heat index: 101.5 F (38.6 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: KCMB 031530Z AUTO 22011KT 10SM 33/24 A2998 RMK A01
+cycle: 15

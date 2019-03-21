@@ -1,0 +1,11 @@
+Norman Wells, N. W. T., Canada (CYVQ) 65-17N 126-48W 74M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 2 MPH (2 KT):0
+Visibility: 30 mile(s):0
+Sky conditions: partly cloudy
+Temperature: -13 F (-25 C)
+Dew Point: -18 F (-28 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: CYVQ 140800Z 16002KT 30SM SCT250 M25/M28 A3011 RMK CI4 SLP209
+cycle: 8

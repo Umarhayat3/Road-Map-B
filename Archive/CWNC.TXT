@@ -1,0 +1,8 @@
+Cobourg, Ont., Canada (CWNC) 43-57N 078-10W 78M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Temperature: 37.8 F (3.2 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 73%
+ob: CWNC 140700Z AUTO 08006KT 03/M01 RMK AO1 SOG 02 6010 SLP178 T00321011
+cycle: 7

@@ -1,0 +1,14 @@
+ALLIANCE MUNICIPAL AIRPORT, NE, United States (KAIA) 42-03N 102-48W 1196M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNW (330 degrees) at 32 MPH (28 KT) gusting to 44 MPH (38 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: obscured
+Weather: mist
+Temperature: 27.0 F (-2.8 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.63 in. Hg (1003 hPa)
+Pressure tendency: 0.09 inches (3.2 hPa) higher than three hours ago
+ob: KAIA 140853Z AUTO 33028G38KT 3/4SM BR VV008 M03/M03 A2963 RMK AO2 PK WND 33040/0843 SLP062 T10281033 53032 PWINO FZRANO 
+cycle: 9

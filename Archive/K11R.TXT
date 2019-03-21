@@ -1,0 +1,12 @@
+Brenham, Brenham Municipal Airport, TX, United States (K11R) 30-13-08N 096-22-27W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the SSW (200 degrees) at 15 MPH (13 KT) gusting to 24 MPH (21 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Weather: Lightning observed
+Temperature: 72.9 F (22.7 C)
+Dew Point: 70.9 F (21.6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: K11R 140835Z AUTO 20013G21KT 7SM OVC012 23/22 A2971 RMK AO2 LTG DSNT N AND NW T02270216
+cycle: 8

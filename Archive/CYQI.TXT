@@ -1,0 +1,11 @@
+Yarmouth, N. S., Canada (CYQI) 43-50N 066-05W 43M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 32 F (0 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.3 in. Hg (1026 hPa)
+ob: CYQI 140800Z 00000KT 15SM BKN082 OVC120 00/M02 A3030 RMK AC5AS3 SLP265
+cycle: 8

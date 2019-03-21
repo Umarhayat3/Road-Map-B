@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (200 degrees) at 5 MPH (4 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 55.0 F (12.8 C)
+Dew Point: 55.0 F (12.8 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: K5M9 140855Z AUTO 20004KT 7SM -RA SCT039 BKN049 OVC060 13/13 A2974 RMK AO2 T01280128
+cycle: 9

@@ -1,0 +1,10 @@
+Station name not available
+Feb 26, 2010 - 07:00 PM EST / 2010.02.27 0000 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: GGOS 270000Z 28004KT 8000 NSC 24/23 Q1012
+cycle: 0

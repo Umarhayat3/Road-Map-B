@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT) (direction variable):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 28 F (-2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.23 in. Hg (0990 hPa)
+ob: ENUG 140820Z AUTO 14008KT 100V170 5000NDV -SN FEW023/// OVC039/// M02/M06 Q0990 W05/S4
+cycle: 8

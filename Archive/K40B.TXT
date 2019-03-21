@@ -1,0 +1,10 @@
+Clayton Lake, ME, United States (K40B) 46-37N 069-32W
+Mar 14, 2019 - 04:16 AM EDT / 2019.03.14 0816 UTC
+Wind: Calm:0
+Temperature: 28.4 F (-2.0 C)
+Dew Point: 21.4 F (-5.9 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: K40B 140816Z AUTO 00000KT M02/M06 A3018 RMK AO1 SLP241 T10201059 50000 
+cycle: 8

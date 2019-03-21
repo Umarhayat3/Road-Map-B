@@ -1,0 +1,10 @@
+Fes-Sais, Morocco (GMFF) 33-56N 004-59W 579M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the ENE (060 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: GMFF 140830Z 06007KT 040V100 CAVOK 13/09 Q1026 NOSIG
+cycle: 8

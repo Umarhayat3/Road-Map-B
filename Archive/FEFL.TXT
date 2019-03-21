@@ -1,0 +1,8 @@
+Bossembele, Central African Republic (FEFL) 05-16N 017-38E 674M
+Jun 15, 2010 - 01:00 AM EDT / 2010.06.15 0500 UTC
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 100%
+ob: FEFL 150500Z /////KT CAVOK 21/21 Q////
+cycle: 5

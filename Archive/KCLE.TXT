@@ -1,0 +1,12 @@
+CLEVELAND-HOPKINS INTERNATIONAL , OH, United States (KCLE) 41-24N 081-51W 236M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the S (180 degrees) at 14 MPH (12 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 57.0 F (13.9 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 40%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KCLE 140851Z 18012KT 10SM FEW170 OVC250 14/01 A2992 RMK AO2 SLP131 T01390006 58014
+cycle: 9

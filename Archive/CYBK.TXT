@@ -1,0 +1,13 @@
+Baker Lake, N. W. T., Canada (CYBK) 64-18N 096-05W 18M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (010 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow
+Temperature: -4 F (-20 C)
+Windchill: -14 F (-26 C):2
+Dew Point: -9 F (-23 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CYBK 140800Z 01004KT 15SM -SN BKN031 M20/M23 A3014 RMK SC7 LGT PCPN SLP212
+cycle: 8

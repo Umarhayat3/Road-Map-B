@@ -1,0 +1,12 @@
+Station name not available
+Sep 20, 2017 - 03:05 PM EDT / 2017.09.20 1905 UTC
+Wind: from the NW (320 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain showers
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: K1QW 201905Z AUTO 32007KT 290V010 4SM -SHRA FEW004 SCT012 BKN023 05/04 A2965 RMK AO2 SLP071 WND DATA ESTMD
+cycle: 19

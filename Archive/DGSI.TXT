@@ -1,0 +1,11 @@
+Kumasi, Ghana (DGSI) 06-43N 001-36W 293M
+Feb 02, 2019 - 12:00 PM EST / 2019.02.02 1700 UTC
+Wind: from the NW (320 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 89 F (32 C)
+Heat index: 98.4 F (36.9 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 62%
+ob: DGSI 021700Z 32002KT 9999 FEW013 SCT016 32/24 QNH975 NOSIG
+cycle: 17

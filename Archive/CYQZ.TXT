@@ -1,0 +1,12 @@
+Quesnel Airport, Canada (CYQZ) 53-02N 122-31W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 26 F (-3 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: CYQZ 140800Z AUTO 04004KT 9SM BKN120 M03/M07 A3018 RMK SLP249
+cycle: 8

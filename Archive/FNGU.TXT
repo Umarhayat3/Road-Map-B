@@ -1,0 +1,11 @@
+Station name not available
+Nov 30, 2018 - 02:00 AM EST / 2018.11.30 0700 UTC
+Wind: from the E (090 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 71 F (22 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FNGU 300700Z 09008KT 9999 FEW010 BKN070 22/19 Q1016
+cycle: 7

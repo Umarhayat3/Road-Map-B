@@ -1,0 +1,12 @@
+Station name not available
+May 22, 2009 - 04:00 PM EDT / 2009.05.22 2000 UTC
+Wind: from the WNW (300 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 80 F (27 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: BPHO 222000Z 30006KT 9000 SCT018TCU BKN200 27/23 Q1009 RETS
+cycle: 20

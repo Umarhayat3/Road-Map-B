@@ -1,0 +1,10 @@
+Hopedale Meteorological Aeronautical Presentation System , Canada (CWHO) 55-27N 060-14W
+Nov 28, 2018 - 04:00 AM EST / 2018.11.28 0900 UTC
+Wind: from the N (360 degrees) at 18 MPH (16 KT) gusting to 24 MPH (21 KT):0
+Temperature: 30.7 F (-0.7 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 30.2 F (-1.0 C)
+Relative Humidity: 97%
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: CWHO 280900Z AUTO 36016G21KT M01/M01 RMK AO1 PK WND 36021/0851 SLP196 T10071010 56001
+cycle: 9

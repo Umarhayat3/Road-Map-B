@@ -1,0 +1,12 @@
+BANGOR INT'L AIRPORT, ME, United States (KBGR) 44-48N 068-49W 57M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 27.0 F (-2.8 C)
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 96%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) lower than three hours ago
+ob: KBGR 140853Z 00000KT 10SM SCT060 M03/M03 A3027 RMK AO2 SLP255 T10281033 56003
+cycle: 9

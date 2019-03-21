@@ -1,0 +1,9 @@
+Springs, South Africa (FASI) 26-14-54S 028-23-51E
+Dec 14, 2018 - 07:00 PM EST / 2018.12.15 0000 UTC
+Wind: from the NNW (340 degrees) at 15 MPH (13 KT):0
+Temperature: 60 F (16 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.45 in. Hg (1031 hPa)
+ob: FASI 150000Z AUTO 34013KT //// // ////// 16/12 Q1031
+cycle: 0

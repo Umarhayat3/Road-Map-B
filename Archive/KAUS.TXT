@@ -1,0 +1,13 @@
+AUSTIN-BERGSTROM INTERNATIONAL  AIRPORT, TX, United States (KAUS) 30-11N 097-41W 172M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NW (320 degrees) at 7 MPH (6 KT) gusting to 20 MPH (17 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: partly cloudy
+Precipitation last hour: A trace
+Temperature: 72.0 F (22.2 C)
+Dew Point: 42.1 F (5.6 C)
+Relative Humidity: 33%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+Pressure tendency: 0.11 inches (3.6 hPa) higher than three hours ago
+ob: KAUS 140853Z 32006G17KT 9SM SCT048 22/06 A2980 RMK AO2 RAE29 SLP082 P0000 60000 T02220056 53036
+cycle: 9

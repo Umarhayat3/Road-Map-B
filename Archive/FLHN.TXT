@@ -1,0 +1,10 @@
+Station name not available
+Mar 13, 2019 - 09:00 AM EDT / 2019.03.13 1300 UTC
+Wind: from the E (080 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 23%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FLHN 131300Z 08013KT CAVOK 34/10 Q1016
+cycle: 13

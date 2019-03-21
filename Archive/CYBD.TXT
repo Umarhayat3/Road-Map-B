@@ -1,0 +1,11 @@
+Bella Coola Airport , Canada (CYBD) 52-23N 126-35W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the W (270 degrees) at 7 MPH (6 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 46 F (8 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 52%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CYBD 140100Z 27006KT 15SM OVC100 08/M01 A3019 RMK AS8 LAST STFD OBS/NEXT 141300UTC SLP227
+cycle: 1

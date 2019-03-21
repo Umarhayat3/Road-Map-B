@@ -1,0 +1,13 @@
+Grimsey, Iceland (BIGR) 66-32N 018-01W 16M
+Jan 07, 2019 - 06:34 AM EST / 2019.01.07 1134 UTC
+Wind: from the WNW (290 degrees) at 21 MPH (18 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: obscured
+Weather: snow
+Temperature: 32 F (0 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: BIGR 071134Z 29018KT 1000 SN VV003 00/M01 Q1015
+cycle: 11

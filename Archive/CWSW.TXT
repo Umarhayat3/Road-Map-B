@@ -1,0 +1,12 @@
+Sparwood / Elk Valley, Canada (CWSW) 49-45N 114-53W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the SSE (160 degrees) at 7 MPH (6 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 33 F (1 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: CWSW 140100Z 16006KT 20SM SCT045 BKN090 01/M06 A3015 RMK SC3AC2 LAST ATFD OBS/NEXT 141300Z SLP256
+cycle: 1

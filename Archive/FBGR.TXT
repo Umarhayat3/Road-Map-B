@@ -1,0 +1,5 @@
+Station name not available
+Feb 07, 2008 - 04:00 AM EST / 2008.02.07 0900 UTC
+Weather: ice pellets, 
+ob: FBGR 070900Z TE T ME AGE PLE E IGNORE/////
+cycle: 9

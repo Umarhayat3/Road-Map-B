@@ -1,0 +1,12 @@
+Ramstein, Germany (ETAR) 49-26N 007-36E 237M
+Mar 14, 2019 - 04:25 AM EDT / 2019.03.14 0825 UTC
+Wind: from the SW (230 degrees) at 14 MPH (12 KT) gusting to 33 MPH (29 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: ETAR 140825Z 23012G29KT 9000 -RA OVC017 05/05 A2982 RMK AO2A SLPNO 
+cycle: 8

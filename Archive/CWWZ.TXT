@@ -1,0 +1,8 @@
+Port Weller, Ont., Canada (CWWZ) 43-15N 079-13W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ENE (060 degrees) at 3 MPH (3 KT):0
+Temperature: 34.2 F (1.2 C)
+Dew Point: 32.9 F (0.5 C)
+Relative Humidity: 95%
+ob: CWWZ 140700Z AUTO 06003KT 01/01 RMK AO1 SOG 01 5003 SLP180 T00120005
+cycle: 7

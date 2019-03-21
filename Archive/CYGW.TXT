@@ -1,0 +1,12 @@
+Kuujjuarapik, Que., Canada (CYGW) 55-17N 077-46W 10M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ESE (120 degrees) at 14 MPH (12 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 24 F (-4 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 17 F (-8 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.93 in. Hg (1013 hPa)
+ob: CYGW 140800Z AUTO 12012KT 9SM CLR M04/M08 A2993 RMK SLP138
+cycle: 8

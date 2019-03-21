@@ -1,0 +1,11 @@
+Station name not available
+Jun 04, 2015 - 12:00 PM EDT / 2015.06.04 1600 UTC
+Wind: from the NW (320 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 104 F (40 C)
+Heat index: 102.9 F (39.4 C):1
+Dew Point: 55 F (13 C)
+Relative Humidity: 20%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GOSL 041600Z 32010KT CAVOK 40/13 Q1009
+cycle: 16

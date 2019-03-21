@@ -1,0 +1,11 @@
+Station name not available
+Feb 20, 2016 - 06:00 AM EST / 2016.02.20 1100 UTC
+Wind: from the NNW (340 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 84 F (29 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: FNNU 201100Z 34011KT 9999 SCT013 SCT070 29/22 Q1010
+cycle: 11

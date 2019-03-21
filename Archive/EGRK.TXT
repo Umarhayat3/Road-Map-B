@@ -1,0 +1,10 @@
+Station name not available
+Oct 17, 2014 - 05:50 AM EDT / 2014.10.17 0950 UTC
+Wind: from the ESE (110 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 50 F (10 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 57%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: EGRK 170950Z AUTO 11013KT 9999 NCD 10/02 Q1010 W///S3
+cycle: 10

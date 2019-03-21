@@ -1,0 +1,12 @@
+Tamatave, Madagascar (FMMT) 18-07S 049-24E 6M
+Mar 14, 2019 - 04:11 AM EDT / 2019.03.14 0811 UTC
+Wind: from the WSW (240 degrees) at 7 MPH (6 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain; Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FMMT 140811Z 24006KT 5000 -RA SCT007 SCT017CB BKN033 24/24 Q1015 TEMPO 3500 TSRA
+cycle: 8

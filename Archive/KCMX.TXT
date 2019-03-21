@@ -1,0 +1,14 @@
+HANCOCK HOUGHTON CTY. MEMO, MI, United States (KCMX) 47-10N 088-29W 326M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (100 degrees) at 14 MPH (12 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: light rain; fog
+Precipitation last hour: 0.03 inches
+Temperature: 36.0 F (2.2 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.46 in. Hg (997 hPa)
+Pressure tendency: 0.10 inches (3.5 hPa) lower than three hours ago
+ob: KCMX 140853Z AUTO 10012KT 1/4SM -RA FG VV001 02/01 A2946 RMK AO2 SLP985 P0003 60012 T00220011 58035
+cycle: 9

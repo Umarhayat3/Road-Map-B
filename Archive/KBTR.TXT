@@ -1,0 +1,11 @@
+BATON ROUGE METRO RYAN FIELD, LA, United States (KBTR) 30-32N 91-09W 21M
+Mar 14, 2019 - 05:00 AM EDT / 2019.03.14 0900 UTC
+Wind: from the S (170 degrees) at 17 MPH (15 KT) gusting to 22 MPH (19 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 73.9 F (23.3 C)
+Dew Point: 68.0 F (20.0 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.86 in. Hg (1011 hPa)
+ob: KBTR 140900Z AUTO 17015G19KT 10SM FEW021 BKN026 OVC033 23/20 A2986 RMK AO2 T02330200
+cycle: 9

@@ -1,0 +1,12 @@
+Dimbokro, Cote d'Ivoire (DIDK) 06-39N 004-42W 92M
+Sep 21, 2018 - 12:00 PM EDT / 2018.09.21 1600 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 89 F (32 C)
+Heat index: 100.6 F (38.1 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: DIDK 211600Z /////KT 9999 BKN013TCU 32/25 Q1008 NOSIG
+cycle: 16

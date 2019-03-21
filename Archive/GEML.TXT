@@ -1,0 +1,11 @@
+Melilla, Spain (GEML) 35-17N 002-57W 55M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the E (100 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 60 F (16 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: GEML 140830Z 10004KT 9999 FEW007 SCT012 BKN018 16/13 Q1028
+cycle: 8

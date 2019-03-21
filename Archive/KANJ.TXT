@@ -1,0 +1,13 @@
+SAULT STE. MARIE MUNI, MI, United States (KANJ) 46-29N 084-21W 219M
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (100 degrees) at 9 MPH (8 KT):0
+Visibility: 1/2 mile(s):0
+Sky conditions: obscured
+Weather: fog
+Temperature: 36.0 F (2.2 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: falling rapidly - 0.12 inches (4.2 hPa) lower than three hours ago
+ob: KANJ 140855Z AUTO 10008KT 1/2SM FG VV002 02/02 A2973 RMK AO2 PRESFR SLP074 T00220017 58042
+cycle: 9

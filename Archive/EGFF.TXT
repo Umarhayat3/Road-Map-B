@@ -1,0 +1,11 @@
+Cardiff-Wales Airport, United Kingdom (EGFF) 51-24N 003-21W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (270 degrees) at 30 MPH (26 KT) gusting to 46 MPH (40 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Temperature: 48 F (9 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EGFF 140820Z AUTO 27026G40KT 8000 OVC005 09/09 Q1005
+cycle: 8

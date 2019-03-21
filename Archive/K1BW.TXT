@@ -1,0 +1,13 @@
+Station name not available
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: from the N (360 degrees) at 10 MPH (9 KT):0
+Sky conditions: obscured
+Weather: light rain; fog
+Precipitation last hour: 0.02 inches
+Temperature: 33.6 F (0.9 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 32.5 F (0.3 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.31 in. Hg (992 hPa)
+ob: K1BW 130958Z AUTO 36009KT M1/8SM -RA FG VV002 01/00 A2931 RMK AO2 SHRAE32RAB32 SLP916 P0002 T00090003 
+cycle: 10

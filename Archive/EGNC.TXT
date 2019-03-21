@@ -1,0 +1,12 @@
+Carlisle, United Kingdom (EGNC) 54-56N 002-57W
+Oct 12, 2018 - 09:50 AM EDT / 2018.10.12 1350 UTC
+Wind: from the S (180 degrees) at 21 MPH (18 KT) gusting to 38 MPH (33 KT) (direction variable):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: light rain showers
+Temperature: 60 F (16 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.29 in. Hg (0992 hPa)
+ob: EGNC 121350Z 18018G33KT 140V220 5000 -SHRA SCT010 OVC016 16/14 Q0992
+cycle: 14

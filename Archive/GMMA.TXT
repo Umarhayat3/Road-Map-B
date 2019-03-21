@@ -1,0 +1,10 @@
+Station name not available
+May 22, 2016 - 12:00 PM EDT / 2016.05.22 1600 UTC
+Wind: from the NW (310 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 95 F (35 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 21%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GMMA 221600Z 31010KT CAVOK 35/10 Q1013 NOSIG
+cycle: 16

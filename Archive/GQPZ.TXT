@@ -1,0 +1,11 @@
+Station name not available
+Mar 13, 2019 - 08:00 AM EDT / 2019.03.13 1200 UTC
+Wind: from the ESE (120 degrees) at 18 MPH (16 KT):0
+Visibility: 3 mile(s):0
+Weather: blowing sand
+Temperature: 78 F (26 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 14%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: GQPZ 131200Z 12016KT 5000 BLSA NSC 26/M03 Q1023
+cycle: 12

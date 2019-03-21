@@ -1,0 +1,11 @@
+Blanding , UT, United States (K4BL) 37-37N 109-28W
+Jun 28, 2012 - 10:50 AM EDT / 2012.06.28 1450 UTC
+Wind: from the SSE (150 degrees) at 7 MPH (6 KT):0
+Visibility: 50 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73.0 F (22.8 C)
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 42%
+Pressure tendency: 0.05 inches (1.7 hPa) higher than three hours ago
+ob: K4BL 281450Z 15006KT 50SM FEW140 23/09 RMK SLP157 NOSPECI 8/070 T02280094 51017 
+cycle: 15

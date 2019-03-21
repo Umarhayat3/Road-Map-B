@@ -1,0 +1,11 @@
+Altenburg Nobitz, Germany (EDAC) 50-58N 012-30E
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: EDAC 140750Z 23011KT 9999 FEW028 BKN049 06/01 Q1006
+cycle: 8

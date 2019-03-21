@@ -1,0 +1,13 @@
+Station name not available
+Mar 02, 2019 - 08:40 AM EST / 2019.03.02 1340 UTC
+Wind: from the SW (220 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: thunder; Cumulonimbus clouds, towering cumulus clouds observed
+Temperature: 87 F (31 C)
+Heat index: 93.9 F (34.4 C):1
+Dew Point: 73 F (23 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FCPD 021340Z 22004KT 9999 TS SCT023TCU FEW030CB 31/23 Q1013
+cycle: 13

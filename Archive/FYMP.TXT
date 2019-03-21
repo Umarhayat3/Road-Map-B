@@ -1,0 +1,11 @@
+Station name not available
+Mar 07, 2019 - 01:00 AM EST / 2019.03.07 0600 UTC
+Wind: from the ESE (110 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 71 F (22 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FYMP 070600Z 11003KT 9999 FEW300 22/15 Q1017
+cycle: 6

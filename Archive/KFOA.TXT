@@ -1,0 +1,11 @@
+Flora, Flora Municipal Airport, IL, United States (KFOA) 38-39-54N 088-27-11W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 62.1 F (16.7 C)
+Dew Point: 60.3 F (15.7 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.63 in. Hg (1003 hPa)
+ob: KFOA 140855Z AUTO 16011KT 10SM SCT008 SCT120 17/16 A2963 RMK AO2 T01670157
+cycle: 9

@@ -1,0 +1,11 @@
+Vernon, Wilbarger County Airport, TX, United States (KF05) 34-13-32N 099-17-01W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (280 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.3 F (7.4 C)
+Dew Point: 33.6 F (0.9 C)
+Relative Humidity: 63%
+Pressure (altimeter): 29.78 in. Hg (1008 hPa)
+ob: KF05 140855Z AUTO 28010KT 10SM CLR 07/01 A2978 RMK AO1 T00740009
+cycle: 9

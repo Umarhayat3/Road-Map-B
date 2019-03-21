@@ -1,0 +1,8 @@
+Pagosa Springs, Wolf Creek Pass, CO, United States (KCPW) 37-27-05N 106-48-01W
+Mar 14, 2019 - 04:48 AM EDT / 2019.03.14 0848 UTC
+Temperature: 5 F (-15 C)
+Dew Point: 3 F (-16 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.79 in. Hg (1008 hPa)
+ob: KCPW 140848Z AUTO M15/M16 A2979 RMK AO2 PWINO
+cycle: 9

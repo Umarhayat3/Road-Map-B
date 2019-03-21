@@ -1,0 +1,11 @@
+Station name not available
+May 31, 2013 - 04:00 PM EDT / 2013.05.31 2000 UTC
+Wind: from the W (270 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 93 F (34 C)
+Heat index: 109.6 F (43.1 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 63%
+ob: AMHO 312000Z 27008KT 9999 FEW025 BKN080 34/26
+cycle: 20

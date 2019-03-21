@@ -1,0 +1,12 @@
+Tete, Mozambique (FQTE) 16-11S 033-35E 150M
+Feb 13, 2019 - 04:00 AM EST / 2019.02.13 0900 UTC
+Wind: from the SSE (150 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 91 F (33 C)
+Heat index: 101.5 F (38.6 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: FQTE 130900Z 15006KT 9999 FEW020 33/24 Q1009
+cycle: 9

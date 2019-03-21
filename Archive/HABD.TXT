@@ -1,0 +1,12 @@
+Bahar Dar, Ethiopia (HABD) 11-36N 037-24E 1805M
+Jul 07, 2018 - 10:00 AM EDT / 2018.07.07 1400 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 71 F (22 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: HABD 071400Z 04004KT 9000 TS FEW023CB SCT024 BKN060 22/15 Q1021
+cycle: 14

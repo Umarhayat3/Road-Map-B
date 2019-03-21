@@ -1,0 +1,12 @@
+FORT LAUDERDALE/HOLLYWOOD, FL, United States (KFLL) 26-04N 080-09W 30M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (100 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73.9 F (23.3 C)
+Dew Point: 61.0 F (16.1 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KFLL 140853Z 10014KT 10SM FEW033 BKN050 23/16 A3007 RMK AO2 SLP182 T02330161 56012
+cycle: 9

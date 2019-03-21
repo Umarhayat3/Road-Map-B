@@ -1,0 +1,12 @@
+GASTONIA MUNICIPAL AIRPORT, NC, United States (KAKH) 35-12N 81-09W 243M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 51.1 F (10.6 C)
+Dew Point: 44.1 F (6.7 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KAKH 140854Z AUTO 00000KT 10SM SCT034 11/07 A3021 RMK AO2 SLP229 T01060067 58012
+cycle: 9

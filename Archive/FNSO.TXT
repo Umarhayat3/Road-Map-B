@@ -1,0 +1,8 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+ob: FNSO 140800Z 10005KT 9000 BKN014 FEW016CB ///// Q////
+cycle: 8

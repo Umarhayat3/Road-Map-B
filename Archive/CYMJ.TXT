@@ -1,0 +1,12 @@
+Moose Jaw, Sask., Canada (CYMJ) 50-20N 105-33W 577M
+Mar 13, 2019 - 08:10 PM EDT / 2019.03.14 0010 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: CYMJ 140010Z 32008KT 15SM OVC250 01/M00 A3000 RMK CI8 LAST OBS / NXT 141000 UTC SLP187
+cycle: 0

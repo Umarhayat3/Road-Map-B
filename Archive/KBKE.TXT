@@ -1,0 +1,13 @@
+BAKER MUNICIPAL AIRPORT, OR, United States (KBKE) 44-50N 117-49W 1024M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 19.0 F (-7.2 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 12.9 F (-10.6 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) higher than three hours ago
+ob: KBKE 140853Z AUTO 17004KT 10SM CLR M07/M11 A3036 RMK AO2 SLP309 T10721106 53011
+cycle: 9

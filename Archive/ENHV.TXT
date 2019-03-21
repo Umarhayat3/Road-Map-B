@@ -1,0 +1,13 @@
+Honningsvag / Valan, Norway (ENHV) 71-01N 025-59E 14M
+Mar 14, 2019 - 02:50 AM EDT / 2019.03.14 0650 UTC
+Wind: from the SSW (200 degrees) at 20 MPH (17 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light low drifting snow
+Temperature: 24 F (-4 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: ENHV 140650Z 20017KT 9999 -DRSN SCT036 BKN051 M04/M09 Q0993
+cycle: 7

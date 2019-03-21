@@ -1,0 +1,6 @@
+Cape Race, Nfld, Canada (CWRA) 46-39N 053-04W 28M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the N (350 degrees) at 8 MPH (7 KT):0
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: CWRA 140700Z AUTO 35007KT RMK AO1 51009
+cycle: 7

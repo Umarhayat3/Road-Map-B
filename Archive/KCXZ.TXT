@@ -1,0 +1,10 @@
+Station name not available
+Dec 25, 2010 - 09:52 PM EST / 2010.12.26 0252 UTC
+Wind: from the E (080 degrees) at 6 MPH (5 KT):0
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: KCXZ 260252Z AUTO 08005KT 06/04 A3000 RMK AO2 S ªª¢Á0560044 53008 PWINOTSNO 
+cycle: 3

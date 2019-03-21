@@ -1,0 +1,9 @@
+Station name not available
+Nov 03, 2010 - 03:00 AM EDT / 2010.11.03 0700 UTC
+Wind: from the NNE (030 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 54%
+ob: FBPA 030700Z 03011KT CAVOK 26/16
+cycle: 7

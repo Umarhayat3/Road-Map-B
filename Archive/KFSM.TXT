@@ -1,0 +1,12 @@
+FORT SMITH REGIONAL AIRPORT, AR, United States (KFSM) 35-20N 94-22W 140M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSW (210 degrees) at 16 MPH (14 KT) gusting to 26 MPH (23 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 64.0 F (17.8 C)
+Dew Point: 54.0 F (12.2 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.54 in. Hg (1000 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: KFSM 140853Z AUTO 21014G23KT 10SM FEW050 OVC110 18/12 A2954 RMK AO2 SLP999 T01780122 58007
+cycle: 9

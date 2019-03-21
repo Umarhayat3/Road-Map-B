@@ -1,0 +1,9 @@
+Station name not available
+Dec 09, 2009 - 04:00 AM EST / 2009.12.09 0900 UTC
+Wind: from the W (280 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 17%
+ob: FTTH 090900Z 28010KT CAVOK 30/03 Q////
+cycle: 9

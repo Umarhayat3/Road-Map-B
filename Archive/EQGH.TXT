@@ -1,0 +1,10 @@
+Station name not available
+Jul 26, 2008 - 06:50 PM EDT / 2008.07.26 2250 UTC
+Wind: from the ENE (070 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 11%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: EQGH 262250Z 07006KT CAVOK 26/M06 Q1001 BLU NOSIG
+cycle: 23

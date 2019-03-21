@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (010 degrees) at 10 MPH (9 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly clear
+Temperature: 28 F (-2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+ob: CZMD 140800Z AUTO 01009KT 9SM FEW160 M02/M05 A2980 RMK SLP108
+cycle: 8

@@ -1,0 +1,10 @@
+Campo, CA, United States (KCZZ) 32-37-34N 116-28-06W 807M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: Calm:0
+Temperature: 43.0 F (6.1 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.00 inches (0.1 hPa) higher than three hours ago
+ob: KCZZ 140852Z AUTO 00000KT 06/M02 A3007 RMK AO1 SLP168 T00611017 52001 
+cycle: 9

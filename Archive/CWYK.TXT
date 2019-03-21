@@ -1,0 +1,7 @@
+Cape Kiglapait, Nfld., Canada (CWYK) 57-08N 061-29W
+Oct 03, 2017 - 11:00 AM EDT / 2017.10.03 1500 UTC
+Wind: from the SSW (210 degrees) at 39 MPH (34 KT):0
+Temperature: 41 F (5 C)
+Pressure (altimeter): 29.95 in. Hg (1014 hPa)
+ob: CWYK 031500Z AUTO 21034KT 05/ A2995 RMK SLP178
+cycle: 15

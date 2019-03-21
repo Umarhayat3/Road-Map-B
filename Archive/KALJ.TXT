@@ -1,0 +1,11 @@
+Station name not available
+Apr 05, 2012 - 02:56 AM EDT / 2012.04.05 0656 UTC
+Wind: from the SSW (210 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 57.9 F (14.4 C)
+Dew Point: 10.9 F (-11.7 C)
+Relative Humidity: 15%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: KALJ 050656Z AUTO 21006KT 10SM CLR 14/M12 A3002 RMK AO2 SLP086 T01441117 402390039 TSNO 
+cycle: 7

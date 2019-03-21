@@ -1,0 +1,12 @@
+CALDWELL ESSEX COUNTY AIRPORT , NJ, United States (KCDW) 40-53N 074-17W 64M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 37.9 F (3.3 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) lower than three hours ago
+ob: KCDW 140853Z AUTO 00000KT 10SM SCT055 BKN120 03/M01 A3024 RMK AO2 SLP247 T00331011 58003
+cycle: 9

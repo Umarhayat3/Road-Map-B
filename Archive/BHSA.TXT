@@ -1,0 +1,10 @@
+Station name not available
+Aug 27, 2008 - 01:50 PM EDT / 2008.08.27 1750 UTC
+Wind: from the SE (140 degrees) at 7 MPH (6 KT):0
+Temperature: 91 F (33 C)
+Heat index: 103.5 F (39.7 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: BHSA 271750Z 14006KT 33/25 Q1003
+cycle: 18

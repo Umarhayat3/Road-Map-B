@@ -1,0 +1,10 @@
+Francistown, Botswana (FBFT) 21-13S 027-30E 1000M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (100 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 47%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FBFT 140800Z 10006KT 060V130 CAVOK 27/15 Q1020
+cycle: 8

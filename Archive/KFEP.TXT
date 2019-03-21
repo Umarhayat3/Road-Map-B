@@ -1,0 +1,11 @@
+Freeport, Albertus Airport, IL, United States (KFEP) 42-14-47N 089-34-56W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.7 F (9.3 C)
+Dew Point: 48.7 F (9.3 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.44 in. Hg (996 hPa)
+ob: KFEP 140855Z AUTO 16013KT 10SM CLR 09/09 A2944 RMK AO2 T00930093
+cycle: 9

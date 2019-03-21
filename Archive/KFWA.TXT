@@ -1,0 +1,13 @@
+FORT WAYNE INTERNATIONAL, IN, United States (KFWA) 41-00N 85-12W 248M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the S (180 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 55.9 F (13.3 C)
+Dew Point: 46.0 F (7.8 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) lower than three hours ago
+ob: KFWA 140854Z 18014KT 10SM FEW050 FEW070 OVC100 13/08 A2973 RMK AO2 RAE22 SLP067 P0000 60001 T01330078 58021 
+cycle: 9

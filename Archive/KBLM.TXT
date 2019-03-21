@@ -1,0 +1,12 @@
+Belmar-Farmingdale, NJ, United States (KBLM) 40-11N 074-08W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 42.1 F (5.6 C)
+Dew Point: 27.0 F (-2.8 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KBLM 140856Z AUTO 00000KT 10SM OVC060 06/M03 A3025 RMK AO2 SLP248 T00561028 56010
+cycle: 9

@@ -1,0 +1,11 @@
+Phillips Army Air Field / Aberdeen, MD, United States (KAPG) 39-28N 076-10W
+Mar 13, 2019 - 06:53 AM EDT / 2019.03.13 1053 UTC
+Wind: Calm:0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 21 F (-6 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.37 in. Hg (1028 hPa)
+ob: KAPG 131053Z 00000KT 9SM R22/5500FT CLR M06/M07 A3037 RMK SLP288 
+cycle: 11

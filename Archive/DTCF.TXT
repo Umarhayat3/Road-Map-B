@@ -1,0 +1,11 @@
+Station name not available
+Feb 12, 2008 - 06:00 AM EST / 2008.02.12 1100 UTC
+Wind: from the NE (040 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 77 F (25 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: DTCF 121100Z 04006KT 9999 FEW018 25/18 Q1015
+cycle: 11

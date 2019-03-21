@@ -1,0 +1,12 @@
+Grafenwoehr, Germany (ETIC) 49-42N 011-57E 415M
+Mar 14, 2019 - 03:56 AM EDT / 2019.03.14 0756 UTC
+Wind: from the WSW (240 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 38.8 F (3.8 C)
+Dew Point: 37.8 F (3.2 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.79 in. Hg (1008 hPa)
+ob: ETIC 140756Z AUTO 24007KT 9999 OVC013 04/03 A2979 RMK AO2 DZE0658 SLPNO P0000 T00380032 FZRANO 
+cycle: 8

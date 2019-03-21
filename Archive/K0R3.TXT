@@ -1,0 +1,11 @@
+Station name not available
+Aug 25, 2011 - 11:55 AM EDT / 2011.08.25 1555 UTC
+Wind: from the N (360 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Temperature: 86 F (30 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.96 in. Hg (1014 hPa)
+ob: K0R3 251555Z AUTO 36005KT 10SM 30/25 A2996 RMK AO2
+cycle: 16

@@ -1,0 +1,8 @@
+Qavvik Lake, N. W. T., Canada (CXQA) 68-15-28N 122-06-13W
+Mar 11, 2011 - 06:00 PM EST / 2011.03.11 2300 UTC
+Wind: Calm:0
+Temperature: -23.8 F (-31.0 C)
+Dew Point: -28.8 F (-33.8 C)
+Relative Humidity: 76%
+ob: CXQA 112300Z AUTO 00000KT M31/M34 RMK AO1 T13101338
+cycle: 23

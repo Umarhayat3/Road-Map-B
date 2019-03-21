@@ -1,0 +1,12 @@
+JAFFREY MUNI-SILVER RANCH, NH, United States (KAFN) 42-48N 72-00W 313M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 33.1 F (0.6 C)
+Dew Point: 27.0 F (-2.8 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KAFN 140852Z AUTO 00000KT 10SM OVC055 01/M03 A3021 RMK AO2 SLP245 T00061028 56008
+cycle: 9

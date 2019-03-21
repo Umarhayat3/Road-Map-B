@@ -1,0 +1,10 @@
+Beira, Mozambique (FQBR) 19-48S 034-54E 16M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Temperature: 77 F (25 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: FQBR 140700Z /////KT 9000 SCT010 SCT018 OVC030 25/23 Q1007 RMK -DZ
+cycle: 7

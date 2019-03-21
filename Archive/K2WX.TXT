@@ -1,0 +1,10 @@
+BUFFALO, SD, United States (K2WX) 45-36N 103-33W 915M
+Mar 14, 2019 - 03:56 AM EDT / 2019.03.14 0756 UTC
+Wind: from the NNW (330 degrees) at 35 MPH (30 KT) gusting to 45 MPH (39 KT):0
+Temperature: 28.9 F (-1.7 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 23.0 F (-5.0 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: K2WX 140756Z AUTO 33030G39KT M02/M05 A2982 RMK AO1 PK WND 34043/0705 SLP129 T10171050 
+cycle: 8

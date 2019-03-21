@@ -1,0 +1,11 @@
+Zambezi, Zambia (FLZB) 13-32S 023-07E 1078M
+Nov 16, 2012 - 01:00 AM EST / 2012.11.16 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 71 F (22 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 83%
+ob: FLZB 160600Z 00000KT 9999 -RA BKN100 22/19 Q////
+cycle: 6

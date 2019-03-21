@@ -1,0 +1,11 @@
+Manston, South East, United Kingdom (EGMH) 51-20-31N 001-20-46E
+May 15, 2014 - 11:50 AM EDT / 2014.05.15 1550 UTC
+Wind: from the ESE (110 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 59 F (15 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.59 in. Hg (1036 hPa)
+ob: EGMH 151550Z 11008KT 070V130 9999 FEW020 15/08 Q1036 R/EGMHRIP 
+cycle: 16

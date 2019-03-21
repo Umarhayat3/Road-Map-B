@@ -1,0 +1,9 @@
+Sishen, South Africa (FASS) 27-38-59S 023-00E
+Sep 27, 2009 - 07:00 AM EDT / 2009.09.27 1100 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Temperature: 87 F (31 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 13%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FASS 271100Z AUTO 32008KT //// // ////// 31/M00 Q1019
+cycle: 11

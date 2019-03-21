@@ -1,0 +1,12 @@
+Luxembourg / Luxembourg, Luxembourg (ELLX) 49-37N 006-13E 379M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (220 degrees) at 16 MPH (14 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 39 F (4 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: ELLX 140820Z 22014KT 8000 -RA BKN008 04/03 Q1008 NOSIG
+cycle: 8

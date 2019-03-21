@@ -1,0 +1,10 @@
+Al Hoceima, Morocco (GMTA) 35-11N 003-51W 14M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: GMTA 140800Z 16004KT CAVOK 15/07 Q1027 NOSIG
+cycle: 8

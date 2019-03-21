@@ -1,0 +1,11 @@
+Bartow Municipal, FL, United States (KBOW) 27-57N 081-47W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ENE (070 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 62 F (17 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+ob: KBOW 140855Z AUTO 07005KT 10SM CLR 17/17 A3010 RMK AO2
+cycle: 9

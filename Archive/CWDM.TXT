@@ -1,0 +1,9 @@
+Chevery, Que., Canada (CWDM) 50-28N 059-38W 6M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (220 degrees) at 6 MPH (5 KT):0
+Temperature: 11.7 F (-11.3 C)
+Windchill: 1 F (-17 C):1
+Dew Point: 9.7 F (-12.4 C)
+Relative Humidity: 91%
+ob: CWDM 140700Z AUTO 22005KT M11/M12 RMK AO1 SOG 80 8005 SLP206 T11131124
+cycle: 7

@@ -1,0 +1,10 @@
+Mzimba, Malawi (FWMZ) 11-53S 033-37E 1351M
+Oct 26, 2015 - 02:00 AM EDT / 2015.10.26 0600 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 77 F (25 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 53%
+ob: FWMZ 260600Z 14008KT 9999 FEW020 25/15 Q////
+cycle: 6

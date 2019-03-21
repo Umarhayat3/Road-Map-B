@@ -1,0 +1,12 @@
+WAKEFIELD MUNICIPAL AIRPOR, VA, United States (KAKQ) 36-59N 077-00W 33M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 44.1 F (6.7 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KAKQ 140854Z AUTO 00000KT 10SM CLR 07/01 A3025 RMK AO2 SLP243 T00670011 58009
+cycle: 9

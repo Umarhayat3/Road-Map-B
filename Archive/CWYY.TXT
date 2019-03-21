@@ -1,0 +1,8 @@
+Osoyoos Automatic Weather Reporting System , Canada (CWYY) 49-02N 119-26W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 26.6 F (-3.0 C)
+Dew Point: 22.8 F (-5.1 C)
+Relative Humidity: 85%
+ob: CWYY 140700Z AUTO 00000KT M03/M05 RMK AO1 SOG 01 1020 SLP304 T10301051
+cycle: 7

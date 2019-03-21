@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the WNW (290 degrees) at 12 MPH (10 KT) gusting to 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 42 F (6 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: KDNA 140855Z AUTO 29010G16KT 10SM BKN050 OVC060 06/M06 A3001 RMK AO2
+cycle: 9

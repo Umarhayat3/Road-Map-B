@@ -1,0 +1,11 @@
+Station name not available
+Jun 30, 2011 - 10:00 AM EDT / 2011.06.30 1400 UTC
+Wind: from the S (180 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FPSP 301400Z 18016KT 9999 FEW020 SCT110 26/21 Q1011 NOSIG
+cycle: 14

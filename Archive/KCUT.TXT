@@ -1,0 +1,14 @@
+CUSTER COUNTY AIRPORT, SD, United States (KCUT) 43-44N 103-37W 1725M
+Mar 14, 2019 - 05:01 AM EDT / 2019.03.14 0901 UTC
+Wind: from the N (010 degrees) at 10 MPH (9 KT) gusting to 43 MPH (37 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow
+Precipitation last hour: A trace
+Temperature: 21.9 F (-5.6 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 14.0 F (-10.0 C)
+Relative Humidity: 71%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: KCUT 140901Z AUTO 01009G37KT 240V100 4SM -SN BKN025 M06/M10 A2962 RMK AO2 PK WND 30037/0855 P0000 T10561100 
+cycle: 9

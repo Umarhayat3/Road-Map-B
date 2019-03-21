@@ -1,0 +1,10 @@
+Dori, Burkina Faso (DFEE) 14-02N 000-02W 277M
+Sep 21, 2009 - 01:00 PM EDT / 2009.09.21 1700 UTC
+Wind: from the SE (140 degrees) at 2 MPH (2 KT):0
+Sky conditions: mostly cloudy
+Temperature: 93 F (34 C)
+Heat index: 98.4 F (36.9 C):1
+Dew Point: 69 F (21 C)
+Relative Humidity: 46%
+ob: DFEE 211700Z 14002KT 9/9 FEW020 BKN260 34/21
+cycle: 17

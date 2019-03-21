@@ -1,0 +1,12 @@
+FORT MYERS PAGE FIELD, FL, United States (KFMY) 26-35N 081-52W 4M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (110 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.0 F (18.9 C)
+Dew Point: 61.0 F (16.1 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KFMY 140853Z AUTO 11006KT 10SM CLR 19/16 A3006 RMK AO2 SLP182 T01890161 58014
+cycle: 9

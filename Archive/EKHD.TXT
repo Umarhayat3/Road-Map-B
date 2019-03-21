@@ -1,0 +1,9 @@
+Station name not available
+Oct 04, 2016 - 12:20 AM EDT / 2016.10.04 0420 UTC
+Wind: from the ESE (110 degrees) at 21 MPH (18 KT):0
+Temperature: 57 F (14 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 71%
+Pressure (altimeter): 30.62 in. Hg (1037 hPa)
+ob: EKHD 040420Z AUTO 11018KT 9999NDV 14/09 Q1037
+cycle: 4

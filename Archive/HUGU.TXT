@@ -1,0 +1,10 @@
+Gulu, Uganda (HUGU) 02-45N 032-20E 1105M
+Feb 22, 2016 - 07:00 AM EST / 2016.02.22 1200 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 95 F (35 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 21%
+ob: HUGU 221200Z 36004KT 9999 FEW026 BKN300 35/10
+cycle: 12

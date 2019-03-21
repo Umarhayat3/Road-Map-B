@@ -1,0 +1,12 @@
+Fort Carson, CO, United States (KFCS) 38-42N 104-46W 1789M
+Mar 13, 2019 - 06:25 AM EDT / 2019.03.13 1025 UTC
+Wind: from the N (010 degrees) at 20 MPH (17 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.11 in. Hg (985 hPa)
+ob: KFCS 131025Z AUTO 01017KT 7SM -RA FEW004 OVC010 05/05 A2911 RMK AO2 CIG 007V010 SLP832 
+cycle: 10

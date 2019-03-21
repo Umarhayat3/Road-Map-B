@@ -1,0 +1,12 @@
+Station name not available
+Jul 03, 2015 - 09:00 AM EDT / 2015.07.03 1300 UTC
+Wind: from the SSW (210 degrees) at 15 MPH (13 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist, ; patches of; sand, ; sand, ; sand, 
+Temperature: 57 F (14 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: E762 03130200 GG SBBRYZYX KWBCYMYX 031300 SAREYEYE SAAG S00 METAR SARE 031300Z 21013KT 160V250 9999 BKN008 14/12 Q1017
+cycle: 13

@@ -1,0 +1,9 @@
+Birni-N'Konni, Niger (DRRB) 13-48N 005-15E 273M
+Jan 29, 2019 - 05:00 AM EST / 2019.01.29 1000 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 84 F (29 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 12%
+ob: DRRB 291000Z 14008KT CAVOK 29/M03 Q////
+cycle: 10

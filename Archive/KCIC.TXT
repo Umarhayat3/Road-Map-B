@@ -1,0 +1,11 @@
+Chico Municipal , CA, United States (KCIC) 39-48N 121-51W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41 F (5 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 56%
+Pressure (altimeter): 30.29 in. Hg (1025 hPa)
+ob: KCIC 140855Z AUTO 00000KT 10SM CLR 05/M03 A3029 RMK AO1 
+cycle: 9

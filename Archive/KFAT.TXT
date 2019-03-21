@@ -1,0 +1,12 @@
+FRESNO AIR TERMINAL, CA, United States (KFAT) 36-47N 119-43W 104M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.0 F (7.2 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.23 in. Hg (1023 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) higher than three hours ago
+ob: KFAT 140853Z 00000KT 10SM CLR 07/02 A3023 RMK AO2 SLP236 T00720017 51012
+cycle: 9

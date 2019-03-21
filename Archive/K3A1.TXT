@@ -1,0 +1,11 @@
+Cullman, Folsom Field Airport, AL, United States (K3A1) 34-16-07N 086-51-30W
+Jul 01, 2013 - 05:35 PM EDT / 2013.07.01 2135 UTC
+Wind: from the WNW (300 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 82.0 F (27.8 C)
+Dew Point: 63.0 F (17.2 C)
+Relative Humidity: 52%
+Pressure (altimeter): 29.87 in. Hg (1011 hPa)
+ob: K3A1 012135Z AUTO 30006KT 10SM SCT046 SCT060 SCT070 28/17 A2987 RMK AO2 T02780172
+cycle: 21

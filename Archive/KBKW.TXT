@@ -1,0 +1,12 @@
+RALEIGH COUNTY MEM AIRPORT , WV, United States (KBKW) 37-48N 081-07W 764M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the SE (130 degrees) at 14 MPH (12 KT) gusting to 23 MPH (20 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50.0 F (10.0 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 45%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+Pressure tendency: 0.05 inches (1.8 hPa) lower than three hours ago
+ob: KBKW 140851Z AUTO 13012G20KT 10SM CLR 10/M01 A3006 RMK AO2 SLP169 T01001011 58018
+cycle: 9

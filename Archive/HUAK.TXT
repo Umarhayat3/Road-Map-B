@@ -1,0 +1,11 @@
+Station name not available
+Oct 15, 2014 - 04:00 AM EDT / 2014.10.15 0800 UTC
+Wind: from the NW (320 degrees) at 14 MPH (12 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain; Cumulonimbus clouds observed
+Temperature: 69 F (21 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 88%
+ob: HUAK 150800Z 32012KT 9000 -RA BKN021 FEW023CB BKN120 21/19
+cycle: 8

@@ -1,0 +1,12 @@
+BALTIMORE-WASHINGTON INTERNATIONAL , MD, United States (KBWI) 39-10N 076-41W 59M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the E (090 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 39.9 F (4.4 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) lower than three hours ago
+ob: KBWI 140854Z 09003KT 10SM SCT090 SCT250 04/02 A3018 RMK AO2 SLP219 T00440017 58019
+cycle: 9

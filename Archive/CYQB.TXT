@@ -1,0 +1,13 @@
+Quebec, Que, Canada (CYQB) 46-48N 071-23W 74M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 28 F (-2 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+Pressure tendency: falling rapidly
+ob: CYQB 140800Z 00000KT 5SM BR FEW008 OVC010 M02/M03 A3024 RMK SF2ST6 PRESFR SLP245
+cycle: 8

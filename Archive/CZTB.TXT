@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 16 MPH (14 KT):0
+Precipitation last hour: A trace
+Temperature: 33.8 F (1.0 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 32.9 F (0.5 C)
+Relative Humidity: 96%
+Pressure tendency: 0.02 inches (0.7 hPa) higher than three hours ago
+ob: CZTB 140800Z AUTO 08014KT 01/01 RMK AO1 1PAST HR SOG 41 8026 PK WND 07018/0758 SLP012 P0000 T00100005 50007
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+Sep 01, 2009 - 12:30 PM EDT / 2009.09.01 1630 UTC
+Wind: from the NNW (340 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 102 F (39 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 9%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: BKBK 011630Z 34009KT CAVOK 39/01 Q1004 NOSIG
+cycle: 16

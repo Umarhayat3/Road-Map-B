@@ -1,0 +1,11 @@
+Station name not available
+Aug 05, 2008 - 10:55 AM EDT / 2008.08.05 1455 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: K6B8 051455Z AUTO 00000KT 10SM SCT015 SCT025 SCT033 20/16 A3002 RMK AO2
+cycle: 15

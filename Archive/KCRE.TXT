@@ -1,0 +1,12 @@
+N. MYRTLE BCH.GRAND STRAND, SC, United States (KCRE) 33-49N 078-43W 10M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.9 F (9.4 C)
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KCRE 140853Z AUTO 00000KT 10SM CLR 09/09 A3024 RMK AO1 SLP241 T00940094 58008
+cycle: 9

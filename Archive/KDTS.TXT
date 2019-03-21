@@ -1,0 +1,12 @@
+DESTIN-FT WALTON BEACH AIRPORT , FL, United States (KDTS) 30-24N 86-28W 5M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (120 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 66.0 F (18.9 C)
+Dew Point: 62.1 F (16.7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KDTS 140853Z AUTO 12013KT 10SM FEW035 BKN048 19/17 A3002 RMK AO2 SLP165 T01890167 58010
+cycle: 9

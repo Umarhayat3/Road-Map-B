@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (260 degrees) at 14 MPH (12 KT) gusting to 23 MPH (20 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: haze
+Temperature: 61.9 F (16.6 C)
+Dew Point: 39.4 F (4.1 C)
+Relative Humidity: 43%
+Pressure (altimeter): 29.67 in. Hg (1004 hPa)
+ob: KF00 140855Z AUTO 26012G20KT 5SM HZ OVC034 17/04 A2967 RMK AO2 T01660041
+cycle: 9

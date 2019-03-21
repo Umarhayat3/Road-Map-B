@@ -1,0 +1,12 @@
+Fada N'Gourma, Burkina Faso (DFEF) 12-02N 000-22E 309M
+Sep 21, 2009 - 01:00 PM EDT / 2009.09.21 1700 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 86 F (30 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 74%
+ob: DFEF 211700Z 00000KT 9999 FEW0226 TCU BKN260 30/25
+cycle: 17

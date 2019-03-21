@@ -1,0 +1,9 @@
+Collingwood Automatic Weather Reporting System , Canada (CWCO) 44-30N 080-13W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (130 degrees) at 6 MPH (5 KT):0
+Temperature: 35.8 F (2.1 C)
+Dew Point: 31.6 F (-0.2 C)
+Relative Humidity: 84%
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: CWCO 140700Z AUTO 13005KT 02/M00 RMK AO1 SLP165 T00211002 56009
+cycle: 7

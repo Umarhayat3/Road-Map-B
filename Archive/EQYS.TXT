@@ -1,0 +1,11 @@
+Sigonella, NAS, Italy (EQYS) 37-24N 014-55E
+Mar 16, 2010 - 09:56 AM EDT / 2010.03.16 1356 UTC
+Wind: from the WSW (240 degrees) at 15 MPH (13 KT) gusting to 24 MPH (21 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 61.0 F (16.1 C)
+Dew Point: 42.1 F (5.6 C)
+Relative Humidity: 49%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: EQYS 161356Z AUTO 24013G21KT 10SM FEW090 16/06 A3015 RMK AO2 SLP208 T01610056 TSNO FIBI
+cycle: 14

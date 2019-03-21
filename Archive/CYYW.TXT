@@ -1,0 +1,12 @@
+Armstrong, Ont., Canada (CYYW) 50-18N 089-02W 351M
+Mar 14, 2019 - 04:05 AM EDT / 2019.03.14 0805 UTC
+Wind: from the E (090 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 35 F (2 C)
+Windchill: 30 F (-1 C):1
+Pressure (altimeter): 29.64 in. Hg (1003 hPa)
+Pressure tendency: falling rapidly
+ob: CYYW 140805Z AUTO 09004KT 060V130 5SM -RA OVC004 02/ A2964 RMK PRESFR TD MISG SLP050
+cycle: 8

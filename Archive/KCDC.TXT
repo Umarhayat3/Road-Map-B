@@ -1,0 +1,13 @@
+CEDAR CITY MUN AIRPORT, UT, United States (KCDC) 37-42N 113-06W 1714M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNE (020 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 25.0 F (-3.9 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 19.0 F (-7.2 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KCDC 140853Z AUTO 02006KT 10SM BKN050 OVC060 M04/M07 A3011 RMK AO2 SLP212 T10391072 53009
+cycle: 9

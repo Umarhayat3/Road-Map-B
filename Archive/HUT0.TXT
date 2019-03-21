@@ -1,0 +1,9 @@
+Station name not available
+Aug 13, 2012 - 12:00 AM EDT / 2012.08.13 0400 UTC
+Wind: from the S (180 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: Cumulonimbus clouds observed
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HUT0 130400Z 18007KT 9999 BKN015 FEW018CB OVC19/18 Q1019 885.5
+cycle: 4

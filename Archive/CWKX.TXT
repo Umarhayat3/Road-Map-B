@@ -1,0 +1,8 @@
+Dease Lake Coastal Station, Canada (CWKX) 58-25N 130-00W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WSW (250 degrees) at 3 MPH (3 KT):0
+Temperature: 31.5 F (-0.3 C)
+Dew Point: 18.5 F (-7.5 C)
+Relative Humidity: 58%
+ob: CWKX 140700Z AUTO 25003KT M00/M08 RMK AO1 SOG 50 6010 SLP153 T10031075
+cycle: 7

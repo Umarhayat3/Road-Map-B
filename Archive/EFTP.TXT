@@ -1,0 +1,12 @@
+Tampere / Pirkkala, Finland (EFTP) 61-25N 023-35E 112M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (140 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: EFTP 140820Z 14010KT 9999 FEW004 BKN006 01/00 Q0996
+cycle: 8

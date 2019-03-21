@@ -1,0 +1,11 @@
+Spa / La Sauveniere, Belgium (EBSP) 50-29N 005-55E 482M
+Oct 28, 2010 - 10:00 AM EDT / 2010.10.28 1400 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 95 F (35 C)
+Heat index: 95.2 F (35.1 C):1
+Dew Point: 60 F (16 C)
+Relative Humidity: 32%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: EBSP 281400Z /////KT 9999 FEW030 35/16 Q1011
+cycle: 14

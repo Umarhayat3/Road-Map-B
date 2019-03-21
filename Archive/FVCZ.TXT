@@ -1,0 +1,10 @@
+Buffalo Range, Zimbabwe (FVCZ) 21-01S 031-35E 430M
+Mar 11, 2019 - 12:00 AM EDT / 2019.03.11 0400 UTC
+Wind: from the E (090 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FVCZ 110400Z 09005KT CAVOK 21/19 Q1021
+cycle: 4

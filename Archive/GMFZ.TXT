@@ -1,0 +1,12 @@
+Taza, Morocco (GMFZ) 34-13N 004-00W 510M
+Nov 17, 2012 - 12:30 PM EST / 2012.11.17 1730 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds, towering cumulus clouds observed
+Temperature: 59 F (15 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GMFZ 171730Z 00000KT 8000 TS SCT020TCU BKN023CB 15/13 Q1009
+cycle: 17

@@ -1,0 +1,10 @@
+Station name not available
+Mar 13, 2019 - 12:45 PM EDT / 2019.03.13 1645 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 37 F (3 C)
+Dew Point: 24 F (-4 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: BIBD 131645Z 05005KT CAVOK 03/M04 Q0983
+cycle: 17

@@ -1,0 +1,12 @@
+Hall Beach, N. W. T., Canada (CYUX) 68-47N 081-15W 8M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (320 degrees) at 12 MPH (10 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: -23 F (-31 C)
+Windchill: -47 F (-44 C):2
+Dew Point: -29 F (-34 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+ob: CYUX 140800Z AUTO 32010KT 9SM CLR M31/M34 A3012 RMK SLP202
+cycle: 8

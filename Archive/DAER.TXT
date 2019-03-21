@@ -1,0 +1,11 @@
+Station name not available
+Nov 09, 2016 - 04:00 AM EST / 2016.11.09 0900 UTC
+Wind: from the N (360 degrees) at 17 MPH (15 KT) gusting to 23 MPH (20 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 53 F (12 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 81%
+Pressure (altimeter): 32.25 in. Hg (1092 hPa)
+ob: DAER 090900Z 36015G20KT 9999 FEW046 SCT023 BKN100 12/09 Q1092
+cycle: 9

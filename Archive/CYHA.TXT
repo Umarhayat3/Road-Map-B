@@ -1,0 +1,11 @@
+Quaqtaq Airport, Canada (CYHA) 61-03N 069-38W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: from the WSW (240 degrees) at 3 MPH (3 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 1 F (-17 C)
+Dew Point: -7 F (-22 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: CYHA 132100Z 24003KT 15SM FEW260 M17/M22 A3002 RMK CI1 CI TR SNW CVR/HARD PACK LAST STFD OBS/NEXT 141200 UTC SLP170
+cycle: 21

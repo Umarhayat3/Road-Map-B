@@ -1,0 +1,11 @@
+Station name not available
+Nov 06, 2015 - 05:18 AM EST / 2015.11.06 1018 UTC
+Wind: from the NNE (020 degrees) at 2 MPH (2 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 59 F (15 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+ob: DAOK 061018Z 02002KT 5000 SCT016 15/12 Q1029
+cycle: 10

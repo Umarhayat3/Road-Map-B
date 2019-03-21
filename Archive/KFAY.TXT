@@ -1,0 +1,12 @@
+FAYETTEVILLE REGIONAL AIRPORT , NC, United States (KFAY) 34-59N 078-53W 55M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 48.0 F (8.9 C)
+Dew Point: 43.0 F (6.1 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KFAY 140853Z 00000KT 10SM CLR 09/06 A3025 RMK AO2 SLP237 T00890061 58010
+cycle: 9

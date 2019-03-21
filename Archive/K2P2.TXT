@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 12 MPH (10 KT) gusting to 18 MPH (16 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 41.0 F (5.0 C)
+Dew Point: 38.7 F (3.7 C)
+Relative Humidity: 91%
+Pressure (altimeter): 29.54 in. Hg (1000 hPa)
+ob: K2P2 140855Z AUTO 16010G16KT 130V190 10SM -RA OVC015 05/04 A2954 RMK AO2 T00500037
+cycle: 9

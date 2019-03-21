@@ -1,0 +1,11 @@
+Dzaoudzi / Pamanzi Mayotte , Comoros (FMCZ) 12-48S 045-17E 7M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the NW (320 degrees) at 12 MPH (10 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 87 F (31 C)
+Heat index: 95.7 F (35.4 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FMCZ 140830Z AUTO 32010KT 300V360 CAVOK 31/24 Q1013 NOSIG
+cycle: 8

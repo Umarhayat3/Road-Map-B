@@ -1,0 +1,12 @@
+Pietermaritzburg, South Africa (FAPM) 29-39S 030-24E
+Jan 15, 2019 - 01:00 AM EST / 2019.01.15 0600 UTC
+Wind: from the SSW (210 degrees) at 6 MPH (5 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: drizzle
+Temperature: 69 F (21 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FAPM 150600Z 21005KT 1000 DZ OVC007 21/21 Q1015
+cycle: 6

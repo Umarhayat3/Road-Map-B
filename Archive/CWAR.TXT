@@ -1,0 +1,9 @@
+Argentia, Nfld, Canada (CWAR) 47-18N 054-00W 16M
+Aug 03, 2017 - 08:00 AM EDT / 2017.08.03 1200 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Temperature: 59.4 F (15.2 C)
+Dew Point: 49.8 F (9.9 C)
+Relative Humidity: 70%
+Pressure tendency: 0.02 inches (0.6 hPa) higher than three hours ago
+ob: CWAR 031200Z AUTO 16005KT 15/10 RMK AO1 SLP271 T01520099 51006
+cycle: 12

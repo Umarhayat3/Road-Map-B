@@ -1,0 +1,11 @@
+Station name not available
+May 04, 2010 - 01:00 PM EDT / 2010.05.04 1700 UTC
+Wind: from the NW (320 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 46 F (8 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 65%
+ob: DAMD 041700Z 32012KT 9999 FEW020 FEW023TCU BKN026 08/02 Q////
+cycle: 17

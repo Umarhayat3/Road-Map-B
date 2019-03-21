@@ -1,0 +1,12 @@
+Albert Lea, Albert Lea Municipal Airport, MN, United States (KAEL) 43-41N 093-22W
+Mar 14, 2019 - 04:46 AM EDT / 2019.03.14 0846 UTC
+Wind: from the SSE (150 degrees) at 9 MPH (8 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: drizzle
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.24 in. Hg (990 hPa)
+ob: KAEL 140846Z AUTO 15008KT 1/4SM DZ OVC002 05/05 A2924 RMK AO2
+cycle: 9

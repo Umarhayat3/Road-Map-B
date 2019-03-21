@@ -1,0 +1,8 @@
+La Tuque, Canada (CWDQ) 47-25N 072-48W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (140 degrees) at 2 MPH (2 KT):0
+Temperature: 27.9 F (-2.3 C)
+Dew Point: 25.7 F (-3.5 C)
+Relative Humidity: 91%
+ob: CWDQ 140700Z AUTO 14002KT M02/M04 RMK AO1 SOG 74 0000 SLP237 T10231035
+cycle: 7

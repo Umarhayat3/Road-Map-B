@@ -1,0 +1,12 @@
+Kruunupyy, Finland (EFKK) 63-43N 023-09E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ESE (120 degrees) at 14 MPH (12 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 30 F (-1 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: EFKK 140820Z 12012KT 090V150 9999 FEW014 OVC031 M01/M04 Q0994
+cycle: 8

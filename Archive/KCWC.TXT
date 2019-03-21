@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the WNW (290 degrees) at 9 MPH (8 KT) gusting to 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 49.5 F (9.7 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.78 in. Hg (1008 hPa)
+ob: KCWC 140855Z AUTO 29008G17KT 10SM CLR 10/00 A2978 RMK AO2 T00970000
+cycle: 9

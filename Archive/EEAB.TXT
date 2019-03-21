@@ -1,0 +1,11 @@
+Station name not available
+Jul 30, 2009 - 05:00 PM EDT / 2009.07.30 2100 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Sky conditions: clear
+Temperature: 73 F (23 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 43%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: EEAB 302100Z 00000KT 8000 SKC 23/10 Q1022 NOSIG
+cycle: 21

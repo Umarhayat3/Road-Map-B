@@ -1,0 +1,10 @@
+Tulear, Madagascar (FMST) 23-23S 043-44E 8M
+May 10, 2011 - 08:00 AM EDT / 2011.05.10 1200 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 80 F (27 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FMST 101200Z ///06KT 9999 FEW023 27/22 Q1011
+cycle: 12

@@ -1,0 +1,8 @@
+Station name not available
+Jun 01, 2018 - 05:00 AM EDT / 2018.06.01 0900 UTC
+Temperature: 82 F (28 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 37%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FDNY 010900Z AUTO /////KT //// // ////// 28/12 Q1025
+cycle: 9

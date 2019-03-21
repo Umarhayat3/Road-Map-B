@@ -1,0 +1,10 @@
+Station name not available
+Jun 22, 2013 - 09:00 AM EDT / 2013.06.22 1300 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 56%
+ob: HKMK 221300Z 10005KT 9999 SCT020 BKN100 21/12
+cycle: 13

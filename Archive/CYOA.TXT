@@ -1,0 +1,13 @@
+Ekati, N. W. T., Canada (CYOA) 64-42N 110-37W
+Mar 13, 2019 - 07:00 PM EDT / 2019.03.13 2300 UTC
+Wind: from the N (010 degrees) at 8 MPH (7 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: light snow; mist
+Temperature: 0 F (-18 C)
+Windchill: -14 F (-26 C):2
+Dew Point: -5 F (-21 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.96 in. Hg (1014 hPa)
+ob: CYOA 132300Z 01007KT 1SM -SN BR BKN003 OVC013 M18/M21 A2996
+cycle: 23

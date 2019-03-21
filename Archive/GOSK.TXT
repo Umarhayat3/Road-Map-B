@@ -1,0 +1,10 @@
+Station name not available
+Oct 26, 2012 - 03:00 AM EDT / 2012.10.26 0700 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GOSK 260700Z VRB02KT CAVOK 26/25 Q1010
+cycle: 7

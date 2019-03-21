@@ -1,0 +1,12 @@
+Station name not available
+Jul 21, 2016 - 10:00 AM EDT / 2016.07.21 1400 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain; Cumulonimbus clouds observed
+Temperature: 77 F (25 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: GBYE 211400Z VRB03KT 8000 -RA BKN010 FEW018CB BKN100 25/24 Q1012 CB-NW/N
+cycle: 14

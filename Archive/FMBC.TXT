@@ -1,0 +1,12 @@
+Station name not available
+Jun 22, 2014 - 04:00 AM EDT / 2014.06.22 0800 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 68 F (20 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FMBC 220800Z VRB03KT 3000 BR BKN011 20/20 Q1018
+cycle: 8

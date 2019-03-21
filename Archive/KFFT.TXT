@@ -1,0 +1,13 @@
+FRANKFORT CAPITAL CITY AIRPORT , KY, United States (KFFT) 38-11N 84-54W 236M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 18 MPH (16 KT) gusting to 30 MPH (26 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Precipitation last hour: A trace
+Temperature: 62.1 F (16.7 C)
+Dew Point: 44.1 F (6.7 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) lower than three hours ago
+ob: KFFT 140853Z AUTO 16016G26KT 10SM SCT100 BKN110 17/07 A2984 RMK AO2 PK WND 18026/0812 RAB16E29 SLP099 P0000 60000 T01670067 58019
+cycle: 9

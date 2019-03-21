@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSE (160 degrees) at 21 MPH (18 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 84 F (29 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 58%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HCMF 140700Z 16018KT CAVOK 29/20 Q1014
+cycle: 7

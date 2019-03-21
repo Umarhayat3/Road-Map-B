@@ -1,0 +1,10 @@
+Ghanzi, Botswana (FBGZ) 21-42S 021-39E 1100M
+Jun 20, 2010 - 05:00 AM EDT / 2010.06.20 0900 UTC
+Wind: from the E (090 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 32%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: FBGZ 200900Z 09008KT CAVOK 20/03 Q1028
+cycle: 9

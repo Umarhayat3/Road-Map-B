@@ -1,0 +1,12 @@
+CAMARILLO AIRPORT, CA, United States (KCMA) 34-13N 119-05W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ENE (070 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 55.0 F (12.8 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: KCMA 140855Z AUTO 07010KT 10SM CLR 13/M02 A3012 RMK AO2 SLP208 T01281022 50003
+cycle: 9

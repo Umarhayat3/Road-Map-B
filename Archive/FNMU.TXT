@@ -1,0 +1,11 @@
+Station name not available
+Jul 20, 2016 - 07:00 AM EDT / 2016.07.20 1100 UTC
+Wind: from the WNW (300 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FNMU 201100Z 30004KT 9999 BKN020 26/19 Q1014
+cycle: 11

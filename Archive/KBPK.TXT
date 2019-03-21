@@ -1,0 +1,12 @@
+OZARK REGIONAL AIRPORT, AR, United States (KBPK) 36-22N 092-28W 280M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SW (220 degrees) at 13 MPH (11 KT) gusting to 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 57.9 F (14.4 C)
+Dew Point: 54.0 F (12.2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: KBPK 140853Z AUTO 22011G16KT 10SM SCT017 SCT027 14/12 A2956 RMK AO2 SLP004 T01440122 58006 TSNO
+cycle: 9

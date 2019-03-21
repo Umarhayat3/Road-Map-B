@@ -1,0 +1,11 @@
+Windsor, Ont., Canada (CYQG) 42-16N 082-58W 190M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 44 F (7 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.87 in. Hg (1011 hPa)
+ob: CYQG 140800Z AUTO 16005KT 9SM CLR 07/02 A2987 RMK SLP120
+cycle: 8

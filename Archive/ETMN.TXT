@@ -1,0 +1,12 @@
+Nordholz, Germany (ETMN) 53-46N 008-40E 31M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (220 degrees) at 17 MPH (15 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: ETMN 140820Z 22015KT 6000 -RADZ SCT007 BKN011 05/04 Q0996 GRN GRN TEMPO YLO
+cycle: 8

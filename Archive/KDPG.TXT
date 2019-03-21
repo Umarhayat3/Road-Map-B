@@ -1,0 +1,11 @@
+Dugway Proving Grounds, UT, United States (KDPG) 40-10N 112-56W 1325M
+Mar 12, 2019 - 06:55 PM EDT / 2019.03.12 2255 UTC
+Wind: from the NW (310 degrees) at 6 MPH (5 KT) gusting to 13 MPH (11 KT):0
+Visibility: 50 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 53.4 F (11.9 C)
+Dew Point: 35.8 F (2.1 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: KDPG 122255Z 31005G11KT 50SM FEW040 SCT100 BKN180 12/02 A2956 RMK SLP994 LAST T01190021
+cycle: 23

@@ -1,0 +1,9 @@
+Rocky Harbour CS, Nfld., Canada (CXRH) 49-34N 057-53W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT):0
+Temperature: 12.2 F (-11.0 C)
+Windchill: 3 F (-16 C):1
+Dew Point: 10.8 F (-11.8 C)
+Relative Humidity: 93%
+ob: CXRH 140800Z AUTO 05004KT M11/M12 RMK AO1 T11101118
+cycle: 8

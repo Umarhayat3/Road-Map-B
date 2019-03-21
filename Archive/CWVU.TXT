@@ -1,0 +1,8 @@
+Brier Island, N. S., Canada (CWVU) 44-17-09N 066-20-48W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (230 degrees) at 5 MPH (4 KT):0
+Temperature: 35.1 F (1.7 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 81%
+ob: CWVU 140700Z AUTO 23004KT 02/M01 RMK AO1 SOG 01 0000 SLP276 T00171011
+cycle: 7

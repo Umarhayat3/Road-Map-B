@@ -1,0 +1,13 @@
+BISHOP AIRPORT, CA, United States (KBIH) 37-22N 118-22W 1253M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the N (350 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 33.1 F (0.6 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 12.9 F (-10.6 C)
+Relative Humidity: 42%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) higher than three hours ago
+ob: KBIH 140856Z AUTO 35010KT 10SM CLR 01/M11 A3026 RMK AO2 SLP243 T00061106 51005
+cycle: 9

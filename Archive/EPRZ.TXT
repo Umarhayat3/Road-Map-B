@@ -1,0 +1,10 @@
+Rzeszow-Jasionka, Poland (EPRZ) 50-06N 022-03E 202M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (190 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 44 F (7 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: EPRZ 140800Z 19014KT CAVOK 07/00 Q1007 
+cycle: 8

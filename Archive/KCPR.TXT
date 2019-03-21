@@ -1,0 +1,14 @@
+NATRONA COUNTY INTERNATIONAL  AIRPORT , WY, United States (KCPR) 42-54N 106-28W 1621M
+Mar 14, 2019 - 05:01 AM EDT / 2019.03.14 0901 UTC
+Wind: from the WNW (290 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light snow; mist
+Precipitation last hour: A trace
+Temperature: 21.9 F (-5.6 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 21.0 F (-6.1 C)
+Relative Humidity: 96%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: KCPR 140901Z AUTO 29006KT 5SM -SN BR BKN026 OVC038 M06/M06 A3000 RMK AO2 P0000 T10561061 
+cycle: 9

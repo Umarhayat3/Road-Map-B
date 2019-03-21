@@ -1,0 +1,15 @@
+BUFFALO JOHNSON COUNTY AIRPORT , WY, United States (KBYG) 44-23N 106-43W 1497M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNW (340 degrees) at 28 MPH (24 KT) gusting to 41 MPH (36 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: light snow; mist
+Precipitation last hour: A trace
+Temperature: 25.0 F (-3.9 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 21.9 F (-5.6 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) higher than three hours ago
+ob: KBYG 140853Z AUTO 34024G36KT 2SM -SN BR SCT011 BKN016 OVC021 M04/M06 A2999 RMK AO2 PK WND 34042/0757 VIS 1V5 SLP191 P0000 60000 T10391056 51017
+cycle: 9

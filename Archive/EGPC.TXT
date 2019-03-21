@@ -1,0 +1,12 @@
+Wick, United Kingdom (EGPC) 58-27N 003-05W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the NW (310 degrees) at 22 MPH (19 KT) gusting to 33 MPH (29 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain; Cumulonimbus clouds observed
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.09 in. Hg (0985 hPa)
+ob: EGPC 140820Z 31019G29KT 9000 -RA FEW004 BKN013CB BKN020 06/04 Q0985
+cycle: 8

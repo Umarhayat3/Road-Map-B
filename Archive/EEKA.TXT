@@ -1,0 +1,13 @@
+Kardla, Estonia (EEKA) 58-59N 022-49E
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SSE (150 degrees) at 15 MPH (13 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 33 F (1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.44 in. Hg (0997 hPa)
+ob: EEKA 140750Z 15013KT 4300 BR OVC002 01/01 Q0997
+cycle: 8

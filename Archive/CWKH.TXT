@@ -1,0 +1,8 @@
+Malahat Automatic Weather Reporting System , Canada (CWKH) 48-35N 123-35W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Temperature: 38.8 F (3.8 C)
+Dew Point: 33.3 F (0.7 C)
+Relative Humidity: 80%
+Pressure tendency: 0.01 inches (0.5 hPa) higher than three hours ago
+ob: CWKH 140700Z AUTO 04/01 RMK AO1 SLP275 T00380007 51005
+cycle: 7

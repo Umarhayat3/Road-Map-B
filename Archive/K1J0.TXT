@@ -1,0 +1,13 @@
+TRI COUNTY AIRPORT, FL, UNITED STATES (K1J0) 30-50N 085-36W
+Nov 14, 2018 - 09:23 PM EST / 2018.11.15 0223 UTC
+Wind: from the NW (320 degrees) at 3 MPH (3 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: A trace
+Temperature: 51.1 F (10.6 C)
+Dew Point: 51.1 F (10.6 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: K1J0 150223Z AUTO 32003KT 9SM -RA BKN007 OVC110 11/11 A3015 RMK AO2 P0000 T01060106 
+cycle: 2

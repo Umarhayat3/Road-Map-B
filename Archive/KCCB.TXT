@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50 F (10 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: KCCB 140855Z AUTO 00000KT 10SM CLR 10/03 A3011 RMK AO2
+cycle: 9

@@ -1,0 +1,11 @@
+Walvis Bay, Namibia (FYWB) 22-58-59S 014-39E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (270 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 59 F (15 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FYWB 140800Z 27003KT 9999 OVC006 15/14 Q1016
+cycle: 8

@@ -1,0 +1,13 @@
+Roberston Field Landon, ND, United States (KD55) 48-45-11N 098-23-37W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (010 degrees) at 29 MPH (25 KT) gusting to 36 MPH (31 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 30 F (-1 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: KD55 140855Z AUTO 01025G31KT 1SM -SN BKN001 BKN010 OVC029 M01/M01 A2965 RMK AO2
+cycle: 9

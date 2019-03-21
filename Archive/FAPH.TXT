@@ -1,0 +1,9 @@
+Phalaborwa, South Africa (FAPH) 23-56S 031-09E 400M
+Jul 12, 2013 - 03:00 AM EDT / 2013.07.12 0700 UTC
+Wind: from the S (170 degrees) at 8 MPH (7 KT):0
+Temperature: 59 F (15 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+ob: FAPH 120700Z AUTO 17007KT //// // ////// 15/13 Q1029
+cycle: 7

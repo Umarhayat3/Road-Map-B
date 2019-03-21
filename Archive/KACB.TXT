@@ -1,0 +1,11 @@
+Bellaire, Antrim County Airport, MI, United States (KACB) 44-59-18N 085-11-54W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (170 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 50.9 F (10.5 C)
+Dew Point: 38.8 F (3.8 C)
+Relative Humidity: 63%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: KACB 140856Z AUTO 17008KT 140V220 10SM BKN095 OVC110 11/04 A2965 RMK AO2 T01050038
+cycle: 9

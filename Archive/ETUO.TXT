@@ -1,0 +1,11 @@
+Guetersloh, Germany (ETUO) 51-55N 008-18E 72M
+Oct 28, 2013 - 08:50 AM EDT / 2013.10.28 1250 UTC
+Wind: from the SW (220 degrees) at 24 MPH (21 KT) gusting to 36 MPH (31 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 60 F (16 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 72%
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: ETUO 281250Z 22021G31KT 9999 BKN040 BKN250 16/11 Q0995 BLU
+cycle: 13

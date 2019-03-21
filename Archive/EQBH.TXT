@@ -1,0 +1,12 @@
+Station name not available
+Sep 16, 2012 - 10:50 AM EDT / 2012.09.16 1450 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: clear
+Weather: widespread dust; hail, 
+Temperature: 78 F (26 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 12%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: EQBH 161450Z 16005KT 4000 DU SKC 26/M05 Q1008 GRN TEMPO 5000 WHT RMK A2977 PA3071 DA5102
+cycle: 15

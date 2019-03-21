@@ -1,0 +1,8 @@
+La Ronge , Sask., Canada (CXOX) 55-09N 105-16W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 1 MPH (1 KT):0
+Temperature: 16.0 F (-8.9 C)
+Dew Point: 12.0 F (-11.1 C)
+Relative Humidity: 84%
+ob: CXOX 140800Z AUTO 16001KT M09/M11 RMK AO1 SOG 49 3009 SLP207 T10891111
+cycle: 8

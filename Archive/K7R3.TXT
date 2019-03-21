@@ -1,0 +1,12 @@
+Amelia / Lake Palourd, LA, United States (K7R3) 29-42N 091-06W
+Nov 03, 2016 - 05:29 AM EDT / 2016.11.03 0929 UTC
+Wind: from the ENE (070 degrees) at 3 MPH (3 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: partly cloudy
+Weather: mist
+Temperature: 68 F (20 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: K7R3 030929Z 07003KT 5SM BR SCT001 20/19 A3017
+cycle: 9

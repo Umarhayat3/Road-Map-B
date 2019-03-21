@@ -1,0 +1,11 @@
+Plymouth / Roborough, United Kingdom (EGHD) 50-25N 004-07W
+Dec 23, 2011 - 10:20 AM EST / 2011.12.23 1520 UTC
+Wind: from the NW (320 degrees) at 14 MPH (12 KT) gusting to 25 MPH (22 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: EGHD 231520Z 32012G22KT 280V350 9999 FEW018 06/05 Q1018
+cycle: 15

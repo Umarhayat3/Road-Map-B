@@ -1,0 +1,12 @@
+Wyton Royal Air Force Base, United Kingdom (EGUY) 52-21N 000-07W
+Oct 04, 2015 - 04:50 AM EDT / 2015.10.04 0850 UTC
+Wind: from the SSE (150 degrees) at 2 MPH (2 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: clear
+Weather: haze
+Temperature: 51 F (11 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: EGUY 040850Z 15002KT 6000 HZ SKC 11/07 Q1014 WHT
+cycle: 9

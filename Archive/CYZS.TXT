@@ -1,0 +1,13 @@
+Coral Harbour, N. W. T., Canada (CYZS) 64-12N 083-22W 64M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 15 MPH (13 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Weather: ice crystals
+Temperature: -25 F (-32 C)
+Windchill: -50 F (-46 C):2
+Dew Point: -32 F (-36 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+ob: CYZS 140800Z 34013KT 15SM IC SKC M32/M36 A3012 RMK SLP210
+cycle: 8

@@ -1,0 +1,11 @@
+Ljungbyhed, Sweden (ESTL) 56-04N 013-12E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (240 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: ESTL 140820Z AUTO 24008KT 9999 FEW010/// SCT014/// BKN017/// 05/04 Q0993
+cycle: 8

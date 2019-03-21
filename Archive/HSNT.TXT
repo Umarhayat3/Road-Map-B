@@ -1,0 +1,9 @@
+Station name not available
+Oct 30, 2009 - 02:51 PM EDT / 2009.10.30 1851 UTC
+Wind: Calm:0
+Temperature: 39.0 F (3.9 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: HSNT 301851Z AUTO 00000KT 04/00 A3017 RMK AO* LP197 T00390000 PWINO TSNO 
+cycle: 19

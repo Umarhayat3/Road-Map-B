@@ -1,0 +1,12 @@
+Kleine Brogel, Belgium (EBBL) 51-10N 005-28E 64M
+Mar 14, 2019 - 03:25 AM EDT / 2019.03.14 0725 UTC
+Wind: from the SW (220 degrees) at 18 MPH (16 KT) gusting to 31 MPH (27 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: EBBL 140725Z 22016G27KT 4000 -RADZ BKN008 BKN012 06/05 Q1004 GRN WHT TEMPO GRN
+cycle: 7

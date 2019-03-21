@@ -1,0 +1,12 @@
+Sikasso, Mali (GASK) 11-21N 005-41W 375M
+Oct 25, 2018 - 01:10 PM EDT / 2018.10.25 1710 UTC
+Wind: from the ESE (120 degrees) at 21 MPH (18 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly clear
+Weather: rain with thunder; ice pellets, ; Cumulonimbus clouds observed
+Temperature: 93 F (34 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 68 F (20 C)
+Relative Humidity: 43%
+ob: GASK 251710Z 12018KT 7000 TSRA FEW020 FEW30CB 34/20 Q//// ORAGE ET PLUIE A LA STATION
+cycle: 17

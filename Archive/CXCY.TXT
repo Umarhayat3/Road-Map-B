@@ -1,0 +1,8 @@
+Station name not available
+Apr 14, 2009 - 02:00 PM EDT / 2009.04.14 1800 UTC
+Wind: from the NE (040 degrees) at 7 MPH (6 KT):0
+Temperature: 43.2 F (6.2 C)
+Dew Point: 27.7 F (-2.4 C)
+Relative Humidity: 54%
+ob: CXCY 141800Z AUTO 04006KT 06/M02 RMK AO1 T00621024
+cycle: 18

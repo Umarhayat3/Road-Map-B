@@ -1,0 +1,12 @@
+Lloydminister, Alta., Canada (CYLL) 53-19N 110-04W 669M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (260 degrees) at 14 MPH (12 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 23 F (-5 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: CYLL 140800Z AUTO 26012KT 9SM BKN090 M05/M10 A3011 RMK SLP238
+cycle: 8

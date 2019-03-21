@@ -1,0 +1,12 @@
+Burwash Airport, Canada (CYDB) 61-22N 139-02W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SE (130 degrees) at 22 MPH (19 KT) gusting to 35 MPH (30 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 28 F (-2 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.45 in. Hg (997 hPa)
+ob: CYDB 140800Z AUTO 13019G30KT 9SM CLR M02/M07 A2945 RMK SLP018
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+May 24, 2016 - 12:30 AM EDT / 2016.05.24 0430 UTC
+Wind: from the SW (220 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GACS 240430Z 22006KT CAVOK 27/20 Q1013 NOSIG
+cycle: 4

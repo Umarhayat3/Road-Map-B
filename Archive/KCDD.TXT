@@ -1,0 +1,12 @@
+Crane Lake, Scotts Seaplane Base, MN, United States (KCDD) 48-15-59N 92-29-01W
+Mar 14, 2019 - 04:29 AM EDT / 2019.03.14 0829 UTC
+Wind: Calm:0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 35 F (2 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.43 in. Hg (996 hPa)
+ob: KCDD 140829Z AUTO 00000KT 1SM BR OVC004 02/02 A2943 RMK AO2
+cycle: 8

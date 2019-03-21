@@ -1,0 +1,13 @@
+Station name not available
+Feb 24, 2019 - 05:50 AM EST / 2019.02.24 1050 UTC
+Wind: from the ESE (120 degrees) at 10 MPH (9 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: snow
+Temperature: 12 F (-11 C)
+Windchill: 0 F (-18 C):1
+Dew Point: 8 F (-13 C)
+Relative Humidity: 85%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: BGGN 241050Z 12009KT 1000 SN OVC005 M11/M13 Q1006
+cycle: 11

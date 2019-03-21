@@ -1,0 +1,11 @@
+Station name not available
+Feb 01, 2011 - 03:59 PM EST / 2011.02.01 2059 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Temperature: -9 F (-23 C)
+Windchill: -23 F (-31 C):2
+Dew Point: -18 F (-28 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.69 in. Hg (1039 hPa)
+ob: K1S3 012059Z 08006KT 10SM M23/M28 A3069 RMK FOR YTH 
+cycle: 21

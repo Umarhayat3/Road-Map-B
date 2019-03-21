@@ -1,0 +1,12 @@
+Wrigley Airport, Canada (CYWY) 63-13N 123-26W
+Mar 13, 2019 - 06:00 PM EDT / 2019.03.13 2200 UTC
+Wind: from the SSE (150 degrees) at 13 MPH (11 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 10 F (-12 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: CYWY 132200Z 15011KT 15SM SKC M05/M12 A3001 RMK -4.6/-14.3/0/45/LAST OBS/NEXT 141400 UTC SLP177
+cycle: 22

@@ -1,0 +1,11 @@
+Station name not available
+Sep 15, 2012 - 08:00 AM EDT / 2012.09.15 1200 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 80 F (27 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 54%
+ob: HAUR 151200Z 36004KT 9999 BKN020 FEW023CB 27/17
+cycle: 12

@@ -1,0 +1,11 @@
+Tanger Aerodrome , Morocco (GMTT) 35-44N 005-54W 21M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the E (080 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 60 F (16 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: GMTT 140830Z 08010KT 9999 R28///// FEW016 16/13 Q1026 NOSIG
+cycle: 8

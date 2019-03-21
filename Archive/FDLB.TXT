@@ -1,0 +1,9 @@
+Station name not available
+Dec 19, 2018 - 06:00 AM EST / 2018.12.19 1100 UTC
+Temperature: 93 F (34 C)
+Heat index: 95.9 F (35.5 C):1
+Dew Point: 66 F (19 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: FDLB 191100Z AUTO /////KT //// // ////// 34/19 Q1009
+cycle: 11

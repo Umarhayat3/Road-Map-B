@@ -1,0 +1,9 @@
+Station name not available
+Nov 22, 2008 - 01:53 PM EST / 2008.11.22 1853 UTC
+Wind: Calm:0
+Temperature: 51.1 F (10.6 C)
+Dew Point: 17.1 F (-8.3 C)
+Relative Humidity: 25%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: JP68 221853Z AUTO 00000KT 11/M08 A3016 RMK AO2 SLP202 T01061083 PWINO TSNO 
+cycle: 19

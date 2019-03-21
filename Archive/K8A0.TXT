@@ -1,0 +1,11 @@
+Albertville, Albertville Municipal Airport, AL, United States (K8A0) 34-13-44N 086-15-20W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 62 F (17 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: K8A0 140835Z AUTO 14008KT 10SM SCT029 SCT038 OVC060 17/10 A3000 RMK AO2
+cycle: 8

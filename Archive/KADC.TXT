@@ -1,0 +1,13 @@
+Wadena, Wadena Municipal Airport, MN, United States (KADC) 46-27-01N 095-12-39W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NNE (030 degrees) at 7 MPH (6 KT):0
+Visibility: 1 1/2 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.3 in. Hg (992 hPa)
+ob: KADC 140855Z AUTO 03006KT 1 1/2SM BR OVC003 02/02 A2930 RMK AO2
+cycle: 9

@@ -1,0 +1,12 @@
+Idar-Oberstein, Germany (ETGI) 49-42N 007-20E 377M
+Oct 20, 2017 - 05:44 AM EDT / 2017.10.20 0944 UTC
+Wind: from the SW (230 degrees) at 14 MPH (12 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Temperature: 53 F (12 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: ETGI 200944Z 23012KT 4000 -RA BR BKN010 OVC020 12/11 Q1014 GRN
+cycle: 9

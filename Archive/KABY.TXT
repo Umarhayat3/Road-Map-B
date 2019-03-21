@@ -1,0 +1,12 @@
+ALBANY SOUTHWEST GEORGIA, GA, United States (KABY) 31-32N 084-12W 58M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 63.0 F (17.2 C)
+Dew Point: 55.9 F (13.3 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: KABY 140853Z AUTO 12004KT 10SM OVC047 17/13 A3015 RMK AO2 SLP207 T01720133 55001
+cycle: 9

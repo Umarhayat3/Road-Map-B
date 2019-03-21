@@ -1,0 +1,11 @@
+Station name not available
+Nov 24, 2018 - 09:00 PM EST / 2018.11.25 0200 UTC
+Wind: from the WSW (240 degrees) at 12 MPH (10 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 57 F (14 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DUTG 250200Z 24010KT 7000 FEW020 SCT030 14/08 Q1013 NOSIG
+cycle: 2

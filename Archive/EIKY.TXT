@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (260 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: EIKY 140800Z 26016KT 9999 SCT007 BKN015 BKN025 11/10 Q1008
+cycle: 8

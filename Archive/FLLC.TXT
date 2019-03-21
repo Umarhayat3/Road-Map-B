@@ -1,0 +1,11 @@
+Lusaka City Airport, Zambia (FLLC) 14-27S 028-28E 1280M
+Nov 12, 2012 - 07:00 AM EST / 2012.11.12 1200 UTC
+Wind: from the SE (130 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 37%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FLLC 121200Z 13004KT 9999 BKN050 31/15 Q1016
+cycle: 12

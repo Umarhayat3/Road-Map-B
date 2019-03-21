@@ -1,0 +1,12 @@
+Sorkjosen, Norway (ENSR) 69-47N 020-58E 6M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the S (170 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 28 F (-2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 58%
+Pressure (altimeter): 29.23 in. Hg (0990 hPa)
+ob: ENSR 140820Z 17008KT 9999 FEW025 BKN040 M02/M09 Q0990 RMK WIND 1119FT VRB02KT
+cycle: 8

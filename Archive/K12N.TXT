@@ -1,0 +1,9 @@
+AEROFLEX-ANDOVER AIRPORT, NJ, United States (K12N) 41-01N 074-44W 177M
+Mar 14, 2019 - 03:54 AM EDT / 2019.03.14 0754 UTC
+Wind: Calm:0
+Temperature: 37.0 F (2.8 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: K12N 140754Z AUTO 00000KT 03/M02 A3022 RMK AO1 SLP239 T00281022 
+cycle: 8

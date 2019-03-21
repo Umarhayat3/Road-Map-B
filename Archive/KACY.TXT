@@ -1,0 +1,12 @@
+ATLANTIC CITY INTERNATIONAL, NJ, United States (KACY) 39-28N 74-35W 35M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 44.1 F (6.7 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KACY 140854Z 18004KT 10SM OVC070 07/02 A3024 RMK AO2 SLP239 T00670022 58008
+cycle: 9

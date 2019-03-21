@@ -1,0 +1,12 @@
+NEW BEDFORD REGIONAL AIRPORT, MA, United States (KEWB) 41-41N 070-58W 23M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37.0 F (2.8 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.28 in. Hg (1025 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KEWB 140853Z AUTO 16003KT 10SM OVC065 03/01 A3028 RMK AO2 SLP255 T00280006 55009
+cycle: 9

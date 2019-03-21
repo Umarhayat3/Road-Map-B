@@ -1,0 +1,12 @@
+Station name not available
+Mar 13, 2019 - 06:58 AM EDT / 2019.03.13 1058 UTC
+Wind: from the WSW (250 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 20.1 F (-6.6 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 14.7 F (-9.6 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.7 in. Hg (1005 hPa)
+ob: K1EM 131058Z AUTO 25006KT 10SM FEW120 M07/M10 A2970 RMK AO2 SLP107 T10661096 
+cycle: 11

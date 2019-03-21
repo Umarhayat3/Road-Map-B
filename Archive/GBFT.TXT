@@ -1,0 +1,7 @@
+Station name not available
+Oct 30, 2016 - 01:50 PM EDT / 2016.10.30 1750 UTC
+Wind: from the W (270 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+ob: GBFT 301750 27006KT 9999 SCT010 FEW018 SCT120 THUNDER HEARD AT EAST OF STATION
+cycle: 18

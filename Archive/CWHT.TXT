@@ -1,0 +1,9 @@
+Haines Junction, Canada (CWHT) 60-46N 137-35W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (140 degrees) at 7 MPH (6 KT):0
+Temperature: 32.0 F (0.0 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 18.7 F (-7.4 C)
+Relative Humidity: 57%
+ob: CWHT 140700Z AUTO 14006KT 00/M07 RMK AO1 SOG 10 8012 SLP051 T00001074
+cycle: 7

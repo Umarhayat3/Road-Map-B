@@ -1,0 +1,12 @@
+COX DAYTON INTERNATIONAL, OH, United States (KDAY) 39-54N 084-13W 305M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (190 degrees) at 15 MPH (13 KT) gusting to 29 MPH (25 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 62.1 F (16.7 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 43%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KDAY 140856Z 19013G25KT 10SM OVC150 17/04 A2985 RMK AO2 PK WND 19027/0801 SLP102 T01670044 58008
+cycle: 9

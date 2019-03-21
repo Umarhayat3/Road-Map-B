@@ -1,0 +1,11 @@
+Station name not available
+Jan 11, 2011 - 02:00 PM EST / 2011.01.11 1900 UTC
+Wind: from the E (080 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 78 F (26 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FSMD 111900Z 08016KT 9999 FEW017 26/25 Q1011
+cycle: 19

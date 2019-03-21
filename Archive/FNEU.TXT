@@ -1,0 +1,11 @@
+Station name not available
+Dec 11, 2017 - 02:00 AM EST / 2017.12.11 0700 UTC
+Wind: from the NNE (030 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FNEU 110700Z 03008KT 9999 BKN015 20/19 Q1019
+cycle: 7

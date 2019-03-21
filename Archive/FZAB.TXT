@@ -1,0 +1,11 @@
+Station name not available
+May 12, 2012 - 05:00 AM EDT / 2012.05.12 0900 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FZAB 120900Z 00000KT 8000 BKN020 26/22 Q1014 NOSIG
+cycle: 9

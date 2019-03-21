@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the NNW (340 degrees) at 12 MPH (10 KT) gusting to 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 24 F (-4 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: K46U 140835Z AUTO 34010G17KT 10SM FEW050 OVC090 M04/M09 A3009 RMK A01
+cycle: 8

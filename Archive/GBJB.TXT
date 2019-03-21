@@ -1,0 +1,7 @@
+Station name not available
+Oct 17, 2016 - 01:35 PM EDT / 2016.10.17 1735 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+ob: GBJB 171735 OOOOOKT 9999 TS SCT013 FEW020CB SCT120 FEW230 CB/NE-E
+cycle: 17

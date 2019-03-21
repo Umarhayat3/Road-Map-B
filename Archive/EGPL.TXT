@@ -1,0 +1,12 @@
+Benbecula, United Kingdom (EGPL) 57-28N 007-22W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (280 degrees) at 22 MPH (19 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity
+Temperature: 44 F (7 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.29 in. Hg (0992 hPa)
+ob: EGPL 140820Z 28019KT 9999 VCSH FEW020 SCT032 07/04 Q0992
+cycle: 8

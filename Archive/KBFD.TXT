@@ -1,0 +1,12 @@
+BRADFORD REGIONAL AIRPORT, PA, United States (KBFD) 41-48N 078-38W 647M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (140 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41.0 F (5.0 C)
+Dew Point: 27.0 F (-2.8 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KBFD 140853Z AUTO 14005KT 10SM CLR 05/M03 A3004 RMK AO2 SLP176 T00501028 58010
+cycle: 9

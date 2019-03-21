@@ -1,0 +1,10 @@
+Same, Tanzania (HTSE) 04-05S 037-43E 872M
+Nov 14, 2018 - 07:00 AM EST / 2018.11.14 1200 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 35%
+ob: HTSE 141200Z 10007KT 9999 FEW029 BKN280 31/14
+cycle: 12

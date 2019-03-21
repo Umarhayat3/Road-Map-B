@@ -1,0 +1,6 @@
+Cape Hooper, N. W. T., Canada (CWUP) 68-28N 066-48W 390M
+Jul 04, 2018 - 03:00 PM EDT / 2018.07.04 1900 UTC
+Temperature: 41 F (5 C)
+Pressure (altimeter): 29.69 in. Hg (1005 hPa)
+ob: CWUP 041900Z AUTO ///// 05/ A2969 RMK SLP077
+cycle: 19

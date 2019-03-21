@@ -1,0 +1,9 @@
+Station name not available
+Sep 15, 2018 - 04:00 AM EDT / 2018.09.15 0800 UTC
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: DUDN 150800Z ///02KT CAVOK 24/17 Q1020
+cycle: 8

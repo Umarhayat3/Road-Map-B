@@ -1,0 +1,12 @@
+Trenton, Ont., Canada (CYTR) 44-07N 077-32W 86M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+ob: CYTR 140800Z 04004KT 10SM OVC035 01/00 A3008 RMK SC8 SLP191
+cycle: 8

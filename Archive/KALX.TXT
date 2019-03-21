@@ -1,0 +1,11 @@
+Alexander City, Thomas C Russell Field Airport, AL, United States (KALX) 32-54-53N 085-57-46W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (160 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 64.8 F (18.2 C)
+Dew Point: 54.9 F (12.7 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: KALX 140855Z AUTO 16008KT 120V180 10SM OVC034 18/13 A3004 RMK AO2 T01820127
+cycle: 9

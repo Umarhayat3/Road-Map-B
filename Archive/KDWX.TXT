@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the N (010 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 20.3 F (-6.5 C)
+Windchill: 6 F (-14 C):1
+Dew Point: 13.1 F (-10.5 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: KDWX 140855Z AUTO 01011KT 10SM BKN080 OVC085 M06/M10 A3004 RMK AO2 T10651105
+cycle: 9

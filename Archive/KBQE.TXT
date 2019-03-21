@@ -1,0 +1,11 @@
+Station name not available
+Oct 28, 2009 - 06:53 AM EDT / 2009.10.28 1053 UTC
+Wind: from the SSW (200 degrees) at 5 MPH (4 KT):0
+Sky conditions: overcast
+Temperature: 28.0 F (-2.2 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 24.1 F (-4.4 C)
+Relative Humidity: 84%
+Pressure (altimeter): 29.43 in. Hg (996 hPa)
+ob: KBQE 281053Z AUTO 20004KT 1PSM FE`28 OVC037 M02/M04 A2943 RMK AO2 SNE40 SLP91M‚Á000 T10221044 FZRANO TSNO 
+cycle: 11

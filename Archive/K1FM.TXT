@@ -1,0 +1,11 @@
+Station name not available
+Mar 13, 2019 - 05:58 AM EDT / 2019.03.13 0958 UTC
+Wind: from the NNE (020 degrees) at 15 MPH (13 KT):0
+Visibility: 1 1/4 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 26 F (-3 C)
+Windchill: 14 F (-10 C):1
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+ob: K1FM 130958Z AUTO 02013KT 1 1/4SM -SN OVC020 M03/ A2972 RMK AO2 SLP104 
+cycle: 10

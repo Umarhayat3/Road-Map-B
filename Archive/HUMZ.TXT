@@ -1,0 +1,11 @@
+Station name not available
+Dec 12, 2011 - 04:00 AM EST / 2011.12.12 0900 UTC
+Wind: from the N (360 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 64%
+ob: HUMZ 120900Z 36012KT 9999 BKN022 FEW025CB 24/17
+cycle: 9

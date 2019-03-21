@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 8 MPH (7 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 28 F (-2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: CZSJ 140800Z AUTO 36007KT 9SM BKN160 OVC180 M02/M06 A2981 RMK SLP111
+cycle: 8

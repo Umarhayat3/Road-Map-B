@@ -1,0 +1,10 @@
+Station name not available
+Jun 30, 2014 - 02:00 AM EDT / 2014.06.30 0600 UTC
+Wind: from the E (080 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: FKHN 300600Z 08005KT CAVOK 13/09 Q1026
+cycle: 6

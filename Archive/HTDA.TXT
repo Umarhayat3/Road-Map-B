@@ -1,0 +1,12 @@
+Dar Es Salaam Airport, Tanzania (HTDA) 06-52S 039-12E 55M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Heat index: 95.7 F (35.4 C):1
+Dew Point: 75 F (24 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HTDA 140800Z 36013KT 9999 FEW020 BKN023 31/24 Q1014 NOSIG
+cycle: 8

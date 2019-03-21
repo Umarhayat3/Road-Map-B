@@ -1,0 +1,12 @@
+Teslin, Y. T., Canada (CYZW) 60-10N 132-44W 705M
+Mar 13, 2019 - 08:00 PM EDT / 2019.03.14 0000 UTC
+Wind: from the SSE (150 degrees) at 14 MPH (12 KT) gusting to 22 MPH (19 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 19 F (-7 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.82 in. Hg (1009 hPa)
+ob: CYZW 140000Z 15012G19KT 20SM OVC095 02/M07 A2982 RMK AC8 LAST STFD OBS/NXT 141600Z SLP145
+cycle: 0

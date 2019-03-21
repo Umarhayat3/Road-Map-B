@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FYRN 140800Z 00000KT CAVOK 27/19 Q1019
+cycle: 8

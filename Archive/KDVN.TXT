@@ -1,0 +1,12 @@
+DAVENPORT MUNICIPAL AIRPORT, IA, United States (KDVN) 41-37N 90-35W 228M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the S (170 degrees) at 21 MPH (18 KT) gusting to 31 MPH (27 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 55.0 F (12.8 C)
+Dew Point: 48.9 F (9.4 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.38 in. Hg (994 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) lower than three hours ago
+ob: KDVN 140852Z AUTO 17018G27KT 10SM FEW110 13/09 A2938 RMK AO2 PK WND 17027/0850 SLP945 T01280094 58021
+cycle: 9

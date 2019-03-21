@@ -1,0 +1,8 @@
+Esther 1, Canada (CWGY) 51-40N 110-12W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Temperature: 19.0 F (-7.2 C)
+Dew Point: 13.8 F (-10.1 C)
+Relative Humidity: 79%
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: CWGY 140700Z AUTO M07/M10 RMK AO1 SLP257 T10721101 51003
+cycle: 7

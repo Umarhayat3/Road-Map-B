@@ -1,0 +1,12 @@
+Station name not available
+Feb 19, 2008 - 09:50 PM EST / 2008.02.20 0250 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: widespread dust
+Temperature: 48 F (9 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: EQBK 200250Z 28004KT 6000 DU BKN020 09/02 Q1022 WHT BECMG 4000 GRN
+cycle: 3

@@ -1,0 +1,8 @@
+Tillabery, Niger (DRRL) 14-12N 001-27E 210M
+Sep 25, 2009 - 12:40 PM EDT / 2009.09.25 1640 UTC
+Wind: from the W (260 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+ob: DRRL 251640Z 26004KT 9999 FEW040CB BKN300
+cycle: 16

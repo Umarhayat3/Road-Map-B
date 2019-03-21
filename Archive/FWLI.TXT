@@ -1,0 +1,10 @@
+Station name not available
+Jun 04, 2013 - 05:00 PM EDT / 2013.06.04 2100 UTC
+Wind: from the NE (050 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 57 F (14 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FWLI 042100Z 05003KT CAVOK 14/11 Q1023 NOSIG
+cycle: 21

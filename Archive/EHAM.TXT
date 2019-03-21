@@ -1,0 +1,12 @@
+Amsterdam Airport Schiphol, Netherlands (EHAM) 52-18N 004-46E -2M
+Mar 14, 2019 - 04:25 AM EDT / 2019.03.14 0825 UTC
+Wind: from the SW (230 degrees) at 23 MPH (20 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EHAM 140825Z 23020KT 8000 -RA FEW008 SCT012 OVC030 07/06 Q0998 BECMG BKN018
+cycle: 8

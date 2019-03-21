@@ -1,0 +1,10 @@
+Bir Moghrein, Mauritania (GQPT) 25-14N 011-37W 360M
+Dec 22, 2018 - 03:00 AM EST / 2018.12.22 0800 UTC
+Wind: from the ESE (120 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 57 F (14 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: GQPT 220800Z 12016KT CAVOK 14/07 Q1024
+cycle: 8

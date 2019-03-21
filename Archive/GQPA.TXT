@@ -1,0 +1,9 @@
+Atar, Mauritania (GQPA) 20-31N 013-04W 224M
+Mar 13, 2019 - 11:00 AM EDT / 2019.03.13 1500 UTC
+Wind: from the E (100 degrees) at 21 MPH (18 KT):0
+Visibility: 1 mile(s):0
+Weather: blowing sand
+Temperature: 91 F (33 C)
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: GQPA 131500Z 10018KT 3000 BLSA NSC 33/// Q1018
+cycle: 15

@@ -1,0 +1,13 @@
+CHICAGO AURORA MUNICIPAL, IL, United States (KARR) 41-46N 088-28W 215M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: from the SSE (150 degrees) at 17 MPH (15 KT) gusting to 30 MPH (26 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 54.0 F (12.2 C)
+Dew Point: 51.1 F (10.6 C)
+Relative Humidity: 89%
+Pressure (altimeter): 29.5 in. Hg (998 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KARR 140852Z AUTO 15015G26KT 10SM BKN014 BKN018 OVC060 12/11 A2950 RMK AO2 PK WND 16033/0826 RAB01E42 SLP989 P0000 60000 T01220106 55012 TSNO
+cycle: 9

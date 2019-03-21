@@ -1,0 +1,11 @@
+Station name not available
+Sep 15, 2016 - 08:40 AM EDT / 2016.09.15 1240 UTC
+Wind: from the ENE (060 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: K5LA 151240Z AUTO 06005KT 10SM BKN019 BKN029 BKN034 27/25 A3001 RMK AO2
+cycle: 12

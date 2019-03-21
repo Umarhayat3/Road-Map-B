@@ -1,0 +1,6 @@
+Kassala, Sudan (HSKA) 15-28N 036-24E 500M
+Feb 10, 2017 - 12:00 AM EST / 2017.02.10 0500 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+ob: HSKA 100500Z 1006/1112 VRB03KT CAVOK
+cycle: 5

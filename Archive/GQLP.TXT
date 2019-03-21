@@ -1,0 +1,10 @@
+Station name not available
+Jan 06, 2014 - 07:00 AM EST / 2014.01.06 1200 UTC
+Wind: from the ENE (070 degrees) at 10 MPH (9 KT):0
+Visibility: 4 mile(s):0
+Temperature: 73 F (23 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: GQLP 061200Z 07009KT 8000 NSC 23/05 Q1017 NOSIG
+cycle: 12

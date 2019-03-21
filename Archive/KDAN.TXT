@@ -1,0 +1,12 @@
+DANVILLE REGIONAL AIRPORT, VA, United States (KDAN) 36-34N 079-20W 175M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Variable at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 50.0 F (10.0 C)
+Dew Point: 39.9 F (4.4 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KDAN 140853Z AUTO VRB04KT 10SM BKN034 10/04 A3022 RMK AO2 SLP226 T01000044 58009
+cycle: 9

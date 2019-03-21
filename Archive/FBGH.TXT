@@ -1,0 +1,11 @@
+Station name not available
+Feb 28, 2010 - 06:00 AM EST / 2010.02.28 1100 UTC
+Wind: from the SE (140 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FBGH 281100Z 14005KT 9999 BKN030 27/18 Q1023
+cycle: 11

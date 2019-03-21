@@ -1,0 +1,11 @@
+Edenton, Northeastern Regional Airport, NC, United States (KEDE) 36-01-40N 076-34-02W
+Mar 14, 2019 - 05:00 AM EDT / 2019.03.14 0900 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 44.4 F (6.9 C)
+Dew Point: 42.1 F (5.6 C)
+Relative Humidity: 91%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: KEDE 140900Z AUTO 00000KT 10SM CLR 07/06 A3027 RMK AO2 T00690056
+cycle: 9

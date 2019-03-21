@@ -1,0 +1,12 @@
+Vohemar, Madagascar (FMNV) 13-22S 050-00E 5M
+Nov 25, 2017 - 06:00 AM EST / 2017.11.25 1100 UTC
+Wind: from the SSW (200 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 91 F (33 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 38%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FMNV 251100Z 20006KT 9999 BKN030 FEW035TCU 33/17 Q1013
+cycle: 11

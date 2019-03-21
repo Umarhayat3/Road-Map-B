@@ -1,0 +1,12 @@
+Blackpool Airport, United Kingdom (EGNH) 53-46N 003-02W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (280 degrees) at 26 MPH (23 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly clear
+Weather: showers in the vicinity
+Temperature: 48 F (9 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.44 in. Hg (0997 hPa)
+ob: EGNH 140820Z 28023KT 8000 VCSH FEW030 09/07 Q0997
+cycle: 8

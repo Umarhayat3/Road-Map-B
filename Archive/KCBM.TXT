@@ -1,0 +1,11 @@
+Columbus Air Force Base, MS, United States (KCBM) 33-39N 088-27W
+Mar 14, 2019 - 03:36 AM EDT / 2019.03.14 0736 UTC
+Wind: from the S (190 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 68 F (20 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: KCBM 140736Z AUTO 19014KT 10SM BKN020 OVC025 20/17 A2991 RMK AO2 SLP130 
+cycle: 7

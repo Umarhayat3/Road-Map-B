@@ -1,0 +1,11 @@
+Leeming, United Kingdom (EGXE) 54-18N 001-32W 40M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (280 degrees) at 25 MPH (22 KT) gusting to 38 MPH (33 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 48 F (9 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 75%
+Pressure (altimeter): 29.26 in. Hg (0991 hPa)
+ob: EGXE 140750Z 28022G33KT 9999 FEW018 SCT150 09/05 Q0991 BLU NOSIG
+cycle: 8

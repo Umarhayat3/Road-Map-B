@@ -1,0 +1,12 @@
+Station name not available
+Mar 18, 2008 - 11:00 PM EST / 2008.03.19 0400 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 78 F (26 C)
+Dew Point: 77 F (25 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: FCPX 190400Z VRB03KT 8000 TS FEW013 FEW030CB BKN120 26/25 Q1011 NOSIG
+cycle: 4

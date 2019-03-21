@@ -1,0 +1,11 @@
+Pietersburg, South Africa (FAPB) 23-52S 029-27E 1200M
+Jun 06, 2018 - 03:00 AM EDT / 2018.06.06 0700 UTC
+Wind: from the SW (230 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 75 F (24 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FAPB 060700Z 23013KT 9999 FEW020 SCT/// 24/16 Q1020
+cycle: 7

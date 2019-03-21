@@ -1,0 +1,9 @@
+Station name not available
+Oct 12, 2010 - 12:53 AM EDT / 2010.10.12 0453 UTC
+Wind: Calm:0
+Temperature: 75.0 F (23.9 C)
+Dew Point: 69.1 F (20.6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+ob: HP92 120453Z AUTO 00000KT 24/21 A2997 RMK AO2 SLP147 T02390206 
+cycle: 5

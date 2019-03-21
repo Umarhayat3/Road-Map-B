@@ -1,0 +1,10 @@
+Jos, Nigeria (DNJO) 09-52N 008-54E 1285M
+Mar 13, 2019 - 10:00 AM EDT / 2019.03.13 1400 UTC
+Wind: from the E (090 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 91 F (33 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 15%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DNJO 131400Z 09014KT CAVOK 33/03 Q1016
+cycle: 14

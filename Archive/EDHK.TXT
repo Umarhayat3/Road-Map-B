@@ -1,0 +1,12 @@
+Kiel / Holtenau Civilian, Germany (EDHK) 54-23N 010-10E
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the WSW (250 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain showers
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: EDHK 140750Z 25015KT 9999 -SHRA BKN009 06/04 Q0995
+cycle: 8

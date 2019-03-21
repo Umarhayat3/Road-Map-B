@@ -1,0 +1,11 @@
+Ifrane, Morocco (GMFI) 33-30N 005-10W 1665M
+May 22, 2016 - 01:00 PM EDT / 2016.05.22 1700 UTC
+Wind: from the  (370 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 38%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: GMFI 221700Z 37006KT 9999 SCT016 23/08 Q1027 NOSIG
+cycle: 17

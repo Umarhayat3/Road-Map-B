@@ -1,0 +1,9 @@
+Menaka, Mali (GAMK) 15-52N 002-13E 278M
+Jan 22, 2011 - 04:00 PM EST / 2011.01.22 2100 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 73 F (23 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 33%
+ob: GAMK 222100Z 00000KT CAVOK 23/06 Q////
+cycle: 21

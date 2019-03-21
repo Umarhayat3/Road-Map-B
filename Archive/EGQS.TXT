@@ -1,0 +1,12 @@
+Lossiemouth, United Kingdom (EGQS) 57-43N 003-19W
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (280 degrees) at 22 MPH (19 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 44 F (7 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: EGQS 140750Z 28019KT 9999 FEW018CB 07/04 Q0987 BLU TEMPO 7000 -SHRA SCT020 WHT
+cycle: 8

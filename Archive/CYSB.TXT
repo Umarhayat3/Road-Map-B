@@ -1,0 +1,14 @@
+Sudbury, Ont., Canada (CYSB) 46-37N 080-48W 348M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SE (140 degrees) at 10 MPH (9 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 32 F (0 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.94 in. Hg (1013 hPa)
+Pressure tendency: falling rapidly
+ob: CYSB 140800Z 14009KT 3/4SM R22/P6000FT/U BR OVC001 M00/M01 A2994 RMK ST8 INTMT -FZDZ PRESFR SLP157
+cycle: 8

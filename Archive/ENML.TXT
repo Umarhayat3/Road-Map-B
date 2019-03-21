@@ -1,0 +1,12 @@
+Molde / Aro, Norway (ENML) 62-45N 007-16E 3M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ENE (070 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: ENML 140820Z 07009KT 9999 FEW005 BKN055 01/M01 Q0984
+cycle: 8

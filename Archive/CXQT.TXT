@@ -1,0 +1,5 @@
+Station name not available
+Jul 18, 2018 - 09:00 AM EDT / 2018.07.18 1300 UTC
+Wind: Calm:0
+ob: CXQT 181300Z AUTO 00000KT RMK AO1 
+cycle: 13

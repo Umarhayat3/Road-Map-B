@@ -1,0 +1,11 @@
+Station name not available
+Jan 19, 2018 - 04:00 PM EST / 2018.01.19 2100 UTC
+Wind: from the WSW (240 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 53 F (12 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DFTA 192100Z 24003KT 9999 FEW026 12/09 Q1017 NOSIG
+cycle: 21

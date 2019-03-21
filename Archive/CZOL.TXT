@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Temperature: 29.3 F (-1.5 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 15.3 F (-9.3 C)
+Relative Humidity: 55%
+ob: CZOL 140700Z AUTO 28004KT M02/M09 RMK AO1 T10151093
+cycle: 7

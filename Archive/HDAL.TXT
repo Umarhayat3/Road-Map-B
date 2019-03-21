@@ -1,0 +1,11 @@
+Station name not available
+Sep 29, 2009 - 08:00 AM EDT / 2009.09.29 1200 UTC
+Wind: from the E (080 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Heat index: 109.6 F (43.1 C):1
+Dew Point: 78 F (26 C)
+Relative Humidity: 63%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: HDAL 291200Z 08010KT CAVOK 34/26 Q1006
+cycle: 12

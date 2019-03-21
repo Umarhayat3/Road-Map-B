@@ -1,0 +1,10 @@
+Ngaoundere, Cameroon (FKKN) 07-21N 013-34E 1104M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (320 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 27%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FKKN 140800Z 32004KT CAVOK 26/06 Q1016
+cycle: 8

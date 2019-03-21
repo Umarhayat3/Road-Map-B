@@ -1,0 +1,10 @@
+Johannesburg International Airport, South Africa (FAJS) 26-08S 028-14E 1700M
+Jan 09, 2013 - 06:00 PM EST / 2013.01.09 2300 UTC
+Wind: from the N (010 degrees) at 12 MPH (10 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 49%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FAJS 092300Z 01010KT 340V040 CAVOK 22/11 Q1020 NOSIG
+cycle: 23

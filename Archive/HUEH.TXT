@@ -1,0 +1,12 @@
+Station name not available
+Feb 21, 2013 - 09:00 PM EST / 2013.02.22 0200 UTC
+Wind: from the ESE (120 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 64 F (18 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HUEH 220200Z 12002KT 9999 FEW020 FEW022CB 18/17 Q1016
+cycle: 2

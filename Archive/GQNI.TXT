@@ -1,0 +1,10 @@
+Nema, Mauritania (GQNI) 16-36N 007-16W 269M
+Mar 02, 2019 - 07:00 AM EST / 2019.03.02 1200 UTC
+Wind: from the NE (040 degrees) at 14 MPH (12 KT):0
+Visibility: 3 mile(s):0
+Weather: haze
+Temperature: 77 F (25 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 15%
+ob: GQNI 021200Z 04012KT 5000 HZ NSC 25/M03 Q////
+cycle: 12

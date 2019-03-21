@@ -1,0 +1,12 @@
+Cottonwood Pass, CO, United States (K7BM) 38-46-57N 106-13-05W
+Mar 14, 2019 - 04:48 AM EDT / 2019.03.14 0848 UTC
+Wind: from the NNW (330 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 15 F (-9 C)
+Windchill: 1 F (-17 C):1
+Dew Point: 3 F (-16 C)
+Relative Humidity: 56%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: K7BM 140848Z AUTO 33010KT 10SM OVC100 M09/M16 A2977 RMK AO2
+cycle: 9

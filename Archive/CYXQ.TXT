@@ -1,0 +1,12 @@
+Beaver Creek Airport, Canada (CYXQ) 62-25N 140-52W
+Mar 13, 2019 - 06:00 PM EDT / 2019.03.13 2200 UTC
+Wind: from the ENE (060 degrees) at 10 MPH (9 KT):0
+Visibility: 30 mile(s):0
+Sky conditions: overcast
+Temperature: 28 F (-2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: CYXQ 132200Z 06009KT 30SM FEW140 SCT170 OVC230 M02/M11 A2959 RMK AC2AC2CS4 CLIMAT -2.2/-22.6/0.0/LAST STFD OBS/NXT 141600Z SLP071
+cycle: 22

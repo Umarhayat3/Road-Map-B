@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (130 degrees) at 3 MPH (3 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: clear
+Weather: mist
+Temperature: 70.7 F (21.5 C)
+Dew Point: 69.4 F (20.8 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: KAPY 140855Z AUTO 13003KT 5SM BR CLR 21/21 A2974 RMK AO2 T02150208
+cycle: 9

@@ -1,0 +1,12 @@
+Camden / Harrell Field, AR, United States (KCDH) 33-37N 092-46W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (180 degrees) at 13 MPH (11 KT) gusting to 18 MPH (16 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: haze
+Temperature: 69 F (21 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.63 in. Hg (1003 hPa)
+ob: KCDH 140855Z AUTO 18011G16KT 6SM HZ BKN016 OVC022 21/18 A2963 RMK AO2
+cycle: 9

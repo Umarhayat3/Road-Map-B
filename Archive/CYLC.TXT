@@ -1,0 +1,12 @@
+Kimmirut A Nwt, Canada (CYLC) 62-51N 069-53W
+Mar 08, 2019 - 03:00 PM EST / 2019.03.08 2000 UTC
+Wind: from the NW (310 degrees) at 8 MPH (7 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 6 F (-14 C)
+Windchill: -7 F (-22 C):2
+Dew Point: -2 F (-19 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.54 in. Hg (1000 hPa)
+ob: CYLC 082000Z 31007KT 15SM FEW059 SCT065 SCT093 M14/M19 A2954 RMK SC2SC1AC1 AC TR 0.0/0 TRACE LOOSE LASTSTFD OBS/NXT111100Z SLP010
+cycle: 20

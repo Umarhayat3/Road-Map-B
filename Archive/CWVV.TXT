@@ -1,0 +1,9 @@
+Vic. Hartland Automatic Weather Reporting System, Canada (CWVV) 48-32N 123-28W
+Jun 11, 2012 - 03:00 PM EDT / 2012.06.11 1900 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT):0
+Temperature: 64.0 F (17.8 C)
+Dew Point: 44.4 F (6.9 C)
+Relative Humidity: 48%
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: CWVV 111900Z AUTO 05004KT 18/07 RMK AO1 SLP221 T01780069 58004
+cycle: 19

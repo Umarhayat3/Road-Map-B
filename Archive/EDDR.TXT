@@ -1,0 +1,12 @@
+Saarbruecken / Ensheim, Germany (EDDR) 49-13N 007-07E 320M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 20 MPH (17 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 39 F (4 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: EDDR 140750Z 23017KT 9999 -RA FEW009 BKN011 04/03 Q1011
+cycle: 8

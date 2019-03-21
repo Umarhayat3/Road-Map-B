@@ -1,0 +1,11 @@
+Station name not available
+Jul 08, 2016 - 03:00 AM EDT / 2016.07.08 0700 UTC
+Wind: from the NNE (020 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73 F (23 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: GVNQ 080700Z 02008KT 9999 FEW017 23/18 Q1015 NOSIG
+cycle: 7

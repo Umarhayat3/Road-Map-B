@@ -1,0 +1,11 @@
+Station name not available
+Jan 17, 2017 - 09:00 AM EST / 2017.01.17 1400 UTC
+Wind: from the E (090 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 86 F (30 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 33%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FASK 171400Z 09005KT 010V160 9999 SCT030 30/12 Q1015 NOSIG
+cycle: 14

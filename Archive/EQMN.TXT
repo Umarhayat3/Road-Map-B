@@ -1,0 +1,12 @@
+Station name not available
+Jun 03, 2011 - 09:50 PM EDT / 2011.06.04 0150 UTC
+Wind: from the W (270 degrees) at 2 MPH (2 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: clear
+Weather: haze
+Temperature: 84 F (29 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: EQMN 040150Z 27002KT 7000 HZ SKC 29/24 Q1004 WHT
+cycle: 2

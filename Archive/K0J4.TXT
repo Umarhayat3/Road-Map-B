@@ -1,0 +1,11 @@
+FLORALA AIRPORT, AL, UNITED STATES (K0J4) 31-02N 86-18W
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the SSE (150 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 64.0 F (17.8 C)
+Dew Point: 57.0 F (13.9 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.05 in. Hg (1017 hPa)
+ob: K0J4 140830Z AUTO 15004KT 10SM SCT027 18/14 A3005 RMK AO2 T01780139 
+cycle: 8

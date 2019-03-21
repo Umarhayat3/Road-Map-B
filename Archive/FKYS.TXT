@@ -1,0 +1,11 @@
+Yaounde, Cameroon (FKYS) 03-50N 011-31E 760M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (220 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FKYS 140800Z 22005KT 190V270 9999 BKN009 25/23 Q1015 BECMG BKN011
+cycle: 8

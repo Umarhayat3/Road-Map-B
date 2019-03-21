@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (260 degrees) at 12 MPH (10 KT) gusting to 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 32.4 F (0.2 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 14.0 F (-10.0 C)
+Relative Humidity: 46%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: KBRG 140855Z AUTO 26010G14KT 10SM CLR 00/M10 A2992 RMK AO2 T00021100
+cycle: 9

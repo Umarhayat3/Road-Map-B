@@ -1,0 +1,12 @@
+PORT COLUMBUS INTERNATIONAL  AIRPORT, OH, United States (KCMH) 40-00N 82-53W 247M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the SE (140 degrees) at 14 MPH (12 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 57.9 F (14.4 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 38%
+Pressure (altimeter): 29.9 in. Hg (1012 hPa)
+Pressure tendency: 0.04 inches (1.3 hPa) lower than three hours ago
+ob: KCMH 140851Z 14012KT 10SM OVC140 14/01 A2990 RMK AO2 SLP122 T01440006 58013
+cycle: 9

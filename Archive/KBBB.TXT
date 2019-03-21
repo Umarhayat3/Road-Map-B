@@ -1,0 +1,14 @@
+Benson Municipal, MN, United States (KBBB) 45-19N 095-39W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ESE (120 degrees) at 6 MPH (5 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: light drizzle
+Precipitation last hour: 0.01 inches
+Temperature: 35 F (2 C)
+Windchill: 30 F (-1 C):1
+Dew Point: 35 F (2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.25 in. Hg (990 hPa)
+ob: KBBB 140855Z AUTO 12005KT 1/4SM -DZ OVC001 02/02 A2925 RMK AO2 P0001
+cycle: 9

@@ -1,0 +1,12 @@
+Tromso / Langnes, Norway (ENTC) 69-41N 018-55E 10M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: Variable at 1 MPH (1 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow showers
+Temperature: 26 F (-3 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.23 in. Hg (0990 hPa)
+ob: ENTC 140820Z VRB01KT 9999 -SHSN FEW010 SCT020 BKN040 M03/M05 Q0990 NOSIG RMK WIND 2600FT 17017KT
+cycle: 8

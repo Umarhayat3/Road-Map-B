@@ -1,0 +1,11 @@
+Malta, ID, United States (K77M) 42-19N 113-20W
+Jul 31, 2010 - 10:45 AM EDT / 2010.07.31 1445 UTC
+Wind: Calm:0
+Visibility: 25 mile(s):0
+Sky conditions: mostly clear
+Weather: Cumulonimbus clouds observed
+Temperature: 66 F (19 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 77%
+ob: K77M 311445Z 00000KT 25SM FEW065CB FEW120 19/15 RMK SLPNO NOSPECI LAST 
+cycle: 15

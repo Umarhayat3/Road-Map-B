@@ -1,0 +1,11 @@
+Elliot Lake Supplementary Aviation Weather Reporting Station , Canada (CYEL) 46-21N 082-34W
+Apr 02, 2012 - 02:00 PM EDT / 2012.04.02 1800 UTC
+Wind: from the W (270 degrees) at 9 MPH (8 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 50 F (10 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CYEL 021800Z 27008KT 15SM SKC 10/M06 A3009 RMK WNDS ESTD/LAST OB/UNFORTUNATELY FOREVER SLP199
+cycle: 18

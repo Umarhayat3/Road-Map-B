@@ -1,0 +1,6 @@
+Cape Mercy, Canada (CWYM) 64-57N 063-35W
+Aug 04, 2018 - 07:00 PM EDT / 2018.08.04 2300 UTC
+Temperature: 41 F (5 C)
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: CWYM 042300Z AUTO ///// 05/ A2977 RMK SLP117
+cycle: 23

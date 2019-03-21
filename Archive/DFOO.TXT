@@ -1,0 +1,10 @@
+Bobo-Dioulasso, Burkina Faso (DFOO) 11-10N 004-19W 460M
+Mar 14, 2019 - 02:00 AM EDT / 2019.03.14 0600 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Temperature: 73 F (23 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 23%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: DFOO 140600Z 36004KT 6000 NSC 23/01 Q1011
+cycle: 6

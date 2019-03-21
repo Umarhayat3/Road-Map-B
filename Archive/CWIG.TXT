@@ -1,0 +1,5 @@
+Ile Aux Grues, Que., Canada (CWIG) 47-04N 070-32W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (210 degrees) at 15 MPH (13 KT):0
+ob: CWIG 140700Z AUTO 21013KT RMK AO1 PK WND 21017/0641
+cycle: 7

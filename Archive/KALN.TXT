@@ -1,0 +1,11 @@
+Alton/St. Louis, St. Louis Regional Airport, IL, United States (KALN) 38-54N 090-03W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the SSE (150 degrees) at 15 MPH (13 KT) gusting to 21 MPH (18 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 57.2 F (14.0 C)
+Dew Point: 55.4 F (13.0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.54 in. Hg (1000 hPa)
+ob: KALN 140835Z AUTO 15013G18KT 10SM SCT070 14/13 A2954 RMK AO2 T01400130
+cycle: 8

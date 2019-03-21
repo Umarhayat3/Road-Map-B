@@ -1,0 +1,10 @@
+Errachidia, Morocco (GMFK) 31-56N 004-24W 1042M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (180 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 55 F (13 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 28%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: GMFK 140800Z 18003KT 140V210 CAVOK 13/M05 Q1028 NOSIG
+cycle: 8

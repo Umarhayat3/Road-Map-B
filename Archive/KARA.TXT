@@ -1,0 +1,14 @@
+NEW IBERIA ACADIANA REGIONAL, LA, United States (KARA) 30-02N 091-53W 18M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: A trace
+Temperature: 71.1 F (21.7 C)
+Dew Point: 70.0 F (21.1 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.87 in. Hg (1011 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) lower than three hours ago
+ob: KARA 140853Z AUTO 17014KT 10SM -RA OVC007 22/21 A2987 RMK AO2 SLP113 P0000 60000 T02170211 58004
+cycle: 9

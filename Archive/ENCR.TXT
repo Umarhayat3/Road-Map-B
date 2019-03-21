@@ -1,0 +1,10 @@
+Station name not available
+Jun 01, 2008 - 08:20 AM EDT / 2008.06.01 1220 UTC
+Wind: from the NNW (330 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 49%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: ENCR 011220Z 33004KT CAVOK 21/10 Q1020 NOSIG 
+cycle: 12

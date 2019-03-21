@@ -1,0 +1,13 @@
+THE GABRESKI AIRPORT, NY, United States (KFOK) 40-51N 072-37W 33M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (170 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 39.9 F (4.4 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.29 in. Hg (1025 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KFOK 140853Z AUTO 17003KT 10SM OVC065 04/02 A3029 RMK AO2 RAB0756E20 SLP256 P0000 60000 T00440017 56009
+cycle: 9

@@ -1,0 +1,9 @@
+Station name not available
+Dec 13, 2010 - 10:52 PM EST / 2010.12.14 0352 UTC
+Wind: Calm:0
+Temperature: 36.0 F (2.2 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.9 in. Hg (1012 hPa)
+ob: CP69 140352Z AUTO VRB00KT 02/02 A2990 RMK AO2 SLP143 T00220022 PWINO FZRANO TSNO 
+cycle: 4

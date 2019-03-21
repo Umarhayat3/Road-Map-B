@@ -1,0 +1,12 @@
+El Tor, Egypt (HETR) 28-14N 032-37E 14M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (330 degrees) at 23 MPH (20 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Weather: sand
+Temperature: 68 F (20 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 39%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HETR 140800Z 33020KT 6000 SA SCT025 20/06 Q1015
+cycle: 8

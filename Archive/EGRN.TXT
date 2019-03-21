@@ -1,0 +1,11 @@
+Station name not available
+Oct 17, 2014 - 05:50 AM EDT / 2014.10.17 0950 UTC
+Wind: from the SE (140 degrees) at 25 MPH (22 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 53 F (12 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: EGRN 170950Z AUTO 14022KT 9999 SCT012/// BKN024/// 12/09 Q1008
+cycle: 10

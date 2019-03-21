@@ -1,0 +1,13 @@
+BERLIN MUNICIPAL AIRPORT, NH, United States (KBML) 44-35N 71-11W 345M
+Mar 14, 2019 - 04:52 AM EDT / 2019.03.14 0852 UTC
+Wind: Calm:0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 28.0 F (-2.2 C)
+Dew Point: 27.0 F (-2.8 C)
+Relative Humidity: 95%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KBML 140852Z AUTO 00000KT 5SM BR OVC031 M02/M03 A3020 RMK AO2 SLP241 T10221028 55008
+cycle: 9

@@ -1,0 +1,11 @@
+Vancouver International Air-Port, B. C., Canada (CYVR) 49-11N 123-10W 2M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 8 MPH (7 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: overcast
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+ob: CYVR 140800Z 09007KT 20SM BKN065 BKN110 OVC130 05/02 A3039 RMK SC6AC1AS1 SLP293
+cycle: 8

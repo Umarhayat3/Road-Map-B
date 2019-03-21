@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the W (260 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 19 F (-7 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: K6S0 140835Z AUTO 26008KT 10SM FEW048 BKN065 OVC075 M07/M10 A3021 RMK A01
+cycle: 8

@@ -1,0 +1,12 @@
+Arlington Municipal, WA, United States (KAWO) 48-10N 122-10W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the NNE (020 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 33.1 F (0.6 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 95%
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) higher than three hours ago
+ob: KAWO 140856Z AUTO 02003KT 10SM CLR 01/00 A3042 RMK AO2 SLP308 T00060000 51008 FZRANO
+cycle: 9

@@ -1,0 +1,12 @@
+Appleton, Appleton Municipal Airport, MN, United States (KAQP) 45-13-39N 096-00-15W
+Mar 14, 2019 - 04:38 AM EDT / 2019.03.14 0838 UTC
+Wind: from the NW (320 degrees) at 8 MPH (7 KT):0
+Visibility: 1/4 mile(s):0
+Weather: snow
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.27 in. Hg (991 hPa)
+ob: KAQP 140838Z AUTO 32007KT 1/4SM SN 02/01 A2927 RMK AO2
+cycle: 8

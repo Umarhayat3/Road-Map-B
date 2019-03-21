@@ -1,0 +1,11 @@
+Scilly, Saint Mary'S, United Kingdom (EGHE) 49-55N 006-18W 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (260 degrees) at 37 MPH (32 KT) gusting to 48 MPH (42 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: EGHE 140820Z 26032G42KT 7000 SCT006 BKN009 11/09 Q1014
+cycle: 8

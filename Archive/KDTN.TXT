@@ -1,0 +1,13 @@
+SHREVEPORT DOWNTOWN AIRPORT, LA, United States (KDTN) 32-32N 093-45W 53M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 22 MPH (19 KT) gusting to 30 MPH (26 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: Lightning observed
+Temperature: 73.0 F (22.8 C)
+Dew Point: 66.9 F (19.4 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KDTN 140853Z AUTO 18019G26KT 10SM OVC022 23/19 A2965 RMK AO2 PK WND 16029/0823 LTG DSNT W-N SLP037 T02280194 56015
+cycle: 9

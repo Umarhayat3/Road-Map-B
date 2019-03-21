@@ -1,0 +1,12 @@
+Berens River Airport, Canada (CYBV) 52-21N 097-02W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: from the NNW (330 degrees) at 10 MPH (9 KT) gusting to 20 MPH (17 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 35 F (2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 64%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+ob: CYBV 132100Z 33009G17KT 15SM FEW120 SCT220 02/M04 A2975 RMK AC1CS2 SNW CVR/MEDIUM PACK/LAST STFD OBS/NEXT 141200UTC SLP091
+cycle: 21

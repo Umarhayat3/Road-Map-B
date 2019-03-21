@@ -1,0 +1,12 @@
+Vadso, Norway (ENVD) 70-04N 029-51E 39M
+Mar 14, 2019 - 03:20 AM EDT / 2019.03.14 0720 UTC
+Wind: from the SW (220 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 21 F (-6 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: ENVD 140720Z 22007KT 9999 SCT023 SCT032 M06/M11 Q0999
+cycle: 7

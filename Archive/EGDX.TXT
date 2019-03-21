@@ -1,0 +1,12 @@
+St Athan Royal Air Force Base, United Kingdom (EGDX) 51-24N 003-26W
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the W (260 degrees) at 29 MPH (25 KT) gusting to 43 MPH (37 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 48 F (9 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EGDX 140750Z AUTO 26025G37KT 6000 BR OVC003/// 09/09 Q1005 RERA
+cycle: 8

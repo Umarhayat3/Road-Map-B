@@ -1,0 +1,12 @@
+Station name not available
+Jan 23, 2015 - 11:55 AM EST / 2015.01.23 1655 UTC
+Wind: from the NNE (030 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 38.3 F (3.5 C)
+Dew Point: 35.2 F (1.8 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: K5W8 231655Z AUTO 03003KT 10SM -RA OVC040 04/02 A3025 RMK AO2 T00350018
+cycle: 17

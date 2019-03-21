@@ -1,0 +1,10 @@
+Station name not available
+May 30, 2013 - 05:00 AM EDT / 2013.05.30 0900 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FNNS 300900Z 0000KT 9999 SCT020 27/23 Q1017
+cycle: 9

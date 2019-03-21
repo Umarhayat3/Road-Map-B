@@ -1,0 +1,12 @@
+Stansted Airport, United Kingdom (EGSS) 51-53N 000-14E 0M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (250 degrees) at 22 MPH (19 KT) gusting to 35 MPH (30 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 48 F (9 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: EGSS 140820Z AUTO 25019G30KT 9999 -RA BKN017 OVC023 09/07 Q0999
+cycle: 8

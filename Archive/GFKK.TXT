@@ -1,0 +1,11 @@
+Station name not available
+Mar 31, 2013 - 06:00 AM EDT / 2013.03.31 1000 UTC
+Wind: from the NNW (330 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 84 F (29 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 70%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: GFKK 311000Z 33009KT 9999 BKN012 29/23 Q1013
+cycle: 10

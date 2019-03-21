@@ -1,0 +1,11 @@
+Station name not available
+Dec 13, 2010 - 04:00 AM EST / 2010.12.13 0900 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GOTB 130900Z 28004KT 9999 BKN130 21/15 Q1010
+cycle: 9

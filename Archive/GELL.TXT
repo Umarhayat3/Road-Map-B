@@ -1,0 +1,12 @@
+Station name not available
+Aug 08, 2014 - 06:00 AM EDT / 2014.08.08 1000 UTC
+Wind: from the W (270 degrees) at 12 MPH (10 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GELL 081000Z 27010KT 3000 OVC080 FEW024CB 24/24 Q1014 RMK CB-NESW
+cycle: 10

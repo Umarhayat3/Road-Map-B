@@ -1,0 +1,12 @@
+Obo, Central African Republic (FEFB) 05-24N 026-30E 651M
+May 05, 2008 - 09:00 AM EDT / 2008.05.05 1300 UTC
+Wind: from the ESE (110 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain with thunder; Cumulonimbus clouds observed
+Temperature: 69 F (21 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FEFB 051300Z 11005KT 070V140 9999 -TSRA FEW013 FEW033CB OVC140 21/20 Q1014 NOSIG
+cycle: 13

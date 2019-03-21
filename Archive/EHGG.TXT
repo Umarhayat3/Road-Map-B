@@ -1,0 +1,12 @@
+Groningen Airport Eelde, Netherlands (EHGG) 53-08N 006-35E 4M
+Mar 14, 2019 - 04:25 AM EDT / 2019.03.14 0825 UTC
+Wind: from the SW (220 degrees) at 18 MPH (16 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: EHGG 140825Z AUTO 22016KT 9999 -RA SCT010 BKN012 OVC016 06/05 Q0996 RERA REDZ TEMPO 23015G25KT 4500 RADZ TEMPO BKN009
+cycle: 8

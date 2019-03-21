@@ -1,0 +1,13 @@
+Kapuskasing, Ont., Canada (CYYU) 49-25N 082-28W 227M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (150 degrees) at 10 MPH (9 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.86 in. Hg (1011 hPa)
+ob: CYYU 140800Z 15009KT 15SM -RA OVC006 01/01 A2986 RMK SC8 SLP125
+cycle: 8

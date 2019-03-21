@@ -1,0 +1,11 @@
+Connaught, Ireland (EIKN) 53-54-37N 008-49-05W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WNW (290 degrees) at 28 MPH (24 KT) gusting to 46 MPH (40 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 44 F (7 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EIKN 140800Z 29024G40KT 9999 SCT028 SCT120 07/05 Q1002 NOSIG
+cycle: 8

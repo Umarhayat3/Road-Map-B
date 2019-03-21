@@ -1,0 +1,9 @@
+Riviere Du Loup, Que., Canada (CWNH) 47-48N 069-33W 148M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SSW (210 degrees) at 9 MPH (8 KT) gusting to 17 MPH (15 KT):0
+Temperature: 30.7 F (-0.7 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 24.1 F (-4.4 C)
+Relative Humidity: 75%
+ob: CWNH 140700Z AUTO 21008G15KT M01/M04 RMK AO1 SOG 60 3001 SLP227 T10071044
+cycle: 7

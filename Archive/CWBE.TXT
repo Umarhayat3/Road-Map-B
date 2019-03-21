@@ -1,0 +1,10 @@
+Killarney Meteorological Aeronautical Presentation System , Canada (CWBE) 45-58N 081-29W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the E (100 degrees) at 14 MPH (12 KT):0
+Temperature: 31.6 F (-0.2 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 97%
+Pressure tendency: 0.02 inches (0.6 hPa) lower than three hours ago
+ob: CWBE 140700Z AUTO 10012KT M00/M01 RMK AO1 SLP175 T10021006 57006
+cycle: 7

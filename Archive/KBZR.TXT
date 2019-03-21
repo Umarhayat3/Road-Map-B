@@ -1,0 +1,8 @@
+Station name not available
+May 09, 2009 - 01:52 PM EDT / 2009.05.09 1752 UTC
+Temperature: 80 F (27 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 26%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+ob: KBZR 091752Z AUTO 2313KT 27/06 A2989RS(=É SLP0Y T0²670056 10272 20061 53001 PWINO TSNO 
+cycle: 18

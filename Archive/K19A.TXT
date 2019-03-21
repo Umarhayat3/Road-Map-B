@@ -1,0 +1,11 @@
+Station name not available
+Feb 08, 2016 - 09:35 AM EST / 2016.02.08 1435 UTC
+Wind: from the WSW (250 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 41 F (5 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: K19A 081435Z AUTO 25007KT 10SM OVC110 05/M02 A2981 RMK AO2
+cycle: 14

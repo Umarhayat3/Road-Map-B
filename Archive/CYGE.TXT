@@ -1,0 +1,11 @@
+Golden Airport, Canada (CYGE) 51-18N 116-59W
+Mar 13, 2019 - 08:00 PM EDT / 2019.03.14 0000 UTC
+Wind: from the NW (320 degrees) at 15 MPH (13 KT) gusting to 21 MPH (18 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 14 F (-10 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CYGE 140000Z 32013G18KT 20SM SCT080 BKN110 04/M10 A3014 RMK AC4AC1 LAST STFD OBS/NEXT 141200Z SLP238
+cycle: 0

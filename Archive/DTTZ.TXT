@@ -1,0 +1,10 @@
+Tozeur, Tunisia (DTTZ) 33-55N 008-06E 93M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (030 degrees) at 23 MPH (20 KT):0
+Visibility: 4 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 29%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DTTZ 140800Z 03020KT 8000 NSC 16/M02 Q1022 NOSIG
+cycle: 8

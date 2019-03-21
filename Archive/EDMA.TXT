@@ -1,0 +1,11 @@
+Augsburg, Germany (EDMA) 48-26N 010-56E 463M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: EDMA 140750Z 23013KT 9999 SCT015 SCT023 04/02 Q1013
+cycle: 8

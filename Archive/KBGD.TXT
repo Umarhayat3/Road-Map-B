@@ -1,0 +1,6 @@
+BORGER HUTCHINSON CO AIRPORT , TX, United States (KBGD) 35-42N 101-24W 927M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Pressure (altimeter): 29.79 in. Hg (1008 hPa)
+Pressure tendency: 0.11 inches (3.7 hPa) higher than three hours ago
+ob: KBGD 140851Z AUTO A2979 RMK AO2 SLPNO 53037 PWINO FZRANO 
+cycle: 9

@@ -1,0 +1,8 @@
+Station name not available
+Mar 13, 2019 - 04:30 PM EDT / 2019.03.13 2030 UTC
+Wind: from the W (260 degrees) at 15 MPH (13 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: EIWF 132030Z 26013KT 220V300 9999 BKN023 ///// Q1015 R21/1/////
+cycle: 20

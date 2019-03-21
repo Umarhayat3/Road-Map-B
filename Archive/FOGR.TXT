@@ -1,0 +1,10 @@
+Lambarene, Gabon (FOGR) 00-43S 010-14E 26M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: light rain; Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 100%
+ob: FOGR 140800Z /////KT 6000 -RA SCT006 FEW020CB OVC023 23/23 Q////
+cycle: 8

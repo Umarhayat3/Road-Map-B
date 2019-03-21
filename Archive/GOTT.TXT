@@ -1,0 +1,11 @@
+Tambacounda, Senegal (GOTT) 13-46N 013-41W 50M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (020 degrees) at 7 MPH (6 KT):0
+Visibility: 1 mile(s):0
+Weather: widespread dust
+Temperature: 73 F (23 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 25%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: GOTT 140800Z 02006KT 2500 DU NSC 23/02 Q1011
+cycle: 8

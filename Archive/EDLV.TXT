@@ -1,0 +1,12 @@
+Niederrhein, Germany (EDLV) 51-36-09N 006-08-32E
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SSW (210 degrees) at 13 MPH (11 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.59 in. Hg (1002 hPa)
+ob: EDLV 140750Z 21011KT 9000 -RA BKN010 06/05 Q1002
+cycle: 8

@@ -1,0 +1,15 @@
+Brookings, Brookings Municipal Airport, SD, United States (KBKX) 44-18N 096-49W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the N (350 degrees) at 12 MPH (10 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Precipitation last hour: 0.04 inches
+Temperature: 33.1 F (0.6 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.21 in. Hg (989 hPa)
+Pressure tendency: 0.01 inches (0.2 hPa) lower than three hours ago
+ob: KBKX 140856Z AUTO 35010KT 6SM -RA BR OVC002 01/01 A2921 RMK AO2 UPB10E12RAB12SNE10 SLP920 P0004 60006 T00060006 57002 FZRANO
+cycle: 9

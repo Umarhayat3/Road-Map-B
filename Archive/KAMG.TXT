@@ -1,0 +1,12 @@
+ALMA BACON COUNTY AIRPORT, GA, United States (KAMG) 31-32N 82-30W 59M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (080 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 55.9 F (13.3 C)
+Dew Point: 53.1 F (11.7 C)
+Relative Humidity: 90%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) lower than three hours ago
+ob: KAMG 140853Z AUTO 08003KT 10SM CLR 13/12 A3016 RMK AO2 SLP210 T01330117 56005
+cycle: 9

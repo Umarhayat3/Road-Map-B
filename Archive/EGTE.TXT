@@ -1,0 +1,12 @@
+Exeter Airport, United Kingdom (EGTE) 50-44N 003-25W
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (270 degrees) at 23 MPH (20 KT) gusting to 35 MPH (30 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 50 F (10 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: EGTE 140820Z 27020G30KT 7000 -RA FEW014 BKN018 10/09 Q1008 RERA
+cycle: 8

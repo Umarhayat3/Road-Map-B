@@ -1,0 +1,12 @@
+Dar-El-Beida, Algeria (DAAG) 36-43N 003-15E 25M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (270 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 53 F (12 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: DAAG 140800Z 27003KT 220V310 8000 SCT023TCU 12/11 Q1028
+cycle: 8

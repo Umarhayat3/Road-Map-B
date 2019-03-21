@@ -1,0 +1,10 @@
+Kelibia, Tunisia (DTTL) 36-51N 011-05E 30M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 57 F (14 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: DTTL 140800Z /////KT 9999 SCT020 14/05 Q1019
+cycle: 8

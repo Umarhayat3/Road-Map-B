@@ -1,0 +1,10 @@
+Station name not available
+Mar 02, 2017 - 07:00 AM EST / 2017.03.02 1200 UTC
+Wind: from the N (010 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: GMFG 021200Z 01006KT 330V060 CAVOK 22/06 Q1020 NOSIG
+cycle: 12

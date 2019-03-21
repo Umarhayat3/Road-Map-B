@@ -1,0 +1,9 @@
+Newhall, CA, United States (K3A6) 34-22N 118-34W
+Sep 05, 2011 - 02:30 AM EDT / 2011.09.05 0630 UTC
+Wind: from the SSW (200 degrees) at 1 MPH (1 KT):0
+Temperature: 73.0 F (22.8 C)
+Dew Point: 49.1 F (9.5 C)
+Relative Humidity: 42%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: K3A6 050630Z AUTO 20001KT 23/09 A2992 RMK AO1 SLP127 T02280095 403840165 
+cycle: 6

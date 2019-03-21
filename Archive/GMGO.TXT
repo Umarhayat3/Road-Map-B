@@ -1,0 +1,11 @@
+Station name not available
+Aug 31, 2017 - 11:00 PM EDT / 2017.09.01 0300 UTC
+Wind: from the NW (310 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GMGO 010300Z 31005KT 260V340 9999 SCT020 21/21 Q1016 NOSIG
+cycle: 3

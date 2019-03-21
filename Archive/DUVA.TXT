@@ -1,0 +1,11 @@
+Station name not available
+Apr 06, 2016 - 07:00 AM EDT / 2016.04.06 1100 UTC
+Wind: from the NE (040 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly clear
+Temperature: 66 F (19 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 68%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: DUVA 061100Z 04007KT 010V080 8000 FEW026 19/13 Q1006 NOSIG
+cycle: 11

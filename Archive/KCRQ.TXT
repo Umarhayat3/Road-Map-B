@@ -1,0 +1,12 @@
+CARLSBAD MCCLELLAN-PALOMAR, CA, United States (KCRQ) 33-08N 117-17W 99M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ENE (060 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 52.0 F (11.1 C)
+Dew Point: 44.1 F (6.7 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+Pressure tendency: 0.00 inches (0.1 hPa) lower than three hours ago
+ob: KCRQ 140853Z AUTO 06004KT 10SM CLR 11/07 A3009 RMK AO2 SLP188 T01110067 58001
+cycle: 9

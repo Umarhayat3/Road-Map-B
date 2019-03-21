@@ -1,0 +1,13 @@
+North Bay, Ont., Canada (CYYB) 46-21N 079-26W 371M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the S (170 degrees) at 8 MPH (7 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 32 F (0 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30 in. Hg (1015 hPa)
+ob: CYYB 140800Z AUTO 17007KT 6SM BR BKN010 OVC014 M00/M00 A3000 RMK SLP179
+cycle: 8

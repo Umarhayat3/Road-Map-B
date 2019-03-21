@@ -1,0 +1,5 @@
+Ile D'Orleans Automated Reporting Station , Canada (CWER) 47-00N 070-49W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (230 degrees) at 16 MPH (14 KT):0
+ob: CWER 140700Z AUTO 23014KT RMK AO1 PK WND 24017/0655
+cycle: 7

@@ -1,0 +1,10 @@
+Geneina, Sudan (HSGN) 13-29N 022-27E 805M
+Aug 30, 2017 - 04:00 PM EDT / 2017.08.30 2000 UTC
+Wind: from the WSW (250 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: HSGN 302000Z 25007KT CAVOK 25/20 Q1013
+cycle: 20

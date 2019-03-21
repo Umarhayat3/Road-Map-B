@@ -1,0 +1,11 @@
+Station name not available
+Jan 18, 2013 - 11:00 AM EST / 2013.01.18 1600 UTC
+Wind: from the SSE (160 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 69 F (21 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: CCJO 181600Z 16004KT 9999 FEW025 21/15 Q1017
+cycle: 16

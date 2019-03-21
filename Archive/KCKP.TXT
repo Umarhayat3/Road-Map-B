@@ -1,0 +1,11 @@
+Cherokee, Cherokee Municipal Airport, IA, United States (KCKP) 42-43-54N 095-33-21W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 39.7 F (4.3 C)
+Dew Point: 39.7 F (4.3 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.11 in. Hg (985 hPa)
+ob: KCKP 140855Z AUTO 00000KT 10SM OVC065 04/04 A2911 RMK AO2 T00430043
+cycle: 9

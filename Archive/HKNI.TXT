@@ -1,0 +1,9 @@
+Nyeri, Kenya (HKNI) 00-30S 036-58E 1759M
+Feb 04, 2017 - 02:00 PM EST / 2017.02.04 1900 UTC
+Wind: from the W (260 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 62 F (17 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 77%
+ob: HKNI 041900Z 26002KT CAVOK 17/13
+cycle: 19

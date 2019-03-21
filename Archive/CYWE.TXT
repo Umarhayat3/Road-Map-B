@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (060 degrees) at 5 MPH (4 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: -9 F (-23 C)
+Windchill: -20 F (-29 C):2
+Dew Point: -13 F (-25 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.13 in. Hg (1020 hPa)
+ob: CYWE 140800Z AUTO 06004KT 9SM BKN060 BKN073 OVC100 M23/M25 A3013 RMK SLP251
+cycle: 8

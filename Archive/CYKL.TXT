@@ -1,0 +1,12 @@
+Schefferville, Que., Canada (CYKL) 54-48N 066-48W 518M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WNW (300 degrees) at 7 MPH (6 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 17 F (-8 C)
+Windchill: 6 F (-14 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: CYKL 140800Z AUTO 30006KT 9SM SCT026 OVC060 M08/M09 A2992 RMK SLP172
+cycle: 8

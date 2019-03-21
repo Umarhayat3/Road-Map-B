@@ -1,0 +1,11 @@
+Effingham, Effingham County Memorial Airport, IL, United States (K1H2) 39-04-14N 088-32-00W
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the SE (140 degrees) at 17 MPH (15 KT) gusting to 25 MPH (22 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 60.3 F (15.7 C)
+Dew Point: 60.3 F (15.7 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.64 in. Hg (1003 hPa)
+ob: K1H2 140835Z AUTO 14015G22KT 10SM OVC011 16/16 A2964 RMK AO2 T01570157
+cycle: 8

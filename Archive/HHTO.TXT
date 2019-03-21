@@ -1,0 +1,12 @@
+Station name not available
+Oct 01, 2009 - 08:00 AM EDT / 2009.10.01 1200 UTC
+Wind: from the SSW (210 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain with thunder; Cumulonimbus clouds observed
+Temperature: 71 F (22 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 78%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HHTO 011200Z 21015KT 9999 TSRA BKN020 FEW023CB BKN120 22/18 Q1015
+cycle: 12

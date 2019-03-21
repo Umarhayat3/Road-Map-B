@@ -1,0 +1,10 @@
+Lusaka Internationalairport, Zambia (FLLS) 15-19S 028-27E 1154M
+Jan 13, 2014 - 02:00 AM EST / 2014.01.13 0700 UTC
+Wind: from the N (360 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FLLS 130700Z 36009KT CAVOK 25/20 Q1019
+cycle: 7

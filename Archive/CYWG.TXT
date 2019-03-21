@@ -1,0 +1,12 @@
+Winnipeg Int. Airportman., Canada (CYWG) 49-54N 097-14W 239M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 21 MPH (18 KT) gusting to 26 MPH (23 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 32 F (0 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.7 in. Hg (1005 hPa)
+ob: CYWG 140800Z 36018G23KT 15SM OVC077 M00/M04 A2970 RMK AC8 SLP072
+cycle: 8

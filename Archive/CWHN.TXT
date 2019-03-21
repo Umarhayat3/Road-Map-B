@@ -1,0 +1,11 @@
+Jimmy Lake , Canada (CWHN) 54-55N 109-57W 625M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Visibility: 9 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 30 F (-1 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: CWHN 140700Z AUTO 00000KT 9SM SCT064 M01/M07 A3007 RMK SLP213
+cycle: 7

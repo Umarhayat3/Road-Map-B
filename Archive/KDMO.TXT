@@ -1,0 +1,12 @@
+SEDALIA MEMORIAL AIRPORT, MO, United States (KDMO) 38-43N 93-10W 274M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (180 degrees) at 22 MPH (19 KT) gusting to 41 MPH (36 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 57.0 F (13.9 C)
+Dew Point: 44.1 F (6.7 C)
+Relative Humidity: 61%
+Pressure (altimeter): 29.31 in. Hg (992 hPa)
+Pressure tendency: 0.05 inches (1.6 hPa) lower than three hours ago
+ob: KDMO 140853Z AUTO 18019G36KT 10SM OVC048 14/07 A2931 RMK AO2 PK WND 17041/0825 SLP921 T01390067 56016
+cycle: 9

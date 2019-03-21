@@ -1,0 +1,12 @@
+Hahn, Germany (EDFH) 49-57N 007-16E 498M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 16 MPH (14 KT) gusting to 28 MPH (24 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: EDFH 140750Z 23014G24KT 210V270 9999 -RA BKN009 03/02 Q1007
+cycle: 8

@@ -1,0 +1,11 @@
+Station name not available
+Jul 02, 2010 - 01:00 PM EDT / 2010.07.02 1700 UTC
+Wind: from the SSE (150 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 105 F (41 C)
+Heat index: 102.0 F (38.9 C):1
+Dew Point: 51 F (11 C)
+Relative Humidity: 16%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: DAUS 021700Z 15010KT CAVOK 41/11 Q1009
+cycle: 17

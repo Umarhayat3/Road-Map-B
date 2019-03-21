@@ -1,0 +1,7 @@
+Gaya, Niger (DRRG) 11-53N 003-27E 203M
+Aug 21, 2009 - 11:00 AM EDT / 2009.08.21 1500 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+ob: DRRG 211500Z 18004KT 9999CTU SCT140 FEW040CB BKN140 ORAGE SECTEUR NORD
+cycle: 15

@@ -1,0 +1,12 @@
+Baie Comeau, Que., Canada (CYBC) 49-08N 068-12W 22M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (260 degrees) at 6 MPH (5 KT):0
+Visibility: 8 mile(s):0
+Sky conditions: overcast
+Temperature: 32 F (0 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.13 in. Hg (1020 hPa)
+ob: CYBC 140800Z AUTO 26005KT 8SM FEW037 OVC050 M00/M02 A3013 RMK SLP207
+cycle: 8

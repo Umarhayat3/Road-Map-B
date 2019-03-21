@@ -1,0 +1,12 @@
+Station name not available
+Jan 12, 2018 - 08:00 AM EST / 2018.01.12 1300 UTC
+Wind: from the W (280 degrees) at 26 MPH (23 KT) gusting to 38 MPH (33 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain with thunder; Cumulonimbus clouds observed
+Temperature: 51 F (11 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: EDKA 121300Z 28023G33KT 8000 -TSRA SCT020 FEW023CB BKN030 11/09 Q1013 NOSIG CB.N.NE
+cycle: 13

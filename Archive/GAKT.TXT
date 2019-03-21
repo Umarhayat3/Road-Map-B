@@ -1,0 +1,9 @@
+Kita, Mali (GAKT) 13-04N 009-28W 334M
+Nov 12, 2018 - 01:00 PM EST / 2018.11.12 1800 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 93 F (34 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 36%
+ob: GAKT 121800Z 00000KT CAVOK 34/17 Q////
+cycle: 18

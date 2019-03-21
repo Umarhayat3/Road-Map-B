@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 9 MPH (8 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: rain
+Precipitation last hour: 0.13 inches
+Temperature: 55.8 F (13.2 C)
+Dew Point: 54.0 F (12.2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: KDCY 140855Z AUTO 17008KT 5SM RA SCT011 OVC016 13/12 A2976 RMK AO2 P0013 60021 T01320122
+cycle: 9

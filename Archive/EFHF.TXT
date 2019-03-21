@@ -1,0 +1,11 @@
+Helsinki-Malmi, Finland (EFHF) 60-15N 025-03E 28M
+Mar 06, 2017 - 10:50 AM EST / 2017.03.06 1550 UTC
+Wind: from the NE (040 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 28 F (-2 C)
+Windchill: 21 F (-6 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 50%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: EFHF 061550Z 04006KT 330V100 CAVOK M02/M11 Q1021
+cycle: 16

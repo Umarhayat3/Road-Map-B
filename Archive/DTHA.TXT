@@ -1,0 +1,11 @@
+Station name not available
+Feb 15, 2019 - 02:30 AM EST / 2019.02.15 0730 UTC
+Wind: from the S (170 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 48 F (9 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+ob: DTHA 150730Z 17004KT 140V200 9999 FEW023 09/05 Q1030
+cycle: 7

@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the NNE (030 degrees) at 6 MPH (5 KT):0
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: fog
+Temperature: 41 F (5 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.32 in. Hg (992 hPa)
+ob: K04W 140835Z AUTO 03005KT 1/4SM FG OVC003 05/05 A2932 RMK AO2
+cycle: 8

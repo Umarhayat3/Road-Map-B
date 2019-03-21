@@ -1,0 +1,9 @@
+Swan River, Man., Canada (CWEQ) 52-07N 101-14W 335M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WNW (290 degrees) at 7 MPH (6 KT):0
+Temperature: 23.0 F (-5.0 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 18.5 F (-7.5 C)
+Relative Humidity: 82%
+ob: CWEQ 140700Z AUTO 29006KT M05/M08 RMK AO1 SOG 13 3008 SLP180 T10501075
+cycle: 7

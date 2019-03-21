@@ -1,0 +1,14 @@
+WAUSAU DOWNTOWN AIRPORT, WI, United States (KAUW) 44-56N 089-37W 362M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the SSE (150 degrees) at 14 MPH (12 KT) gusting to 21 MPH (18 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Precipitation last hour: A trace
+Temperature: 43.0 F (6.1 C)
+Dew Point: 42.1 F (5.6 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.38 in. Hg (994 hPa)
+Pressure tendency: 0.06 inches (2.0 hPa) lower than three hours ago
+ob: KAUW 140854Z AUTO 15012G18KT 2SM -RA BR OVC005 06/06 A2938 RMK AO2 RAE0759B46 SLP961 P0000 60008 T00610056 58020
+cycle: 9

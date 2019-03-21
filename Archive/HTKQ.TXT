@@ -1,0 +1,10 @@
+Station name not available
+Sep 02, 2017 - 07:00 PM EDT / 2017.09.02 2300 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 82%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: HTKQ 022300Z 00000KT CAVOK 20/17 Q1017
+cycle: 23

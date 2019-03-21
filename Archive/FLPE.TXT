@@ -1,0 +1,10 @@
+Petauke, Zambia (FLPE) 14-15S 031-17E 1036M
+May 27, 2008 - 05:00 AM EDT / 2008.05.27 0900 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 71 F (22 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 60%
+ob: FLPE 270900Z 16005KT 9999 FEW025 SCT063 22/14
+cycle: 9

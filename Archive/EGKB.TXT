@@ -1,0 +1,12 @@
+Biggin Hill , United Kingdom (EGKB) 51-19N 000-02E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (250 degrees) at 24 MPH (21 KT) gusting to 45 MPH (39 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 48 F (9 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.56 in. Hg (1001 hPa)
+ob: EGKB 140820Z 25021G39KT 9999 -RA BKN010 09/07 Q1001 
+cycle: 8

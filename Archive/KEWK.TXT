@@ -1,0 +1,12 @@
+Newton, Newton City/County Airport, KS, United States (KEWK) 38-03N 097-17W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the W (270 degrees) at 25 MPH (22 KT) gusting to 32 MPH (28 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 37.9 F (3.3 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 72%
+Pressure (altimeter): 29.36 in. Hg (994 hPa)
+Pressure tendency: 0.12 inches (3.9 hPa) higher than three hours ago
+ob: KEWK 140856Z AUTO 27022G28KT 10SM OVC027 03/M01 A2936 RMK AO2 PK WND 27028/0854 SLP938 T00331011 51039
+cycle: 9

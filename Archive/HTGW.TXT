@@ -1,0 +1,8 @@
+Station name not available
+Feb 27, 2019 - 06:00 AM EST / 2019.02.27 1100 UTC
+Wind: from the WNW (300 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+ob: HTGW 271100Z 2712/2812 30010KT 9999 SCT028 FEW029CB TEMPO 2713/2716 12010KT 5000 TSRA BKN023 FEW025CB SCT080 BECMG 2717/2719 00000KT 9999 SCT018 FEW020CB
+cycle: 11

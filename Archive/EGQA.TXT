@@ -1,0 +1,10 @@
+Tain Range, United Kingdom (EGQA) 57-49N 003-58W 0M
+Mar 13, 2019 - 10:50 AM EDT / 2019.03.13 1450 UTC
+Wind: from the W (260 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity
+Temperature: 46 F (8 C)
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: EGQA 131450Z 26015KT 9999 VCSH FEW008 SCT017 08/// Q0999 WHT
+cycle: 15

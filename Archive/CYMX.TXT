@@ -1,0 +1,13 @@
+Montreal / Mirabel, Canada (CYMX) 45-41N 074-02W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: 1/2 mile(s):0
+Sky conditions: obscured
+Weather: freezing fog
+Temperature: 30 F (-1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: CYMX 140800Z 04004KT 350V070 1/2SM R06/2400FT/N FZFG VV002 M01/M02 A3019 RMK FG8 VIS VRB 3/8-5/8 SLP229
+cycle: 8

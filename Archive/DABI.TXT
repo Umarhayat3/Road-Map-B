@@ -1,0 +1,10 @@
+Station name not available
+Oct 04, 2011 - 03:00 AM EDT / 2011.10.04 0700 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: DABI 040700Z /////KT 9999 FEW026 SCT030 19/11 Q1024
+cycle: 7

@@ -1,0 +1,13 @@
+Earlton, Ont., Canada (CYXR) 47-42N 079-51W 243M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (150 degrees) at 10 MPH (9 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 32 F (0 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: CYXR 140800Z AUTO 15009KT 3SM BR OVC007 00/00 A2998 RMK ICG SLP167
+cycle: 8

@@ -1,0 +1,8 @@
+Station name not available
+Sep 08, 2011 - 11:06 AM EDT / 2011.09.08 1506 UTC
+Wind: from the N (350 degrees) at 5 MPH (4 KT):0
+Temperature: 64 F (18 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 77%
+ob: KF07 081506Z 35004KT 18/14 RMK PK WND 36011KT PCPN 1/3/6/12/24H 0.00 0.00 0.00 0.00 0.01
+cycle: 15

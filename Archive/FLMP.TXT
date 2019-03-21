@@ -1,0 +1,9 @@
+Mpika, Zambia (FLMP) 11-54S 031-26E 1402M
+Jun 03, 2009 - 08:00 AM EDT / 2009.06.03 1200 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 33%
+ob: FLMP 031200Z 10007KT CAVOK 24/07
+cycle: 12

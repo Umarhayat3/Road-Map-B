@@ -1,0 +1,13 @@
+Honiara / Henderson, Solomon Islands (AGGH) 09-25S 160-03E 9M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 86 F (30 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: AGGH 140700Z 05005KT 9999 FEW018 FEW020CB BKN300 30/25 Q1007
+cycle: 7

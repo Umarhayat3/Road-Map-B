@@ -1,0 +1,10 @@
+Station name not available
+Jun 02, 2015 - 03:00 AM EDT / 2015.06.02 0700 UTC
+Wind: from the E (080 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 56%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FBBK 020700Z 08013KT CAVOK 22/13 Q1019
+cycle: 7

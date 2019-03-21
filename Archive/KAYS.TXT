@@ -1,0 +1,11 @@
+Waycross / Ware County, Ga, GA, United States (KAYS) 31-15N 082-24W 46M
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 58.1 F (14.5 C)
+Dew Point: 53.4 F (11.9 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: KAYS 140855Z AUTO 00000KT 10SM CLR 15/12 A3017 RMK AO2 T01450119
+cycle: 9

@@ -1,0 +1,8 @@
+L'Assomption, Canada (CWEW) 45-49N 073-26W 21M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NE (040 degrees) at 1 MPH (1 KT):0
+Temperature: 30.6 F (-0.8 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 97%
+ob: CWEW 140700Z AUTO 04001KT M01/M01 RMK AO1 SOG 50 5007 SLP246 T10081011
+cycle: 7

@@ -1,0 +1,13 @@
+COLLEGE STN EASTERWOOD FIELD, TX, United States (KCLL) 30-35N 096-22W 96M
+Mar 14, 2019 - 04:57 AM EDT / 2019.03.14 0857 UTC
+Wind: from the WNW (300 degrees) at 30 MPH (26 KT) gusting to 38 MPH (33 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: overcast
+Weather: heavy rain with thunder; mist; Lightning observed
+Precipitation last hour: 0.38 inches
+Temperature: 64.0 F (17.8 C)
+Dew Point: 62.1 F (16.7 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: KCLL 140857Z AUTO 30026G33KT 3/4SM +TSRA BR FEW008 BKN014 OVC031 18/17 A2981 RMK AO2 PK WND 29033/0855 VIS 1/4V5 LTG DSNT W-NE P0038 T01780167
+cycle: 9

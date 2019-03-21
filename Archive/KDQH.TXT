@@ -1,0 +1,11 @@
+Douglas, Douglas Municipal Airport, GA, United States (KDQH) 31-28-36N 082-51-37W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the E (090 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 58.1 F (14.5 C)
+Dew Point: 55.6 F (13.1 C)
+Relative Humidity: 91%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: KDQH 140855Z AUTO 09003KT 10SM CLR 15/13 A3017 RMK AO2 T01450131
+cycle: 9

@@ -1,0 +1,9 @@
+Rooikop Saaf / Civ , Namibia (FYRK) 22-59S 014-39E
+Mar 28, 2012 - 02:00 AM EDT / 2012.03.28 0600 UTC
+Wind: from the WNW (300 degrees) at 2 MPH (2 KT):0
+Temperature: 66 F (19 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FYRK 280600Z AUTO 30002KT //// // ////// 19/17 Q1019
+cycle: 6

@@ -1,0 +1,11 @@
+Fort Liard Airport, Canada (CYJF) 60-14N 123-29W
+Mar 13, 2019 - 06:00 PM EDT / 2019.03.13 2200 UTC
+Wind: from the N (010 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 39 F (4 C)
+Dew Point: 17 F (-8 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: CYJF 132200Z 01003KT 330V030 15SM FEW100 04/M08 A2998 RMK AC1 S0 AFT 12UTC/LAST STFD OBS/NEXT 141400UTC SLP166
+cycle: 22

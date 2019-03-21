@@ -1,0 +1,11 @@
+Station name not available
+Jan 29, 2016 - 12:00 AM EST / 2016.01.29 0500 UTC
+Wind: from the E (100 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: GNLU 290500Z 10004KT 9999 FEW020 BKN100 26/23 Q1009 NOSIG
+cycle: 5

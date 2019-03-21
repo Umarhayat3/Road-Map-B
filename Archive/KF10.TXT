@@ -1,0 +1,8 @@
+Henryetta Municipal, OK, United States (KF10) 35-24N 096-01W 259M
+Sep 08, 2011 - 10:59 AM EDT / 2011.09.08 1459 UTC
+Wind: from the NW (310 degrees) at 1 MPH (1 KT):0
+Temperature: 60 F (16 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 100%
+ob: KF10 081459Z 31001KT 16/16 RMK PK WND 29004KT PCPN 1/3/6/12/24H 0.00 0.01 0.02 0.02 0.04
+cycle: 15

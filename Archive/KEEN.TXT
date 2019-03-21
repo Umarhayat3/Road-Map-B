@@ -1,0 +1,12 @@
+Keene, Dillant-Hopkins Airport, NH, United States (KEEN) 42-54N 072-16W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 33.1 F (0.6 C)
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) lower than three hours ago
+ob: KEEN 140856Z AUTO 00000KT 10SM SCT046 OVC055 01/M03 A3024 RMK AO2 SLP264 T00061033 55005 FZRANO 
+cycle: 9

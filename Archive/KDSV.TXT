@@ -1,0 +1,12 @@
+DANSVILLE MUNICIPAL AIRPORT, NY, United States (KDSV) 42-34N 077-43W 198M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the SSE (150 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39.0 F (3.9 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+Pressure tendency: falling rapidly - 0.04 inches (1.3 hPa) lower than three hours ago
+ob: KDSV 140854Z AUTO 15006KT 10SM BKN070 04/M02 A3003 RMK AO2 PRESFR SLP182 T00391022 58013
+cycle: 9

@@ -1,0 +1,12 @@
+Station name not available
+Apr 14, 2009 - 05:50 AM EDT / 2009.04.14 0950 UTC
+Wind: from the WSW (250 degrees) at 14 MPH (12 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain; mist
+Temperature: 55 F (13 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.80 in. Hg (1009 hPa)
+ob: EQBB 140950Z 25012KT 4000 RA BR BKN003 13/13 Q1009 YLO
+cycle: 10

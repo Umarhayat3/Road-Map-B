@@ -1,0 +1,12 @@
+WESTFIELD BARNES MUNICIPAL, MA, United States (KBAF) 42-10N 072-43W 83M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 35.1 F (1.7 C)
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) lower than three hours ago
+ob: KBAF 140853Z AUTO 16003KT 10SM OVC055 02/M03 A3025 RMK AO2 SLP247 T00171033 55005 TSNO
+cycle: 9

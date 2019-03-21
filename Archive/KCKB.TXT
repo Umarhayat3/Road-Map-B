@@ -1,0 +1,12 @@
+HARRISON/MARION REGIONAL, WV, United States (KCKB) 39-18N 080-13W 360M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 46.0 F (7.8 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KCKB 140853Z AUTO 00000KT 10SM CLR 08/01 A3002 RMK AO2 SLP158 T00780006 58012
+cycle: 9

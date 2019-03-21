@@ -1,0 +1,11 @@
+La Ronge, Sask, Canada (CYVC) 55-09N 105-16W 379M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 14 F (-10 C)
+Dew Point: 12 F (-11 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CYVC 140800Z VRB02KT 15SM SKC M10/M11 A3009 RMK SLP216
+cycle: 8

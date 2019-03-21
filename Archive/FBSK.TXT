@@ -1,0 +1,10 @@
+Seretse Khama International Airport, Botswana (FBSK) 24-13S 025-55E 1005M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 80 F (27 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 44%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FBSK 140800Z 05005KT 360V090 CAVOK 27/14 Q1021 NOSIG
+cycle: 8

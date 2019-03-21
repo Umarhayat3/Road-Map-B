@@ -1,0 +1,11 @@
+Lexington, Davidson County Airport, NC, United States (KEXX) 35-46-52N 080-18-14W
+Mar 14, 2019 - 05:00 AM EDT / 2019.03.14 0900 UTC
+Wind: from the SSE (160 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 49.3 F (9.6 C)
+Dew Point: 43.7 F (6.5 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: KEXX 140900Z AUTO 16003KT 10SM BKN034 10/07 A3021 RMK AO2 T00960065
+cycle: 9

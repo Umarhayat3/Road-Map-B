@@ -1,0 +1,11 @@
+Essaouira, Morocco (GMMI) 31-31N 009-47W 8M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (350 degrees) at 7 MPH (6 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 53 F (12 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: GMMI 140800Z 35006KT 6000 SCT010 SCT020 12/09 Q1021 NOSIG
+cycle: 8

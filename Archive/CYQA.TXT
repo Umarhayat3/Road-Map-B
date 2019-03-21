@@ -1,0 +1,13 @@
+Muskoka, Ont., Canada (CYQA) 44-58N 079-18W 282M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ESE (110 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 32 F (0 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: CYQA 140800Z AUTO 11004KT 4SM BR OVC024 00/M00 A3001 RMK SLP176
+cycle: 8

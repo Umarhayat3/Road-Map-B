@@ -1,0 +1,7 @@
+Komakuk Beach, Y. T., Canada (CWKM) 69-37N 140-12W
+Jun 28, 2018 - 10:00 AM EDT / 2018.06.28 1400 UTC
+Wind: from the E (090 degrees) at 23 MPH (20 KT):0
+Temperature: 37 F (3 C)
+Pressure (altimeter): 29.86 in. Hg (1011 hPa)
+ob: CWKM 281400Z AUTO 09020KT 03/ A2986 RMK SLP118
+cycle: 14

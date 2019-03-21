@@ -1,0 +1,10 @@
+Berlin-Tempelhof, Germany (EDDI) 52-28N 013-24E 49M
+Jul 02, 2009 - 11:20 PM EDT / 2009.07.03 0320 UTC
+Wind: from the NNE (020 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 64 F (18 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: EDDI 030320Z 02002KT CAVOK 18/16 Q1015 NOSIG
+cycle: 3

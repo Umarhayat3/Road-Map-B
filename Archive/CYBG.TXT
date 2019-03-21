@@ -1,0 +1,11 @@
+Bagotville, Que., Canada (CYBG) 48-20N 071-00W 159M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (310 degrees) at 2 MPH (2 KT):0
+Visibility: 25 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 30 F (-1 C)
+Dew Point: 24 F (-4 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: CYBG 140800Z 31002KT 25SM BKN039 M01/M04 A3018 RMK SC6 SLP230
+cycle: 8

@@ -1,0 +1,12 @@
+FORT WORTH MEACHAM INTERNATIONAL ., TX, United States (KFTW) 32-50N 097-22W 214M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (270 degrees) at 18 MPH (16 KT) gusting to 37 MPH (32 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 63.0 F (17.2 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 33%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: 0.07 inches (2.5 hPa) higher than three hours ago
+ob: KFTW 140853Z 27016G32KT 7SM BKN031 17/01 A2973 RMK AO2 PK WND 27032/0847 SLP060 T01720011 53025
+cycle: 9

@@ -1,0 +1,12 @@
+Cook, Cook Municipal Airport, MN, United States (KCQM) 47-49-19N 092-41-22W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 1 1/4 mile(s):0
+Sky conditions: overcast
+Weather: light drizzle
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.38 in. Hg (994 hPa)
+ob: KCQM 140855Z AUTO 00000KT 1 1/4SM -DZ OVC003 03/02 A2938 RMK AO2
+cycle: 9

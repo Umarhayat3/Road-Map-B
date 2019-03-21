@@ -1,0 +1,11 @@
+Station name not available
+Aug 26, 2016 - 08:00 AM EDT / 2016.08.26 1200 UTC
+Wind: from the ESE (120 degrees) at 15 MPH (13 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 84 F (29 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FMCI 261200Z 12013KT 9999 FEW020 SCT030 29/18 Q1018 NOSIG
+cycle: 12

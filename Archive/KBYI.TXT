@@ -1,0 +1,13 @@
+BURLEY MUNICIPAL AIRPORT, ID, United States (KBYI) 42-33N 113-46W 1264M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (260 degrees) at 14 MPH (12 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 28.9 F (-1.7 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.07 inches (2.4 hPa) higher than three hours ago
+ob: KBYI 140853Z AUTO 26012KT 10SM BKN060 M02/M08 A3021 RMK AO2 SLP246 T10171078 53024
+cycle: 9

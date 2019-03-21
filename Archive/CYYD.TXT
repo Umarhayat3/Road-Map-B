@@ -1,0 +1,12 @@
+Smithers, B. C., Canada (CYYD) 54-49N 127-11W 523M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSE (160 degrees) at 5 MPH (4 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: CYYD 140800Z AUTO 16004KT 9SM BKN070 BKN082 OVC130 01/M04 A3004 RMK SLP194
+cycle: 8

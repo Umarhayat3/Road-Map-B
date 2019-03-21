@@ -1,0 +1,12 @@
+Meadow Lake, Sask., Canada (CYLJ) 54-08N 108-31W 480M
+Mar 13, 2019 - 08:00 PM EDT / 2019.03.14 0000 UTC
+Wind: from the W (260 degrees) at 8 MPH (7 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: CYLJ 140000Z 26007KT 15SM FEW035 02/M04 A3002 RMK CU1 VIRGA NW- N+S LAST STFD OB/NXT141200UTC SLP196
+cycle: 0

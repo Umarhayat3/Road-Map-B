@@ -1,0 +1,10 @@
+Ermelo, South Africa (FAEO) 26-30S 029-59E
+Mar 14, 2019 - 03:33 AM EDT / 2019.03.14 0733 UTC
+Wind: from the SE (140 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 56%
+Pressure (altimeter): 30.33 in. Hg (1027 hPa)
+ob: FAEO 140733Z 14007KT CAVOK 20/11 Q1027
+cycle: 7

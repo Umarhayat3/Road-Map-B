@@ -1,0 +1,10 @@
+Station name not available
+Sep 27, 2015 - 03:05 PM EDT / 2015.09.27 1905 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 78 F (26 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 88%
+ob: GBBJ 271905Z 9999 TS SCT010 FEW018CB BKN110 26/24 THUNDER HARD AT EAST OF STATION
+cycle: 19

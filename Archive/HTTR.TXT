@@ -1,0 +1,10 @@
+Station name not available
+Mar 30, 2016 - 08:00 AM EDT / 2016.03.30 1200 UTC
+Wind: from the SSE (160 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 11%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: HTTR 301200Z 16008KT CAVOK 32/M02 Q1022
+cycle: 12

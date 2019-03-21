@@ -1,0 +1,11 @@
+Jonkoping Flygplats, Sweden (ESGJ) 57-46N 014-05E 232M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (240 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 37 F (3 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: ESGJ 140820Z 24009KT 9999 FEW008 SCT011 BKN015 03/01 Q0988 R19/290070
+cycle: 8

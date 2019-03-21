@@ -1,0 +1,11 @@
+Station name not available
+Jul 24, 2014 - 06:50 AM EDT / 2014.07.24 1050 UTC
+Wind: from the SE (130 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 42 F (6 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: BGQQ 241050Z 13003KT 9999 FEW025 SCT045 BKN180 06/03 Q1014 RMK 1SC 3SC 6CI 
+cycle: 11

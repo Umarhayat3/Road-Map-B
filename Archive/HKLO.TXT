@@ -1,0 +1,11 @@
+Lodwar, Kenya (HKLO) 03-07N 035-37E 515M
+Feb 03, 2017 - 08:00 AM EST / 2017.02.03 1300 UTC
+Wind: from the E (100 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 98 F (37 C)
+Heat index: 95.5 F (35.3 C):1
+Dew Point: 53 F (12 C)
+Relative Humidity: 22%
+ob: HKLO 031300Z 10012KT 9999 FEW032 37/12
+cycle: 13

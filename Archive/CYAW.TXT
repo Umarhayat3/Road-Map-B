@@ -1,0 +1,11 @@
+Shearwater, N. S., Canada (CYAW) 44-38N 063-30W 51M
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the N (360 degrees) at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 28 F (-2 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+ob: CYAW 140100Z 36002KT 15SM FEW250 M02/M05 A3026 RMK CI1 DA-2198FT LAST OBS/NEXT 141100 UTC SLP251
+cycle: 1

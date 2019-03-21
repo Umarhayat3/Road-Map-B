@@ -1,0 +1,13 @@
+DILLON AIRPORT, MT, United States (KDLN) 45-15N 112-33W 1591M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSW (200 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 19.9 F (-6.7 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 16.0 F (-8.9 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) higher than three hours ago
+ob: KDLN 140853Z AUTO 20005KT 10SM SCT039 OVC065 M07/M09 A3019 RMK AO2 SLP268 T10671089 53014
+cycle: 9

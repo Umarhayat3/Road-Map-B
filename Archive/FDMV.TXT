@@ -1,0 +1,9 @@
+Station name not available
+Jun 01, 2018 - 05:00 AM EDT / 2018.06.01 0900 UTC
+Wind: from the N (360 degrees) at 2 MPH (2 KT):0
+Temperature: 80 F (27 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FDMV 010900Z AUTO 36002KT //// // ////// 27/18 Q1021
+cycle: 9

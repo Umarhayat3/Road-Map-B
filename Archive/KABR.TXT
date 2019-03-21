@@ -1,0 +1,14 @@
+ABERDEEN REGIONAL AIRPORT, SD, United States (KABR) 45-27N 098-25W 400M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the N (360 degrees) at 33 MPH (29 KT) gusting to 51 MPH (44 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 28.9 F (-1.7 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.39 in. Hg (995 hPa)
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: KABR 140853Z AUTO 36029G44KT 1SM BR BKN010 OVC014 M02/M02 A2939 RMK AO2 PK WND 35044/0847 CIG 007V011 SLP967 T10171022 53003 PWINO FZRANO 
+cycle: 9

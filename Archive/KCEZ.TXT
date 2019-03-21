@@ -1,0 +1,13 @@
+CORTEZ MONTEZUMA COUNTY AIRPORT , CO, United States (KCEZ) 37-18N 108-38W 1797M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the N (350 degrees) at 18 MPH (16 KT) gusting to 31 MPH (27 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 28.9 F (-1.7 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 17.1 F (-8.3 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.87 in. Hg (1011 hPa)
+Pressure tendency: 0.02 inches (0.7 hPa) higher than three hours ago
+ob: KCEZ 140853Z AUTO 35016G27KT 10SM BKN120 M02/M08 A2987 RMK AO2 PK WND 33029/0836 SLP116 T10171083 51007
+cycle: 9

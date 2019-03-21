@@ -1,0 +1,10 @@
+Bria, Central African Republic (FEFR) 06-32N 021-59E 584M
+Aug 29, 2010 - 06:00 AM EDT / 2010.08.29 1000 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 78 F (26 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 78%
+ob: FEFR 291000Z /////KT 9999 TS BKN006 FEW040CB OVC150 26/22 QFE947
+cycle: 10

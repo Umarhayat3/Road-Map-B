@@ -1,0 +1,11 @@
+Cushing, Cushing Municipal Airport, OK, United States (KCUH) 35-56-59N 096-46-22W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (260 degrees) at 14 MPH (12 KT) gusting to 23 MPH (20 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 44.6 F (7.0 C)
+Dew Point: 31.8 F (-0.1 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.57 in. Hg (1001 hPa)
+ob: KCUH 140855Z AUTO 26012G20KT 10SM CLR 07/00 A2957 RMK AO2 T00701001
+cycle: 9

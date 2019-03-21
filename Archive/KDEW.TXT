@@ -1,0 +1,13 @@
+DEER PARK AIRPORT, WA, United States (KDEW) 47-58N 117-26W 668M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 1/4 mile(s):0
+Sky conditions: obscured
+Weather: freezing fog
+Temperature: 15.1 F (-9.4 C)
+Dew Point: 12.9 F (-10.6 C)
+Relative Humidity: 90%
+Pressure (altimeter): 30.38 in. Hg (1028 hPa)
+Pressure tendency: 0.04 inches (1.3 hPa) higher than three hours ago
+ob: KDEW 140853Z AUTO 00000KT 1/4SM FZFG VV003 M09/M11 A3038 RMK AO2 SLP320 I3002 T10941106 53013
+cycle: 9

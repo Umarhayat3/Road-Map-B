@@ -1,0 +1,10 @@
+Rustenburg, South Africa (FARG) 25-38-39S 027-16-16E
+Sep 16, 2018 - 10:00 PM EDT / 2018.09.17 0200 UTC
+Wind: from the E (080 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 55%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FARG 170200Z 08009KT CAVOK 16/07 Q1022 NOSIG
+cycle: 2

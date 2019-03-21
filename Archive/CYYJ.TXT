@@ -1,0 +1,11 @@
+Victoria Int. Airport, B. C., Canada (CYYJ) 48-39N 123-26W 19M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (230 degrees) at 5 MPH (4 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+ob: CYYJ 140800Z 23004KT 20SM FEW055 BKN140 OVC180 03/01 A3039 RMK SC2AS3AS3 SLP292
+cycle: 8

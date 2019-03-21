@@ -1,0 +1,12 @@
+FULLERTON MUNICIPAL AIRPORT , CA, United States (KFUL) 33-52N 117-59W 35M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 50.0 F (10.0 C)
+Dew Point: 41.0 F (5.0 C)
+Relative Humidity: 71%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) higher than three hours ago
+ob: KFUL 140853Z AUTO 00000KT 10SM CLR 10/05 A3011 RMK AO2 SLP195 T01000050 50004
+cycle: 9

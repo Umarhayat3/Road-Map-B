@@ -1,0 +1,11 @@
+Mandera, Kenya (HKMA) 03-56N 041-52E 231M
+Apr 26, 2017 - 07:00 AM EDT / 2017.04.26 1100 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 96 F (36 C)
+Heat index: 100.2 F (37.9 C):1
+Dew Point: 68 F (20 C)
+Relative Humidity: 39%
+ob: HKMA 261100Z VRB05KT 9999 SCT032 36/20
+cycle: 11

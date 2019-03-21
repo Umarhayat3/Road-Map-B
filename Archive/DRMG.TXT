@@ -1,0 +1,9 @@
+Station name not available
+Jan 02, 2010 - 01:00 AM EST / 2010.01.02 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 29%
+ob: DRMG 020600Z 00000KT CAVOK 16/M02 Q////
+cycle: 6

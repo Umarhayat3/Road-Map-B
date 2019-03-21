@@ -1,0 +1,11 @@
+Kenitra, Morocco (GMMY) 34-18N 006-36W 14M
+Feb 10, 2017 - 06:30 AM EST / 2017.02.10 1130 UTC
+Wind: from the W (280 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 59 F (15 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 51%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: GMMY 101130Z 28011KT 9999 SCT023 SCT200 15/05 Q1014 NOSIG
+cycle: 11

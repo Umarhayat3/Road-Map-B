@@ -1,0 +1,13 @@
+Kristiansand / Kjevik, Norway (ENCN) 58-12N 008-05E 17M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the NE (050 degrees) at 6 MPH (5 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 32 F (0 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: ENCN 140820Z 05005KT 8000 -RA OVC006 00/00 Q0987
+cycle: 8

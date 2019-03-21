@@ -1,0 +1,9 @@
+Station name not available
+Aug 14, 2018 - 02:00 AM EDT / 2018.08.14 0600 UTC
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: DTJN 140600Z /////KT CAVOK 24/21 Q1014
+cycle: 6

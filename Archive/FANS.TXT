@@ -1,0 +1,9 @@
+Nelspruit, South Africa (FANS) 25-26S 030-59E 700M
+Dec 16, 2008 - 01:00 AM EST / 2008.12.16 0600 UTC
+Wind: from the S (170 degrees) at 2 MPH (2 KT):0
+Temperature: 64 F (18 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FANS 160600Z AUTO 17002KT //// // ////// 18/16 Q1022
+cycle: 6

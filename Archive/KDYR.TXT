@@ -1,0 +1,11 @@
+Dyersburg, Dyersburg Municipal Airport, TN, United States (KDYR) 36-00N 089-24W
+Mar 14, 2019 - 05:11 AM EDT / 2019.03.14 0911 UTC
+Wind: from the S (170 degrees) at 12 MPH (10 KT) gusting to 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 66 F (19 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: KDYR 140911Z AUTO 17010G16KT 10SM BKN017 BKN026 OVC044 19/18 A2968 RMK AO2 PNO 
+cycle: 9

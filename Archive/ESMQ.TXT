@@ -1,0 +1,11 @@
+Kalmar, Sweden (ESMQ) 56-44N 016-18E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (230 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.23 in. Hg (0990 hPa)
+ob: ESMQ 140820Z 23004KT 210V270 9999 FEW004 BKN006 OVC010 05/04 Q0990
+cycle: 8

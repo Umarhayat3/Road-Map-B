@@ -1,0 +1,11 @@
+Station name not available
+Apr 27, 2009 - 05:53 AM EDT / 2009.04.27 0953 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 37.0 F (2.8 C)
+Dew Point: 12.9 F (-10.6 C)
+Relative Humidity: 36%
+Pressure (altimeter): 30.05 in. Hg (1017 hPa)
+ob: JRQE 270953Z AUTO 00000KT 10SM CLR 03/M11 A3005 RMK AO2 SL@LºJ T00281106 TSNO 
+cycle: 10

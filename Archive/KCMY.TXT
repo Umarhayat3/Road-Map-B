@@ -1,0 +1,12 @@
+Sparta, Sparta / Fort McCoy Airport, WI, United States (KCMY) 43-57-30N 090-44-16W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: Lightning observed
+Temperature: 44.1 F (6.7 C)
+Dew Point: 43.5 F (6.4 C)
+Relative Humidity: 97%
+Pressure (altimeter): 29.33 in. Hg (993 hPa)
+ob: KCMY 140855Z AUTO 00000KT 10SM OVC011 07/06 A2933 RMK AO2 LTG DSNT SW T00670064
+cycle: 9

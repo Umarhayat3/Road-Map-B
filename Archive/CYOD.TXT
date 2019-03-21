@@ -1,0 +1,12 @@
+Cold Lake, Alta., Canada (CYOD) 54-25N 110-17W 541M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (250 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 23 F (-5 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: CYOD 140800Z 25004KT 15SM FEW100 M05/M09 A3011 RMK AC2 SLP228
+cycle: 8

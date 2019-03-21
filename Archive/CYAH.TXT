@@ -1,0 +1,12 @@
+La Grande Iv, Que., Canada (CYAH) 53-45N 073-40W 307M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SSW (200 degrees) at 8 MPH (7 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 30 F (-1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 26 F (-3 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: CYAH 140800Z AUTO 20007KT 9SM OVC026 M01/M03 A2998 RMK SLP172
+cycle: 8

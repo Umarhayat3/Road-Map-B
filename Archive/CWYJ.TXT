@@ -1,0 +1,9 @@
+Victoria University, Canada (CWYJ) 48-27N 123-18W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 38.7 F (3.7 C)
+Dew Point: 35.4 F (1.9 C)
+Relative Humidity: 88%
+Pressure tendency: 0.01 inches (0.4 hPa) higher than three hours ago
+ob: CWYJ 140700Z AUTO 00000KT 04/02 RMK AO1 SLP289 T00370019 53004
+cycle: 7

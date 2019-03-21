@@ -1,0 +1,13 @@
+Station name not available
+Sep 14, 2016 - 04:00 AM EDT / 2016.09.14 0800 UTC
+Wind: from the W (280 degrees) at 8 MPH (7 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Weather: haze; Cumulonimbus clouds observed
+Temperature: 93 F (34 C)
+Heat index: 106.7 F (41.5 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 59%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EVGT 140800Z 28007KT 5000 HZ FEW020 FEW025CB SCT100 34/25 Q1005 NOSIG
+cycle: 8

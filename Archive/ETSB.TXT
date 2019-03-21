@@ -1,0 +1,12 @@
+Buechel, Germany (ETSB) 50-10N 007-04E 486M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (220 degrees) at 20 MPH (17 KT) gusting to 32 MPH (28 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: rain; mist
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: ETSB 140820Z 22017G28KT 4000 RA BR BKN002 OVC008 03/02 Q1006 AMB YLO TEMPO RED
+cycle: 8

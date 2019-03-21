@@ -1,0 +1,8 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (340 degrees) at 3 MPH (3 KT):0
+Temperature: 22.8 F (-5.1 C)
+Dew Point: 15.1 F (-9.4 C)
+Relative Humidity: 71%
+ob: CWBU 140700Z AUTO 34003KT M05/M09 RMK AO1 SOG 23 2013 SLP206 T10511094
+cycle: 7

@@ -1,0 +1,10 @@
+Station name not available
+Dec 29, 2014 - 01:00 PM EST / 2014.12.29 1800 UTC
+Wind: from the NE (040 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 17%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: GODD 291800Z 04004KT CAVOK 28/01 Q1015
+cycle: 18

@@ -1,0 +1,12 @@
+Soenderborg Lufthavn, Denmark (EKSB) 54-58N 009-47E 14M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (230 degrees) at 13 MPH (11 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.32 in. Hg (0993 hPa)
+ob: EKSB 140820Z 23011KT 190V260 9999 -RA BKN012 BKN040 06/04 Q0993
+cycle: 8

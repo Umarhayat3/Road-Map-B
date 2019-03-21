@@ -1,0 +1,12 @@
+Narvik Iii, Norway (ENNK) 68-28N 017-30E 23M
+Mar 31, 2017 - 01:50 PM EDT / 2017.03.31 1750 UTC
+Wind: from the NE (040 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 30 F (-1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: ENNK 311750Z 04006KT 9999 FEW060 SCT200 M01/M10 Q1010
+cycle: 18

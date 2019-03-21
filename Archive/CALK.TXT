@@ -1,0 +1,11 @@
+Station name not available
+Sep 22, 2012 - 08:56 PM EDT / 2012.09.23 0056 UTC
+Wind: from the S (170 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 75.9 F (24.4 C)
+Dew Point: 35.1 F (1.7 C)
+Relative Humidity: 22%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CALK 230056Z AUTO 17010KT 10SM CLR 24/02 A3014 RMK AO2 SLP118 T02440017 TSNO 
+cycle: 1

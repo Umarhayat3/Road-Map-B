@@ -1,0 +1,11 @@
+Station name not available
+Aug 22, 2016 - 11:22 PM EDT / 2016.08.23 0322 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73 F (23 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HTMX 230322Z HKJKYMYX ?SAEA20 HKNC 230100 RRI METAR HTZA 230100Z 00000KT 9999 FEW016 23/22 Q1016 NOSIG
+cycle: 3

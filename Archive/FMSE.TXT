@@ -1,0 +1,11 @@
+Station name not available
+Aug 08, 2017 - 01:00 PM EDT / 2017.08.08 1700 UTC
+Wind: from the ENE (060 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FMSE 081700Z 06004KT 9999 FEW016 SCT033 19/15 Q1025
+cycle: 17

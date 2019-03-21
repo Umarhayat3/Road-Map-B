@@ -1,0 +1,11 @@
+Station name not available
+Nov 04, 2013 - 09:00 AM EST / 2013.11.04 1400 UTC
+Wind: from the S (190 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 48 F (9 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.44 in. Hg (0997 hPa)
+ob: EICM 041400Z 19005KT 9999 FEW040 09/08 Q0997
+cycle: 14

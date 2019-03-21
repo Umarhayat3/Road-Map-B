@@ -1,0 +1,10 @@
+Gimli Harbour CS, Man., Canada (CXGH) 50-37-52N 096-58-56W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (350 degrees) at 15 MPH (13 KT) gusting to 23 MPH (20 KT):0
+Temperature: 32.9 F (0.5 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 22.8 F (-5.1 C)
+Relative Humidity: 66%
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: CXGH 140800Z AUTO 35013G20KT 01/M05 RMK AO1 PK WND 35020/0754 SLP077 T00051051 53003
+cycle: 8

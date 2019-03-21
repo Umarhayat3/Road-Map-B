@@ -1,0 +1,12 @@
+Station name not available
+Oct 29, 2018 - 10:24 AM EDT / 2018.10.29 1424 UTC
+Wind: from the N (350 degrees) at 2 MPH (2 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: obscured
+Weather: heavy snow
+Temperature: 23 F (-5 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: BGCH 291424Z 35002KT 0600 +SN VV003 M05/M06 Q1017
+cycle: 14

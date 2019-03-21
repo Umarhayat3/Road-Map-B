@@ -1,0 +1,12 @@
+COLUMBIA REGIONAL AIRPORT, MO, United States (KCOU) 38-49N 092-13W 271M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the S (180 degrees) at 18 MPH (16 KT) gusting to 29 MPH (25 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 57.0 F (13.9 C)
+Dew Point: 44.1 F (6.7 C)
+Relative Humidity: 61%
+Pressure (altimeter): 29.39 in. Hg (995 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KCOU 140854Z AUTO 18016G25KT 10SM OVC045 14/07 A2939 RMK AO2 PK WND 18031/0828 SLP947 T01390067 58014
+cycle: 9

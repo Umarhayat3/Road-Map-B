@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: HTSU 140800Z 08006KT 9999 BKN020 FEW022CB 23/16 Q1021
+cycle: 8

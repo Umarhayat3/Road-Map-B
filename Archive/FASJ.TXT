@@ -1,0 +1,10 @@
+Station name not available
+Feb 14, 2010 - 01:00 PM EST / 2010.02.14 1800 UTC
+Wind: from the ENE (070 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 66 F (19 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FASJ 141800Z 07007KT CAVOK 19/15 Q1025
+cycle: 18

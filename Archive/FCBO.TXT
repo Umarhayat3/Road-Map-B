@@ -1,0 +1,11 @@
+M'Pouya, Congo, Republic of the (FCBO) 02-37S 016-13E 312M
+Mar 27, 2017 - 11:00 AM EDT / 2017.03.27 1500 UTC
+Wind: from the E (100 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 95 F (35 C)
+Heat index: 102.6 F (39.2 C):1
+Dew Point: 71 F (22 C)
+Relative Humidity: 46%
+ob: FCBO 271500Z 10004KT 9999 FEW017 SCT080 35/22 Q////
+cycle: 15

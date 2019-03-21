@@ -1,0 +1,12 @@
+Station name not available
+Nov 24, 2008 - 03:00 AM EST / 2008.11.24 0800 UTC
+Wind: from the NE (050 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 82 F (28 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 48%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: GUTO 240800Z 05012KT 9999 FEW027CB SCT300 28/16 Q1018
+cycle: 8

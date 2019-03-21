@@ -1,0 +1,8 @@
+Station name not available
+Jan 02, 2019 - 03:56 PM EST / 2019.01.02 2056 UTC
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 24 F (-4 C)
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: K1ON 022056Z AUTO M 10SM CLR M04/ A2965 RMK AO2 SLPNO 60001 PWINO PNO 
+cycle: 21

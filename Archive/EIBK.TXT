@@ -1,0 +1,11 @@
+Station name not available
+Jun 28, 2016 - 01:00 PM EDT / 2016.06.28 1700 UTC
+Wind: from the SSW (200 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: EIBK 281700Z 20006KT 9999 BKN011 28/23 Q1016 NOSIG
+cycle: 17

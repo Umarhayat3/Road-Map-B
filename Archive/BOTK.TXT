@@ -1,0 +1,11 @@
+Station name not available
+May 16, 2017 - 09:30 PM EDT / 2017.05.17 0130 UTC
+Wind: Calm:0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 69%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: BOTK 170130Z 00000KT 6000 FEW030 SCT100 28/22 Q1006
+cycle: 1

@@ -1,0 +1,10 @@
+Pretoria Irene , South Africa (FAIR) 25-55S 028-13E 1500M
+Mar 14, 2019 - 01:45 AM EDT / 2019.03.14 0545 UTC
+Wind: from the SSE (150 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FAIR 140545Z 15004KT CAVOK 21/17 Q1025
+cycle: 6

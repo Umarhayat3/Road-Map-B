@@ -1,0 +1,10 @@
+Station name not available
+Mar 13, 2019 - 06:00 AM EDT / 2019.03.13 1000 UTC
+Wind: from the ESE (120 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 91 F (33 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: DNGO 131000Z 12010KT CAVOK 33/18 Q1011
+cycle: 10

@@ -1,0 +1,11 @@
+Kristiansund / Kvernberget, Norway (ENKB) 63-07N 007-50E 62M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (160 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 64%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: ENKB 140820Z 16005KT 110V280 9999 FEW010 SCT039 BKN059 04/M02 Q0984 RMK WIND 745FT 17009KT
+cycle: 8

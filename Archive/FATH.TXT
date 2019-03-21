@@ -1,0 +1,11 @@
+Station name not available
+Oct 02, 2017 - 11:53 PM EDT / 2017.10.03 0353 UTC
+Wind: from the SSW (210 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 66 F (19 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FATH 030353Z 21002KT 9999 BKN020 19/14 Q1021
+cycle: 4

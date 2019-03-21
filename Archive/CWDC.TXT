@@ -1,0 +1,9 @@
+Uranium City, Sask., Canada (CWDC) 59-34N 108-29W 318M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (330 degrees) at 5 MPH (4 KT):0
+Temperature: 12.7 F (-10.7 C)
+Windchill: 5 F (-15 C):1
+Dew Point: 9.1 F (-12.7 C)
+Relative Humidity: 85%
+ob: CWDC 140700Z AUTO 33004KT M11/M13 RMK AO1 SOG 43 3013 SLP217 T11071127
+cycle: 7

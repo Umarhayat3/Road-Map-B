@@ -1,0 +1,11 @@
+Station name not available
+Apr 22, 2008 - 10:43 PM EDT / 2008.04.23 0243 UTC
+Wind: from the E (090 degrees) at 6 MPH (5 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 64.9 F (18.3 C)
+Dew Point: 52.0 F (11.1 C)
+Relative Humidity: 62%
+Pressure (altimeter): 30.19 in. Hg (1022 hPa)
+ob: KBWX 230124 RRI METAR KIAD 230052Z 09005KT 7SM BKN075 18/11 A3019 RMK AO2 SLP222 T01830111  
+cycle: 2

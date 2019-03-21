@@ -1,0 +1,10 @@
+Ennadai Lake Meteorological Aeronautical Presentation System , Canada (CWJC) 61-08N 100-54W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNE (020 degrees) at 8 MPH (7 KT):0
+Temperature: -5.3 F (-20.7 C)
+Windchill: -20 F (-29 C):2
+Dew Point: -9.6 F (-23.1 C)
+Relative Humidity: 81%
+Pressure tendency: 0.04 inches (1.5 hPa) higher than three hours ago
+ob: CWJC 140700Z AUTO 02007KT M21/M23 RMK AO1 SLP196 T12071231 51015
+cycle: 7

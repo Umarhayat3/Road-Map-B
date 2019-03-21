@@ -1,0 +1,13 @@
+Savonlinna, Finland (EFSA) 61-57N 028-57E 95M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ESE (120 degrees) at 14 MPH (12 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: light snow
+Temperature: 26 F (-3 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.62 in. Hg (1003 hPa)
+ob: EFSA 140820Z AUTO 12012KT 2300 -SN OVC016 M03/M04 Q1003
+cycle: 8

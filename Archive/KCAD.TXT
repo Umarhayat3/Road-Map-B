@@ -1,0 +1,12 @@
+Cadillac / Wexford County, MI, United States (KCAD) 44-17N 085-25W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the ESE (110 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: rain
+Temperature: 43.2 F (6.2 C)
+Dew Point: 41.7 F (5.4 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.64 in. Hg (1003 hPa)
+ob: KCAD 140856Z AUTO 11006KT 5SM RA SCT050 SCT070 OVC080 06/05 A2964 RMK AO2 T00620054
+cycle: 9

@@ -1,0 +1,12 @@
+ALTURAS, CA, United States (KAAT) 41-29N 120-34W 1331M
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 23.0 F (-5.0 C)
+Dew Point: 19.9 F (-6.7 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.32 in. Hg (1026 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KAAT 140855Z AUTO 00000KT 10SM CLR M05/M07 A3032 RMK AO2 SLP285 T10501067 51009
+cycle: 9

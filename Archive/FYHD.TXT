@@ -1,0 +1,9 @@
+Station name not available
+Sep 16, 2018 - 08:00 AM EDT / 2018.09.16 1200 UTC
+Wind: from the ESE (110 degrees) at 3 MPH (3 KT):0
+Temperature: 98 F (37 C)
+Dew Point: 19 F (-7 C)
+Relative Humidity: 5%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FYHD 161200Z AUTO 11003KT //// // ////// 37/M07 Q1015
+cycle: 12

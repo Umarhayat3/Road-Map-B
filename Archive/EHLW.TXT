@@ -1,0 +1,12 @@
+Leeuwarden, Netherlands (EHLW) 53-13N 005-46E 11M
+Mar 14, 2019 - 03:55 AM EDT / 2019.03.14 0755 UTC
+Wind: from the SW (230 degrees) at 22 MPH (19 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Weather: drizzle
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.41 in. Hg (0996 hPa)
+ob: EHLW 140755Z AUTO 23019KT 9000 DZ FEW007 SCT009 BKN022 06/05 Q0996 GRN 23017KT 7000 SCT007 BKN017 TEMPO 24018G28KT RMK R23
+cycle: 8

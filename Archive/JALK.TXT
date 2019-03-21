@@ -1,0 +1,11 @@
+Station name not available
+Sep 20, 2010 - 08:56 AM EDT / 2010.09.20 1256 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.0 F (18.9 C)
+Dew Point: 54.0 F (12.2 C)
+Relative Humidity: 65%
+Pressure (altimeter): 30.01 in. Hg (1016 hPa)
+ob: JALK 201256Z AUTO 00000KT 10SM CLR 19/12 A3001 RMK AO2 SLP072 T01890122 
+cycle: 13

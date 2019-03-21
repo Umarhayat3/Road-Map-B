@@ -1,0 +1,10 @@
+Kenieba, Mali (GAKA) 12-51N 011-14W 132M
+Mar 31, 2017 - 02:00 AM EDT / 2017.03.31 0600 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: 5 mile(s):0
+Temperature: 87 F (31 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 52%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: GAKA 310600Z 28004KT 9000 NSC 31/20 Q1010
+cycle: 6

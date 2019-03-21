@@ -1,0 +1,11 @@
+Station name not available
+Aug 17, 2016 - 08:00 AM EDT / 2016.08.17 1200 UTC
+Wind: from the SSE (160 degrees) at 10 MPH (9 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: FAAL 171200Z 16009KT 100V230 9999 SCT020 28/19 Q1021
+cycle: 12

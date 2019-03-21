@@ -1,0 +1,10 @@
+Station name not available
+Feb 24, 2010 - 09:50 AM EST / 2010.02.24 1450 UTC
+Wind: from the SSW (200 degrees) at 9 MPH (8 KT):0
+Sky conditions: partly cloudy
+Temperature: 53 F (12 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 57%
+Pressure (altimeter): 29.47 in. Hg (0998 hPa)
+ob: EUTO 241450Z AUTO 20008KT //// // SCT030/// 12/04 Q0998
+cycle: 15

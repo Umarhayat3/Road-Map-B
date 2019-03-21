@@ -1,0 +1,11 @@
+Station name not available
+Sep 11, 2009 - 08:50 PM EDT / 2009.09.12 0050 UTC
+Wind: from the ESE (120 degrees) at 16 MPH (14 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 69 F (21 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FHAQ 120050Z 12014KT 9999 SCT016 BKN025 21/19 Q1016 WHT
+cycle: 1

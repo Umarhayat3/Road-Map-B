@@ -1,0 +1,11 @@
+Drummond, MT, United States (K3DU) 46-40N 113-09W
+Sep 30, 2012 - 07:40 PM EDT / 2012.09.30 2340 UTC
+Wind: from the WNW (300 degrees) at 13 MPH (11 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73.9 F (23.3 C)
+Dew Point: 38.5 F (3.6 C)
+Relative Humidity: 27%
+Pressure tendency: 0.02 inches (0.7 hPa) lower than three hours ago
+ob: K3DU 302340Z 30011KT 20SM BKN200 23/04 RMK NOSPECI T02330036 57007 
+cycle: 23

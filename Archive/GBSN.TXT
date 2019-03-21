@@ -1,0 +1,10 @@
+Station name not available
+Aug 19, 2015 - 10:40 AM EDT / 2015.08.19 1440 UTC
+Wind: from the S (180 degrees) at 6 MPH (5 KT):0
+Sky conditions: mostly cloudy
+Weather: rain with thunder; Cumulonimbus clouds observed
+Temperature: 77 F (25 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 94%
+ob: GBSN 191440 18005KT 5000M TSRA SCT010 FEW018CB BKN100 25/24 Q/// THUNDER HEARD AT SW OF THE STATION
+cycle: 14

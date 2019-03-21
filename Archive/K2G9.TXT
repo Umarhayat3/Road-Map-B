@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the SSE (150 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 41 F (5 C)
+Dew Point: 28 F (-2 C)
+Relative Humidity: 60%
+Pressure (altimeter): 30.06 in. Hg (1017 hPa)
+ob: K2G9 140835Z AUTO 15006KT 10SM CLR 05/M02 A3006 RMK AO2
+cycle: 8

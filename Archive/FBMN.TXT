@@ -1,0 +1,10 @@
+Maun, Botswana (FBMN) 19-59S 023-25E 900M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (070 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 42%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FBMN 140800Z 07009KT CAVOK 30/16 Q1018
+cycle: 8

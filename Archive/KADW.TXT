@@ -1,0 +1,11 @@
+Camp Springs / Andrews Air Force Base, MD, United States (KADW) 38-49N 076-51W 88M
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the S (170 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 42.8 F (6.0 C)
+Dew Point: 33.3 F (0.7 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: KADW 140656Z AUTO 17006KT 10SM CLR 06/01 A3021 RMK AO2 SLP238 T00600007 
+cycle: 7

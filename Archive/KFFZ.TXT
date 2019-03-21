@@ -1,0 +1,12 @@
+Mesa / Falcon Field, AZ, United States (KFFZ) 33-28N 111-44W
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: from the N (010 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.0 F (7.2 C)
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KFFZ 140854Z AUTO 01004KT 10SM CLR 07/M02 A3008 RMK AO2 SLP175 T00721022 51009
+cycle: 9

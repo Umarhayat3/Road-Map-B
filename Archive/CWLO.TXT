@@ -1,0 +1,11 @@
+Shilo, Canada (CWLO) 49-47N 099-38W 373M
+Jul 03, 2013 - 01:00 PM EDT / 2013.07.03 1700 UTC
+Wind: from the W (270 degrees) at 15 MPH (13 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 84 F (29 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 39%
+Pressure (altimeter): 29.89 in. Hg (1012 hPa)
+ob: CWLO 031700Z 27013KT 15SM SKC 29/14 A2989 RMK DA3311FT TEST TEST TEST SLP120
+cycle: 17

@@ -1,0 +1,10 @@
+Timimoun, Algeria (DAUT) 29-15N 000-17E 312M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NE (040 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DAUT 140800Z 04012KT CAVOK 16/03 Q1022
+cycle: 8

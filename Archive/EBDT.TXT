@@ -1,0 +1,12 @@
+Schaffen, Belgium (EBDT) 51-00N 005-04E 54M
+Mar 14, 2019 - 03:25 AM EDT / 2019.03.14 0725 UTC
+Wind: from the SW (220 degrees) at 12 MPH (10 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: EBDT 140725Z AUTO 22010KT 7000 -RA FEW011/// SCT015/// BKN018/// 06/05 Q1005 WHT
+cycle: 7

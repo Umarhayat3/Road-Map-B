@@ -1,0 +1,4 @@
+S. E. Shoal Meteorological Aeronautical Presentation System , Canada (CWNB) 41-50N 082-28W
+Dec 15, 2016 - 08:00 PM EST / 2016.12.16 0100 UTC
+ob: CWNB 160100Z AUTO RMK AO1 
+cycle: 1

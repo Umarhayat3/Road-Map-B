@@ -1,0 +1,9 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (230 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 86 F (30 C)
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: FNSU 140800Z 23006KT 9999 FEW015 BKN060 30/// Q1013
+cycle: 8

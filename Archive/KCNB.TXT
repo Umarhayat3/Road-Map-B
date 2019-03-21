@@ -1,0 +1,13 @@
+Myers Field Airport, MN, United States (KCNB) 44-43N 96-16W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the WNW (290 degrees) at 9 MPH (8 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 34.2 F (1.2 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 33.8 F (1.0 C)
+Relative Humidity: 98%
+Pressure (altimeter): 29.27 in. Hg (991 hPa)
+ob: KCNB 140856Z AUTO 29008KT 3/4SM BR OVC001 01/01 A2927 RMK AO2 T00120010
+cycle: 9

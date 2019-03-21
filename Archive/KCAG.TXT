@@ -1,0 +1,13 @@
+CRAIG MOFFAT AIRPORT, CO, United States (KCAG) 40-30N 107-31W 1887M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNW (340 degrees) at 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 21.9 F (-5.6 C)
+Windchill: 6 F (-14 C):1
+Dew Point: 15.1 F (-9.4 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+Pressure tendency: 0.06 inches (2.1 hPa) higher than three hours ago
+ob: KCAG 140853Z AUTO 34017KT 10SM OVC080 M06/M09 A2998 RMK AO2 PK WND 34028/0822 SLP195 60000 T10561094 53021
+cycle: 9

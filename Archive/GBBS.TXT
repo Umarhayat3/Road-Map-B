@@ -1,0 +1,11 @@
+Station name not available
+Oct 11, 2016 - 03:15 AM EDT / 2016.10.11 0715 UTC
+Wind: from the E (090 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Weather: thunder; Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+ob: GBBS 110715Z 09006KT 9999 TS FEW011 FEW018CB FEW200 24/23 CB/E-SE
+cycle: 7

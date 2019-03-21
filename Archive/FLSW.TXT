@@ -1,0 +1,10 @@
+Solwezi, Zambia (FLSW) 12-11S 026-23E
+Nov 12, 2013 - 01:00 AM EST / 2013.11.12 0600 UTC
+Wind: from the E (080 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 73 F (23 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: FLSW 120600Z 08003KT CAVOK 23/17 Q1019
+cycle: 6

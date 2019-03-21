@@ -1,0 +1,12 @@
+SUSSEX AIRPORT, NJ, United States (KFWN) 41-12N 074-38W 133M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 36.0 F (2.2 C)
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.01 inches (0.5 hPa) lower than three hours ago
+ob: KFWN 140853Z AUTO 00000KT 10SM SCT050 OVC120 02/M01 A3020 RMK AO2 SLP230 T00221006 58005
+cycle: 9

@@ -1,0 +1,11 @@
+Station name not available
+Oct 12, 2010 - 08:56 AM EDT / 2010.10.12 1256 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 55.9 F (13.3 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 43%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+ob: K8L2 121256Z AUTO 00000KT 10SM CLR 13/01 A3008 RMK AO2 SLP170 T01330011 
+cycle: 13

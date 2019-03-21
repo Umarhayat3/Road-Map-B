@@ -1,0 +1,13 @@
+Hasvik, Norway (ENHK) 70-29N 022-09E
+Mar 14, 2019 - 02:59 AM EDT / 2019.03.14 0659 UTC
+Wind: from the ESE (120 degrees) at 14 MPH (12 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: obscured
+Weather: light snow
+Temperature: 26 F (-3 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 79%
+Pressure (altimeter): 29.29 in. Hg (0992 hPa)
+ob: ENHK 140659Z 12012KT 5000 -SN VV018 M03/M06 Q0992
+cycle: 7

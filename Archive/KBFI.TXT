@@ -1,0 +1,12 @@
+SEATTLE BOEING FIELD, WA, United States (KBFI) 47-33N 122-19W 4M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (130 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 41.0 F (5.0 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) higher than three hours ago
+ob: KBFI 140853Z 13005KT 10SM FEW055 05/01 A3042 RMK AO2 SLP301 T00500011 51009
+cycle: 9

@@ -1,0 +1,11 @@
+Niederstetten, Germany (ETHN) 49-24N 009-58E 473M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (260 degrees) at 21 MPH (18 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Temperature: 39 F (4 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: ETHN 140820Z 26018KT 9000 BKN007 OVC015 04/02 Q1010 GRN YLO TEMPO GRN
+cycle: 8

@@ -1,0 +1,13 @@
+Turku, Finland (EFTU) 60-31N 022-16E 59M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (140 degrees) at 14 MPH (12 KT):0
+Visibility: 2 mile(s):0
+Sky conditions: overcast
+Weather: light rain; mist
+Temperature: 33 F (1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 33 F (1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: EFTU 140820Z AUTO 14012KT 4400 -RA BR OVC003/// 01/01 Q0995
+cycle: 8

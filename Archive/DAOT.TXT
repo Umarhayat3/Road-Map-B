@@ -1,0 +1,11 @@
+Station name not available
+Sep 30, 2014 - 09:50 AM EDT / 2014.09.30 1350 UTC
+Wind: from the NNE (030 degrees) at 7 MPH (6 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 77 F (25 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DAOT 301350Z 03006KT 8000 SCT020 25/22 Q1016 RETS
+cycle: 14

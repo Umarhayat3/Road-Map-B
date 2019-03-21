@@ -1,0 +1,10 @@
+Station name not available
+Oct 27, 2018 - 02:00 PM EDT / 2018.10.27 1800 UTC
+Wind: from the SW (220 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 38%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: DTVG 271800Z 22007KT CAVOK 24/09 Q1010 NOSIG
+cycle: 18

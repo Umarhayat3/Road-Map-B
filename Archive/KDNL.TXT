@@ -1,0 +1,12 @@
+AUGUSTA DANIEL FIELD, GA, United States (KDNL) 33-28N 82-02W 130M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 57.0 F (13.9 C)
+Dew Point: 50.0 F (10.0 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KDNL 140853Z AUTO 12004KT 10SM CLR 14/10 A3020 RMK AO2 SLP225 T01390100 56009
+cycle: 9

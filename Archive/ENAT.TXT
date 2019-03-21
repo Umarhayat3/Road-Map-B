@@ -1,0 +1,12 @@
+Alta Lufthavn, Norway (ENAT) 69-59N 023-22E 3M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SSE (160 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 21 F (-6 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 10 F (-12 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: ENAT 140750Z 16008KT 130V200 9999 FEW026 SCT037 BKN050 M06/M12 Q0994 RMK WIND 700FT 18013KT
+cycle: 8

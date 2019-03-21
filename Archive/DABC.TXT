@@ -1,0 +1,12 @@
+Constantine, Algeria (DABC) 36-17N 006-37E 694M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 8 MPH (7 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 46 F (8 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: DABC 140800Z 34007KT 8000 BKN023 FEW026CB 08/05 Q1026
+cycle: 8

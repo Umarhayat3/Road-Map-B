@@ -1,0 +1,13 @@
+Montreal / Pierre Elliot Trudeau International Airport, Que, Canada (CYUL) 45-28N 073-45W 36M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the ENE (070 degrees) at 7 MPH (6 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: mist
+Temperature: 32 F (0 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 32 F (0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: CYUL 140800Z 07006KT 6SM BR SCT004 OVC040 00/M00 A3018 RMK SF4SC4 SLP224
+cycle: 8

@@ -1,0 +1,13 @@
+Eureka, N. W. T., Canada (CWEU) 79-59N 085-56W 10M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (130 degrees) at 13 MPH (11 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Weather: ice crystals
+Temperature: -23 F (-31 C)
+Windchill: -47 F (-44 C):2
+Dew Point: -29 F (-34 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.76 in. Hg (1007 hPa)
+ob: CWEU 140700Z 13011KT 15SM IC FEW140 M31/M34 A2976 RMK AC2 SLP080
+cycle: 7

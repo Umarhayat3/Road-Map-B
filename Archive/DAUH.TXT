@@ -1,0 +1,11 @@
+Hassi-Messaoud, Algeria (DAUH) 31-40N 006-09E 142M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 21 MPH (18 KT):0
+Visibility: 3 mile(s):0
+Weather: low drifting sand
+Temperature: 60 F (16 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 55%
+Pressure (altimeter): 30.15 in. Hg (1021 hPa)
+ob: DAUH 140800Z 34018KT 6000 DRSA NSC 16/07 Q1021
+cycle: 8

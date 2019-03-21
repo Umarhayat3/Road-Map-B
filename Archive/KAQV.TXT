@@ -1,0 +1,12 @@
+Ft. Polk, Peason Ridge, LA, United States (KAQV) 31-40N 093-27W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the S (170 degrees) at 12 MPH (10 KT) gusting to 23 MPH (20 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 73.0 F (22.8 C)
+Dew Point: 66.9 F (19.4 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: 0.05 inches (1.8 hPa) lower than three hours ago
+ob: KAQV 140856Z AUTO 17010G20KT 130V210 10SM BKN017 BKN027 OVC036 23/19 A2973 RMK AO2 PK WND 18027/0800 SLP063 T02280194 56018 
+cycle: 9

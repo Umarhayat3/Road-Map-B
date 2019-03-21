@@ -1,0 +1,13 @@
+Resolute, N. W. T., Canada (CYRB) 74-43N 094-59W 67M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NW (310 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Weather: ice crystals
+Temperature: -34 F (-37 C)
+Windchill: -52 F (-47 C):2
+Dew Point: -41 F (-41 C)
+Relative Humidity: 66%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: CYRB 140800Z 31005KT 10SM IC SKC M37/M41 A3011 RMK SLP211
+cycle: 8

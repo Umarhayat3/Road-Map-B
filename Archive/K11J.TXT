@@ -1,0 +1,11 @@
+Blakely, Early County Airport, GA, United States (K11J) 31-23-49N 084-53-42W
+Mar 20, 2009 - 10:00 AM EDT / 2009.03.20 1400 UTC
+Wind: from the NNE (030 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 61.2 F (16.2 C)
+Dew Point: 51.3 F (10.7 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: K11J 201400Z AUTO 03007KT 010V070 10SM CLR 16/11 A3018 RMK AO2 T01620107
+cycle: 14

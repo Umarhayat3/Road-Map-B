@@ -1,0 +1,15 @@
+Kearney, Kearney Municipal Airport, NE, United States (KEAR) 40-44N 099-00W
+Mar 14, 2019 - 04:57 AM EDT / 2019.03.14 0857 UTC
+Wind: from the NNW (340 degrees) at 35 MPH (30 KT) gusting to 44 MPH (38 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: light snow; mist
+Precipitation last hour: 0.01 inches
+Temperature: 28.9 F (-1.7 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.21 in. Hg (989 hPa)
+Pressure tendency: 0.12 inches (4.2 hPa) higher than three hours ago
+ob: KEAR 140857Z AUTO 34030G38KT 1SM -SN BR OVC009 M02/M02 A2921 RMK AO2 PK WND 34049/0815 CIG 008V012 SLP892 P0001 60004 T10171022 53042 FZRANO
+cycle: 9

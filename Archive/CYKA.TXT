@@ -1,0 +1,11 @@
+Kamloops, B. C., Canada (CYKA) 50-42N 120-27W 346M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 3 MPH (3 KT) (direction variable):0
+Visibility: 40 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 32 F (0 C)
+Dew Point: 21 F (-6 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.32 in. Hg (1026 hPa)
+ob: CYKA 140800Z 08003KT 020V130 40SM SCT150 00/M06 A3032 RMK AS4 SLP285
+cycle: 8

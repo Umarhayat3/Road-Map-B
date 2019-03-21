@@ -1,0 +1,12 @@
+Rotterdam Airport Zestienhoven, Netherlands (EHRD) 51-57N 004-27E -4M
+Mar 14, 2019 - 04:25 AM EDT / 2019.03.14 0825 UTC
+Wind: from the SW (230 degrees) at 23 MPH (20 KT) (direction variable):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain showers
+Temperature: 46 F (8 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 87%
+Pressure (altimeter): 29.50 in. Hg (0999 hPa)
+ob: EHRD 140825Z AUTO 23020KT 200V270 8000 -SHRA FEW010 SCT013 BKN029 08/06 Q0999 TEMPO 4000 SCT008 BKN012
+cycle: 8

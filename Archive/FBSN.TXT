@@ -1,0 +1,10 @@
+Sua-Pan, Botswana (FBSN) 20-28S 025-59E 904M
+Sep 23, 2018 - 12:00 PM EDT / 2018.09.23 1600 UTC
+Wind: from the E (090 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 84 F (29 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 32%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FBSN 231600Z 09007KT CAVOK 29/11 Q1017
+cycle: 16

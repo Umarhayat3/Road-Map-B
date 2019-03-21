@@ -1,0 +1,14 @@
+Concordia, Blosser Municipal Airport, KS, United States (KCNK) 39-33-05N 097-39-02W 447M
+Mar 14, 2019 - 05:05 AM EDT / 2019.03.14 0905 UTC
+Wind: from the W (280 degrees) at 31 MPH (27 KT) gusting to 40 MPH (35 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: overcast
+Weather: precipitation; mist
+Precipitation last hour: A trace
+Temperature: 33.1 F (0.6 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 30.9 F (-0.6 C)
+Relative Humidity: 91%
+Pressure (altimeter): 29.19 in. Hg (988 hPa)
+ob: KCNK 140905Z AUTO 28027G35KT 4SM UP BR BKN009 OVC014 01/M01 A2919 RMK AO2 PK WND 28035/0902 UPB01 CIG 007V012 P0000 T00061006 
+cycle: 9

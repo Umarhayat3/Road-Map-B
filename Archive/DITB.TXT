@@ -1,0 +1,12 @@
+Tabou, Cote d'Ivoire (DITB) 04-25N 007-22W 21M
+Dec 30, 2017 - 08:00 AM EST / 2017.12.30 1300 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 86 F (30 C)
+Heat index: 96.8 F (36.0 C):1
+Dew Point: 77 F (25 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: DITB 301300Z 14008KT 8000 SCT013 30/25 Q1011 NOSIG
+cycle: 13

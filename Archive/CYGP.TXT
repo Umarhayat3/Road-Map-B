@@ -1,0 +1,12 @@
+Gaspe, Que., Canada (CYGP) 48-46N 064-29W 33M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (270 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 21 F (-6 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 17 F (-8 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.14 in. Hg (1020 hPa)
+ob: CYGP 140800Z 27004KT 15SM FEW040 BKN110 M06/M08 A3014 RMK SC2AC4 SLP210
+cycle: 8

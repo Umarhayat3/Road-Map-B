@@ -1,0 +1,11 @@
+Station name not available
+Nov 07, 2017 - 02:00 PM EST / 2017.11.07 1900 UTC
+Wind: from the SW (230 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 57 F (14 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DTHX 071900Z 23005KT 9999 FEW020 14/06 Q1017 NOSIG
+cycle: 19

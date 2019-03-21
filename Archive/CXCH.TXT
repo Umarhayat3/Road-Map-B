@@ -1,0 +1,7 @@
+Cheticamp, N. S., Canada (CXCH) 46-39N 060-57W
+Nov 20, 2018 - 02:00 PM EST / 2018.11.20 1900 UTC
+Temperature: 36.7 F (2.6 C)
+Dew Point: 35.2 F (1.8 C)
+Relative Humidity: 94%
+ob: CXCH 201900Z AUTO 03/02 RMK AO1 SOG 05 T00260018
+cycle: 19

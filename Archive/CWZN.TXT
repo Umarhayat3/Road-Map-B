@@ -1,0 +1,5 @@
+Sagona Island Meteorological Aeronautical Presentation System , Canada (CWZN) 47-22N 055-48W
+Jul 04, 2018 - 02:00 PM EDT / 2018.07.04 1800 UTC
+Wind: from the N (360 degrees) at 2 MPH (2 KT):0
+ob: CWZN 041800Z AUTO 36002KT RMK AO1 
+cycle: 18

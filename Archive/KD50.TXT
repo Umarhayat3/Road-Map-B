@@ -1,0 +1,12 @@
+Crosby Municipal Airport, ND, United States (KD50) 48-55-43N 103-17-50W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NW (320 degrees) at 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 100%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: KD50 140855Z AUTO 32016KT 10SM CLR M05/M05 A3002 RMK AO2
+cycle: 9

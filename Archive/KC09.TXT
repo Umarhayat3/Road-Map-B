@@ -1,0 +1,12 @@
+Morris, Morris Municipal-James R Washburn Field Airport, IL, United States (KC09) 41-25-31N 088-25-07W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 20 MPH (17 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: 0.01 inches
+Temperature: 54.0 F (12.2 C)
+Dew Point: 53.1 F (11.7 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.51 in. Hg (999 hPa)
+ob: KC09 140855Z AUTO 17017KT 10SM OVC010 12/12 A2951 RMK AO2 P0001 60018 T01220117
+cycle: 9

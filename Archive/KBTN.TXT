@@ -1,0 +1,12 @@
+Station name not available
+Aug 09, 2009 - 10:53 AM EDT / 2009.08.09 1453 UTC
+Wind: from the ENE (060 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 68.0 F (20.0 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 26%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) higher than three hours ago
+ob: KBTN 091453Z AUTO 06006KT 10SM CLR 20/00 A3021 RMK AO2 SLP141 T02000000 51010 TSNO 
+cycle: 15

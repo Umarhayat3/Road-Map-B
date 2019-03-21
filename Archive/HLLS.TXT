@@ -1,0 +1,10 @@
+Sebha, Libya (HLLS) 27-01N 014-27E 432M
+Oct 09, 2013 - 01:50 PM EDT / 2013.10.09 1750 UTC
+Wind: from the ESE (110 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 20%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HLLS 091750Z 11006KT CAVOK 25/01 Q 1019
+cycle: 18

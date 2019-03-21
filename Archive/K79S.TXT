@@ -1,0 +1,11 @@
+Station name not available
+Feb 02, 2011 - 01:56 PM EST / 2011.02.02 1856 UTC
+Wind: from the SSW (210 degrees) at 12 MPH (10 KT):0
+Visibility: 10 mile(s):0
+Temperature: 21 F (-6 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 6 F (-14 C)
+Relative Humidity: 53%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+ob: K79S 021856Z 21010KT 10SM M06/M14 A3026 RMK FORT BENTON 
+cycle: 19

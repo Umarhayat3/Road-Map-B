@@ -1,0 +1,9 @@
+Sheringham Automatic Weather Reporting System , Canada (CWSP) 48-23N 123-55W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 44.1 F (6.7 C)
+Dew Point: 36.3 F (2.4 C)
+Relative Humidity: 74%
+Pressure tendency: 0.01 inches (0.2 hPa) higher than three hours ago
+ob: CWSP 140700Z AUTO 00000KT 07/02 RMK AO1 SLP291 T00670024 51002
+cycle: 7

@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (260 degrees) at 29 MPH (25 KT):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.03 in. Hg (0983 hPa)
+ob: ENWV 140820Z AUTO 26025KT 7000NDV -RA OVC033/// 06/05 Q0983 W///S5
+cycle: 8

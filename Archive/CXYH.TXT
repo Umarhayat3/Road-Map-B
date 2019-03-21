@@ -1,0 +1,8 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: 9.0 F (-12.8 C)
+Dew Point: 7.2 F (-13.8 C)
+Relative Humidity: 92%
+ob: CXYH 140700Z AUTO 00000KT M13/M14 RMK AO1 SOG 46 2005 SLP165 T11281138
+cycle: 7

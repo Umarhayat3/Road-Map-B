@@ -1,0 +1,11 @@
+Crockett, Houston County Airport, TX, United States (KDKR) 31-18-25N 095-24-13W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the W (270 degrees) at 15 MPH (13 KT) gusting to 44 MPH (38 KT):0
+Visibility: 5 mile(s):0
+Weather: thunder in the vicinity; light rain; Lightning observed
+Temperature: 66 F (19 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 88%
+Pressure (altimeter): 29.81 in. Hg (1009 hPa)
+ob: KDKR 140855Z AUTO 27013G38KT 5SM VCTS -RA 19/17 A2981 RMK AO2 LTG DSNT ALQDS
+cycle: 9

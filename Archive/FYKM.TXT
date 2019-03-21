@@ -1,0 +1,11 @@
+Katima Mulilo, Namibia (FYKM) 17-38-04S 024-10-36E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 75 F (24 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 53%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FYKM 140800Z 08003KT 9999 FEW040 24/14 Q1018
+cycle: 8

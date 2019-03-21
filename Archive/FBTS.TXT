@@ -1,0 +1,10 @@
+Tsabong, Botswana (FBTS) 26-03S 022-27E 1000M
+Jan 18, 2010 - 01:00 AM EST / 2010.01.18 0600 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 15%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FBTS 180600Z VRB02KT CAVOK 32/03 Q1014
+cycle: 6

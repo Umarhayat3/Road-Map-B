@@ -1,0 +1,12 @@
+Toronto Buttonville, Canada (CYKZ) 43-52N 079-22W
+Jan 03, 2019 - 04:00 AM EST / 2019.01.03 0900 UTC
+Wind: from the WSW (250 degrees) at 5 MPH (4 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 26 F (-3 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+ob: CYKZ 030900Z 25004KT 15SM SCT040 M03/M05 A2985 RMK SC3 LAST STFD OBS FAREWELL SLP118
+cycle: 9

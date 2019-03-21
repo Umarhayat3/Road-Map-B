@@ -1,0 +1,12 @@
+ALTOONA-BLAIR COUNTY AIRPORT, PA, United States (KAOO) 40-18N 78-19W 455M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WSW (240 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.0 F (7.2 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 53%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+Pressure tendency: 0.04 inches (1.5 hPa) lower than three hours ago
+ob: KAOO 140853Z AUTO 24003KT 10SM CLR 07/M02 A3009 RMK AO2 SLP195 T00721017 58015
+cycle: 9

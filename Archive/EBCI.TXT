@@ -1,0 +1,12 @@
+Charleroi / Gosselies, Belgium (EBCI) 50-28N 004-27E 192M
+Mar 14, 2019 - 03:50 AM EDT / 2019.03.14 0750 UTC
+Wind: from the SW (230 degrees) at 18 MPH (16 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: EBCI 140750Z 23016KT 6000 -RA BKN008 BKN012 06/05 Q1006 TEMPO 22015G28KT 4000 RA
+cycle: 8

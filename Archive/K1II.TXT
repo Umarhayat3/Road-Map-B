@@ -1,0 +1,11 @@
+Station name not available
+Jul 07, 2016 - 01:55 PM EDT / 2016.07.07 1755 UTC
+Wind: from the WSW (240 degrees) at 5 MPH (4 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 29.96 in. Hg (1014 hPa)
+ob: K1II 071755Z AUTO 24004KT 7SM OVC012 24/21 A2996 RMK AO2
+cycle: 18

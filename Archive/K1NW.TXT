@@ -1,0 +1,11 @@
+Station name not available
+Sep 13, 2018 - 01:56 PM EDT / 2018.09.13 1756 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 80.2 F (26.8 C)
+Dew Point: 30.7 F (-0.7 C)
+Relative Humidity: 16%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: K1NW 131756Z AUTO 00000KT 10SM CLR 27/M01 A2998 RMK AO2 SLPNO T02681007 10268 20117 
+cycle: 18

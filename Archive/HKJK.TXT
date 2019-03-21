@@ -1,0 +1,11 @@
+Nairobi/Jomo Kenyatta Airport TWR/APP/NOF/Civil Airlines, Kenya (HKJK) 01-19S 036-55E 1624M
+Mar 14, 2019 - 03:30 AM EDT / 2019.03.14 0730 UTC
+Wind: from the NE (040 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 57 F (14 C)
+Relative Humidity: 56%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: HKJK 140730Z 04015KT 9999 BKN023 23/14 Q1024 NOSIG
+cycle: 7

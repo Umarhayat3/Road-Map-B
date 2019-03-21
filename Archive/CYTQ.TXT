@@ -1,0 +1,12 @@
+Tasiujaq A, Canada (CYTQ) 58-40N 069-57W
+Mar 13, 2019 - 05:00 PM EDT / 2019.03.13 2100 UTC
+Wind: from the NE (040 degrees) at 8 MPH (7 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 3 F (-16 C)
+Windchill: -11 F (-24 C):2
+Dew Point: 0 F (-18 C)
+Relative Humidity: 84%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: CYTQ 132100Z 04007KT 15SM FEW010 FEW230 M16/M18 A2998 RMK SC1CI1 SC TR LAST STFD OBS/NEXT 141200UTC SLP158
+cycle: 21

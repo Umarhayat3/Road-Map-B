@@ -1,0 +1,12 @@
+Bukoba, Tanzania (HTBU) 01-20S 031-49E 1137M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain with thunder; Cumulonimbus clouds observed
+Temperature: 66 F (19 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: HTBU 140700Z 00000KT 8000 TSRA SCT015 FEW017CB BKN080 19/18 Q1020
+cycle: 7

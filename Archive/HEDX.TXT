@@ -1,0 +1,10 @@
+Station name not available
+Dec 26, 2018 - 01:00 PM EST / 2018.12.26 1800 UTC
+Wind: from the S (180 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 60 F (16 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 63%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: HEDX 261800Z 18004KT CAVOK 16/09 Q1015 NOSIG
+cycle: 18

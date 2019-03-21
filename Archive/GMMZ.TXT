@@ -1,0 +1,10 @@
+Ouarzazate, Morocco (GMMZ) 30-56N 006-54W 1140M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 1 MPH (1 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 53 F (12 C)
+Dew Point: 23 F (-5 C)
+Relative Humidity: 30%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: GMMZ 140800Z VRB01KT CAVOK 12/M05 Q1026 NOSIG
+cycle: 8

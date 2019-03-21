@@ -1,0 +1,5 @@
+Erieau Meteorological Aeronautical Presentation System , Canada (CWAJ) 42-15N 081-54W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: CWAJ 140700Z AUTO RMK AO1 58012
+cycle: 7

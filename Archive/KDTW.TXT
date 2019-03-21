@@ -1,0 +1,12 @@
+DETROIT METROPOLITAN, MI, United States (KDTW) 42-14N 83-20W 195M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SE (140 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 46.0 F (7.8 C)
+Dew Point: 33.1 F (0.6 C)
+Relative Humidity: 60%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KDTW 140853Z 14003KT 10SM SCT050 BKN120 OVC220 08/01 A2983 RMK AO2 SLP102 T00780006 58017
+cycle: 9

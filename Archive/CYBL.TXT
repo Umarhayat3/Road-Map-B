@@ -1,0 +1,11 @@
+Campbell River Airport, Canada (CYBL) 49-57N 125-16W
+Mar 14, 2019 - 12:00 AM EDT / 2019.03.14 0400 UTC
+Wind: from the SE (130 degrees) at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 80%
+Pressure (altimeter): 30.31 in. Hg (1026 hPa)
+ob: CYBL 140400Z 13002KT 15SM FEW030 SCT140 BKN220 04/01 A3031 RMK SC1AC3CI3 SC TR LAST STFD OBS / NEXT 141300 UTC SLP270
+cycle: 4

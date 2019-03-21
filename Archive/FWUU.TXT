@@ -1,0 +1,11 @@
+Mzuzu, Malawi (FWUU) 11-27S 034-01E 1253M
+Jul 11, 2017 - 11:00 AM EDT / 2017.07.11 1500 UTC
+Wind: from the ESE (120 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 66 F (19 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 59%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FWUU 111500Z 12003KT 9999 FEW020 19/11 Q1023
+cycle: 15

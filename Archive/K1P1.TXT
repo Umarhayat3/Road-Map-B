@@ -1,0 +1,11 @@
+Plymouth, Plymouth Municipal Airport, NH, United States (K1P1) 43-46-45N 071-45-13W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Temperature: 31.1 F (-0.5 C)
+Dew Point: 30.7 F (-0.7 C)
+Relative Humidity: 98%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: K1P1 140855Z AUTO 00000KT 7SM OVC007 00/M01 A3025 RMK AO2 T10051007
+cycle: 9

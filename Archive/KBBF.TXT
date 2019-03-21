@@ -1,0 +1,12 @@
+Brazos 133, TX, United States (KBBF) 27-50-06N 096-00-47W
+Feb 10, 2019 - 11:25 AM EST / 2019.02.10 1625 UTC
+Wind: from the SW (220 degrees) at 10 MPH (9 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: mist
+Temperature: 66 F (19 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: KBBF 101625Z AUTO 22009KT 4SM BR SCT012 BKN027 BKN032 19/17 A3016 RMK A01
+cycle: 16

@@ -1,0 +1,11 @@
+Chipata, Zambia (FLCP) 13-33S 032-35E 1032M
+Aug 22, 2013 - 03:00 AM EDT / 2013.08.22 0700 UTC
+Wind: from the E (080 degrees) at 8 MPH (7 KT):0
+Visibility: 5 mile(s):0
+Weather: haze
+Temperature: 77 F (25 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 36%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FLCP 220700Z 08007KT 9000 HZ 25/09 Q1022
+cycle: 7

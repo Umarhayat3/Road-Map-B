@@ -1,0 +1,11 @@
+Luxor, Egypt (HELX) 25-40N 032-42E 99M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NW (320 degrees) at 9 MPH (8 KT):0
+Visibility: less than 1 mile:0
+Weather: widespread dust
+Temperature: 62 F (17 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 45%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: HELX 140700Z 32008KT 1000 R20/1000 R02/1000 DU NSC 17/05 Q1018 NOSIG
+cycle: 7

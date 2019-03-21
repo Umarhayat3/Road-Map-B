@@ -1,0 +1,11 @@
+Station name not available
+Aug 10, 2014 - 06:00 PM EDT / 2014.08.10 2200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GLEB 102200Z 00000KT 9999 SCT011 23/22 Q1016 NOSIG
+cycle: 22

@@ -1,0 +1,11 @@
+Station name not available
+Jul 24, 2014 - 06:50 AM EDT / 2014.07.24 1050 UTC
+Wind: from the WNW (300 degrees) at 5 MPH (4 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 50 F (10 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: BGAA 241050Z 30004KT 260V330 9999 BKN081 10/10 Q1015 RMK 5AC 
+cycle: 11

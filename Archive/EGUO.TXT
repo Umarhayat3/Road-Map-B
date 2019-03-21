@@ -1,0 +1,10 @@
+Colerne, United Kingdom (EGUO) 51-26-21N 002-17-11W
+Feb 14, 2019 - 05:50 PM EST / 2019.02.14 2250 UTC
+Wind: from the ENE (060 degrees) at 1 MPH (1 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 33 F (1 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+ob: EGUO 142250Z 06001KT CAVOK 01/00 Q1029 BLU NOSIG
+cycle: 23

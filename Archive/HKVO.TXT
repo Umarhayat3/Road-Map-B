@@ -1,0 +1,9 @@
+Voi, Kenya (HKVO) 03-24S 038-34E 579M
+Jul 25, 2017 - 10:00 PM EDT / 2017.07.26 0200 UTC
+Wind: from the WSW (250 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 82%
+ob: HKVO 260200Z 25012KT CAVOK 20/17
+cycle: 2

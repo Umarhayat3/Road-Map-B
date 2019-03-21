@@ -1,0 +1,11 @@
+Stewart Airport, Canada (CZST) 55-56N 129-59W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: Calm:0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+ob: CZST 140100Z 00000KT 15SM FEW050 OVC080 03/01 A3009 RMK SC2AS6 LAST STFD OBS/NEXT 141300Z/ SLP190
+cycle: 1

@@ -1,0 +1,10 @@
+Mbuji-Mayi, Congo, Democratic Republic of the (FZWA) 06-10S 023-37E 677M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (260 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FZWA 140800Z 26006KT CAVOK 25/20 Q1016 NOSIG
+cycle: 8

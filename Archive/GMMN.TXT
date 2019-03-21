@@ -1,0 +1,11 @@
+Nouasseur, Morocco (GMMN) 33-22N 007-35W 206M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the NE (050 degrees) at 8 MPH (7 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 55 F (13 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: GMMN 140830Z 05007KT 020V080 9999 BKN016 13/12 Q1025 NOSIG
+cycle: 8

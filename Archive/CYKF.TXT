@@ -1,0 +1,13 @@
+Waterloo Well , Canada (CYKF) 43-28N 080-23W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Weather: mist
+Temperature: 32 F (0 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 30 F (-1 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.98 in. Hg (1015 hPa)
+ob: CYKF 140800Z AUTO 08004KT 3SM BR FEW220 SCT240 M00/M01 A2998 RMK SLP164
+cycle: 8

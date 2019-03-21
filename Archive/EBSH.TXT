@@ -1,0 +1,10 @@
+Station name not available
+Oct 21, 2008 - 04:50 PM EDT / 2008.10.21 2050 UTC
+Wind: from the WNW (290 degrees) at 5 MPH (4 KT) (direction variable):0
+Sky conditions: overcast
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: EBSH 212050Z AUTO 29004KT 250V320 5000NDV SCT003/// BKN004/// OVC009/// 07/06 Q1016
+cycle: 21

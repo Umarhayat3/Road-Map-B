@@ -1,0 +1,10 @@
+SISSETON MUNICIPAL AIRPORT, SD, United States (K8D3) 45-40N 096-59W 354M
+Mar 14, 2019 - 03:56 AM EDT / 2019.03.14 0756 UTC
+Wind: from the N (350 degrees) at 23 MPH (20 KT):0
+Temperature: 32.0 F (0.0 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.33 in. Hg (993 hPa)
+ob: K8D3 140756Z AUTO 35020KT 00/00 A2933 RMK AO1 PK WND 35026/0701 SLP950 T00000000 
+cycle: 8

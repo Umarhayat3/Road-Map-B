@@ -1,0 +1,10 @@
+El Golea, Algeria (DAUE) 30-34N 002-52E 397M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNE (030 degrees) at 9 MPH (8 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 59 F (15 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: DAUE 140800Z 03008KT CAVOK 15/05 Q1024
+cycle: 8

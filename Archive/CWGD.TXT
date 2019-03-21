@@ -1,0 +1,8 @@
+Goderich Automatic Weather Reporting System , Canada (CWGD) 43-46N 081-43W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (130 degrees) at 13 MPH (11 KT) gusting to 20 MPH (17 KT):0
+Temperature: 46.2 F (7.9 C)
+Dew Point: 36.1 F (2.3 C)
+Relative Humidity: 67%
+ob: CWGD 140700Z AUTO 13011G17KT 08/02 RMK AO1 SOG 05 8010 PK WND 14017/0655 SLP136 T00790023
+cycle: 7

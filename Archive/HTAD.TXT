@@ -1,0 +1,12 @@
+Station name not available
+Feb 28, 2017 - 01:00 AM EST / 2017.02.28 0600 UTC
+Wind: Calm:0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: rain with thunder; Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: HTAD 280600Z 00000KT 5000 TSRA SCT017 FEW019CB OVC070 24/23 Q1012 NOSIG
+cycle: 6

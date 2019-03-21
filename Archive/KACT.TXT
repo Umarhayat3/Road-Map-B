@@ -1,0 +1,13 @@
+WACO REGIONAL AIRPORT, TX, United States (KACT) 31-36N 97-13W 151M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the WNW (290 degrees) at 23 MPH (20 KT) gusting to 29 MPH (25 KT):0
+Visibility: 6 mile(s):0
+Sky conditions: overcast
+Weather: haze
+Temperature: 63.0 F (17.2 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 41%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) higher than three hours ago
+ob: KACT 140851Z AUTO 29020G25KT 6SM HZ OVC033 17/04 A2972 RMK AO2 SLP060 60000 T01720039 50014
+cycle: 9

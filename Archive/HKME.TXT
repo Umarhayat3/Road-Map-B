@@ -1,0 +1,10 @@
+Meru, Kenya (HKME) 00-05N 037-39E 1554M
+May 06, 2018 - 11:00 PM EDT / 2018.05.07 0300 UTC
+Wind: from the SSW (210 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 62 F (17 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 100%
+ob: HKME 070300Z 21006KT 9999 SCT013 BKN200 17/17
+cycle: 3

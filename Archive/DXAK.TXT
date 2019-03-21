@@ -1,0 +1,12 @@
+Atakpame, Togo (DXAK) 07-35N 001-07E 402M
+Mar 27, 2013 - 08:00 AM EDT / 2013.03.27 1200 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Heat index: 93.9 F (34.4 C):1
+Dew Point: 73 F (23 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: DXAK 271200Z 00000KT 9999 FEW016 BKN260 31/23 Q1010
+cycle: 12

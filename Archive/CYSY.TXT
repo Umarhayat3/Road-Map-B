@@ -1,0 +1,12 @@
+Sachs Harbour Airport, Canada (CYSY) 72-00N 125-17W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the NNE (020 degrees) at 14 MPH (12 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: -27 F (-33 C)
+Windchill: -52 F (-47 C):2
+Dew Point: -32 F (-36 C)
+Relative Humidity: 74%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: CYSY 140100Z 02012KT 15SM SKC M33/M36 A3025 RMK S00 AFT 13Z/15/SNW CVR/HARD PACK/ LAST STFD OBS/NXT 141300 SLP262
+cycle: 1

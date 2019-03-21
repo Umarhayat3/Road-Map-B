@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the SSW (200 degrees) at 8 MPH (7 KT) gusting to 18 MPH (16 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 62 F (17 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.04 in. Hg (1017 hPa)
+ob: K2A0 140835Z AUTO 20007G16KT 10SM OVC055 17/10 A3004 RMK A01
+cycle: 8

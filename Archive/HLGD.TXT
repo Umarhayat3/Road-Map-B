@@ -1,0 +1,11 @@
+Station name not available
+Dec 01, 2010 - 12:50 AM EST / 2010.12.01 0550 UTC
+Wind: from the WSW (240 degrees) at 12 MPH (10 KT):0
+Visibility: 3 mile(s):0
+Weather: haze
+Temperature: 64 F (18 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 34%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HLGD 010550Z 24010KT 5000 HZ NSC 18/02 Q1016
+cycle: 6

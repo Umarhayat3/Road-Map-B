@@ -1,0 +1,10 @@
+Station name not available
+May 04, 2010 - 01:00 PM EDT / 2010.05.04 1700 UTC
+Wind: from the NNW (330 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 71 F (22 C)
+Dew Point: 26 F (-3 C)
+Relative Humidity: 18%
+ob: DAOA 041700Z 33006KT 9999 FEW040 22/M03 Q////
+cycle: 17

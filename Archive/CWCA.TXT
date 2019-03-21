@@ -1,0 +1,11 @@
+Cartwright, Nfld., Canada (CWCA) 53-42N 057-02W 14M
+Sep 12, 2018 - 02:00 PM EDT / 2018.09.12 1800 UTC
+Wind: from the N (350 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: 60 F (16 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 63%
+Pressure (altimeter): 30.02 in. Hg (1016 hPa)
+ob: CWCA 121800Z 35006KT 310V010 15SM FEW025 16/09 A3002 RMK CU1 CU TR SLP166 DENSITY ALT 100FT
+cycle: 18

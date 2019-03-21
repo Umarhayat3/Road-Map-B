@@ -1,0 +1,13 @@
+MOAB CANYONLANDS FIELD, UT, United States (KCNY) 38-46N 109-45W 1390M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NW (320 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 33.1 F (0.6 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) higher than three hours ago
+ob: KCNY 140853Z AUTO 32006KT 10SM FEW050 01/M02 A2999 RMK AO2 SLP167 T00061022 53014
+cycle: 9

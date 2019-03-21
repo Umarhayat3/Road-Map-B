@@ -1,0 +1,12 @@
+Edmonton International, Alta., Canada (CYEG) 53-18N 113-35W 723M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (260 degrees) at 9 MPH (8 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 21 F (-6 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 12 F (-11 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: CYEG 140800Z 26008KT 20SM SCT085 M06/M11 A3016 RMK AC4 SLP254
+cycle: 8

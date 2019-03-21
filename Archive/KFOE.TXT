@@ -1,0 +1,12 @@
+FORBES FIELD, KS, United States (KFOE) 38-56N 95-39W 320M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SW (230 degrees) at 28 MPH (24 KT) gusting to 41 MPH (36 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 42.1 F (5.6 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 72%
+Pressure (altimeter): 29.23 in. Hg (989 hPa)
+Pressure tendency: 0.12 inches (3.9 hPa) higher than three hours ago
+ob: KFOE 140853Z AUTO 23024G36KT 10SM OVC022 06/01 A2923 RMK AO2 PK WND 23038/0842 SLP897 T00560011 53039
+cycle: 9

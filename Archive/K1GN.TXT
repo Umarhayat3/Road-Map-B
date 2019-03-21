@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the N (350 degrees) at 25 MPH (22 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 29.3 F (-1.5 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 24.3 F (-4.3 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.8 in. Hg (1009 hPa)
+ob: K1GN 140656Z AUTO 35022KT 10SM SCT095 OVC110 M01/M04 A2980 RMK AO2 PK WND 35026/52 SLP128 T10151043 
+cycle: 7

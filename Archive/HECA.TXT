@@ -1,0 +1,11 @@
+Cairo Airport, Egypt (HECA) 30-08N 031-24E 74M
+Mar 14, 2019 - 04:30 AM EDT / 2019.03.14 0830 UTC
+Wind: from the W (260 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 64 F (18 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 48%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HECA 140830Z 26011KT 9999 SCT025 18/07 Q1016 NOSIG
+cycle: 8

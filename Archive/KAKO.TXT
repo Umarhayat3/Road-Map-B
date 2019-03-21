@@ -1,0 +1,13 @@
+COLORADO PLAINS REGIONAL, CO, United States (KAKO) 40-10N 103-13W 1421M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the NNW (330 degrees) at 39 MPH (34 KT) gusting to 54 MPH (47 KT):0
+Visibility: 1 1/4 mile(s):0
+Weather: mist
+Temperature: 25.0 F (-3.9 C)
+Windchill: 6 F (-14 C):1
+Dew Point: 23.0 F (-5.0 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.7 in. Hg (1005 hPa)
+Pressure tendency: 0.10 inches (3.3 hPa) higher than three hours ago
+ob: KAKO 140853Z AUTO 33034G47KT 1 1/4SM BR M04/M05 A2970 RMK AO2 PK WND 33050/0806 SLP092 T10391050 53033 PWINO FZRANO 
+cycle: 9

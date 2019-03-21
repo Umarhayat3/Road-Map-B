@@ -1,0 +1,9 @@
+Virginia Falls, Canada (CWZV) 61-38N 125-48W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (280 degrees) at 35 MPH (30 KT):0
+Temperature: 39.9 F (4.4 C)
+Dew Point: 38.5 F (3.6 C)
+Relative Humidity: 94%
+Pressure tendency: 0.01 inches (0.2 hPa) lower than three hours ago
+ob: CWZV 140700Z AUTO 28030KT 04/04 RMK AO1 PK WND 16044/0615 SLP122 T00440036 55002
+cycle: 7

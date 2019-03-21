@@ -1,0 +1,9 @@
+Station name not available
+Aug 08, 2015 - 04:00 AM EDT / 2015.08.08 0800 UTC
+Wind: from the NE (040 degrees) at 8 MPH (7 KT):0
+Temperature: 75 F (24 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 19%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FYAS 080800Z AUTO 04007KT //// // ////// 24/M01 Q1025
+cycle: 8

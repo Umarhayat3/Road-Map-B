@@ -1,0 +1,10 @@
+Station name not available
+Oct 17, 2017 - 06:00 AM EDT / 2017.10.17 1000 UTC
+Wind: from the ESE (120 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: DTVB 171000Z 12006KT 080V140 CAVOK 24/15 Q1024
+cycle: 10

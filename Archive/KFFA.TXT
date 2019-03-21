@@ -1,0 +1,11 @@
+Kill Devil Hills, First Flight Airport, NC, United States (KFFA) 36-01N 075-40W
+Mar 14, 2019 - 05:00 AM EDT / 2019.03.14 0900 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 44.4 F (6.9 C)
+Dew Point: 38.1 F (3.4 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: KFFA 140900Z AUTO 00000KT 10SM CLR 07/03 A3027 RMK AO2 T00690034
+cycle: 9

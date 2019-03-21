@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 03:55 AM EDT / 2019.03.14 0755 UTC
+Wind: from the SSW (200 degrees) at 40 MPH (35 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: mostly cloudy
+Weather: heavy drizzle
+Temperature: 44 F (7 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: EHQE 140755Z AUTO 20035KT 2700 +DZ FEW007 SCT010 BKN013 07/06 Q0995 W///H///
+cycle: 8

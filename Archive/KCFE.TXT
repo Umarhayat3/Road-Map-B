@@ -1,0 +1,11 @@
+Buffalo, Buffalo Municipal Airport, MN, United States (KCFE) 45-09-32N 093-50-35W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Visibility: 1/4 mile(s):0
+Sky conditions: overcast
+Weather: drizzle
+Temperature: 39.4 F (4.1 C)
+Dew Point: 38.3 F (3.5 C)
+Relative Humidity: 95%
+Pressure (altimeter): 29.27 in. Hg (991 hPa)
+ob: KCFE 140855Z 1/4SM DZ OVC001 04/04 A2927 RMK AO2 T00410035
+cycle: 9

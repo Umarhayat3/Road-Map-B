@@ -1,0 +1,8 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the ENE (060 degrees) at 3 MPH (3 KT):0
+Temperature: 29.1 F (-1.6 C)
+Dew Point: 28.4 F (-2.0 C)
+Relative Humidity: 97%
+ob: CWBS 140700Z AUTO 06003KT M02/M02 RMK AO1 T10161020
+cycle: 7

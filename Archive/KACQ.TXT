@@ -1,0 +1,12 @@
+Waseca, Waseca Municipal Airport, MN, United States (KACQ) 44-04-24N 093-33-11W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (130 degrees) at 14 MPH (12 KT):0
+Visibility: 3/4 mile(s):0
+Sky conditions: overcast
+Weather: light rain; Lightning observed
+Temperature: 39 F (4 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.24 in. Hg (990 hPa)
+ob: KACQ 140855Z AUTO 13012KT 3/4SM -RA OVC002 04/03 A2924 RMK AO2 LTG DSNT NW
+cycle: 9

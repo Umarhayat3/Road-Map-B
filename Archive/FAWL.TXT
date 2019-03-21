@@ -1,0 +1,8 @@
+Station name not available
+Aug 04, 2010 - 10:00 AM EDT / 2010.08.04 1400 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: FAWL 041400Z 00000KT CAVOK 21/// Q1028
+cycle: 14

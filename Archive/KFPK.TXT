@@ -1,0 +1,13 @@
+Charlotte, Fitch H Beach Airport, MI, United States (KFPK) 42-34-28N 084-48-41W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 13 MPH (11 KT) gusting to 22 MPH (19 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Precipitation last hour: 0.03 inches
+Temperature: 52.0 F (11.1 C)
+Dew Point: 44.8 F (7.1 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: KFPK 140855Z AUTO 17011G19KT 7SM -RA SCT032 BKN090 OVC110 11/07 A2971 RMK AO2 P0003 60003 T01110071
+cycle: 9

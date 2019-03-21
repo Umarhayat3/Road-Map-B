@@ -1,0 +1,12 @@
+Lynn Lake, Man., Canada (CYYL) 56-52N 101-05W 357M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the NNW (340 degrees) at 8 MPH (7 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 21 F (-6 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.03 in. Hg (1016 hPa)
+ob: CYYL 140800Z AUTO 34007KT 9SM OVC023 M06/M09 A3003 RMK SLP194
+cycle: 8

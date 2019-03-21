@@ -1,0 +1,12 @@
+Akureyri, Iceland (BIAR) 65-41N 018-05W 27M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the S (190 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 26 F (-3 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 64%
+Pressure (altimeter): 29.15 in. Hg (0987 hPa)
+ob: BIAR 140700Z 19005KT 9999 FEW032 OVC042 01/M05 Q0987
+cycle: 7

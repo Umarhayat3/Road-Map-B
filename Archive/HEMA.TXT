@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the W (280 degrees) at 16 MPH (14 KT):0
+Visibility: less than 1 mile:0
+Weather: sand
+Temperature: 66 F (19 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 25%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: HEMA 140700Z 28014KT 1200 R33R/2000 SA NSC 19/M01 Q1016 TEMPO 0800 SS
+cycle: 7

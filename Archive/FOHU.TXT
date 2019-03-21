@@ -1,0 +1,11 @@
+Station name not available
+May 08, 2016 - 10:00 AM EDT / 2016.05.08 1400 UTC
+Wind: from the E (100 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 82 F (28 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 34%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FOHU 081400Z 10005KT 9999 SCT016 28/11 Q1022
+cycle: 14

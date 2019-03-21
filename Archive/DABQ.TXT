@@ -1,0 +1,11 @@
+Station name not available
+May 19, 2013 - 10:00 AM EDT / 2013.05.19 1400 UTC
+Wind: from the NNE (020 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 69 F (21 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 43%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DABQ 191400Z 02006KT 9999 FEW040 21/08 Q1017
+cycle: 14

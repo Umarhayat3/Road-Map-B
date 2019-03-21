@@ -1,0 +1,12 @@
+Concord, Concord Municipal Airport, NH, United States (KCON) 43-11-43N 071-30-04W 103M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 33.1 F (0.6 C)
+Dew Point: 28.9 F (-1.7 C)
+Relative Humidity: 84%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+Pressure tendency: 0.03 inches (0.9 hPa) lower than three hours ago
+ob: KCON 140851Z AUTO 00000KT 10SM OVC065 01/M02 A3025 RMK AO2 SLP248 T00061017 56009
+cycle: 9

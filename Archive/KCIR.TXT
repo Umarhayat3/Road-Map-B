@@ -1,0 +1,13 @@
+Cairo, Cairo Regional Airport, IL, United States (KCIR) 37-03-52N 089-13-10W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (170 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Weather: Lightning observed
+Precipitation last hour: 0.01 inches
+Temperature: 59.5 F (15.3 C)
+Dew Point: 59.4 F (15.2 C)
+Relative Humidity: 99%
+Pressure (altimeter): 29.65 in. Hg (1004 hPa)
+ob: KCIR 140855Z AUTO 17007KT 10SM BKN008 OVC018 15/15 A2965 RMK AO2 LTG DSNT NE P0001 60008 T01530152
+cycle: 9

@@ -1,0 +1,11 @@
+Melrose Gunnery Range, NM, United States (K4MR) 34-18N 103-48W 1326M
+Mar 13, 2019 - 06:58 AM EDT / 2019.03.13 1058 UTC
+Wind: from the SW (230 degrees) at 21 MPH (18 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 40.3 F (4.6 C)
+Dew Point: 33.4 F (0.8 C)
+Relative Humidity: 76%
+Pressure (altimeter): 29.43 in. Hg (996 hPa)
+ob: K4MR 131058Z AUTO 23018KT 10SM CLR 05/01 A2943 RMK AO2 SLP938 T00460008 TSNO 
+cycle: 11

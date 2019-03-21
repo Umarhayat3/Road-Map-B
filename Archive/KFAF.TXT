@@ -1,0 +1,11 @@
+Fort Eustis / Felker, VA, United States (KFAF) 37-08N 076-37W
+Mar 14, 2019 - 02:56 AM EDT / 2019.03.14 0656 UTC
+Wind: from the S (170 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.9 F (7.7 C)
+Dew Point: 35.6 F (2.0 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: KFAF 140656Z AUTO 17005KT 10SM CLR 08/02 A3025 RMK AO2 SLP247 T00770020 
+cycle: 7

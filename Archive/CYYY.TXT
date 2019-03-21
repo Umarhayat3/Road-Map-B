@@ -1,0 +1,12 @@
+Mont Joli, Que., Canada (CYYY) 48-36N 068-13W 52M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the SW (220 degrees) at 10 MPH (9 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 32 F (0 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 23 F (-5 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.15 in. Hg (1020 hPa)
+ob: CYYY 140800Z 22009KT 15SM BKN093 00/M05 A3015 RMK AC7 SLP214
+cycle: 8

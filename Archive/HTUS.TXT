@@ -1,0 +1,11 @@
+Station name not available
+Oct 04, 2015 - 01:00 PM EDT / 2015.10.04 1700 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 73 F (23 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 46%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: HTUS 041700Z 00000KT 9999 FEW022 23/11 Q1024
+cycle: 17

@@ -1,0 +1,11 @@
+Station name not available
+Feb 12, 2017 - 05:00 PM EST / 2017.02.12 2200 UTC
+Wind: from the N (360 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 57 F (14 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: HAEX 122200Z 36010KT 9999 SCT020 14/06 Q1019 NOSIG
+cycle: 22

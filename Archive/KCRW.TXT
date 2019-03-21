@@ -1,0 +1,12 @@
+YEAGER AIRPORT, WV, United States (KCRW) 38-22N 081-36W 309M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 52.0 F (11.1 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 46%
+Pressure (altimeter): 29.99 in. Hg (1015 hPa)
+Pressure tendency: 0.05 inches (1.6 hPa) lower than three hours ago
+ob: KCRW 140854Z 00000KT 10SM FEW250 11/00 A2999 RMK AO2 SLP151 T01110000 56016
+cycle: 9

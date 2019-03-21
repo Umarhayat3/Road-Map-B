@@ -1,0 +1,10 @@
+Rota, Naval Station, Spain (EQYR) 36-39N 006-20W
+Mar 16, 2010 - 09:56 AM EDT / 2010.03.16 1356 UTC
+Wind: from the ESE (120 degrees) at 20 MPH (17 KT) gusting to 26 MPH (23 KT):0
+Sky conditions: clear
+Temperature: 64.0 F (17.8 C)
+Dew Point: 48.0 F (8.9 C)
+Relative Humidity: 55%
+Pressure (altimeter): 30.13 in. Hg (1020 hPa)
+ob: EQYR 161356Z AUTO 12017G23KT CLR 18/09 A3013 RMK AO2 PK WND 12027/1259 SLP201 T01780089 TSNO FIBI
+cycle: 14

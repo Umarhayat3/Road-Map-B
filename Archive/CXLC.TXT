@@ -1,0 +1,6 @@
+Lower Carp Lake , N. W. T., Canada (CXLC) 63-36N 113-52W
+Oct 04, 2018 - 03:00 AM EDT / 2018.10.04 0700 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Pressure tendency: 0.01 inches (0.3 hPa) higher than three hours ago
+ob: CXLC 040700Z AUTO 12004KT RMK AO1 53003
+cycle: 7

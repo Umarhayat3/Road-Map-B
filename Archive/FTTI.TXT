@@ -1,0 +1,9 @@
+Station name not available
+May 04, 2014 - 05:00 AM EDT / 2014.05.04 0900 UTC
+Wind: from the NW (320 degrees) at 26 MPH (23 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 86 F (30 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 51%
+ob: FTTI 040900Z 32023KT CAVOK 30/19 Q////
+cycle: 9

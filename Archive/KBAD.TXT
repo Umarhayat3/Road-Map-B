@@ -1,0 +1,11 @@
+Barksdale Air Force Base, LA, United States (KBAD) 32-30N 093-40W
+Mar 14, 2019 - 03:46 AM EDT / 2019.03.14 0746 UTC
+Wind: from the S (180 degrees) at 22 MPH (19 KT) gusting to 29 MPH (25 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 69 F (21 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.64 in. Hg (1003 hPa)
+ob: KBAD 140746Z AUTO 18019G25KT 10SM OVC016 21/21 A2964 RMK AO2 OVC V BKN SLP039
+cycle: 8

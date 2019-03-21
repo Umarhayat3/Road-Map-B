@@ -1,0 +1,12 @@
+Station name not available
+Aug 03, 2016 - 05:00 AM EDT / 2016.08.03 0900 UTC
+Wind: from the SE (130 degrees) at 9 MPH (8 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain with thunder; Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: FKKS 030900Z 13008KT 6000 -TSRA FEW003 BKN016 FEW020CB 23/22 Q1016 NOSIG
+cycle: 9

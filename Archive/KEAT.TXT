@@ -1,0 +1,13 @@
+WENATCHEE PANGBORN MEMO, WA, United States (KEAT) 47-24N 120-12W 377M
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the NW (310 degrees) at 8 MPH (7 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 30.0 F (-1.1 C)
+Windchill: 23 F (-5 C):1
+Dew Point: 21.0 F (-6.1 C)
+Relative Humidity: 68%
+Pressure (altimeter): 30.39 in. Hg (1029 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) higher than three hours ago
+ob: KEAT 140855Z AUTO 31007KT 10SM CLR M01/M06 A3039 RMK AO2 SLP300 T10111061 51014
+cycle: 9

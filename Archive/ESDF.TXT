@@ -1,0 +1,11 @@
+Ronneby, Sweden (ESDF) 56-16N 015-17E 74M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (270 degrees) at 9 MPH (8 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.26 in. Hg (0991 hPa)
+ob: ESDF 140820Z 27008KT 240V300 9999 SCT005 BKN009 05/04 Q0991
+cycle: 8

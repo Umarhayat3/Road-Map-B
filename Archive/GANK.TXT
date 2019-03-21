@@ -1,0 +1,9 @@
+Nara, Mali (GANK) 15-10N 007-17W 265M
+Jan 22, 2019 - 04:00 PM EST / 2019.01.22 2100 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 69 F (21 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 30%
+ob: GANK 222100Z 00000KT CAVOK 21/03 Q////
+cycle: 21

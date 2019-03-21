@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSE (150 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 19 F (-7 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 14 F (-10 C)
+Relative Humidity: 79%
+Pressure (altimeter): 30.23 in. Hg (1023 hPa)
+ob: KEKS 140855Z AUTO 15004KT 10SM BKN043 OVC065 M07/M10 A3023 RMK AO2
+cycle: 9

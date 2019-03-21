@@ -1,0 +1,9 @@
+Kidal, Mali (GAKL) 18-26N 001-21E 459M
+Feb 23, 2019 - 06:00 AM EST / 2019.02.23 1100 UTC
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 17 F (-8 C)
+Relative Humidity: 8%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: GAKL 231100Z N CAVOK 28/M08 Q1018 NOSIG
+cycle: 11

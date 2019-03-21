@@ -1,0 +1,11 @@
+Station name not available
+Feb 24, 2019 - 03:00 AM EST / 2019.02.24 0800 UTC
+Wind: from the N (350 degrees) at 33 MPH (29 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 51 F (11 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 61%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: DFMB 240800Z 35029KT 9999 BKN044 11/04 Q1020 NOSIG
+cycle: 8

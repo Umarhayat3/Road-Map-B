@@ -1,0 +1,12 @@
+Station name not available
+Jul 30, 2016 - 07:00 AM EDT / 2016.07.30 1100 UTC
+Wind: Calm:0
+Visibility: 3 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GLRC 301100Z 00000KT 6000 -RA FEW004 BKN011 24/23 Q1016 TEMPO RA
+cycle: 11

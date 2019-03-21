@@ -1,0 +1,13 @@
+Clines Corners, NM, United States (KCQC) 35-00N 105-40W
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the W (270 degrees) at 22 MPH (19 KT) gusting to 30 MPH (26 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 28.0 F (-2.2 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+Pressure tendency: 0.06 inches (1.9 hPa) higher than three hours ago
+ob: KCQC 140853Z AUTO 27019G26KT 10SM OVC037 M02/M08 A2983 RMK AO2 PK WND 27032/0755 SLP089 T10221078 51019 
+cycle: 9

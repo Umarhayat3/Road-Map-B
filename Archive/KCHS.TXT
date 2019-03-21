@@ -1,0 +1,12 @@
+CHARLESTON INT'L AIRPORT, SC, United States (KCHS) 32-54N 080-02W 13M
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the NNE (020 degrees) at 3 MPH (3 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: mostly clear
+Temperature: 52.0 F (11.1 C)
+Dew Point: 50.0 F (10.0 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KCHS 140856Z 02003KT 9SM FEW040 FEW200 11/10 A3022 RMK AO2 SLP231 T01110100 58008
+cycle: 9

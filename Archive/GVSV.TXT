@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (080 degrees) at 17 MPH (15 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: mostly clear
+Temperature: 69 F (21 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GVSV 140800Z 08015KT 6000 FEW022 21/17 Q1016 NOSIG
+cycle: 8

@@ -1,0 +1,11 @@
+Ft. Pickett / Blackstone, VA, United States (KBKT) 37-05N 077-57W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (200 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.7 F (7.6 C)
+Dew Point: 38.8 F (3.8 C)
+Relative Humidity: 76%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: KBKT 140855Z AUTO 20006KT 10SM CLR 08/04 A3022 RMK AO1 T00760038
+cycle: 9

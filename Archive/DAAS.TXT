@@ -1,0 +1,11 @@
+Setif, Algeria (DAAS) 36-11N 005-25E 1081M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the N (360 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 44 F (7 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 70%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: DAAS 140800Z 36004KT 8000 FEW010 BKN030 07/02 Q1026
+cycle: 8

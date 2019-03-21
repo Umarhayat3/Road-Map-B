@@ -1,0 +1,12 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the W (270 degrees) at 29 MPH (25 KT) gusting to 43 MPH (37 KT):0
+Visibility: less than 1 mile:0
+Sky conditions: overcast
+Weather: light drizzle; mist
+Temperature: 50 F (10 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: EGHC 140820Z 27025G37KT 1200 -DZ BR OVC003 10/09 Q1013
+cycle: 8

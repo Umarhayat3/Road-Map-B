@@ -1,0 +1,10 @@
+Station name not available
+Nov 05, 2015 - 07:00 AM EST / 2015.11.05 1200 UTC
+Wind: from the E (080 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 29%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FDSM 051200Z 08009KT CAVOK 26/07 Q1025 NOSIG
+cycle: 12

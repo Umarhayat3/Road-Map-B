@@ -1,0 +1,13 @@
+Station name not available
+Mar 14, 2019 - 02:58 AM EDT / 2019.03.14 0658 UTC
+Wind: from the S (170 degrees) at 18 MPH (16 KT) gusting to 25 MPH (22 KT):0
+Visibility: 8 mile(s):0
+Sky conditions: overcast
+Weather: light rain; Lightning observed
+Precipitation last hour: 0.04 inches
+Temperature: 65.1 F (18.4 C)
+Dew Point: 56.8 F (13.8 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+ob: KEOD 140658Z AUTO 17016G22KT 8SM -RA FEW046 OVC065 18/14 A2975 RMK AO2 PK WND 18026/31 LTG DSNT W-NW SLP073 P0004 T01840138
+cycle: 7

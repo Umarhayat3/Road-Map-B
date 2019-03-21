@@ -1,0 +1,11 @@
+Station name not available
+Mar 09, 2019 - 07:25 PM EST / 2019.03.10 0025 UTC
+Wind: from the E (090 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 49.5 F (9.7 C)
+Dew Point: 42.1 F (5.6 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: KETC 100025Z AUTO 09009KT 10SM OVC024 10/06 A3020 RMK AO2 PWINO T00970056
+cycle: 0

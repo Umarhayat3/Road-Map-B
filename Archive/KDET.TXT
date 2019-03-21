@@ -1,0 +1,12 @@
+DETROIT CITY AIRPORT, MI, United States (KDET) 42-25N 083-01W 190M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (150 degrees) at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 45.0 F (7.2 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 65%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+Pressure tendency: 0.05 inches (1.8 hPa) lower than three hours ago
+ob: KDET 140853Z 15005KT 10SM CLR 07/01 A2984 RMK AO2 SLP106 T00720011 58018
+cycle: 9

@@ -1,0 +1,12 @@
+Warsaw, Warsaw Municipal Airport, IN, United States (KASW) 41-16-28N 085-50-24W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the S (180 degrees) at 12 MPH (10 KT) gusting to 20 MPH (17 KT) (direction variable):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: 0.01 inches
+Temperature: 53 F (12 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 71%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: KASW 140855Z AUTO 18010G17KT 137V207 10SM SCT065 OVC095 12/07 A2968 RMK AO2 P0001
+cycle: 9

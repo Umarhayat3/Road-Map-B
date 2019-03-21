@@ -1,0 +1,12 @@
+Station name not available
+Jan 27, 2011 - 02:31 PM EST / 2011.01.27 1931 UTC
+Wind: from the NE (050 degrees) at 3 MPH (3 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: light rain showers; Cumulonimbus clouds observed
+Temperature: 42 F (6 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: GUTB 271931Z 05003KT 6000 -SHRA BKN028CB OVC100 06/03 Q1016 NOSIG RMK 31290065
+cycle: 19

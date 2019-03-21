@@ -1,0 +1,11 @@
+Artesia, Artesia Municipal Airport, NM, United States (KATS) 32-51-09N 104-28-03W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 42 F (6 C)
+Dew Point: 24 F (-4 C)
+Relative Humidity: 48%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: KATS 140855Z AUTO 00000KT 10SM CLR 06/M04 A2991 RMK AO2
+cycle: 9

@@ -1,0 +1,12 @@
+Red Lake, Ont., Canada (CYRL) 51-04N 093-48W 383M
+Mar 13, 2019 - 10:00 PM EDT / 2019.03.14 0200 UTC
+Wind: from the NNE (020 degrees) at 9 MPH (8 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: overcast
+Temperature: 35 F (2 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 28 F (-2 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+ob: CYRL 140200Z 02008KT 15SM BKN120 OVC240 02/M02 A2972 RMK AS6CS2 LAST STFD OBS/NEXT 140900 UTC SLP082
+cycle: 2

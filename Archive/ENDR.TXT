@@ -1,0 +1,11 @@
+Draugen, Norway (ENDR) 64-21-20N 007-47-30E
+Nov 30, 2018 - 07:10 AM EST / 2018.11.30 1210 UTC
+Wind: from the SE (140 degrees) at 32 MPH (28 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 50 F (10 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.06 in. Hg (0984 hPa)
+ob: ENDR 301210Z 14028KT 9999 SCT050 10/04 Q0984
+cycle: 12

@@ -1,0 +1,11 @@
+Linkoping / Saab, Sweden (ESSL) 58-24N 015-41E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSW (210 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: ESSL 140820Z 21005KT 160V260 9999 FEW011 BKN015 05/04 Q0988 REDZ R29/29//95
+cycle: 8

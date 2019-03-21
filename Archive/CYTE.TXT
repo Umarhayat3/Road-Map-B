@@ -1,0 +1,12 @@
+Cape Dorset, N. W. T., Canada (CYTE) 64-13N 076-32W 50M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Calm:0
+Visibility: 3/8 mile(s):0
+Sky conditions: obscured
+Weather: freezing fog
+Temperature: -9 F (-23 C)
+Dew Point: -13 F (-25 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.11 in. Hg (1019 hPa)
+ob: CYTE 140800Z AUTO 00000KT 3/8SM FZFG VV003 M23/M25 A3011 RMK SLP203
+cycle: 8

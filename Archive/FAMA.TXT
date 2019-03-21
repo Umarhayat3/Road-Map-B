@@ -1,0 +1,10 @@
+Station name not available
+Sep 14, 2017 - 08:00 AM EDT / 2017.09.14 1200 UTC
+Wind: from the SE (130 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 61%
+Pressure (altimeter): 31.86 in. Hg (1079 hPa)
+ob: FAMA 141200Z 13015KT CAVOK 26/18 Q1079 NOSIG
+cycle: 12

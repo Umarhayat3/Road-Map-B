@@ -1,0 +1,10 @@
+Selebi Phikwe, Botswana (FBSP) 22-03-19S 027-49-13E
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 80 F (27 C)
+Dew Point: 64 F (18 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FBSP 140800Z /////KT 9999 FEW030 27/18 Q1020
+cycle: 8

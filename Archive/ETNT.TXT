@@ -1,0 +1,12 @@
+Wittmundhaven, Germany (ETNT) 53-33N 007-40E 12M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (220 degrees) at 16 MPH (14 KT) gusting to 29 MPH (25 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 42 F (6 C)
+Dew Point: 41 F (5 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: ETNT 140820Z 22014G25KT 7000 -RADZ BKN006 06/05 Q0995 YLO GRN TEMPO YLO
+cycle: 8

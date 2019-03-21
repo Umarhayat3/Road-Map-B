@@ -1,0 +1,12 @@
+EL PASO INTERNATIONAL AIRPORT , TX, United States (KELP) 31-49N 106-23W 1197M
+Mar 14, 2019 - 04:51 AM EDT / 2019.03.14 0851 UTC
+Wind: from the WNW (300 degrees) at 18 MPH (16 KT) gusting to 32 MPH (28 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 46.9 F (8.3 C)
+Dew Point: 21.0 F (-6.1 C)
+Relative Humidity: 35%
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) higher than three hours ago
+ob: KELP 140851Z 30016G28KT 10SM SCT060 08/M06 A2997 RMK AO2 PK WND 32028/0844 SLP114 BLDU W-NW T00831061 51010
+cycle: 9

@@ -1,0 +1,13 @@
+ALEXANDRIA INTERNATIONAL AIRPORT, LA, United States (KAEX) 31-33N 092-56W 27M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SSE (160 degrees) at 15 MPH (13 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 71.1 F (21.7 C)
+Dew Point: 68.0 F (20.0 C)
+Relative Humidity: 90%
+Pressure (altimeter): 29.75 in. Hg (1007 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) lower than three hours ago
+ob: KAEX 140853Z 16013KT 9SM OVC014 22/20 A2975 RMK AO2 RAE0754 SLP077 P0000 60000 T02170200 58014
+cycle: 9

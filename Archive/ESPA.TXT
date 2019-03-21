@@ -1,0 +1,13 @@
+Lulea / Kallax, Sweden (ESPA) 65-33N 022-08E 34M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (150 degrees) at 18 MPH (16 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light snow; light snow grains
+Temperature: 26 F (-3 C)
+Windchill: 12 F (-11 C):1
+Dew Point: 24 F (-4 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.35 in. Hg (0994 hPa)
+ob: ESPA 140820Z 15016KT 8000 -SN -SG BKN006 M03/M04 Q0994
+cycle: 8

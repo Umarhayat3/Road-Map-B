@@ -1,0 +1,11 @@
+Station name not available
+Jul 23, 2009 - 12:53 PM EDT / 2009.07.23 1653 UTC
+Wind: from the WNW (300 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 80 F (27 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 50%
+Pressure (altimeter): 29.92 in. Hg (1013 hPa)
+ob: CRNM 231653Z 30008KT 10SM CLR 27/16 A2992 RMK AO2 SLP114 T026Š²ŠJ 
+cycle: 17

@@ -1,0 +1,11 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (100 degrees) at 2 MPH (2 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 30 F (-1 C)
+Dew Point: 30 F (-1 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.85 in. Hg (1010 hPa)
+ob: CYAT 140800Z AUTO 10002KT 9SM OVC050 M01/M01 A2985 RMK SLP109
+cycle: 8

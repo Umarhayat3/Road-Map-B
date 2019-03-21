@@ -1,0 +1,11 @@
+Station name not available
+Feb 15, 2017 - 04:00 AM EST / 2017.02.15 0900 UTC
+Wind: Calm:0
+Visibility: 3 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 53 F (12 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.42 in. Hg (1030 hPa)
+ob: EAAG 150900Z 00000KT 6000 SCT010 12/11 Q1030
+cycle: 9

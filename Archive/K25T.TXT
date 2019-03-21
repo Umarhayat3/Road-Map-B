@@ -1,0 +1,11 @@
+Station name not available
+Sep 27, 2010 - 05:45 AM EDT / 2010.09.27 0945 UTC
+Wind: from the NNE (020 degrees) at 13 MPH (11 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 84 F (29 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 62%
+Pressure (altimeter): 29.77 in. Hg (1008 hPa)
+ob: K25T 270945Z TEST 02011KT 10SM FEW036 FEW044 FEW050 29/21 A2977
+cycle: 10

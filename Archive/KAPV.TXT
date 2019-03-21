@@ -1,0 +1,11 @@
+Apple Valley, CA, United States (KAPV) 34-35N 117-11W
+Sep 19, 2011 - 08:56 AM EDT / 2011.09.19 1256 UTC
+Wind: from the NE (050 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 64.9 F (18.3 C)
+Dew Point: 64.0 F (17.8 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.96 in. Hg (1014 hPa)
+ob: KAPV 191256Z AUTO 05004KT 10SM FEW075 SCT090 BKN110 18/18 A2996 RMK AO2 SLP144 T01830178 
+cycle: 13

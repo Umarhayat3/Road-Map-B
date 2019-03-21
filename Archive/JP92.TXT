@@ -1,0 +1,9 @@
+Station name not available
+Nov 11, 2010 - 05:53 PM EST / 2010.11.11 2253 UTC
+Wind: Calm:0
+Temperature: 69 F (21 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: JP92 112253Z AUTO 00000KT 21/17 A3020 RMK"AO2 SLP227 T02110167 PWINO TSNO 
+cycle: 23

@@ -1,0 +1,6 @@
+Montreal-Est, Canada (CWPQ) 45-38N 070-33W
+Mar 26, 2008 - 12:00 PM EST / 2008.03.26 1700 UTC
+Wind: from the W (260 degrees) at 16 MPH (14 KT) gusting to 23 MPH (20 KT):0
+Temperature: 39 F (4 C)
+ob: CWPQ 261700Z AUTO 26014G20KT 04/ RMK AO1 PK WND 29027/1608 T0037
+cycle: 17

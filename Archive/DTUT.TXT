@@ -1,0 +1,10 @@
+Station name not available
+Jun 21, 2017 - 01:00 PM EDT / 2017.06.21 1700 UTC
+Wind: from the ESE (110 degrees) at 6 MPH (5 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Temperature: 91 F (33 C)
+Dew Point: 48 F (9 C)
+Relative Humidity: 22%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DTUT 211700Z 11005KT 060V170 CAVOK 33/09 Q1016 RMK SIROCCO
+cycle: 17

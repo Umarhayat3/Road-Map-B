@@ -1,0 +1,12 @@
+COTULLA-LASALLE COUNTY AIRPORT , TX, United States (KCOT) 28-27N 099-13W 140M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 63.0 F (17.2 C)
+Dew Point: 55.9 F (13.3 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.73 in. Hg (1006 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) higher than three hours ago
+ob: KCOT 140853Z AUTO 00000KT 10SM CLR 17/13 A2973 RMK AO2 SLP058 T01720133 53012
+cycle: 9

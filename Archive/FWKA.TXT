@@ -1,0 +1,12 @@
+Karonga, Malawi (FWKA) 09-57S 033-53E 529M
+Jan 22, 2017 - 01:00 AM EST / 2017.01.22 0600 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: FWKA 220600Z 00000KT 9999 FEW022CB BKN090 23/21 Q1018
+cycle: 6

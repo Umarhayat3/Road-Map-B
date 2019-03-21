@@ -1,0 +1,12 @@
+SOUTH ARKANSAS REGIONAL, AR, United States (KELD) 33-13N 092-49W 81M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the S (190 degrees) at 14 MPH (12 KT) gusting to 23 MPH (20 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 70.0 F (21.1 C)
+Dew Point: 66.9 F (19.4 C)
+Relative Humidity: 90%
+Pressure (altimeter): 29.66 in. Hg (1004 hPa)
+Pressure tendency: 0.04 inches (1.2 hPa) lower than three hours ago
+ob: KELD 140853Z AUTO 19012G20KT 10SM OVC017 21/19 A2966 RMK AO2 PK WND 17026/0826 SLP041 T02110194 55012
+cycle: 9

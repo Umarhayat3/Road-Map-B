@@ -1,0 +1,11 @@
+CHATHAM MUNICIPAL AIRPORT, MA, United States (KCQX) 41-41N 070-00W 19M
+Mar 14, 2019 - 05:04 AM EDT / 2019.03.14 0904 UTC
+Wind: from the S (190 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 36.0 F (2.2 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.31 in. Hg (1026 hPa)
+ob: KCQX 140904Z AUTO 19003KT 10SM BKN017 BKN095 02/M01 A3031 RMK AO2 T00221011
+cycle: 9

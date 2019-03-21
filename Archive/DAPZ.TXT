@@ -1,0 +1,11 @@
+Station name not available
+Jan 08, 2014 - 12:45 PM EST / 2014.01.08 1745 UTC
+Wind: from the N (010 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 59 F (15 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: DAPZ 081745Z 01006KT 9999 SCT016 15/13 Q1022
+cycle: 18

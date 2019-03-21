@@ -1,0 +1,10 @@
+Station name not available
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SSE (150 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 41 F (5 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 80%
+Pressure (altimeter): 29.38 in. Hg (0995 hPa)
+ob: EVVA 140820Z AUTO 15010KT CAVOK 05/02 Q0995
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+May 27, 2015 - 11:00 AM EDT / 2015.05.27 1500 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 33%
+Pressure (altimeter): 30.12 in. Hg (1020 hPa)
+ob: FDZS 271500Z 00000KT CAVOK 24/07 Q1020 NOSIG
+cycle: 15

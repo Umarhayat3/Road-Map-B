@@ -1,0 +1,9 @@
+Daloa, Cote d'Ivoire (DIDL) 06-52N 006-28W 277M
+Dec 30, 2017 - 10:00 PM EST / 2017.12.31 0300 UTC
+Visibility: 3 mile(s):0
+Temperature: 73 F (23 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 100%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DIDL 310300Z ///// 6000 NSC 23/23 Q1013 NOSIG
+cycle: 3

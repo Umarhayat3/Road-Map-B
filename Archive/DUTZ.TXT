@@ -1,0 +1,10 @@
+Station name not available
+Sep 10, 2018 - 01:00 AM EDT / 2018.09.10 0500 UTC
+Wind: from the NNE (020 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 77 F (25 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DUTZ 100500Z 02006KT CAVOK 25/19 Q1016 NOSIG
+cycle: 5

@@ -1,0 +1,12 @@
+Hohenfels, Germany (ETIH) 49-13N 011-50E 442M
+Mar 14, 2019 - 03:56 AM EDT / 2019.03.14 0756 UTC
+Wind: from the SW (220 degrees) at 6 MPH (5 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Precipitation last hour: A trace
+Temperature: 39.4 F (4.1 C)
+Dew Point: 39.2 F (4.0 C)
+Relative Humidity: 99%
+Pressure (altimeter): 29.84 in. Hg (1010 hPa)
+ob: ETIH 140756Z AUTO 22005KT 9999 OVC016 04/04 A2984 RMK AO2 RAE16RAB19E33RAB34E48 SLPNO P0000 T00410040 
+cycle: 8

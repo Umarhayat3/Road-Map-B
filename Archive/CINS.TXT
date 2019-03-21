@@ -1,0 +1,12 @@
+Station name not available
+Oct 19, 2011 - 10:56 PM EDT / 2011.10.20 0256 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 18.0 F (-7.8 C)
+Relative Humidity: 14%
+Pressure (altimeter): 29.94 in. Hg (1013 hPa)
+Pressure tendency: 0.04 inches (1.4 hPa) higher than three hours ago
+ob: CINS 200256Z AUTO 00000KT 10SM CLR 21/M08 A2994 RMK AO2 SLP107 T02061078 53014 
+cycle: 3

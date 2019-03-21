@@ -1,0 +1,12 @@
+Holman Island Airport, Canada (CYHI) 70-46N 117-48W
+Mar 13, 2019 - 08:00 PM EDT / 2019.03.14 0000 UTC
+Wind: from the NNW (340 degrees) at 10 MPH (9 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly clear
+Temperature: -14 F (-26 C)
+Windchill: -32 F (-36 C):2
+Dew Point: -22 F (-30 C)
+Relative Humidity: 69%
+Pressure (altimeter): 30.22 in. Hg (1023 hPa)
+ob: CYHI 140000Z 34009KT 15SM FEW220 M26/M30 A3022 RMK CS2 /S00/ AFT 18Z / TR LOOSE / LST STFD OBS/NXT141400Z SLP240
+cycle: 0

@@ -1,0 +1,8 @@
+Station name not available
+Sep 25, 2014 - 08:00 AM EDT / 2014.09.25 1200 UTC
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 84 F (29 C)
+ob: HUIL 251200Z 1000KT 9999 SCT020TCU 29/XX
+cycle: 12

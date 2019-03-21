@@ -1,0 +1,10 @@
+Hargeisa, Somalia (HCMH) 09-30N 044-05E
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the S (180 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 75 F (24 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 57%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: HCMH 140700Z 18010KT CAVOK 24/15 Q1022
+cycle: 7

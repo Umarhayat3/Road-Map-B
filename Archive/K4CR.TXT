@@ -1,0 +1,10 @@
+Corona / Lincoln, NM, United States (K4CR) 34-06N 105-41W
+Sep 30, 2012 - 08:58 AM EDT / 2012.09.30 1258 UTC
+Wind: from the W (280 degrees) at 12 MPH (10 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 51 F (11 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 93%
+ob: K4CR 301258Z 28010KT 15SM SKC 11/10
+cycle: 13

@@ -1,0 +1,12 @@
+Station name not available
+Jun 09, 2008 - 07:00 AM EDT / 2008.06.09 1100 UTC
+Wind: from the SSW (200 degrees) at 7 MPH (6 KT) (direction variable):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 82 F (28 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: FOOH 091100Z 20006KT 170V240 9999 SCT011TCU 28/23 Q1014 NOSIG
+cycle: 11

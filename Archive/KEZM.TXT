@@ -1,0 +1,11 @@
+Eastman, Heart of Georgia Regional Airport, GA, United States (KEZM) 32-12-51N 083-07-40W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 56.3 F (13.5 C)
+Dew Point: 54.3 F (12.4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+ob: KEZM 140855Z AUTO 00000KT 10SM CLR 14/12 A3020 RMK AO2 T01350124
+cycle: 9

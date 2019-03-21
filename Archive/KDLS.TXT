@@ -1,0 +1,13 @@
+THE DALLES MUNICIPAL AIRPORT , OR, United States (KDLS) 45-37N 121-10W 71M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 33.1 F (0.6 C)
+Windchill: 28 F (-2 C):1
+Dew Point: 26.1 F (-3.3 C)
+Relative Humidity: 75%
+Pressure (altimeter): 30.43 in. Hg (1030 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) higher than three hours ago
+ob: KDLS 140853Z AUTO 12004KT 10SM CLR 01/M03 A3043 RMK AO2 SLP307 T00061033 51011
+cycle: 9

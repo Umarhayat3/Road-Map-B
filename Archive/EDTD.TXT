@@ -1,0 +1,9 @@
+Donaueschingen / Villingen, Germany (EDTD) 47-58N 008-31E
+May 14, 2018 - 08:00 PM EDT / 2018.05.15 0000 UTC
+Wind: from the ESE (110 degrees) at 5 MPH (4 KT) (direction variable):0
+Temperature: 60 F (16 C)
+Dew Point: 53 F (12 C)
+Relative Humidity: 77%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: EDTD 150000Z AUTO 11004KT 070V160 NCD 16/12 Q1014
+cycle: 0

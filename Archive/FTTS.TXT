@@ -1,0 +1,9 @@
+Station name not available
+Jan 11, 2010 - 04:00 AM EST / 2010.01.11 0900 UTC
+Wind: from the SSE (160 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 44 F (7 C)
+Relative Humidity: 21%
+ob: FTTS 110900Z 16004KT CAVOK 32/07 Q////
+cycle: 9

@@ -1,0 +1,11 @@
+Whistler , Canada (CWAE) 50-08N 122-57W
+Mar 13, 2019 - 09:00 PM EDT / 2019.03.14 0100 UTC
+Wind: from the S (180 degrees) at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39 F (4 C)
+Dew Point: 24 F (-4 C)
+Relative Humidity: 55%
+Pressure (altimeter): 30.25 in. Hg (1024 hPa)
+ob: CWAE 140100Z 18002KT 15SM BKN063 BKN210 04/M04 A3025 RMK SC6CI1 LAST OBS/NEXT14 WND ESTD SLP267
+cycle: 1

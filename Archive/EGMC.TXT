@@ -1,0 +1,12 @@
+Southend-On-Sea , United Kingdom (EGMC) 51-34N 000-42E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (240 degrees) at 21 MPH (18 KT) gusting to 38 MPH (33 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: light rain
+Temperature: 48 F (9 C)
+Dew Point: 42 F (6 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.53 in. Hg (1000 hPa)
+ob: EGMC 140820Z 24018G33KT 9000 -RA SCT015 OVC018 09/06 Q1000
+cycle: 8

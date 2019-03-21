@@ -1,0 +1,11 @@
+Station name not available
+Jun 07, 2016 - 06:00 AM EDT / 2016.06.07 1000 UTC
+Wind: from the SSW (200 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 78 F (26 C)
+Dew Point: 75 F (24 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: DICK 071000Z 20006KT 9999 BKN011 26/24 Q1018 NOSIG
+cycle: 10

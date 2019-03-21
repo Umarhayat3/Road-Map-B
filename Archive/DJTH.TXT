@@ -1,0 +1,10 @@
+Station name not available
+May 23, 2018 - 01:30 PM EDT / 2018.05.23 1730 UTC
+Wind: from the ESE (110 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 64%
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: DJTH 231730Z 11011KT CAVOK 22/15 Q1017 NOSIG
+cycle: 17

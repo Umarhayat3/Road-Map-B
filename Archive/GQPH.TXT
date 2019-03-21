@@ -1,0 +1,9 @@
+Station name not available
+Feb 02, 2014 - 05:00 AM EST / 2014.02.02 1000 UTC
+Wind: from the N (010 degrees) at 21 MPH (18 KT):0
+Temperature: 62 F (17 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 77%
+Pressure (altimeter): 177.77 in. Hg (6020 hPa)
+ob: GQPH 021000Z 01018KT CAVOC 17/13 Q6020 NOSIG
+cycle: 10

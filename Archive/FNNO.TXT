@@ -1,0 +1,11 @@
+Station name not available
+Sep 15, 2016 - 12:00 PM EDT / 2016.09.15 1600 UTC
+Wind: from the NW (310 degrees) at 12 MPH (10 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 68 F (20 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 82%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FNNO 151600Z 31010KT 9999 BKN015 20/17 Q1015
+cycle: 16

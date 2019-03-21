@@ -1,0 +1,11 @@
+Station name not available
+Sep 22, 2017 - 10:30 AM EDT / 2017.09.22 1430 UTC
+Wind: from the ENE (070 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 82 F (28 C)
+Dew Point: 62 F (17 C)
+Relative Humidity: 51%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: DTUZ 221430Z 07015KT 9999 FEW026 28/17 Q1016 NOSIG
+cycle: 14

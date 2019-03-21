@@ -1,0 +1,9 @@
+Richard Bay, South Africa (FARB) 28-48S 032-06E 0M
+Jul 12, 2013 - 03:00 AM EDT / 2013.07.12 0700 UTC
+Wind: from the NW (320 degrees) at 3 MPH (3 KT):0
+Temperature: 62 F (17 C)
+Dew Point: 55 F (13 C)
+Relative Humidity: 77%
+Pressure (altimeter): 30.36 in. Hg (1028 hPa)
+ob: FARB 120700Z AUTO 32003KT //// // ////// 17/13 Q1028
+cycle: 7

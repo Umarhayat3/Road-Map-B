@@ -1,0 +1,11 @@
+PERRY-FOLEY AIRPORT, FL, United States (K40J) 30-04N 083-35W 13M
+Mar 14, 2019 - 04:35 AM EDT / 2019.03.14 0835 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 62.8 F (17.1 C)
+Dew Point: 59.4 F (15.2 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+ob: K40J 140835Z AUTO 12004KT 10SM CLR 17/15 A3012 RMK AO2 T01710152
+cycle: 8

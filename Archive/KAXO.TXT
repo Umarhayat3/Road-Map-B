@@ -1,0 +1,11 @@
+Grand Isle Supplementary Aviation Weather Reporting Station, LA, United States (KAXO) 29-15N 089-58W
+Nov 03, 2016 - 05:45 AM EDT / 2016.11.03 0945 UTC
+Wind: from the E (100 degrees) at 8 MPH (7 KT):0
+Visibility: 7 mile(s):0
+Sky conditions: clear
+Temperature: 75 F (24 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 83%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: KAXO 030945Z 10007KT 7SM SKC 24/21 A3017
+cycle: 10

@@ -1,0 +1,12 @@
+Station name not available
+Oct 15, 2008 - 11:00 AM EDT / 2008.10.15 1500 UTC
+Wind: from the W (270 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: rain
+Temperature: 64 F (18 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 88%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: CMFO 151500Z 27004KT 8000 RA SCT010 SCT023 BKN100 18/16 Q1022 NOSIG
+cycle: 15

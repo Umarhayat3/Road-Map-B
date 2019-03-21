@@ -1,0 +1,11 @@
+Station name not available
+Sep 28, 2017 - 07:00 AM EDT / 2017.09.28 1100 UTC
+Wind: from the E (100 degrees) at 10 MPH (9 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: overcast
+Temperature: 69 F (21 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 73%
+Pressure (altimeter): 30.27 in. Hg (1025 hPa)
+ob: FBPS 281100Z 10009KT 9999 OVC020 21/16 Q1025
+cycle: 11

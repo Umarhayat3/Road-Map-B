@@ -1,0 +1,9 @@
+Broadview, Sask., Canada (CWIK) 50-23N 102-41W 602M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the NNW (340 degrees) at 10 MPH (9 KT):0
+Temperature: 27.1 F (-2.7 C)
+Windchill: 17 F (-8 C):1
+Dew Point: 18.9 F (-7.3 C)
+Relative Humidity: 70%
+ob: CWIK 140700Z AUTO 34009KT M03/M07 RMK AO1 SOG 14 1010 SLP178 T10271073
+cycle: 7

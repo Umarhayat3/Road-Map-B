@@ -1,0 +1,12 @@
+DOYLESTOWN AIRPORT, PA, United States (KDYL) 40-20N 075-07W 117M
+Mar 14, 2019 - 04:54 AM EDT / 2019.03.14 0854 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 39.0 F (3.9 C)
+Dew Point: 24.1 F (-4.4 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.2 in. Hg (1022 hPa)
+Pressure tendency: 0.03 inches (1.1 hPa) lower than three hours ago
+ob: KDYL 140854Z AUTO 00000KT 10SM BKN060 04/M04 A3020 RMK AO2 SLP231 T00391044 57011
+cycle: 9

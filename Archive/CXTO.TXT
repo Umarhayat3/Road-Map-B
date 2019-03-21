@@ -1,0 +1,7 @@
+Station name not available
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Temperature: 37.6 F (3.1 C)
+Dew Point: 30.0 F (-1.1 C)
+Relative Humidity: 73%
+ob: CXTO 140800Z AUTO 03/M01 RMK AO1 SOG 04 8007 SLP170 T00311011
+cycle: 8

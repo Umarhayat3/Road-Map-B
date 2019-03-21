@@ -1,0 +1,15 @@
+Devils Lake, Devils Lake Municipal Airport, ND, United States (KDVL) 48-07N 098-55W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the N (360 degrees) at 29 MPH (25 KT) gusting to 35 MPH (30 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: overcast
+Weather: light snow; mist
+Precipitation last hour: A trace
+Temperature: 28.9 F (-1.7 C)
+Windchill: 14 F (-10 C):1
+Dew Point: 28.0 F (-2.2 C)
+Relative Humidity: 96%
+Pressure (altimeter): 29.64 in. Hg (1003 hPa)
+Pressure tendency: 0.00 inches (0.0 hPa) higher than three hours ago
+ob: KDVL 140856Z AUTO 36025G30KT 1SM -SN BR FEW008 OVC012 M02/M02 A2964 RMK AO2 PK WND 36030/0853 SLP070 P0000 60000 T10171022 50000 FZRANO
+cycle: 9

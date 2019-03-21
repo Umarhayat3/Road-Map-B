@@ -1,0 +1,11 @@
+Emporia, Emporia-Greensville Regional Airport, VA, United States (KEMV) 36-41-13N 077-28-58W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ESE (120 degrees) at 3 MPH (3 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 44.8 F (7.1 C)
+Dew Point: 34.7 F (1.5 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.26 in. Hg (1024 hPa)
+ob: KEMV 140855Z AUTO 12003KT 10SM CLR 07/02 A3026 RMK AO2 T00710015
+cycle: 9

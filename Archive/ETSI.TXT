@@ -1,0 +1,12 @@
+Ingolstadt, Germany (ETSI) 48-43N 011-32E 370M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the WSW (250 degrees) at 18 MPH (16 KT) gusting to 32 MPH (28 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 41 F (5 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 75%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: ETSI 140820Z 25016G28KT 9999 -RA SCT018 BKN075 05/01 Q1012 BLU BLU TEMPO WHT
+cycle: 8

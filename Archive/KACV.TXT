@@ -1,0 +1,12 @@
+ARCATA/EUREKA ARCATA AIRPORT, CA, United States (KACV) 40-59N 124-06W 67M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the E (090 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly clear
+Temperature: 37.0 F (2.8 C)
+Dew Point: 36.0 F (2.2 C)
+Relative Humidity: 95%
+Pressure (altimeter): 30.34 in. Hg (1027 hPa)
+Pressure tendency: 0.01 inches (0.2 hPa) higher than three hours ago
+ob: KACV 140853Z AUTO 09004KT 10SM FEW013 03/02 A3034 RMK AO2 SLP280 T00280022 50002
+cycle: 9

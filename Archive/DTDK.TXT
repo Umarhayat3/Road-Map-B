@@ -1,0 +1,10 @@
+Station name not available
+Mar 13, 2018 - 06:00 AM EDT / 2018.03.13 1000 UTC
+Wind: from the NNE (030 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 68 F (20 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 34%
+Pressure (altimeter): 30.09 in. Hg (1019 hPa)
+ob: DTDK 131000Z 03002KT CAVOK 20/04 Q1019
+cycle: 10

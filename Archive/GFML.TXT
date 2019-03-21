@@ -1,0 +1,12 @@
+Station name not available
+Jun 14, 2015 - 11:00 PM EDT / 2015.06.15 0300 UTC
+Wind: from the SSE (150 degrees) at 8 MPH (7 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 75 F (24 C)
+Dew Point: 73 F (23 C)
+Relative Humidity: 94%
+Pressure (altimeter): 29.85 in. Hg (1011 hPa)
+ob: GFML 150300Z 15007KT 9999 BKN010 24/23 Q1011 RMK CB/NE
+cycle: 3

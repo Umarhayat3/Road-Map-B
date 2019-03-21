@@ -1,0 +1,10 @@
+Station name not available
+Sep 03, 2018 - 01:20 AM EDT / 2018.09.03 0520 UTC
+Wind: from the SSE (160 degrees) at 5 MPH (4 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 78 F (26 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 73%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: CORG 030520Z 16004KT CAVOK 26/21 Q1007 NOSIG
+cycle: 5

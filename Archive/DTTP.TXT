@@ -1,0 +1,12 @@
+Station name not available
+Dec 04, 2017 - 03:00 AM EST / 2017.12.04 0800 UTC
+Wind: from the WNW (290 degrees) at 23 MPH (20 KT) gusting to 35 MPH (30 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: Towering cumulus clouds observed
+Temperature: 55 F (13 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 54%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: DTTP 040800Z 29020G30KT 9999 SCT020TCU SCT030 13/04 Q1026
+cycle: 8

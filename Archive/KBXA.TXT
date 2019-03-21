@@ -1,0 +1,11 @@
+Bogalusa, George R Carr Memorial Air Field, LA, United States (KBXA) 30-48-49N 089-51-53W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SSW (210 degrees) at 10 MPH (9 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 74.5 F (23.6 C)
+Dew Point: 68.5 F (20.3 C)
+Relative Humidity: 81%
+Pressure (altimeter): 29.93 in. Hg (1013 hPa)
+ob: KBXA 140855Z AUTO 21009KT 10SM BKN011 OVC018 24/20 A2993 RMK AO2 T02360203
+cycle: 9

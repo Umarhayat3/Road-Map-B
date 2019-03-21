@@ -1,0 +1,8 @@
+Langebaanweg, South Africa (FALW) 32-58S 018-10E 0M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 71 F (22 C)
+Pressure (altimeter): 30.03 in. Hg (1017 hPa)
+ob: FALW 140800Z VRB03KT CAVOK 22/// Q1017
+cycle: 8

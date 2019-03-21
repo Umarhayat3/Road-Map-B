@@ -1,0 +1,9 @@
+Amqui , Que., Canada (CWZS) 48-28N 067-26W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SE (140 degrees) at 3 MPH (3 KT):0
+Temperature: 33.1 F (0.6 C)
+Dew Point: 25.7 F (-3.5 C)
+Relative Humidity: 73%
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: CWZS 140700Z AUTO 14003KT 01/M04 RMK AO1 SLP206 T00061035 56008
+cycle: 7

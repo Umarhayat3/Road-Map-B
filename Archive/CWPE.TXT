@@ -1,0 +1,8 @@
+Point Lepreau, N. B., Canada (CWPE) 45-04N 066-28W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the WNW (290 degrees) at 2 MPH (2 KT):0
+Temperature: 30.0 F (-1.1 C)
+Dew Point: 23.7 F (-4.6 C)
+Relative Humidity: 77%
+ob: CWPE 140700Z AUTO 29002KT M01/M05 RMK AO1 SOG 15 0002 SLP254 T10111046
+cycle: 7

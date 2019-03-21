@@ -1,0 +1,8 @@
+Station name not available
+Mar 13, 2019 - 12:20 PM EDT / 2019.03.13 1620 UTC
+Sky conditions: overcast
+Weather: heavy snow
+Precipitation last hour: 0.01 inches
+Pressure (altimeter): 28.85 in. Hg (976 hPa)
+ob: KABH 131620Z AUTO +SN OVC009 A2885 RMK AO2 P0001 
+cycle: 16

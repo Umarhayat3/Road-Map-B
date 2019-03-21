@@ -1,0 +1,10 @@
+Bulawayo Airport, Zimbabwe (FVBU) 20-01S 028-37E 1326M
+Sep 13, 2018 - 04:00 AM EDT / 2018.09.13 0800 UTC
+Wind: Variable at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 82 F (28 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 21%
+Pressure (altimeter): 30.18 in. Hg (1022 hPa)
+ob: FVBU 130800Z VRB03KT CAVOK 28/04 Q1022 NOSIG
+cycle: 8

@@ -1,0 +1,10 @@
+Station name not available
+Sep 11, 2008 - 04:00 PM EDT / 2008.09.11 2000 UTC
+Wind: from the E (080 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Temperature: 87 F (31 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 55%
+Pressure (altimeter): 29.6 in. Hg (1002 hPa)
+ob: BMAA 112000Z 08003KT CAVOK 31/21 Q1002 A2960 NOSIG
+cycle: 20

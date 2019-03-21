@@ -1,0 +1,11 @@
+Pembrey Sands, United Kingdom (EGOP) 51-43N 004-22W
+Mar 13, 2019 - 05:50 AM EDT / 2019.03.13 0950 UTC
+Wind: from the WNW (290 degrees) at 33 MPH (29 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 48 F (9 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 66%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: EGOP 130950Z 29029KT 9999 FEW034 BKN040 09/03 Q1013 BLU
+cycle: 10

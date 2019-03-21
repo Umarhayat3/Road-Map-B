@@ -1,0 +1,11 @@
+Station name not available
+Nov 29, 2012 - 05:00 AM EST / 2012.11.29 1000 UTC
+Wind: from the W (280 degrees) at 14 MPH (12 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 60 F (16 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 44%
+Pressure (altimeter): 29.68 in. Hg (1005 hPa)
+ob: DABF 291000Z 28012KT 9999 FEW033 16/04 Q1005
+cycle: 10

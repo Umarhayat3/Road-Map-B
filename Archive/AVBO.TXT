@@ -1,0 +1,11 @@
+Station name not available
+Nov 25, 2017 - 12:00 AM EST / 2017.11.25 0500 UTC
+Wind: from the NNE (020 degrees) at 5 MPH (4 KT):0
+Visibility: 3 mile(s):0
+Weather: smoke
+Temperature: 75 F (24 C)
+Dew Point: 50 F (10 C)
+Relative Humidity: 41%
+Pressure (altimeter): 30.00 in. Hg (1016 hPa)
+ob: AVBO 250500Z 02004KT 5000 FU NSC 24/10 Q1016 NOSIG
+cycle: 5

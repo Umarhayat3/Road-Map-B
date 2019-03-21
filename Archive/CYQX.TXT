@@ -1,0 +1,12 @@
+Gander Int. Airport, Nfld., Canada (CYQX) 48-57N 054-34W 151M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the WSW (240 degrees) at 6 MPH (5 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: mostly clear
+Temperature: 19 F (-7 C)
+Windchill: 10 F (-12 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 85%
+Pressure (altimeter): 30.16 in. Hg (1021 hPa)
+ob: CYQX 140800Z 24005KT 20SM FEW230 M07/M09 A3016 RMK CC1 SLP223
+cycle: 8

@@ -1,0 +1,12 @@
+ATLANTA FULTON COUNTY AIRPORT , GA, United States (KFTY) 33-47N 84-31W 263M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the ESE (120 degrees) at 5 MPH (4 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 59.0 F (15.0 C)
+Dew Point: 55.0 F (12.8 C)
+Relative Humidity: 86%
+Pressure (altimeter): 30.12 in. Hg (1019 hPa)
+Pressure tendency: 0.02 inches (0.8 hPa) lower than three hours ago
+ob: KFTY 140853Z 12004KT 10SM BKN017 15/13 A3012 RMK AO2 SLP192 T01500128 58008
+cycle: 9

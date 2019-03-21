@@ -1,0 +1,13 @@
+Escanaba, MI, United States (KESC) 45-45N 087-02W 187M
+Mar 14, 2019 - 05:11 AM EDT / 2019.03.14 0911 UTC
+Wind: from the E (100 degrees) at 10 MPH (9 KT):0
+Visibility: 3 mile(s):0
+Sky conditions: overcast
+Weather: rain; mist
+Precipitation last hour: 0.03 inches
+Temperature: 37 F (3 C)
+Dew Point: 35 F (2 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.55 in. Hg (1000 hPa)
+ob: KESC 140911Z AUTO 10009KT 3SM RA BR OVC013 03/02 A2955 RMK AO2 RAB0859 P0003
+cycle: 9

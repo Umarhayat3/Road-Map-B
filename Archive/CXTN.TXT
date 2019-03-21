@@ -1,0 +1,8 @@
+Tuktut Nogait , N. W. T., Canada (CXTN) 69-11N 122-21W
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Temperature: -18.6 F (-28.1 C)
+Dew Point: -22.4 F (-30.2 C)
+Relative Humidity: 82%
+ob: CXTN 140700Z AUTO 00000KT M28/M30 RMK AO1 SOG 82 3001 SLP244 T12811302
+cycle: 7

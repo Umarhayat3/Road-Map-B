@@ -1,0 +1,13 @@
+Skelleftea Airport, Sweden (ESNS) 64-38N 021-05E
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SE (130 degrees) at 10 MPH (9 KT):0
+Visibility: 1 mile(s):0
+Sky conditions: mostly cloudy
+Weather: snow
+Temperature: 28 F (-2 C)
+Windchill: 19 F (-7 C):1
+Dew Point: 26 F (-3 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.29 in. Hg (0992 hPa)
+ob: ESNS 140820Z 13009KT 2400 SN SCT007 BKN009 M02/M03 Q0992
+cycle: 8

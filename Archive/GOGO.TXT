@@ -1,0 +1,9 @@
+Station name not available
+May 27, 2011 - 03:00 AM EDT / 2011.05.27 0700 UTC
+Wind: from the NW (320 degrees) at 2 MPH (2 KT):0
+Visibility: 5 mile(s):0
+Temperature: 71 F (22 C)
+Dew Point: 60 F (16 C)
+Relative Humidity: 68%
+ob: GOGO 270700Z 32002KT 9000 NSC 22/16 Q////
+cycle: 7

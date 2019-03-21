@@ -1,0 +1,12 @@
+Grootfontein, Namibia (FYGF) 19-36S 018-07E 1400M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (270 degrees) at 3 MPH (3 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Weather: showers in the vicinity; Cumulonimbus clouds observed
+Temperature: 73 F (23 C)
+Dew Point: 66 F (19 C)
+Relative Humidity: 78%
+Pressure (altimeter): 30.21 in. Hg (1023 hPa)
+ob: FYGF 140800Z 27003KT 9999 VCSH FEW040CB SCT045 23/19 Q1023
+cycle: 8

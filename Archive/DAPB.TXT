@@ -1,0 +1,11 @@
+Station name not available
+Jan 16, 2010 - 06:00 AM EST / 2010.01.16 1100 UTC
+Wind: from the S (190 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly clear
+Temperature: 60 F (16 C)
+Dew Point: 46 F (8 C)
+Relative Humidity: 58%
+Pressure (altimeter): 30.30 in. Hg (1026 hPa)
+ob: DAPB 161100Z 19002KT 9999 FEW020 16/08 Q1026
+cycle: 11

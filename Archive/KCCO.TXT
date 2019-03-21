@@ -1,0 +1,11 @@
+Newnan, Newnan Coweta County Airport, GA, United States (KCCO) 33-18-44N 084-46-13W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (140 degrees) at 9 MPH (8 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 60.8 F (16.0 C)
+Dew Point: 57.2 F (14.0 C)
+Relative Humidity: 87%
+Pressure (altimeter): 30.1 in. Hg (1019 hPa)
+ob: KCCO 140855Z AUTO 14008KT 10SM SCT014 SCT048 16/14 A3010 RMK AO2 T01600140
+cycle: 9

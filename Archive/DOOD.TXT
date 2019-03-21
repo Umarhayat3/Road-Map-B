@@ -1,0 +1,8 @@
+Station name not available
+Aug 18, 2009 - 01:15 PM EDT / 2009.08.18 1715 UTC
+Wind: from the NW (320 degrees) at 2 MPH (2 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: Cumulonimbus clouds observed
+ob: DOOD 181715Z 32002KT 9999 SCT016 FEW030CB BKN230 DEBUT ORAGE
+cycle: 17

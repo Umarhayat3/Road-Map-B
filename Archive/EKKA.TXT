@@ -1,0 +1,12 @@
+Karup, Denmark (EKKA) 56-18N 009-07E 53M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the SW (220 degrees) at 13 MPH (11 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain
+Temperature: 42 F (6 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.21 in. Hg (0989 hPa)
+ob: EKKA 140820Z 22011KT 9999 -RA SCT012 BKN070 06/04 Q0989 BECMG 6000 -RA BKN008
+cycle: 8

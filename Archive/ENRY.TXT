@@ -1,0 +1,12 @@
+Rygge, Norway (ENRY) 59-23N 010-47E 53M
+Mar 14, 2019 - 04:20 AM EDT / 2019.03.14 0820 UTC
+Wind: from the ENE (060 degrees) at 2 MPH (2 KT) (direction variable):0
+Visibility: less than 1 mile:0
+Sky conditions: obscured
+Weather: freezing fog
+Temperature: 26 F (-3 C)
+Dew Point: 24 F (-4 C)
+Relative Humidity: 92%
+Pressure (altimeter): 29.18 in. Hg (0988 hPa)
+ob: ENRY 140820Z 06002KT 0800 R12/0800V1100 R30/P2000N FZFG VV002 M03/M04 Q0988 TEMPO 0400 FZFG VV001
+cycle: 8

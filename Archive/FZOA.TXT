@@ -1,0 +1,10 @@
+Kindu, Congo, Democratic Republic of the (FZOA) 02-57S 025-55E 497M
+Jun 01, 2010 - 02:00 AM EDT / 2010.06.01 0600 UTC
+Wind: from the N (360 degrees) at 6 MPH (5 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 73 F (23 C)
+Dew Point: 69 F (21 C)
+Relative Humidity: 88%
+ob: FZOA 010600Z 36005KT 9000 SCT008 BKN100 23/21 Q//// NOSIG
+cycle: 6

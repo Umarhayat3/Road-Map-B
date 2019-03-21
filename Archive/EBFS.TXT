@@ -1,0 +1,12 @@
+Florennes, Belgium (EBFS) 50-14N 004-39E 299M
+Mar 14, 2019 - 03:25 AM EDT / 2019.03.14 0725 UTC
+Wind: from the SW (230 degrees) at 18 MPH (16 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: mostly cloudy
+Weather: light rain, drizzle
+Temperature: 41 F (5 C)
+Dew Point: 39 F (4 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.74 in. Hg (1007 hPa)
+ob: EBFS 140725Z 23016KT 8000 -RADZ SCT007 BKN010 05/04 Q1007 GRN GRN TEMPO YLO
+cycle: 7

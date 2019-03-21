@@ -1,0 +1,12 @@
+Mayo Airport, Canada (CYMA) 63-37N 135-52W
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the E (090 degrees) at 10 MPH (9 KT):0
+Visibility: 20 mile(s):0
+Sky conditions: overcast
+Temperature: 33 F (1 C)
+Windchill: 24 F (-4 C):1
+Dew Point: 15 F (-9 C)
+Relative Humidity: 47%
+Pressure (altimeter): 29.66 in. Hg (1004 hPa)
+ob: CYMA 140800Z 09009KT 20SM OVC130 01/M09 A2966 RMK AS8 SLP078
+cycle: 8

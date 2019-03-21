@@ -1,0 +1,11 @@
+Moosonee, Ont., Canada (CYMO) 51-16N 080-39W 10M
+Mar 14, 2019 - 04:06 AM EDT / 2019.03.14 0806 UTC
+Wind: from the S (180 degrees) at 7 MPH (6 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: overcast
+Temperature: 37 F (3 C)
+Dew Point: 33 F (1 C)
+Relative Humidity: 86%
+Pressure (altimeter): 29.91 in. Hg (1012 hPa)
+ob: CYMO 140806Z AUTO 18006KT 9SM OVC024 03/01 A2991 RMK SLP130
+cycle: 8

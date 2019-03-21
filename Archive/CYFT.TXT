@@ -1,0 +1,11 @@
+Makkovik Airport, Canada (CYFT) 55-05N 059-11W
+Mar 13, 2019 - 04:00 PM EDT / 2019.03.13 2000 UTC
+Wind: Variable at 2 MPH (2 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 15 F (-9 C)
+Dew Point: 6 F (-14 C)
+Relative Humidity: 67%
+Pressure (altimeter): 29.97 in. Hg (1014 hPa)
+ob: CYFT 132000Z VRB02KT 15SM FEW022 BKN230 M09/M14 A2997 RMK CU2CI3 LAST STFD OBS/NEXT140900Z SLP157
+cycle: 20

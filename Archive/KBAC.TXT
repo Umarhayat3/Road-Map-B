@@ -1,0 +1,4 @@
+Barnes County Municipal Airport, ND, United States (KBAC) 46-56-28N 098-01-05W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+ob: KBAC 140855Z AUTO RMK AO2 PWINO TSNO
+cycle: 9

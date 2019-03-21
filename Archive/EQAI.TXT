@@ -1,0 +1,11 @@
+Station name not available
+Mar 16, 2010 - 09:55 AM EDT / 2010.03.16 1355 UTC
+Wind: from the SSW (200 degrees) at 17 MPH (15 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 55 F (13 C)
+Dew Point: 17 F (-8 C)
+Relative Humidity: 22%
+Pressure (altimeter): 30.06 in. Hg (1018 hPa)
+ob: EQAI 161355Z 20015KT 9999 SCT040 SCT200 13/M08 Q1018 RMK BKN MON LIB VIS MIN 9999 BLU
+cycle: 14

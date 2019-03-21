@@ -1,0 +1,12 @@
+Station name not available
+Feb 22, 2016 - 07:00 AM EST / 2016.02.22 1200 UTC
+Wind: from the S (170 degrees) at 7 MPH (6 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: partly cloudy
+Weather: Cumulonimbus clouds observed
+Temperature: 86 F (30 C)
+Dew Point: 68 F (20 C)
+Relative Humidity: 55%
+Pressure (altimeter): 29.83 in. Hg (1010 hPa)
+ob: HUKA 221200Z 17006KT 9000 SCT027 FEW029CB 30/20 Q1010
+cycle: 12

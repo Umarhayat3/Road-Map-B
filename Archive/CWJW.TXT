@@ -1,0 +1,8 @@
+Jasper Warden Automated Reporting Station , Canada (CWJW) 52-56N 118-19W 1020M
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: from the SW (220 degrees) at 2 MPH (2 KT):0
+Temperature: 9.0 F (-12.8 C)
+Dew Point: 3.9 F (-15.6 C)
+Relative Humidity: 79%
+ob: CWJW 140700Z AUTO 22002KT M13/M16 RMK AO1 SOG 37 1013 SLP291 T11281156
+cycle: 7

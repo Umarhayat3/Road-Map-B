@@ -1,0 +1,12 @@
+PORT ANGELES FAIRCHILD INTERNATIONAL , WA, United States (KCLM) 48-07N 123-30W 85M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the SW (230 degrees) at 7 MPH (6 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 39.0 F (3.9 C)
+Dew Point: 34.0 F (1.1 C)
+Relative Humidity: 81%
+Pressure (altimeter): 30.4 in. Hg (1029 hPa)
+Pressure tendency: 0.01 inches (0.4 hPa) higher than three hours ago
+ob: KCLM 140853Z AUTO 23006KT 10SM OVC031 04/01 A3040 RMK AO2 SLP295 T00390011 53004
+cycle: 9

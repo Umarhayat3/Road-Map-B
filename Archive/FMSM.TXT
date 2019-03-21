@@ -1,0 +1,11 @@
+Mananjary, Madagascar (FMSM) 21-12S 048-22E 6M
+Nov 15, 2011 - 01:00 AM EST / 2011.11.15 0600 UTC
+Wind: from the N (360 degrees) at 7 MPH (6 KT):0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 80 F (27 C)
+Dew Point: 71 F (22 C)
+Relative Humidity: 74%
+Pressure (altimeter): 29.97 in. Hg (1015 hPa)
+ob: FMSM 150600Z 36006KT 9999 SCT017 BKN040 27/22 Q1015
+cycle: 6

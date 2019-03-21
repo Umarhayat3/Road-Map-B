@@ -1,0 +1,12 @@
+Iles De La Madeleineque., Canada (CYGR) 47-25N 061-47W 10M
+Mar 13, 2019 - 10:00 PM EDT / 2019.03.14 0200 UTC
+Wind: from the SSW (200 degrees) at 6 MPH (5 KT):0
+Visibility: 15 mile(s):0
+Sky conditions: clear
+Temperature: 23 F (-5 C)
+Windchill: 15 F (-9 C):1
+Dew Point: 21 F (-6 C)
+Relative Humidity: 92%
+Pressure (altimeter): 30.24 in. Hg (1024 hPa)
+ob: CYGR 140200Z 20005KT 15SM SKC M05/M06 A3024 RMK LAST STFD OBS/NXT 140900Z SLP242
+cycle: 2

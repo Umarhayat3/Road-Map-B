@@ -1,0 +1,11 @@
+Station name not available
+Nov 24, 2018 - 12:00 PM EST / 2018.11.24 1700 UTC
+Wind: from the ENE (060 degrees) at 5 MPH (4 KT):0
+Visibility: 4 mile(s):0
+Sky conditions: partly cloudy
+Temperature: 60 F (16 C)
+Dew Point: 59 F (15 C)
+Relative Humidity: 93%
+Pressure (altimeter): 29.91 in. Hg (1013 hPa)
+ob: DTIA 241700Z 06004KT 8000 SCT020 SCT033 16/15 Q1013 NOSIG
+cycle: 17

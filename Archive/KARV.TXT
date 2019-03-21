@@ -1,0 +1,13 @@
+Minocqua/Woodruff, Lakeland Airport/Noble F. Lee Memorial Field, WI, United States (KARV) 45-56N 089-44W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the ESE (120 degrees) at 6 MPH (5 KT):0
+Visibility: 5 mile(s):0
+Sky conditions: overcast
+Weather: drizzle
+Precipitation last hour: 0.02 inches
+Temperature: 41.5 F (5.3 C)
+Dew Point: 39.4 F (4.1 C)
+Relative Humidity: 91%
+Pressure (altimeter): 29.4 in. Hg (995 hPa)
+ob: KARV 140855Z AUTO 12005KT 5SM DZ BKN004 BKN007 OVC012 05/04 A2940 RMK AO2 P0002 60007 T00530041
+cycle: 9

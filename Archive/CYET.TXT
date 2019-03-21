@@ -1,0 +1,12 @@
+Edson, Alta., Canada (CYET) 53-35N 116-28W 927M
+Mar 14, 2019 - 04:00 AM EDT / 2019.03.14 0800 UTC
+Wind: from the W (280 degrees) at 5 MPH (4 KT):0
+Visibility: 9 mile(s):0
+Sky conditions: clear
+Temperature: 17 F (-8 C)
+Windchill: 8 F (-13 C):1
+Dew Point: 8 F (-13 C)
+Relative Humidity: 67%
+Pressure (altimeter): 30.17 in. Hg (1021 hPa)
+ob: CYET 140800Z AUTO 28004KT 9SM CLR M08/M13 A3017 RMK SLP265
+cycle: 8

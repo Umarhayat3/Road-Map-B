@@ -1,0 +1,7 @@
+Longstaff Bluff, N. W. T., Canada (CWLX) 68-53N 075-08W 161M
+Sep 02, 2017 - 12:00 PM EDT / 2017.09.02 1600 UTC
+Wind: from the ESE (120 degrees) at 12 MPH (10 KT):0
+Temperature: 41 F (5 C)
+Pressure (altimeter): 29.71 in. Hg (1006 hPa)
+ob: CWLX 021600Z AUTO 12010KT 05/ A2971 RMK SLP072
+cycle: 16

@@ -1,0 +1,10 @@
+Station name not available
+Oct 18, 2008 - 02:00 PM EDT / 2008.10.18 1800 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Temperature: 89 F (32 C)
+Dew Point: 37 F (3 C)
+Relative Humidity: 15%
+Pressure (altimeter): 29.88 in. Hg (1012 hPa)
+ob: DZRZ 181800Z 00000KT CAVOK 32/03 Q1012
+cycle: 18

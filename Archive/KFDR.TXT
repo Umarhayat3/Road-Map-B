@@ -1,0 +1,12 @@
+FREDERICK MUNICIPAL AIRPORT, OK, United States (KFDR) 34-21N 98-59W 377M
+Mar 14, 2019 - 04:53 AM EDT / 2019.03.14 0853 UTC
+Wind: from the WNW (290 degrees) at 17 MPH (15 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 46.0 F (7.8 C)
+Dew Point: 32.0 F (0.0 C)
+Relative Humidity: 57%
+Pressure (altimeter): 29.72 in. Hg (1006 hPa)
+Pressure tendency: 0.12 inches (4.0 hPa) higher than three hours ago
+ob: KFDR 140853Z AUTO 29015KT 10SM CLR 08/00 A2972 RMK AO2 PK WND 28026/0759 SLP058 T00780000 53040 
+cycle: 9

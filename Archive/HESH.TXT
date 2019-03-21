@@ -1,0 +1,11 @@
+Sharm El Sheikhintl, Egypt (HESH) 27-58N 034-23E
+Mar 14, 2019 - 03:00 AM EDT / 2019.03.14 0700 UTC
+Wind: Calm:0
+Visibility: 2 mile(s):0
+Weather: widespread dust
+Temperature: 68 F (20 C)
+Dew Point: 32 F (0 C)
+Relative Humidity: 26%
+Pressure (altimeter): 29.94 in. Hg (1014 hPa)
+ob: HESH 140700Z 00000KT 4000 DU NSC 20/00 Q1014 TEMPO 3000
+cycle: 7

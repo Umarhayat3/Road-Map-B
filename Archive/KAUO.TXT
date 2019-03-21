@@ -1,0 +1,12 @@
+Auburn-Opelika Airport, AL, United States (KAUO) 32-37N 085-26W
+Mar 14, 2019 - 04:56 AM EDT / 2019.03.14 0856 UTC
+Wind: from the SE (140 degrees) at 10 MPH (9 KT) gusting to 16 MPH (14 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 61.0 F (16.1 C)
+Dew Point: 59.0 F (15.0 C)
+Relative Humidity: 93%
+Pressure (altimeter): 30.09 in. Hg (1018 hPa)
+Pressure tendency: 0.03 inches (1.0 hPa) lower than three hours ago
+ob: KAUO 140856Z AUTO 14009G14KT 10SM BKN035 16/15 A3009 RMK AO2 SLP204 T01610150 56010
+cycle: 9

@@ -1,0 +1,11 @@
+Boromo, Burkina Faso (DFCO) 11-45N 002-56W 271M
+Sep 21, 2009 - 01:00 PM EDT / 2009.09.21 1700 UTC
+Wind: Calm:0
+Visibility: greater than 7 mile(s):0
+Sky conditions: mostly cloudy
+Temperature: 87 F (31 C)
+Heat index: 93.9 F (34.4 C):1
+Dew Point: 73 F (23 C)
+Relative Humidity: 62%
+ob: DFCO 211700Z 00000KT 9999 FEW020 BKN260 31/23
+cycle: 17

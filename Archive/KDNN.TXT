@@ -1,0 +1,11 @@
+Dalton, Dalton Municipal Airport, GA, United States (KDNN) 34-43-18N 084-52-09W
+Mar 14, 2019 - 04:55 AM EDT / 2019.03.14 0855 UTC
+Wind: from the SE (140 degrees) at 15 MPH (13 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: overcast
+Temperature: 60 F (16 C)
+Dew Point: 51 F (11 C)
+Relative Humidity: 72%
+Pressure (altimeter): 30.08 in. Hg (1018 hPa)
+ob: KDNN 140855Z AUTO 14013KT 10SM OVC060 16/11 A3008 RMK AO2
+cycle: 9
